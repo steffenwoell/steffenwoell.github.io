@@ -7,7 +7,24 @@ use-site-title: true
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-	{% if post.pinned %}
+	
+  {% if post.pinned %}
+    Pinned Post! 
+    {{ post.title }}
+    {{ post.date }}
+    {{ post.content }}
+  {% endif %}
+{% endfor %}
+
+{% for post in paginator.posts %}
+  {% unless post.pinned %}
+    Regular Post.
+    {{ post.title }}
+    {{ post.date }}
+    {{ post.content }}
+  {% endunless %}
+{% endfor %}
+	
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -17,20 +34,6 @@ use-site-title: true
 	    {{ post.subtitle }}
 	  </h3>
 	  {% endif %}
-	    {% endfor %}
-
-{% for post in paginator.posts %}
-  {% unless post.pinned %}
-	    <article class="post-preview">
-    <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-	    {% endfor %}
     </a>
 
     <p class="post-meta">
