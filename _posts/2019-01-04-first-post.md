@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post!
+featured: false
 image: /img/hello_world.jpeg
 ---
 
