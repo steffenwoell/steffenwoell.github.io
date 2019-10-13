@@ -23,7 +23,6 @@ navbar-links:
   Bio: "aboutme"
   Publications: "publications"
   Projects: "projects"
-  Journal: "journal"
   Resources:
     - Conferences: "conferences"
     - Memberships: "memberships"
