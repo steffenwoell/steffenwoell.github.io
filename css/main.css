@@ -27,10 +27,12 @@ h1,h2,h3,h4,h5,h6 {
 }
 a {
   color: {{ site.link-col }};
+  font-weight: bold;
 }
 a:hover,
 a:focus {
   color: {{ site.hover-col }};
+  text-decoration: underline;
 }
 blockquote {
   color: #808080;
