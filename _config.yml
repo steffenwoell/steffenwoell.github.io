@@ -20,7 +20,7 @@ description: Leipzig University / SFB 1199
 
 # List of links in the navigation bar
 navbar-links:
-  Bio: "bio"
+  Bio: "bio.md"
   Work: "work.md"
   Contact: "contact.md"
   More:
