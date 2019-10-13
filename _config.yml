@@ -20,14 +20,16 @@ description: Leipzig University / SFB 1199
 
 # List of links in the navigation bar
 navbar-links:
-  Bio: "aboutme"
-  Publications: "publications"
+  Bio: "bio"
+  Work: "work"
   Projects: "projects"
-  Resources:
+  Contact: "contact"
+  More:
     - Conferences: "conferences"
     - Memberships: "memberships"
     - Links: "links"
-  Contact: "contact"
+      - Academia: "https://uni-leipzig.academia.edu/SteffenWöll"
+      - ResearchGate: "https://www.researchgate.net/profile/Steffen_Woell3"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
