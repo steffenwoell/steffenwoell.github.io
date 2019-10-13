@@ -601,9 +601,9 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: normal;
   letter-spacing: 1px;
-  padding: 20px 5px;
+  padding: 30px 5px;
   background-color: #FFF;
   border-radius: 0;
   color: #404040;
@@ -615,7 +615,7 @@ footer .theme-by {
 }
 .pager li a:hover,
 .pager li a:focus {
-  color: #404040;
+  color: #808080;
   border: 1px solid {{ site.hover-col }};
   background-color: #FFF;
 }
