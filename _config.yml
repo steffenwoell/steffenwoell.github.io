@@ -27,7 +27,7 @@ navbar-links:
   More:
     - Conferences: "conferences"
     - Memberships: "memberships"
-    - Links: "links"
+    - Links:
       - Academia: "https://uni-leipzig.academia.edu/SteffenWöll"
       - ResearchGate: "https://www.researchgate.net/profile/Steffen_Woell3"
 
