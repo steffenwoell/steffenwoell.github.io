@@ -27,12 +27,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 a {
   color: {{ site.link-col }};
-  font-weight: bold;
+  font-weight: 700;
 }
 a:hover,
 a:focus {
   color: {{ site.hover-col }};
-  text-decoration: underline;
 }
 blockquote {
   color: #808080;
@@ -725,7 +724,7 @@ pre {
 /* --- Notification boxes --- */
 .box-note, .box-warning, .box-error, .box-success {
   padding: 15px 15px 15px 10px;
-  margin: 20px 20px 20px 5px;
+  margin: 20px 20px 25px 0px;
   border: 1px solid #eee;
   border-left-width: 5px;
   border-radius: 5px 3px 3px 5px;
