@@ -677,6 +677,7 @@ pre {
 }
 .highlighter-rouge {
   color: #000;
+  background: transparent;
 }
 .highlight pre {
   border: none;
@@ -749,7 +750,7 @@ pre {
 
 .box-success {
   background-color: #ade0ad;
-  border-left-color: #3CB371;
+  border-left-color: #dcfadc;
 }
 
 /* Fix table border github gist snippets */
