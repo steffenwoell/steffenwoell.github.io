@@ -20,13 +20,13 @@ description: Leipzig University / SFB 1199
 
 # List of links in the navigation bar
 navbar-links:
-  Bio: "bio"
-  Work: "work"
-  Contact: "contact"
+  Bio: "bio.md"
+  Work: "work.md"
+  Contact: "contact.md"
   More:
-  - Conferences: "conferences"
-  - Memberships: "memberships"
-  - Projects: "projects"
+  - Conferences: "conferences.md"
+  - Memberships: "memberships.md"
+  - Projects: "projects.md"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
