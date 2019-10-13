@@ -5,10 +5,10 @@ layout: base
 {% include header.html type="post" %}
 
 <div class="container">
-  <div class="row">
+ <!--   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-   <!--   {% if page.gh-repo %}
+    {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
         {% assign gh_user =  gh_split[0]  %}
         {% assign gh_repo =  gh_split[1]  %}
@@ -35,7 +35,7 @@ layout: base
         {{ content }}
       </article>
 
-      {% if page.tags.size > 0 %}
+     <!-- {% if page.tags.size > 0 %}
         <div class="blog-tags">
           Tags:
           {% if site.link-tags %}
@@ -46,7 +46,7 @@ layout: base
             {{ page.tags | join: ", " }}
           {% endif %}
         </div>
-      {% endif %}
+      {% endif %} -->
 
       {% if page.social-share %}
         {% include social-share.html %}
