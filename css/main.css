@@ -603,7 +603,8 @@ footer .theme-by {
   font-size: 14px;
   font-weight: normal;
   letter-spacing: 1px;
-  padding: 30px 5px;
+  padding: 20px 5px;
+  margin-top: 20px;
   background-color: #FFF;
   border-radius: 0;
   color: #404040;
@@ -615,7 +616,7 @@ footer .theme-by {
 }
 .pager li a:hover,
 .pager li a:focus {
-  color: #808080;
+  color: #404040;
   border: 1px solid {{ site.hover-col }};
   background-color: #FFF;
 }
