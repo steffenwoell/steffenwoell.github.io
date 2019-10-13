@@ -2,7 +2,7 @@
 layout: post
 title: Mapping Discourse
 subtitle: In R.H. Dana's "Two Years Before the Mast"
-bigimg: /img/dmheader.jpg
+image: /img/dmsquare.jpg
 ---
 {: .box-warning}
 **Note:** This article is based in part on research done during the seminar [Visualization of Processes of Spatialization](https://research.uni-leipzig.de/~sfb1199/event/visualization-of-processes-of-spatialization/) by S. Lenz and J. Moser of [IfL Leipzig](https://www.ifl-leipzig.de/en).
