@@ -125,7 +125,7 @@ img {
   text-transform: uppercase;
   font-size: 16px;
   letter-spacing: 1px;
-  font-weight: normal;
+  font-weight: bold;
   color: {{ site.navbar-text-col }};
 }
   
@@ -472,7 +472,6 @@ footer .theme-by {
 }
 .intro-header .page-heading {
   text-align: center;
-  display: none;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
