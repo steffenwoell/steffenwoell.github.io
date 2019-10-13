@@ -20,7 +20,7 @@ In addition to these considerations, the main methods of literary and cultural s
 
 One key issue in fact remains our (lack of) understanding of the concept of 'data,' which here cannot be seen as a generator of quantifiable knowledge (this notion must be left to the linguists), but as a flexible toolset of qualitative, interpretive, observer-dependent, experimental, and performative parameters of knowledge production. On the one hand, this is good news as the humanities certainly provide myriads of analytical lenses with a seemingly endless combinatory potential. On the downside, this notion might also be the *coup de grâce* to any hopes of a common visual language or methodology in the emerging field of literary mapping: The *horror vacui* of methodological emptiness hence continues.
 
-<a href="https://steffenwoell.files.wordpress.com/2018/06/two-years-before-the-mast-discursive-map.png" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-347" src="https://steffenwoell.files.wordpress.com/2018/06/two-years-before-the-mast-discursive-map.png" alt="Two Years Before the Mast - Discursive Map" width="1188" height="843"></a>
+![Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*](/img/Discursive%20Map%20RH%20Dana%20(web).png)
 
 The latter stance towards literary mapping could be termed 'conceptual mapping' and emphasizes the production of individual maps that exist independently and discretely by the rules of their own methodology. These maps are experimental in form and scale and depict 'soft' (topical, thematic, narrative, allegorical, metaphorical etc.) 'data' rather than formalized depictions of 'hard' empirical 'facts.'
 
