@@ -45,6 +45,7 @@ hr.small {
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
+  display: none;
 }
 
 .main-content {
@@ -123,9 +124,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  text-transform: uppercase;
-  font-size: 12px;
-  letter-spacing: 1px;
+  font-weight: 800;
   color: {{ site.navbar-text-col }};
 }
 
@@ -267,6 +266,7 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
+  text-transform: uppercase;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
   background-image: url({{ site.footer-img | relative_url }});
