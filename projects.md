@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Projects
-subtitle: Current research projects
+subtitle: Overview of current research
 ---
 
-Coming soon!
+{: .box-note}
+**Info:** An update to the projects section is coming soon!
