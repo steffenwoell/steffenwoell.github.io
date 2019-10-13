@@ -19,15 +19,16 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 10px 0px 20px 0px;
+  margin: 15px 0px 15px 0px;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+  margin-bottom: 10px;
 }
 a {
   color: {{ site.link-col }};
-  font-weight: 700;
+  font-weight: 600;
 }
 a:hover,
 a:focus {
