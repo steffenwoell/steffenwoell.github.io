@@ -32,6 +32,7 @@ a {
 a:hover,
 a:focus {
   color: {{ site.hover-col }};
+  text-decoration: none;
 }
 blockquote {
   color: #808080;
