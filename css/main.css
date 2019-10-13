@@ -749,8 +749,8 @@ pre {
 }
 
 .box-success {
-  background-color: #ade0ad;
-  border-left-color: #dcfadc;
+  background-color: #dcfadc;
+  border-left-color: #226322;
 }
 
 /* Fix table border github gist snippets */
