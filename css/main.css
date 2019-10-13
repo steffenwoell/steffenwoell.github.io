@@ -361,6 +361,7 @@ footer .theme-by {
   width: 100%;
 }
 .post-image {
+  display: none;
   float: right;
   height: 132px;
   width: 132px;
