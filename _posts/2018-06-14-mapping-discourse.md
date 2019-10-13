@@ -22,7 +22,7 @@ One key issue in fact remains our (lack of) understanding of the concept of 'dat
 
 [![Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*](/img/Discursive%20Map%20RH%20Dana%20(web).png)](/img/Discursive%20Map%20RH%20Dana%20(web).png)
 
-{: .box-note}
+{: .box-warning}
 **Figure:** Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*.
 
 The latter stance towards literary mapping could be termed 'conceptual mapping' and emphasizes the production of individual maps that exist independently and discretely by the rules of their own methodology. These maps are experimental in form and scale and depict 'soft' (topical, thematic, narrative, allegorical, metaphorical etc.) 'data' rather than formalized depictions of 'hard' empirical 'facts.'
