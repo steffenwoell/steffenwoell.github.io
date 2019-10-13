@@ -20,12 +20,12 @@ description: Leipzig University / SFB 1199
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Publication: "publications"
-  Conferences: "conferences"
+  Bio: "aboutme"
+  Publications: "publications"
   Projects: "projects"
   Journal: "journal"
   Resources:
+    - Conferences: "conferences"
     - Memberships: "memberships"
     - Links: "links"
   Contact: "contact"
