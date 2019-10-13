@@ -675,6 +675,9 @@ pre {
   font-size: 16px;
   line-height: 1.5em;
 }
+.highlighter-rouge {
+  color: #000;
+}
 .highlight pre {
   border: none;
   background: none;
