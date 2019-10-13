@@ -45,7 +45,6 @@ hr.small {
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
-  display: none;
 }
 
 .main-content {
@@ -74,7 +73,7 @@ hr.small {
 ::selection {
   color: white;
   text-shadow: none;
-  background-color: {{ site.hover-col }};
+  background-color: #fcffbf;
 }
 img::selection {
   color: white;
@@ -124,7 +123,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  display: none;
   color: {{ site.navbar-text-col }};
 }
 
@@ -474,7 +473,6 @@ footer .theme-by {
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 50px;
-  display: none;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
