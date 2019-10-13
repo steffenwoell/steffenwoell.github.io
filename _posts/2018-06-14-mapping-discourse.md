@@ -41,9 +41,7 @@ A conversation with the *Pilgrim's* African American cook gives further insights
 >\[Y\]ou know what countryman ‘e carpenter be?’ ‘Yes,’ said I; ‘he’s a German.’ ‘What kind of a German?’ said the cook. ‘He belongs to Bremen,’ said I. \[…\] ‘I was mighty ‘fraid he was a Fin \[…\].’ I asked him the reason of this, and found that he was fully possessed with the notion that Fins are wizards, and especially have power over winds and storms. \[…\] He had been to the Sandwich Islands in a vessel in which the sail-maker was a Fin, and could do anything he was of a mind to.
 
 However, after his return 24 years later, Dana euphorically describes a total transformation of San Francisco from what he knew as a picturesque, multi-ethnic village to what he now embraces as the capital of "the sole emporium of a new world, the awakened Pacific." This transformed and discursively reduced understanding of S.F. and California in general now has only two main reference points, as depicted through the purple cones: On the one hand the American nation-state, of whom it is a 'proud' and important yet passive agent. On the other hand the Pacific world, whose markets and resources it makes accessible, again, for the American nation-state. Santa Barbara too suddenly becomes “a part of the enterprising Yankee nation, and not still a lifeless Mexican town.” This change and reduction of spatial imaginations then might be the main insight imparted by this conceptual 'discursive map.' Still, the question remains: What does this attempt of visualization contribute to written analysis, especially considering the fact that the map can hardly function on its own without additional interpretive information? At this point, the best course of action, I believe, is to step back and open the subject for critical discussion and creative input from those who have read and/or analyzed the novel, but of course also geographers, cartographers, humanities scholars, and everyone interested in the mapping of spatio-literary geographies.
-
-
+<p>&nbsp;</p>
 {: .box-success}
 This article is based in part on research done during the seminar [Visualization of Processes of Spatialization](https://research.uni-leipzig.de/~sfb1199/event/visualization-of-processes-of-spatialization/) by S. Lenz and J. Moser of [IfL Leipzig](https://www.ifl-leipzig.de/en).
-
-
+<p>&nbsp;</p>
