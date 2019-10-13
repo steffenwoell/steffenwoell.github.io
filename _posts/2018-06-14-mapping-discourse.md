@@ -3,6 +3,8 @@ layout: post
 title: Mapping Discourse
 subtitle: In R.H. Dana's "Two Years Before the Mast"
 ---
+{: .box-warning}
+**Note:** This article is based in part on research done during the seminar [Visualization of Processes of Spatialization](https://research.uni-leipzig.de/~sfb1199/event/visualization-of-processes-of-spatialization/) by Sebastian Lenz and Jana Moser of [IfL Leipzig](https://www.ifl-leipzig.de/en).
 
 When Richard Henry Dana Jr. visited San Francisco in 1859 after an absence of almost a quarter of a century, he was informed that, unbeknownst to him, he had become a man of considerable fame on the West Coast. As an adolescent, Dana was studying law at Harvard when he caught the measles, which led to a inflammatory condition that affected his eyesight and reading ability. Coming from a well-to-do family, to everyone's surprise Dana decided not to take the classical route of doing R & R in the resorts of Europe. Instead, he marched to Boston harbor and signed up as a low-ranking merchant sailor on the *Pilgrim* bound for Alta California via Cape Horn and the Chilean Juan Fernandez island. The notes of this trip, especially the strenuous life at sea and sadistic behavior of the ship's captain is regarded by some critics as the inspiration for Melville's *Moby-Dick*. Since the resulting novel was one of the few (and out of those, perhaps the most readable) depiction of California written in English, Dana shaped the expectations and mindscapes of scores of American emigrants and squatters who moved to the newly acquired Californian territories in the aftermath of the Mexican-American War.
 
@@ -22,7 +24,7 @@ One key issue in fact remains our (lack of) understanding of the concept of 'dat
 
 [![Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*](/img/Discursive%20Map%20RH%20Dana%20(web).png)](/img/Discursive%20Map%20RH%20Dana%20(web).png)
 
-{: .box-warning}
+{: .box-note}
 **Figure:** Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*.
 
 The latter stance towards literary mapping could be termed 'conceptual mapping' and emphasizes the production of individual maps that exist independently and discretely by the rules of their own methodology. These maps are experimental in form and scale and depict 'soft' (topical, thematic, narrative, allegorical, metaphorical etc.) 'data' rather than formalized depictions of 'hard' empirical 'facts.'
