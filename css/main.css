@@ -361,7 +361,7 @@ footer .theme-by {
 .post-entry-container {
   display: inline-block;
   width: 100%;
-  align: justify;
+  text-align: justify;
 }
 .post-entry {
   width: 100%;
