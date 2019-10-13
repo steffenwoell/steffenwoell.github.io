@@ -7,24 +7,6 @@ use-site-title: true
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-	
-  {% if post.pinned %}
-    Pinned Post! 
-    {{ post.title }}
-    {{ post.date }}
-    {{ post.content }}
-  {% endif %}
-{% endfor %}
-
-{% for post in paginator.posts %}
-  {% unless post.pinned %}
-    Regular Post.
-    {{ post.title }}
-    {{ post.date }}
-    {{ post.content }}
-  {% endunless %}
-{% endfor %}
-	
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
