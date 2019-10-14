@@ -360,7 +360,7 @@ footer .theme-by {
 .post-entry-container {
   display: inline-block;
   width: 100%;
-  text-align: justify;
+  line-height: 1.5rem;
 }
 .post-entry {
   width: 100%;
