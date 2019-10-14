@@ -266,7 +266,7 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 50px 0;
+  padding: 30px 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
@@ -278,7 +278,7 @@ footer {
 }
 
 footer p.text-muted {
-  color: {{ site.footer-text-col }};
+  color: #404040;
 }
 
 footer a {
