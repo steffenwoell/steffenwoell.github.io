@@ -344,9 +344,8 @@ footer .theme-by {
   margin-top: 0;
 }
 .post-preview .post-subtitle {
-  margin-top: -10;
+  margin: -15px 0 0 10px;
   font-weight: 300;
-  margin-bottom: 10px;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
