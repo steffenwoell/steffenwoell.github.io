@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Rabbit Hole
-subtitle: Paris
+subtitle: Paris, France
+image: /img/paris.png
 ---
-
 What a day. I almost forgot how much fun traveling could be. Fun and "fun" that is. To make a long story short(ish): The flight from Berlin was way late due to thick fog (that would not yield before the late October's sun). Waiting in line for literally 4 (four) hours, I met a guy who works for the government. Let's call him John. Ok, his name was actually John. We shared some travel stories and he suggested I write a book about it. Well, don't worry: I won't, but it did make me think about traveling and what it means (I don't know, really. And I most definitely won't reduce "it" to a smart-ass sentence someone would photoshop over an Instagram picture with an edgy, neo-naturalistic color gradient).
 
 Anyways, I went to Paris, knowing that I missed my connection to Detroit. Sitting next to me on that flight was a guy covered head to toe in tattoos who confessed right away to me that he was mortally afraid of flying. Sure enough, he kept pressing his arm against mine and rubbed me with his muscular shoulder. So I tried to calm him down by talking in a deep, reassuring voice about the most soothing (boring) topic I could think of for such a person, i.e. my PhD thesis. In Paris, they (Airfrance) booked a new flight scheduled for the next morning (to Atlanta this time, pop a Coke Zero for that!), gave me a voucher for a hotel as well as a €15 coupon so I wouldn't starve on the way there, and let me lose into the Kafkaesque labyrinth of Charles des Gaulle.
@@ -17,4 +17,3 @@ Before I started writing this down, I had dinner. And oh joy, what an epic buffe
 And **this** is what traveling is **really** about! Getting out of your comfort zone by doing all the stuff you do every day anyways: talking and eating.
 
 (Hipster gradient fade out)
-
