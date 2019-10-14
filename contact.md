@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-subtitle: Get in touch
+subtitle: Get in Touch
 ---
 
 ## E-Mail
