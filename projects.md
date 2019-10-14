@@ -5,4 +5,4 @@ subtitle: Overview of current research
 ---
 
 {: .box-warning}
-**Coming soon:** An update to the projects section is coming soon!
+**Coming soon:** An update to the projects section is currently in development.
