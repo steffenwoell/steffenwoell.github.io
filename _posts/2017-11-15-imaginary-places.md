@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Imaginary Places
-subtitle: Tübingen
+subtitle: Tübingen, Germany
+image: /img/tuebingen.png
 ---
-
 It is a travelling of melancholy, years since my last long train journey through Germany. Fog, low hanging November clouds, specks of light on grey green brown patterns, rows of trees marking edges and possessions. Horses, cows, a flock of geese, a single wading stork pass by the window. I have to switch trains three times to get to tubingen.
 
 The Eastern country is old and roof tiles covered with mold, discolored facades, bales of hay, folded into white plastic covers, orderly stacked. Small curvy roads leading to tiny, invisible villages hidden behind rolling hills and yellow woods, merely imagined, church spires peeking over tree tops. Driftwood collecting under a medieval bridge. How long will it last? Maybe until the spring to be washed further downstream by the mass of molten snow, to travel like a living thing, the home of insects and birds. Home for everything that can hold on to it.
