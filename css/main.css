@@ -355,12 +355,13 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  font-family: 'Lora', 'Times New Roman', serif;
 }
 .post-entry-container {
   display: inline-block;
   width: 100%;
-  line-height: 1.5em;
+  line-height: 1.5;
 }
 .post-entry {
   width: 100%;
