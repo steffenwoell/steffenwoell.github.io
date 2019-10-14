@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Overview of current research
+subtitle: Overview of Current Research
 ---
 
 {: .box-warning}
