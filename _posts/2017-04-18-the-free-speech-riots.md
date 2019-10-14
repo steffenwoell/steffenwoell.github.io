@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Free Speech Riots: An Audio-Visual Account"
-subtitle: Berkeley, CA
+subtitle: Berkeley, California
 excerpt: Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally at Berkeley’s Civic Center Park.
 image: /img/berkeley-riots.png
 ---
@@ -9,7 +9,7 @@ image: /img/berkeley-riots.png
 {: .box-error}
 **Original Footage**: Fight scenes and graphic images, viewer discretion is advised.
 
-*Berkeley, California*: Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally in the vicinity of Civic Center Park.
+*Berkeley, CA*: Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally in the vicinity of Civic Center Park.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3cSBrE1ETDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
