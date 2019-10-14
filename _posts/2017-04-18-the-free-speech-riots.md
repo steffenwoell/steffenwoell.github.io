@@ -3,13 +3,13 @@ layout: post
 title: "The Free Speech Riots: An Audio-Visual Account"
 subtitle: Berkeley, CA
 excerpt: Street fighting broke out after Antifa / Black Bloc protestors disrupted a planned Free Speech Rally at Berkeley’s Civic Center Park.
-image: berkeley-riots.png
+image: img/berkeley-riots.png
 ---
 
 {: .box-error}
-**ORIGINAL FOOTAGE**: Graphic and violent images, viewer discretion is adviced!
+**Original Footage**: Violence and graphic images, viewer discretion is advised.
 
-Berkeley, CA: Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally in the vicinity of Civic Center Park.
+*Berkeley, California*: Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally in the vicinity of Civic Center Park.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3cSBrE1ETDg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -19,21 +19,16 @@ Berkeley, CA: Street fighting broke out after Antifa and Black Bloc protestors d
 > It doesn’t matters how you wear your hair
 It’s what inside your head
 United Forces stand for all strong and fair
-Black, white and yellow and red
-
+Black, white and yellow and red<br/>
 United forces, united forces, united
-United forces, united forces, united
-
+United forces, united forces, united<br/>
 Skinheads and bangers and punks stand as one
 Crossover to a final scene
 United forces and our job won’t be done
-Until the world can see
-
+Until the world can see<br/>
 United forces, united forces, united
-United forces, united forces, united
-
+United forces, united forces, united<br/>
 No rednecks, no jocks, no macho bullshit attitudes
 United forces can’t be stopped
 No rednecks, no jocks, no macho bullshit attitudes
 United forces can’t be stopped
-
