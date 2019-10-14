@@ -24,7 +24,7 @@ p {
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
-}  
+}
 h2,h3,h4,h5,h6 {
   padding: 10px 0 5px 0;
 }
@@ -344,7 +344,7 @@ footer .theme-by {
   margin-top: 0;
 }
 .post-preview .post-subtitle {
-  margin: 0;
+  margin-top: -10;
   font-weight: 300;
   margin-bottom: 10px;
 }
