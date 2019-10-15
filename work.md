@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Steffen Wöll - Publications
 subtitle: Published and Upcoming Work
 ---
 
