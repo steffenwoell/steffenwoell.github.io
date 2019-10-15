@@ -135,9 +135,9 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: #d67062;
-  -webkit-transition: color .5 ease-in-out;
-  -moz-transition: color .5s ease-in-out;
-  transition: color .5 ease-in-out;
+  -webkit-transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
 }
 
 .navbar-custom .navbar-brand-logo {
