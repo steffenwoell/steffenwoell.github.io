@@ -132,14 +132,12 @@ img {
   color: {{ site.navbar-text-col }};
 }
 
-.navbar-custom .navbar-brand:hover,
-.navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #7bd662;
-  -webkit-transition: all .5 ease-in-out;
-  -moz-transition: all .5s ease-in-out;
-  transition: all .5 ease-in-out;
+  color: #d67062;
+  -webkit-transition: color .5 ease-in-out;
+  -moz-transition: color .5s ease-in-out;
+  transition: color .5 ease-in-out;
 }
 
 .navbar-custom .navbar-brand-logo {
