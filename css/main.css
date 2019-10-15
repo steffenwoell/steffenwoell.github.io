@@ -132,7 +132,7 @@ img {
   color: {{ site.navbar-text-col }};
 }
 
-.navbar-brand a:hover {
+.navbar-header a:hover {
   color: {{ site.navbar-text-col }};
 }
 
