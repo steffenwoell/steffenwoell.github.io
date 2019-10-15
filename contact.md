@@ -8,12 +8,17 @@ subtitle: Get in Touch
 {: .box-success}
 For general matters please write to `steffen.woell@uni-leipzig.de`
 
+## Phone
+
+{: .box-warning}
+In urgent cases please call `+49 172 572 33 33`
+
 ## Mailing Address
 
 {: .box-purple}
 Steffen Wöll<br/>
 SFB 1199<br/>
-Nikolaistraße 6-10<br/>
+Nikolaistrasse 6-10<br/>
 Room 5.07<br/>
 04109 Leipzig<br/>
 Germany
