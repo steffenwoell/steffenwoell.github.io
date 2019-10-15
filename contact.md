@@ -10,7 +10,7 @@ For general matters please write to `steffen.woell@uni-leipzig.de`
 
 ## Mailing Address
 
-{: .box-note}
+{: .box-purple}
 Steffen Wöll<br/>
 SFB 1199<br/>
 Nikolaistraße 6-10<br/>
