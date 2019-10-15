@@ -11,7 +11,7 @@ For general matters please write to `steffen.woell@uni-leipzig.de`
 ## Phone
 
 {: .box-warning}
-In urgent cases please call `+49 172 572 33 33`
+In urgent cases please call `+49 (172) 572 3333`
 
 ## Mailing Address
 
