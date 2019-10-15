@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Steffen Wöll - Memberships
+title: Memberships
 subtitle: Historical and American Studies Associations
 ---
 <p><a href="http://dgfa.de" target="_blank">DGfA</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
