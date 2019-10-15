@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Steffen Wöll - Projects
 subtitle: Overview of Current Research
 ---
 
