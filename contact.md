@@ -8,14 +8,14 @@ subtitle: Get in Touch
 {: .box-success}
 For general matters please write to `steffen.woell@uni-leipzig.de`
 
-##Postal Address
+## Mailing Address
 
 {: .box-note}
-Steffen Wöll
-SFB 1199
-Nikolaistraße 6-10
-Room 5.07
-04109 Leipzig
+Steffen Wöll<br/>
+SFB 1199<br/>
+Nikolaistraße 6-10<br/>
+Room 5.07<br/>
+04109 Leipzig<br/>
 Germany
 
 ## More ways to connect
