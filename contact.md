@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Steffen Wöll - Contact
 subtitle: Get in Touch
 ---
 
