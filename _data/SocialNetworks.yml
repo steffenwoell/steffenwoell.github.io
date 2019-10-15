@@ -27,7 +27,7 @@ reddit:
   icon: "fa-reddit"
 
 email:
-  name: "Email me"
+  name: "Email"
   baseURL: "mailto:"
   icon: "fa-envelope"
 
