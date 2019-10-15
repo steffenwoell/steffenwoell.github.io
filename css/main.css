@@ -137,8 +137,8 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: red;
-  -webkit-transition: color 400ms, background-color 400ms;
-  transition: color 400ms, background-color 400ms;
+  -webkit-transition: all 400ms ease-in-out;
+  transition: all 400ms ease-in-out;
 }
 
 .navbar-custom .navbar-brand-logo {
