@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Steffen Wöll - Conferences
+title: Conferences
 subtitle: Panels, Keynotes, Workshops, Teaching, Awards etc.
 ---
 
