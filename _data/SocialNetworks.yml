@@ -27,9 +27,9 @@ reddit:
   icon: "fa-reddit"
 
 email:
-  name: "Email"
+  name: "E-Mail"
   baseURL: "mailto:"
-  icon: "fa-envelope"
+  icon: "fa-at"
 
 linkedin:
   name: "LinkedIn"
