@@ -137,8 +137,8 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   text-decoration: underline;
-  -webkit-transition: all 200ms ease;
-  transition: text-decoration .2;
+  -webkit-transition: all 500ms;
+  transition: all 500ms;
 }
 
 .navbar-custom .navbar-brand-logo {
