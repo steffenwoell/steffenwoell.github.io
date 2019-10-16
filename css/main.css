@@ -620,9 +620,9 @@ footer .theme-by {
   color: #404040;
   border: 1px solid #808080;
   background-color: #FFF;
-  -webkit-transition: color .5s ease-in-out;
-  -moz-transition: color .5s ease-in-out;
-  transition: color .5s ease-in-out;
+  -webkit-transition: border .5s ease-in-out;
+  -moz-transition: border .5s ease-in-out;
+  transition: border .5s ease-in-out;
 }
 
 .pager {
