@@ -78,7 +78,7 @@ hr.small {
   background-color: #fbf9c9;
   color: black;
 }
-.box-warning::selection, .code::selection {
+.box-warning::selection, .highlighter-rouge::selection {
   background-color: #faf2ff;
   color: black;
 }
