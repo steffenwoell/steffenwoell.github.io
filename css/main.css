@@ -70,9 +70,16 @@ hr.small {
   display: none;
 }
 
-::-moz-selection, ::selection {
+::-moz-selection {
   background-color: #fbf9c9;
+  color: #404040;
 }
+
+::selection {
+  background-color: #fbf9c9;
+  color: #404040;
+}
+
 img::selection {
   color: white;
   background: transparent;
