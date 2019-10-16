@@ -74,13 +74,15 @@ hr.small {
   background-color: #fbf9c9;
   color: black;
 }
-
 ::selection {
   background-color: #fbf9c9;
   color: black;
 }
-
-.box-warning ::selection {
+.box-warning .p ::selection {
+  background-color: #faf2ff;
+  color: black;
+}
+.box-warning ::-moz-selection {
   background-color: #faf2ff;
   color: black;
 }
