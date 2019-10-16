@@ -76,9 +76,7 @@ hr.small {
   background-color: {{ site.hover-col }};
 }
 ::selection {
-  color: white;
-  text-shadow: none;
-  background-color: {{ site.hover-col }};
+  text-decoration: underline;
 }
 img::selection {
   color: white;
