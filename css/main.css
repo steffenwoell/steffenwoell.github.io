@@ -231,9 +231,9 @@ img {
 
 .navbar-custom .nav .navlinks-container .navlinks-children a:hover {
   background-color: #ebebeb;
-  -webkit-transition: background .3s ease-in-out;
-  -moz-transition: background .3s ease-in-out;
-  transition: background .3s ease-in-out;
+  -webkit-transition: background .2s ease-in-out;
+  -moz-transition: background .2s ease-in-out;
+  transition: background .2s ease-in-out;
 }
 
 @media only screen and (max-width: 767px) {
