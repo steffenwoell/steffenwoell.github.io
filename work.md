@@ -5,7 +5,7 @@ subtitle: Published and Upcoming Work
 ---
 
 {: .box-success}
-**Last Update:** October 15, 2019.
+**Updated:** October 15, 2019.
 
 ## Journal articles
 <p>"'Fear Thy Neighbor': Paranoia and Suburban Victim-Hood in Mark Pellington's <em>Arlington Road</em>." Sofia University Press. Forthcoming.</p>
