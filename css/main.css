@@ -82,7 +82,7 @@ hr.small {
   background-color: #faf2ff;
   color: black;
 }
-.box-warning::-moz-selection {
+.box-warning::-moz-selection .highlighter-rouge::-moz-selection {
   background-color: #faf2ff;
   color: black;
 }
