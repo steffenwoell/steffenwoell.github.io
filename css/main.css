@@ -70,13 +70,9 @@ hr.small {
   display: none;
 }
 
-::-moz-selection {
-  color: white;
-  text-shadow: none;
-  background-color: {{ site.hover-col }};
-}
-::selection {
-  text-decoration: underline;
+::-moz-selection, ::selection {
+  background-color: #fff2ac;
+  background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);
 }
 img::selection {
   color: white;
