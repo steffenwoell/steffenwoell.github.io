@@ -80,6 +80,11 @@ hr.small {
   color: black;
 }
 
+.box-warning ::selection {
+  background-color: #faf2ff;
+  color: black;
+}
+
 img::selection {
   color: white;
   background: transparent;
