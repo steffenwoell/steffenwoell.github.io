@@ -4,6 +4,9 @@ title: Publications
 subtitle: Published and Upcoming Work
 ---
 
+{: .box-success}
+**Last Update:** October 15, 2019.
+
 ## Journal articles
 <p>"'Fear Thy Neighbor': Paranoia and Suburban Victim-Hood in Mark Pellington's <em>Arlington Road</em>." Sofia University Press. Forthcoming.</p>
 <p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank" rel="noopener">Open Access</a>.</p>
