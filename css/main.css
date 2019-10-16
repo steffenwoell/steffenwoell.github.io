@@ -78,11 +78,11 @@ hr.small {
   background-color: #fbf9c9;
   color: black;
 }
-.box-warning .p ::selection {
+.box-warning::selection {
   background-color: #faf2ff;
   color: black;
 }
-.box-warning ::-moz-selection {
+.box-warning::-moz-selection {
   background-color: #faf2ff;
   color: black;
 }
