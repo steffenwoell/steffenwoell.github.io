@@ -1,6 +1,5 @@
 ---
 layout: post
-sticky: true
 title: Mapping Discourse
 subtitle: In R.H. Dana's "Two Years Before the Mast"
 image: /img/dmsquare.jpg
