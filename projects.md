@@ -11,22 +11,32 @@ Currently in the conceptional phase, this project aims to retrace and scrutinize
 <img src="/img/new-california-republic-fallout.png" alt="Flag of the New California Republic in Fallout 2" width="500">
 
 {: .box-note}
-**Figure:** Flag of the New California Republic in *Fallout 2* ([Source](https://fallout.fandom.com/wiki/New_California_Republic/))
+**Figure:** Flag of the New California Republic in *Fallout 2* ([Source](https://fallout.fandom.com/wiki/New_California_Republic/)).
 
 A preliminary structure might work alongside genres and focus on particular themes, for instance:
 
-* **Exploration and manifest destiny:** *The Oregon Trail* \[1971, Apple II\]
-* **Violence and exploitation:** *Custer's Revenge* \[1982, Atari 2600\]
-* **Law and order:** *Law of the West* \[1984, C64\]
-* **Environmental and nuclear apocalypse:** *Fallout New Vegas* \[2010, PC\]
+1. **Exploration and manifest destiny:** *The Oregon Trail* \[1971, Apple II\]
+2. **Violence and exploitation:** *Custer's Revenge* \[1982, Atari 2600\]
+3. **Law and order:** *Law of the West* \[1984, C64\]
+4. **Environmental and nuclear apocalypse:** *Fallout New Vegas* \[2010, PC\]
 
-Key research questions include but are not limited to:
-*
+Central research questions include but are not limited to examining:
+* Which key themes and narrative tropes concerning the American West can be found in a cross-selection of video games?
+* How do these themes relate to those traditionally identified in literary and cultural discourses?
+* In what ways do interactivity, player input, and gameplay elements modify or expand traditional dimensions of "westernness"?
+* Can existing toolsets of the Digital Humanities be made productive to visualize the discursive landscapes of video games?
+
+<p>&nbsp;</p>
 
 {: .box-success}
 ## ENMMA: European Network for the Study of Minor Mobilities in the Americas
 
 The European Network for Minor Mobilities in the Americas (ENMMA) situates itself within the broader, interdisciplinary field of mobility studies, shifting the field's attention to minor forms of movement and mobility. The way <a href="https://enmma.org/about/members" target="_blank">we</a> see it, mobility regimes discursively produce forms and classifications of movement that are uneven, differential, unrecognized, unmarked or invisible. As a result, minor mobilities are characterized by peripherality and marginality, unacknowledged agency (e.g. in domestic, carceral, or underage mobilities), limitation and failure (e.g. refugee mobilities). We examine their cultural work either as affirmation or critical transformation of mobility regimes. Relying on the Deleuzian understanding of "minor" and Mimi Sheller's concept of "differential mobilities," ENMMA aims at conceptualizing the multiple meanings of minor in the context of mobility and immobility research in literature and culture in the U.S., Canada, Mexico, Central America, and the Caribbean.
+
+<img src="/img/ENMMA-logo.png" alt="ENMMA research network logo" width="400">
+
+{: .box-note}
+**Figure:** ENMMA research network logo ([Source](https://enmma.org/)).
 
 In <a href="https://enmma.org/about/projects" target="_blank">our research</a>, we use the concept of minor mobilities as a heuristic tool for examining mobility regimes and knowledge productions in regional, national, and globally implicated settings. Unfolding in four <a href="https://enmma.org/about/research-clusters" target="_blank">research clusters</a>, our projects take up different scenarios which enact mobility regimes:
 
@@ -45,4 +55,4 @@ As "meaning-making paradigms that structure social environments, behaviors, and 
 * Taylor, Diana. *The Archive and the Repertoire: Performing Cultural Memory in the Americas*. <a href="https://www.dukeupress.edu/the-archive-and-the-repertoire" target="_blank">Duke University Press</a>, 2003.
 
 {: .box-note}
-**Info:** Visit the network's <a href="https://enmma.org" target="_blank">official website</a>.
+**Info:** Visit the research network's <a href="https://enmma.org" target="_blank">official website</a>.
