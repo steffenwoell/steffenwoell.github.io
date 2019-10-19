@@ -9,17 +9,17 @@ subtitle: Current and Future Research
 
 {: .box-success}
 ## A Digital History of Pixelated Violence: The American West in (Early) Video Game Culture
-Still in its early conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
+Currently in the conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
 
 A preliminary structure might work alongside genres and focus on particular themes, for instance:
 
 * **Exploration and manifest destiny:** *The Oregon Trail* \[1971, Apple II\]
-* **Violence and conquest:** *Custer's Revenge* \[1982, Atari 2600\]
+* **Violence and exploitation:** *Custer's Revenge* \[1982, Atari 2600\]
 * **Law and order:** *Law of the West* \[1984, C64\]
 * **Environmental and nuclear apocalypse:** *Fallout New Vegas* \[2010, PC\]
 
-Central research questions to be addressed by the project include, but are not limited to:
-*
+Key research questions include but are not limited to:
+* 
 
 {: .box-success}
 ## ENMMA: European Network for the Study of Minor Mobilities in the Americas
@@ -37,10 +37,10 @@ In <a href="https://enmma.org/about/projects" target="_blank">our research</a>, 
 
 As "meaning-making paradigms that structure social environments, behaviors, and potential outcomes" (Diana Taylor), scenarios provide particulars of the scenes and situations of mobility regimes and frame social dramas. As formulaic structures they are complicit with hegemonic discourses of mobility regimes; yet through their critical repetitions they also allow for reversal and destabilization, offering a space for minor mobilities to emerge.
 
-**Works Cited**
+**Bibliography**
 * Deleuze, Gilles and Félix Guattari. "What is a Minor Literature?" *Mississippi Review* vol. 11, no. 3, 1983, pp. 13-33. <a href="https://www.jstor.org/stable/20133921" target="_blank">JSTOR</a>.
 * Sheller, Mimi. *Mobility Justice: The Politics of Movement in an Age of Anxiety*. <a href="https://www.bloomsbury.com/au/mobility-justice-9781788730921/" target="_blank">Verso</a>, 2018.
 * Taylor, Diana. *The Archive and the Repertoire: Performing Cultural Memory in the Americas*. <a href="https://www.dukeupress.edu/the-archive-and-the-repertoire" target="_blank">Duke University Press</a>, 2003.
 
 {: .box-note}
-**Info:** Visit the project's <a href="https://enmma.org" target="_blank">official website</a>.
+**Info:** Visit the network's <a href="https://enmma.org" target="_blank">official website</a>.
