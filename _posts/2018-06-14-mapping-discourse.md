@@ -6,6 +6,11 @@ image: /img/dmsquare.jpg
 ---
 When Richard Henry Dana Jr. visited San Francisco in 1859 after an absence of almost a quarter of a century, he was informed that, unbeknownst to him, he had become a man of considerable fame on the West Coast. As an adolescent, Dana was studying law at Harvard when he caught the measles, which led to a inflammatory condition that affected his eyesight and reading ability. Coming from a well-to-do family, to everyone's surprise Dana decided not to take the classical route of doing some R&R in the resorts of Europe. Instead, he marched to Boston harbor and signed up as a low-ranking merchant sailor on the *Pilgrim* bound for Alta California via Cape Horn and the Chilean Juan Fernandez island. The notes of this trip, especially the strenuous life at sea and sadistic behavior of the ship's captain is regarded by some critics as the inspiration for Melville's *Moby-Dick*. Since the resulting novel was one of the few (and out of those, perhaps the most readable) depiction of California written in English, Dana shaped the expectations and mindscapes of scores of American emigrants and squatters who moved to the newly acquired Californian territories in the aftermath of the Mexican-American War.
 
+![Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*](/img/discursive-map-rh-dana.png)
+
+{: .box-note}
+**Figure:** Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast* (1840).
+
 From a perspective that is interested in both processes of spatialization in literature as well as their visualization, certain questions impose themselves:
 
 1. What kind of place-making discourses, interaction, and dynamics are at play in the text and how (if at all) can they be represented and examined in a visual manner?
@@ -19,11 +24,6 @@ In addition to these considerations, the main methods of literary and cultural s
 * Finally, one could think of mapping the (inter)textual relationships regarding certain aspects of spatiality in order to reveal shared characteristics or discrepancies that might exist between certain spatial imaginations/representations either in a single text or among different texts. This approach would enable the literary cartographer to speculate about how spatialization processes interact to produce/promote/defend/attack/subvert certain imaginations of space. In my understanding, this is the most promising approach, although it is fraught with a number of challenges, notably the lack of an established hermeneutic model that could facilitate a reliable and comparable extraction and translation of text into some sort of [data](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) that would then lend itself to visualization.
 
 One key issue in fact remains our (lack of) understanding of the concept of 'data,' which here cannot be seen as a generator of quantifiable knowledge (this notion must be left to the linguists), but as a flexible toolset of qualitative, interpretive, observer-dependent, experimental, and performative parameters of knowledge production. On the one hand, this is good news as the humanities certainly provide myriads of analytical lenses with a seemingly endless combinatory potential. On the downside, this notion might also be the *coup de grâce* to any hopes of a common visual language or methodology in the emerging field of literary mapping: The *horror vacui* of methodological emptiness hence continues.
-
-[![Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*](/img/Discursive%20Map%20RH%20Dana%20(web).png)](/img/Discursive%20Map%20RH%20Dana%20(web).png)
-
-{: .box-note}
-**Figure:** Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*.
 
 The latter stance towards literary mapping could be termed 'conceptual mapping' and emphasizes the production of individual maps that exist independently and discretely by the rules of their own methodology. These maps are experimental in form and scale and depict 'soft' (topical, thematic, narrative, allegorical, metaphorical etc.) 'data' rather than formalized depictions of 'hard' empirical 'facts.'
 
