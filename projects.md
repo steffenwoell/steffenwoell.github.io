@@ -7,6 +7,7 @@ subtitle: Overview of Current Research
 <!--{: .box-warning}
 **Coming soon:** An update to the projects section is currently in the works.-->
 
+{: .box-success}
 ## A Digital History of Pixelated Violence: The American West in (Early) Video Game Culture
 Still in its early conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
 
