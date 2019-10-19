@@ -36,9 +36,6 @@ a:hover,
 a:focus {
   color: {{ site.hover-col }};
   text-decoration: underline;
-  -webkit-transition: text-decoration .2s ease-in-out;
-  -moz-transition: text-decoration .2s ease-in-out;
-  transition: text-decoration .2s ease-in-out;
 }
 blockquote {
   color: #808080;
