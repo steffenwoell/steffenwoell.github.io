@@ -4,12 +4,13 @@ title: Projects
 subtitle: Current and Future Research
 ---
 
-<!--{: .box-warning}
-**Coming soon:** An update to the projects section is currently in the works.-->
-
 {: .box-success}
 ## A Digital History of Pixelated Violence: The American West in (Early) Video Game Culture
 Currently in the conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
+
+![Flag of the New California Republic in *Fallout 2*](/img/new-california-republic-fallout.png =250x)
+{: .box-note}
+**Figure:** Flag of the New California Republic in *Fallout 2* [Source](https://fallout.fandom.com/wiki/New_California_Republic/)
 
 A preliminary structure might work alongside genres and focus on particular themes, for instance:
 
@@ -19,7 +20,7 @@ A preliminary structure might work alongside genres and focus on particular them
 * **Environmental and nuclear apocalypse:** *Fallout New Vegas* \[2010, PC\]
 
 Key research questions include but are not limited to:
-* 
+*
 
 {: .box-success}
 ## ENMMA: European Network for the Study of Minor Mobilities in the Americas
