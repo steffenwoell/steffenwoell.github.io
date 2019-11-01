@@ -30,7 +30,7 @@ h2,h3,h4,h5,h6 {
 }
 a {
   color: {{ site.link-col }};
-  text-decoration: underline dotted #404040;
+  text-decoration: underline dotted black;
 }
 a:hover,
 a:focus {
