@@ -29,13 +29,18 @@ h2,h3,h4,h5,h6 {
   padding: 10px 0 5px 0;
 }
 a {
-  color: {{ site.link-col }};
-  text-decoration: underline dotted black;
+  /*color: {{ site.link-col }};*/
+  color: #69696c;
+  text-decoration: underline;
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col }};
+  /*color: {{ site.hover-col }};*/
+  color: #404040;
   text-decoration: underline;
+  -webkit-transition: color .5s ease-in-out;
+  -moz-transition: color .5s ease-in-out;
+  transition: color .5s ease-in-out;
 }
 blockquote {
   color: #808080;
