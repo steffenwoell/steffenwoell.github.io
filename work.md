@@ -30,6 +30,7 @@ subtitle: Published and Upcoming Work
 <p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29.1 (2019). Forthcoming.</p>
 
 ## Miscellaneous
+<p>"Mapping Discourse in R.H. Dana's "Two Years Before the Mast." <em>TRAFO – Blog for Transregional Research</em>. 31 Oct. 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
 <p><em>European Network for Minor Mobilities in the Americas</em>. <a href="https://enmma.org" target="_blank">Website</a>.</p>
 <p>"Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature." <em>TRAFO – Blog for Transregional Research</em>. 10 Apr. 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
 <p>"The Second Cold War. The US Might Come Out on the Losing Side..." <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 Dec. 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
