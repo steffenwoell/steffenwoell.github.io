@@ -9,10 +9,10 @@ subtitle: Current and Future Research
 Currently in the conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
 
 A preliminary structure might work alongside genres and focus on particular themes such as:
-1. **Exploration and manifest destiny** in *The Oregon Trail* \[1971, Apple II\]
-2. **Violence and exploitation** in *Custer's Revenge* \[1982, Atari 2600\]
-3. **Law and order** in *Law of the West* \[1984, C64\]
-4. **Environmental and nuclear apocalypse** in *Fallout: New Vegas* \[2010, PC\]
+1. **Exploration and manifest destiny** in *The Oregon Trail* \[1971, `Apple II`\]
+2. **Violence and exploitation** in *Custer's Revenge* \[1982, `Atari 2600`\]
+3. **Law and order** in *Law of the West* \[1984, `Commodore 64`\]
+4. **Environmental and nuclear apocalypse** in *Fallout: New Vegas* \[2010, `PC`\]
 
 <img src="/img/new-california-republic-fallout.png" alt="Flag of the New California Republic in Fallout 2" width="500">
 
