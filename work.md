@@ -36,4 +36,4 @@ subtitle: Published and Upcoming Work
 <p>"The Second Cold War. The US Might Come Out on the Losing Side..." <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 Dec. 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
 
 ## Posters
-<p><i>Urban America: Mediating City Space as Place</i>, 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="https://steffenwoell.files.wordpress.com/2019/10/asl-conference-program-2016-1.pdf" target="_blank">Conference Poster</a>.</p>
+<p><i>Urban America: Mediating City Space as Place</i>, 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
