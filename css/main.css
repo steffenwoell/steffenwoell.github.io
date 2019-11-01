@@ -31,16 +31,16 @@ h2,h3,h4,h5,h6 {
 a {
   /*color: {{ site.link-col }};*/
   color: #69696c;
-  text-decoration: underline;
+  text-decoration: none;
+  font-weight: 600;
 }
 a:hover,
 a:focus {
-  /*color: {{ site.hover-col }};*/
-  color: #404040;
-  text-decoration: underline;
-  -webkit-transition: color .5s ease-in-out;
-  -moz-transition: color .5s ease-in-out;
-  transition: color .5s ease-in-out;
+  color: {{ site.hover-col }};
+  text-decoration: none;
+  -webkit-transition: color .3s ease-in-out;
+  -moz-transition: color .3s ease-in-out;
+  transition: color .3s ease-in-out;
 }
 blockquote {
   color: #808080;
