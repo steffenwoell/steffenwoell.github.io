@@ -24,7 +24,7 @@ title: 'Category'
         {%- for post in site.tags[tag] -%}
             <div class="tag-entry">
                 <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
-                <div class="entry-date">
+                <div class="entry-date" style="font-style:normal;">
                     <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: site.date_format -}}</time>
                 </div>
             </div>
