@@ -4,6 +4,7 @@ title: Mapping Discourse
 subtitle: In R.H. Dana's "Two Years Before the Mast"
 image: /img/dmsquare.jpg
 tags: [Article, Mapping, Literature]
+excerpt: "When Richard Henry Dana Jr. visited San Francisco in 1859 after an absence of almost a quarter of a century, he was informed that, unbeknownst to him, he had become a man of considerable fame on the West Coast. As an adolescent, Dana was studying law at Harvard when he caught the measles, which led to a inflammatory condition that affected his eyesight and reading ability. Coming from a well-to-do family, to everyone's surprise Dana decided not to take the classical route of doing some R&R in the resorts of Europe. Instead, he marched to Boston harbor and signed up as a low-ranking merchant sailor on the Pilgrim bound for Alta California via Cape Horn and the Chilean Juan Fernandez island."
 ---
 
 {: .box-success}
