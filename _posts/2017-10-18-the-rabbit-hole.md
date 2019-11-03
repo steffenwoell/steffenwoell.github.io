@@ -3,6 +3,7 @@ layout: post
 title: The Rabbit Hole
 subtitle: Paris, France
 image: /img/paris.png
+tags: [Journal, Paris, France]
 ---
 What a day. I almost forgot how much fun traveling could be. Fun and "fun" that is. To make a long story short(ish): The flight from Berlin was way late due to thick fog (that would not yield before the late October's sun). Waiting in line for literally 4 (four) hours, I met a guy who works for the government. Let's call him John. Ok, his name was actually John. We shared some travel stories and he suggested I write a book about it. Well, don't worry: I won't, but it did make me think about traveling and what it means (I don't know, really. And I most definitely won't reduce "it" to a smart-ass sentence someone would photoshop over an Instagram picture with an edgy, neo-naturalistic color gradient).
 

@@ -3,6 +3,7 @@ layout: post
 title: What's Wrong With the United States?
 subtitle: Oakland, California
 image: /img/oakland.png
+tags: [Journal, Oakland, USA]
 ---
 It's an interesting time to be alive. It is an even more exciting time to be in the US, no doubt. Having spent some time in the (southern) Midwest and now in the Bay Area, I already got a pretty good impression of some fault lines that run through American society after the recent presidential election. For instance, doing whiskey shots with some history teachers at Arnie’s Bar (10/10 would recommend) in Tulsa, everyone pretty much agreed on how devastating the election will prove for the years to come. That is until a young white guy joined us at the table and started aggressively promoting his ideas of racial segregation, circa 1920. Of course, everyone was quite baffled but we still tried to convince him of how wrong his views actually were. We had a discussion with a white supremacist, at least until he became aggressive and was kicked out the bar.
 
