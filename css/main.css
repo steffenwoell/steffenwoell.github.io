@@ -802,11 +802,11 @@ pre {
 
 .tag-btn {
   margin: 5px;
+  align: center;
 }
 
 #full-tags-list {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  align: center;
 }
 
 #full-tags-list .tag-entry {
