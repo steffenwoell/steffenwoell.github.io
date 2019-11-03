@@ -419,17 +419,18 @@ footer .theme-by {
   color: #777;
   text-decoration: none;
   padding: 0px 5px;
+  border: 1px solid #777;
   border-radius: 2px;
   border-color: #999;
 }
 
 .blog-tags a:hover {
   color: #555;
-  border-color: #404040;
-  background-color: #cdff5f;
+  border-color: #555;
+  background-color: none;
   -webkit-transition: color .5s;
-  -moz-transition: background .5s ease-in-out;
-  transition: background .5s ease-in-out;
+  -moz-transition: color .5s;
+  transition: color .5s;
 }
 
 .post-preview .blog-tags {
