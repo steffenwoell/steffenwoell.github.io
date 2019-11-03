@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Audio: Non Sequitur"
-subtitle: Nothing follows
+subtitle: Nothing Follows
 excerpt: All is real, nothing follows.
 image: /img/non-sequitur.png
 tags: [Music]
