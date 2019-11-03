@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Audio: Non Sequitur"
+title: "Music: Non Sequitur"
 subtitle: Nothing Follows
 excerpt: All is real, nothing follows.
 image: /img/non-sequitur.png
