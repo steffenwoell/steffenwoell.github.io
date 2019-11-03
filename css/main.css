@@ -423,9 +423,9 @@ footer .theme-by {
 
 .blog-tags a:hover {
   color: #444;
-  -webkit-transition: color .5s;
-  -moz-transition: color .5s;
-  transition: color .5s;
+  -webkit-transition: color .5s ease-in-out;
+  -moz-transition: color .5s ease-in-out;
+  transition: color .5s ease-in-out;
 }
 
 .post-preview .blog-tags {
