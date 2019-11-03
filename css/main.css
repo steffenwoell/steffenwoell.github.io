@@ -410,22 +410,24 @@ footer .theme-by {
 
 .blog-tags {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #999;
+  color: #555;
   font-size: 15px;
   margin-bottom: 20px;
 }
 
 .blog-tags a {
-  color: #999;
+  color: #777;
   text-decoration: none;
   padding: 0px 5px;
+  border-radius: 2px;
+  border-color: #999;
 }
 
 .blog-tags a:hover {
-  border-radius: 4px;
-  color: #404040;
+  color: #555;
+  border-color: #404040;
   background-color: #cdff5f;
-  -webkit-transition: background .5s;
+  -webkit-transition: color .5s;
   -moz-transition: background .5s ease-in-out;
   transition: background .5s ease-in-out;
 }
