@@ -26,7 +26,7 @@ navbar-links:
   More:
   - Activities: "activities"
   - Memberships: "memberships"
-  - Categories: "tags"
+#  - Categories: "tags"
   - Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
