@@ -13,7 +13,7 @@ facebook:
 
 tumblr:
   name: "Tumblr"
-  baseURL: "https://www.tumblr.com/"
+  baseURL: ""
   icon: "fa-tumblr"
 
 github:
