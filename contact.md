@@ -8,9 +8,9 @@ subtitle: Get in Touch
 {: .box-success}
 Contact me at `steffen.woell@uni-leipzig.de`
 
-## Mailing Address
+## Postal Address
 
-{: .box-warning}
+{: .box-note}
 Steffen Wöll<br/>
 SFB 1199<br/>
 Nikolaistrasse 6-10<br/>
@@ -26,4 +26,4 @@ In urgent cases you can reach me by phone under `+49 (172) 572 3333`
 ## More ways to connect
 
 {: .box-note}
-You can also find me on a number of academic and social platforms:<br/><br/>Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a><br/>Research @ <a href="https://uni-leipzig.academia.edu/SteffenWöll" target="_blank">Academia</a><br/>Social @ <a href="https://www.facebook.com/steffen.woell" target="_blank">Facebook</a><br/>Poetry @ <a href="http://walkingintozero.tumblr.com" target="_blank">Tumblr</a><br/>Photography @ <a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a><br/>Electronica @ <a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a>
+Im am active on a number of academic and social media platforms:<br/><br/>Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a><br/>Research @ <a href="https://uni-leipzig.academia.edu/SteffenWöll" target="_blank">Academia</a><br/>Social @ <a href="https://www.facebook.com/steffen.woell" target="_blank">Facebook</a><br/>Poetry @ <a href="http://walkingintozero.tumblr.com" target="_blank">Tumblr</a><br/>Photography @ <a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a><br/>Electronica @ <a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a>
