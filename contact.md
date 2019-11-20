@@ -6,7 +6,7 @@ subtitle: Get in Touch
 ## E-Mail
 
 {: .box-success}
-Contact me at `steffen.woell@uni-leipzig.de`
+For general matters write to `steffen.woell@uni-leipzig.de`
 
 ## Postal Address
 
@@ -21,9 +21,9 @@ Germany
 ## Phone
 
 {: .box-error}
-In urgent cases you can reach me by phone under `+49 (172) 572 3333`
+In urgent cases you can reach me by phone: `+49 (172) 572 3333`
 
 ## More ways to connect
 
-{: .box-note}
+{: .box-blue}
 Im am active on a number of academic and social media platforms:<br/><br/>Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a><br/>Research @ <a href="https://uni-leipzig.academia.edu/SteffenWöll" target="_blank">Academia</a><br/>Social @ <a href="https://www.facebook.com/steffen.woell" target="_blank">Facebook</a><br/>Poetry @ <a href="http://walkingintozero.tumblr.com" target="_blank">Tumblr</a><br/>Photography @ <a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a><br/>Electronica @ <a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a>
