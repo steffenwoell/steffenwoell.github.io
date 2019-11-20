@@ -744,7 +744,7 @@ pre {
 }
 
 /* --- Notification boxes --- */
-.box-note, .box-warning, .box-error, .box-success, .box-purple {
+.box-note, .box-warning, .box-error, .box-success, .box-blue {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 25px 0px;
   border: 1px solid #eee;
@@ -772,9 +772,9 @@ pre {
   border-left-color: #4d944d;
 }
 
-.box-purple {
-  background-color: #faf2ff;
-  border-left-color: #dfadff;
+.box-blue {
+  background-color: #becdf2;
+  border-left-color: #97b1f2;
 }
 
 /* Fix table border github gist snippets */

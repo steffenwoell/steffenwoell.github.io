@@ -4,7 +4,7 @@ title: Projects
 subtitle: Current and Future Research
 ---
 
-{: .box-success}
+{: .box-warning}
 ## A Digital History of Pixelated Violence: The American West in (Early) Video Game Culture
 Currently in the conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
 
@@ -27,7 +27,7 @@ Central research questions include but are not limited to examining:
 
 <p>&nbsp;</p>
 
-{: .box-success}
+{: .box-blue}
 ## ENMMA: European Network for the Study of Minor Mobilities in the Americas
 
 The European Network for Minor Mobilities in the Americas (ENMMA) situates itself within the broader, interdisciplinary field of mobility studies, shifting the field's attention to minor forms of movement and mobility. The way <a href="https://enmma.org/about/members" target="_blank">we</a> see it, mobility regimes discursively produce forms and classifications of movement that are uneven, differential, unrecognized, unmarked or invisible. As a result, minor mobilities are characterized by peripherality and marginality, unacknowledged agency (e.g. in domestic, carceral, or underage mobilities), limitation and failure (e.g. refugee mobilities). We examine their cultural work either as affirmation or critical transformation of mobility regimes. Relying on the Deleuzian understanding of "minor" and Mimi Sheller's concept of "differential mobilities," ENMMA aims at conceptualizing the multiple meanings of minor in the context of mobility and immobility research in literature and culture in the U.S., Canada, Mexico, Central America, and the Caribbean.
