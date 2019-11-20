@@ -37,7 +37,7 @@ a {
 a:hover,
 a:focus {
   color: {{ site.hover-col }};
-  text-decoration: none;
+  text-decoration: underline;
   -webkit-transition: color .3s ease-in-out;
   -moz-transition: color .3s ease-in-out;
   transition: color .3s ease-in-out;
@@ -73,23 +73,6 @@ hr.small {
 
 .hideme {
   display: none;
-}
-
-::-moz-selection {
-  background-color: #fbf9c9;
-  color: black;
-}
-::selection {
-  background-color: #cdff47;
-  color: black;
-}
-.box-warning::selection, .highlighter-rouge::selection {
-  background-color: #faf2ff;
-  color: black;
-}
-.box-warning::-moz-selection .highlighter-rouge::-moz-selection {
-  background-color: #faf2ff;
-  color: black;
 }
 
 img::selection {
