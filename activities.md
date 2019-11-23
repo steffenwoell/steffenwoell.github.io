@@ -5,10 +5,10 @@ subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
 ---
 
 {: .box-success}
-**Updated:** October 1, 2019.
+**Updated:** November 23, 2019.
 
 ## Presentations
-<p>"The Rocky Roads of Empire: The Rocky Mountains as Hemispheric Nexus and Barrier to Manifest Destiny in Nineteenth-Century American Literature." <em>Mediating Mountains</em>. 46th Austrian Association for American Studies Conference. Innsbruck. 22-24 November 2019. <a href="https://www.uibk.ac.at/amerikastudien/aktuelles/veranstaltungen/aaas-konferenz-2019.html" target="_blank">Forthcoming</a>.</p>
+<p>"The Rocky Roads of Empire: The Rocky Mountains as Hemispheric Nexus and Barrier to Manifest Destiny in Nineteenth-Century American Literature." <em>Mediating Mountains</em>. 46th Austrian Association for American Studies Conference. Innsbruck. 23 November 2019. <a href="https://www.uibk.ac.at/amerikastudien/aktuelles/veranstaltungen/aaas-konferenz-2019.html" target="_blank">Presentation</a>.</p>
 <p>"'True Places Never Are': Navigating Spatial Imaginations in <em>Moby-Dick</em>." <em>Over_Seas</em>: Melville, Whitman and all the Intrepid Sailors. Lisbon. 3 July 2019. <a href="https://www.overseas2019.com" target="_blank">Presentation</a>.</p>
 <p>"Figuring and Refiguring the Spatial Embodiment of Empire." <em>Nuestra América: Justice and Inclusion</em>. Latin American Studies Association Annual Conference. Boston. 25 May 2019. <a href="https://lasaweb.org/en/lasa2019/" target="_blank">Presentation</a>.</p>
 <p>"Muddying the Waters: Colliding Visions of the Louisiana Territory." <i>Research Academy Leipzig / Graduate School Global and Area Studies</i>. Neudietendorf. 2 February 2019. <a href="https://home.uni-leipzig.de/~gsgas/events/winter-school/" target="_blank">Presentation</a>.</p>
