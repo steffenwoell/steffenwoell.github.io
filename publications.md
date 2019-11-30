@@ -5,9 +5,10 @@ subtitle: Published and Upcoming Work
 ---
 
 {: .box-success}
-**Updated:** November 1, 2019.
+**Updated:** November 30, 2019.
 
 ## Journal Articles
+<p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik and Amerikanistik.</em> Forthcoming.</p>
 <p>"'Fear Thy Neighbor': Paranoia and Suburban Victim-Hood in Mark Pellington's <em>Arlington Road</em>." Sofia University Press. Forthcoming.</p>
 <p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank" rel="noopener">Open Access</a>.</p>
 <p>"Bleeding Borders: Space, Blackness, and Hybridity in Jack London's Representations of the American Southwest." <em>Amerikastudien / American Studies </em>63.1 (2018): 5-28. <a href="https://amst.winter-verlag.de/issue/AMST/2018/1" target="_blank">Print</a>.</p>
