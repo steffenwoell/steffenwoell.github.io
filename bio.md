@@ -18,4 +18,4 @@ My research interests include, but are not limited to:
 * Trans-hemispheric and trans-oceanic visions of New Imperialism
 * Religious and (sub)cultural radicalism
 
-A complete list of publications can be found [here](publications).
+A complete list of publications can be found [here](../publications).
