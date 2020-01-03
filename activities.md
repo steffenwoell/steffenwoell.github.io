@@ -5,7 +5,7 @@ subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
 ---
 
 {: .box-success}
-**Updated:** November 23, 2019.
+**Updated:** January 3, 2020.
 
 ## Presentations
 <p>"The Rocky Roads of Empire: The Rocky Mountains as Hemispheric Nexus and Barrier to Manifest Destiny in Nineteenth-Century American Literature." <em>Mediating Mountains</em>. 46th Austrian Association for American Studies Conference. Innsbruck. 23 November 2019. <a href="https://www.uibk.ac.at/amerikastudien/aktuelles/veranstaltungen/aaas-konferenz-2019.html" target="_blank">Presentation</a>.</p>
