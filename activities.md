@@ -43,8 +43,8 @@ subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
 
 ## Research Stays
 <p>Center for Pacific Island Studies. <em>University of Hawai'i, Manoa</em>. 2020.</p>
-<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020.</p>
 <p>Huntington Library. <em>University of California, Los Angeles</em>. 2020.</p>
+<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020.</p>
 <p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020.</p>
 <p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017.</p>
 
