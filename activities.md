@@ -41,6 +41,13 @@ subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
 <p>"Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature." <i>Ethnicity and Diversity in US Culture</i>. Leipzig. Winter Semester 2017/18. Seminar.</p>
 <p>"Racial Mixture as a Monstrous Threat in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <i>Mixed Race America in U.S. Literature</i>. Leipzig. 8 June 2016. Guest Lecture.</p>
 
+## Research Stays
+<p>Center for Pacific Island Studies. <em>University of Hawai'i, Manoa</em>. 2020.</p>
+<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020.</p>
+<p>Huntington Library. <em>University of California, Los Angeles</em>. 2020.</p>
+<p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020.</p>
+<p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017.</p>
+
 ## Grants & Awards
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
 <p>DAAD Travel Stipend 2017.</p>
