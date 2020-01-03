@@ -18,7 +18,7 @@ subtitle: Published and Upcoming Work
 <p>"American Health." <em>aspeers: emerging voices in american studies</em> 8 (2015): v-viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Print</a>.</p>
 
 ## Volumes & Book Chapters
-<p>"'True Places Never Are': Navigating (Trans)Oceanic Imaginations in 'Moby-Dick.'" <em>American Studies Over_Seas</em> 2020. Forthcoming.</p>
+<p>"'True Places Never Are': Navigating (Trans)Oceanic Imaginations in 'Moby-Dick.'" <em>American Studies Over_Seas</em>. Forthcoming.</p>
 <p>"Spatial Imaginations and Counter-Geographies of Oregon and the Far West." <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Forthcoming.</p>
 <p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. Vol. 3. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.degruyter.com/view/product/518315" target="_blank">Print</a>.</p>
 <p>"Spatiality and Psyche: Surviving the Yukon in Jack London's 'Love of Life' and 'To Build a Fire.'" <em>Processes of Spatialization in the Americas: Configurations and Narratives</em>. Interamericana Series Vol. 13. Eds. Gabriele Pisarz-Ramirez and Hannes Warnecke-Berger. Peter Lang, 2019: 75-98. <a href="https://www.peterlang.com/view/title/65439" target="_blank">Print</a>.</p>
