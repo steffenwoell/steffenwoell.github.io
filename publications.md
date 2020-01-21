@@ -30,7 +30,7 @@ subtitle: Published and Upcoming Work
 ## Reviews
 <p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em>. Forthcoming.</p>
 <p>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880-1930</em> by Dominic Davies. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em>. Forthcoming.</p>
-<p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29.1 (2019). Forthcoming.</p>
+<p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29.1 (2019): 105-107. <a href="https://www.comparativ.net/v2/article/view/2919" target="_blank">Print</a>.</p>
 
 ## Online
 <p>"Mapping Discourse in R.H. Dana's "Two Years Before the Mast." <em>TRAFO – Blog for Transregional Research</em>. 31 Oct. 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
