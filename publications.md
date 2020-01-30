@@ -39,5 +39,5 @@ subtitle: Published and Upcoming Work
 <p>"The Second Cold War. The US Might Come Out on the Losing Side..." <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
 
 ## Posters
-<p><em>Mapping Discourse in R.H. Dana's <em>Two Years Before the Mast</em>, 28 January 2020, Geisteswissenschaftliches Zentrum der Universität Leipzig. <a title="Discursive Mapping in Two Years Before the Mast" href="/img/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Conference Poster</a>.</p>
-<p><em>Urban America: Mediating City Space as Place</em>, 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
+<p>"Mapping Discourse in R.H. Dana's Two Years Before the Mast," 28 January 2020, Geisteswissenschaftliches Zentrum der Universität Leipzig. <a title="Discursive Mapping in Two Years Before the Mast" href="/img/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Conference Poster</a>.</p>
+<p>"Urban America: Mediating City Space as Place," 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
