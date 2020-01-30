@@ -40,4 +40,4 @@ subtitle: Published and Upcoming Work
 
 ## Posters
 <p>"Mapping Discourse in R.H. Dana's Two Years Before the Mast," 28 January 2020, Geisteswissenschaftliches Zentrum der Universität Leipzig. <a title="Discursive Mapping in Two Years Before the Mast" href="/img/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Conference Poster</a>.</p>
-<p>"Urban America: Mediating City Space as Place," 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
+<p>"Urban America: Mediating City Space as Place," 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf">Conference Poster</a>.</p>
