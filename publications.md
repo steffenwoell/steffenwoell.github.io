@@ -5,7 +5,7 @@ subtitle: Published and Upcoming Work
 ---
 
 {: .box-success}
-**Updated:** January 21, 2020.
+**Updated:** January 30, 2020.
 
 ## Peer-Reviewed Journals
 <p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik and Amerikanistik.</em> 2020. Forthcoming.</p>
@@ -39,4 +39,5 @@ subtitle: Published and Upcoming Work
 <p>"The Second Cold War. The US Might Come Out on the Losing Side..." <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 Dec. 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
 
 ## Posters
+<p><i>DoktorandInnen Posterkonferenz der Philologischen Fakultät</i>, 28 January 2020, Geisteswissenschaftliches Zentrum der Universität Leipzig. <a title="Discursive Mapping in Two Years Before the Mast" href="/img/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Poster</a>.</p>
 <p><i>Urban America: Mediating City Space as Place</i>, 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
