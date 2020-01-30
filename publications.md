@@ -33,11 +33,11 @@ subtitle: Published and Upcoming Work
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-Editor. <a href="http://www.aspeers.com/2015" target="_blank">Print</a>.</p>
 
 ## Online Publications
-<p>"Mapping Discourse in R.H. Dana's "Two Years Before the Mast." <em>TRAFO – Blog for Transregional Research</em>. 31 Oct. 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
+<p>"Mapping Discourse in R.H. Dana's 'Two Years Before the Mast.'" <em>TRAFO – Blog for Transregional Research</em>. 31 Oct. 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
 <p><em>European Network for Minor Mobilities in the Americas</em>. <a href="https://enmma.org" target="_blank">Website</a>.</p>
 <p>"Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature." <em>TRAFO – Blog for Transregional Research</em>. 10 Apr. 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
 <p>"The Second Cold War. The US Might Come Out on the Losing Side..." <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 Dec. 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
 
 ## Posters
-<p><i>DoktorandInnen Posterkonferenz der Philologischen Fakultät</i>, 28 January 2020, Geisteswissenschaftliches Zentrum der Universität Leipzig. <a title="Discursive Mapping in Two Years Before the Mast" href="/img/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Poster</a>.</p>
+<p><i>Mapping Discourse in R.H. Dana's <i>Two Years Before the Mast</i>, 28 January 2020, Geisteswissenschaftliches Zentrum der Universität Leipzig. <a title="Discursive Mapping in Two Years Before the Mast" href="/img/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Conference Poster</a>.</p>
 <p><i>Urban America: Mediating City Space as Place</i>, 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
