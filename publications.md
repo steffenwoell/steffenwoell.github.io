@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Publications
-subtitle: Published and Upcoming Work
+subtitle: Published and Upcoming
 ---
 
 {: .box-success}
-**Updated:** January 30, 2020.
+**Updated:** February 14, 2020
 
 ## Peer-Reviewed Journals
 <p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik and Amerikanistik.</em> 2020. Forthcoming.</p>
