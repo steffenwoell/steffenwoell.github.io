@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Memberships
-subtitle: Historical and American Studies Associations
+subtitle: Associations and Research Networks
 ---
 <p><a href="http://dgfa.de" target="_blank">DGfA</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
 <p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA</a> (Society of Early Americanists)</p>
