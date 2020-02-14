@@ -6,7 +6,7 @@ subtitle: Get in Touch
 ## E-Mail
 
 {: .box-success}
-For general matters, please write to <a href="mailto:steffen.woell@uni-leipzig.de">`steffen.woell@uni-leipzig.de`</a>
+For general matters, please write to `steffen.woell@uni-leipzig.de`
 
 ## Postal Address
 
