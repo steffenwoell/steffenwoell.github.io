@@ -5,10 +5,10 @@ subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
 ---
 
 {: .box-success}
-**Updated:** January 30, 2020.
+**Updated:** February 14, 2020
 
 ## Presentations
-<p>"Mapping Discourse in Richard Henry Dana's <i>Two Years Before the Mast</i>." DoktorandInnen Posterkonferenz der Philologischen Fakultät. Leipzig. 28 January 2020. <a href="https://www.philol.uni-leipzig.de/uploads/Posterkonferenz.pdf" target="_blank">Poster Presentation</a>. [<a href="/img/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Poster</a>]</p>
+<p>"Mapping Discourse in Richard Henry Dana's <i>Two Years Before the Mast</i>." DoktorandInnen Posterkonferenz der Philologischen Fakultät. Leipzig. 28 January 2020. <a href="https://www.philol.uni-leipzig.de/uploads/Posterkonferenz.pdf" target="_blank">Poster Presentation</a>.</p>
 <p>"The Rocky Roads of Empire: The Rocky Mountains as Hemispheric Nexus and Barrier to Manifest Destiny in Nineteenth-Century American Literature." <em>Mediating Mountains</em>. 46th Austrian Association for American Studies Conference. Innsbruck. 23 November 2019. <a href="https://www.uibk.ac.at/amerikastudien/aktuelles/veranstaltungen/aaas-konferenz-2019.html" target="_blank">Presentation</a>.</p>
 <p>"'True Places Never Are': Navigating Spatial Imaginations in <em>Moby-Dick</em>." <em>Over_Seas</em>: Melville, Whitman and all the Intrepid Sailors. Lisbon. 3 July 2019. <a href="https://www.overseas2019.com" target="_blank">Presentation</a>.</p>
 <p>"Figuring and Refiguring the Spatial Embodiment of Empire." <em>Nuestra América: Justice and Inclusion</em>. Latin American Studies Association Annual Conference. Boston. 25 May 2019. <a href="https://lasaweb.org/en/lasa2019/" target="_blank">Presentation</a>.</p>
