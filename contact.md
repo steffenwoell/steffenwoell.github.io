@@ -6,7 +6,7 @@ subtitle: Get in Touch
 ## E-Mail
 
 {: .box-success}
-For general matters, please write to `steffen.woell@uni-leipzig.de`
+For general matters, send an email to `steffen.woell@uni-leipzig.de`
 
 ## Postal Address
 
@@ -21,7 +21,7 @@ Germany
 ## Phone
 
 {: .box-error}
-In urgent cases call `+49 (172) 572 33 33`
+In urgent cases, call or text `+49 (172) 572 33 33`
 
 ## More ways to connect
 
