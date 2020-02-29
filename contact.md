@@ -6,9 +6,9 @@ subtitle: Get in Touch
 ## E-Mail
 
 {: .box-success}
-For general matters, send an email to `steffen.woell@uni-leipzig.de`
+Please feel free to contact me at `steffen.woell@uni-leipzig.de`
 
-## Postal Address
+## Postal Address (V.i.S.d.P.)
 
 {: .box-note}
 Steffen Wöll<br/>
@@ -16,12 +16,13 @@ SFB 1199<br/>
 Nikolaistrasse 6-10<br/>
 Room 5.07<br/>
 04109 Leipzig<br/>
-Germany
+*Germany*
 
 ## Phone
 
 {: .box-error}
-In urgent cases, call or text `+49 (172) 572 33 33`
+Reach me at my office phone `+49 (341) 973 77 52`  
+In urgent cases, call `+49 (172) 572 33 33`
 
 ## More ways to connect
 
