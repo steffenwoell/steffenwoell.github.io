@@ -22,7 +22,7 @@ Room 5.07<br/>
 
 {: .box-error}
 Reach me at my office phone `+49 (341) 973 77 52`  
-In urgent cases, call `+49 (172) 572 33 33`
+In urgent cases, please call `+49 (172) 572 33 33`
 
 ## More ways to connect
 
