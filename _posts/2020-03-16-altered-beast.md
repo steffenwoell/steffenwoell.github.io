@@ -22,8 +22,8 @@ A mouth of ashes
 A heavy thought  
 The scars of living  
 
-But soon, I’ll rise from that gloom  
-I’ll ride the wave  
+But soon, I'll rise from that gloom  
+I'll ride the wave  
 Swallow the ashes  
 And leave behind  
 What is not real  
