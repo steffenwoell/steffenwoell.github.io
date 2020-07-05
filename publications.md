@@ -5,9 +5,10 @@ subtitle: Published and Upcoming
 ---
 
 {: .box-success}
-**Updated:** February 14, 2020
+**Updated:** 5 July 2020
 
 ## Peer-Reviewed Journals
+<p>"Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies." <em>ANGLICA: An International Journal of English Studies</em>. 2020. Forthcoming.</p>
 <p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik and Amerikanistik.</em> 2020. Forthcoming.</p>
 <p>"'Fear Thy Neighbor': Paranoia and Suburban Victim-Hood in Mark Pellington's <em>Arlington Road</em>." Sofia University Press. 2020. Forthcoming.</p>
 <p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank" rel="noopener">Open Access</a>.</p>
@@ -18,6 +19,7 @@ subtitle: Published and Upcoming
 <p>"American Health." <em>aspeers: emerging voices in american studies</em> 8 (2015): v-viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Print</a>.</p>
 
 ## Volumes & Book Chapters
+<p>"Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>PAAS Yearbook</em>. 2020. Forthcoming.</p>
 <p>"'True Places Never Are': Navigating (Trans)Oceanic Imaginations in 'Moby-Dick.'" <em>American Studies Over_Seas</em>. Forthcoming.</p>
 <p>"Spatial Imaginations and Counter-Geographies of Oregon and the Far West." <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Forthcoming.</p>
 <p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. Vol. 3. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.degruyter.com/view/product/518315" target="_blank">Print</a>.</p>
