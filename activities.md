@@ -5,10 +5,12 @@ subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
 ---
 
 {: .box-success}
-**Updated:** 14 February 2020
+**Updated:** 5 July 2020
 
 ## Presentations
-<p>"Mapping Discourse in Richard Henry Dana's <i>Two Years Before the Mast</i>." DoktorandInnen Posterkonferenz der Philologischen Fakultät. Leipzig. 28 January 2020. <a href="https://www.philol.uni-leipzig.de/uploads/Posterkonferenz.pdf" target="_blank">Poster Presentation</a>.</p>
+<p>"Doing Nature's Work: Subaltern Economies and Socialist Social Darwinism in Jack London's Writings." <em>SANAS 2021</em>. <a href="https://sanas20.com" target="_blank">Presentation</a>.</p>
+<p>"Mapping Discourse in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>Mapping Space - Mapping Time - Mapping Texts: A Virtual One-Day Conference</em>. Online. 29 September 2020. <a href="https://www.lancaster.ac.uk/chronotopic-cartographies/" target="_blank">Poster Presentation</a>.</p>
+<p>"Mapping Discourse in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>DoktorandInnen Posterkonferenz der Philologischen Fakultät</em>. Leipzig. 28 January 2020. <a href="https://www.philol.uni-leipzig.de/uploads/Posterkonferenz.pdf" target="_blank">Poster Presentation</a>.</p>
 <p>"The Rocky Roads of Empire: The Rocky Mountains as Hemispheric Nexus and Barrier to Manifest Destiny in Nineteenth-Century American Literature." <em>Mediating Mountains</em>. 46th Austrian Association for American Studies Conference. Innsbruck. 23 November 2019. <a href="https://www.uibk.ac.at/amerikastudien/aktuelles/veranstaltungen/aaas-konferenz-2019.html" target="_blank">Presentation</a>.</p>
 <p>"'True Places Never Are': Navigating Spatial Imaginations in <em>Moby-Dick</em>." <em>Over_Seas</em>: Melville, Whitman and all the Intrepid Sailors. Lisbon. 3 July 2019. <a href="https://www.overseas2019.com" target="_blank">Presentation</a>.</p>
 <p>"Figuring and Refiguring the Spatial Embodiment of Empire." <em>Nuestra América: Justice and Inclusion</em>. Latin American Studies Association Annual Conference. Boston. 25 May 2019. <a href="https://lasaweb.org/en/lasa2019/" target="_blank">Presentation</a>.</p>
