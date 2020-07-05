@@ -5,7 +5,7 @@ subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
 ---
 
 {: .box-success}
-**Updated:** February 14, 2020
+**Updated:** 14 February 2020
 
 ## Presentations
 <p>"Mapping Discourse in Richard Henry Dana's <i>Two Years Before the Mast</i>." DoktorandInnen Posterkonferenz der Philologischen Fakultät. Leipzig. 28 January 2020. <a href="https://www.philol.uni-leipzig.de/uploads/Posterkonferenz.pdf" target="_blank">Poster Presentation</a>.</p>
