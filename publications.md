@@ -5,9 +5,9 @@ subtitle: Published and Upcoming
 ---
 
 {: .box-success}
-**Updated:** 5 July 2020
+**Updated:** 7 July 2020
 
-## Peer-Reviewed Journals
+## Peer-reviewed Journals
 <p>"Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies." <em>ANGLICA: An International Journal of English Studies</em>. 2020. Forthcoming.</p>
 <p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik and Amerikanistik.</em> 2020. Forthcoming.</p>
 <p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank" rel="noopener">Open Access</a>.</p>
@@ -33,9 +33,9 @@ subtitle: Published and Upcoming
 <p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29.1 (2019): 105-107. <a href="https://www.comparativ.net/v2/article/view/2919" target="_blank">Print</a>.</p>
 
 ## Editing
-<p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-Editor. <a href="http://www.aspeers.com/2015" target="_blank">Print</a>.</p>
+<p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Print</a>.</p>
 
-## Online Publications
+## Online
 <p>"Mapping Discourse in R.H. Dana's 'Two Years Before the Mast.'" <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
 <p><em>European Network for Minor Mobilities in the Americas</em>. <a href="https://enmma.org" target="_blank">Website</a>.</p>
 <p>"Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature." <em>TRAFO – Blog for Transregional Research</em>. 10 April 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
