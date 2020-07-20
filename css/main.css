@@ -496,10 +496,9 @@ footer .theme-by {
   display: block;
   font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   font-weight: 300;
-  margin: 0 0 0;
 }
 .intro-header .post-heading .post-subheading {
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
