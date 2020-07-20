@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Short Biography
+title: Short Bio
 subtitle:
 ---
 
