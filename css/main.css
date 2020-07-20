@@ -358,8 +358,8 @@ footer .theme-by {
   font-style: italic;
   margin: 2px 0 5px 0;
 }
-.post-heading h2 {
-margin-bottom: 5px;
+.post-subheading {
+margin-bottom: 10px;
 }
 .post-preview .post-entry {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
