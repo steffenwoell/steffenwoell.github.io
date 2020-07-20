@@ -21,7 +21,10 @@ p {
   line-height: 1.5;
   margin: 15px 0px 15px 0px;
 }
-h1,h2,h3,h4,h5,h6 {
+h1 {
+  font-family: 'Lora', 'Times New Roman', serif;
+}
+h2,h3,h4,h5,h6 {
   font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   font-weight: 800;
 }
