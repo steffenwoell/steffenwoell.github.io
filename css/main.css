@@ -30,7 +30,7 @@ h2,h3,h4,h5,h6 {
   font-weight: bold;
 }
 h2,h3,h4,h5,h6 {
-  padding: 20px 0 5px 0;
+  padding: 10px 0 5px 0;
 }
 a {
   /*color: {{ site.link-col }};*/
