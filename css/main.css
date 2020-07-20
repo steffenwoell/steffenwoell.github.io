@@ -217,6 +217,9 @@ img {
 .navbar-custom .nav .navlinks-parent:after {
   content: " \25BC";
 }
+.navlinks-parent {
+  font-weight: normal;
+}
 .navbar-custom .nav .navlinks-children {
   width: 100%;
   display: none;
