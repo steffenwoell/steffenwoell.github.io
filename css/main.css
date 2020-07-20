@@ -218,7 +218,8 @@ img {
   content: " \25BC";
 }
 .navlinks-parent {
-  font-weight: normal;
+  font-weight: 100;
+  font-style: italic;
 }
 .navbar-custom .nav .navlinks-children {
   width: 100%;
