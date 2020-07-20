@@ -25,8 +25,12 @@ h1 {
   font-family: 'Lora', 'Times New Roman', serif;
   font-weight: bold;
 }
-h2,h3,h4,h5,h6 {
-  font-family: 'Lora', 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
+h2 {
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-weight: bold;
+}
+h3,h4,h5,h6 {
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   font-weight: bold;
 }
 h2,h3,h4,h5,h6 {

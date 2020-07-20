@@ -145,7 +145,7 @@ excerpt_length: 120
 title-separator: "-"
 
 # Ruby Date Format
-date_format: "%B %-d, %Y"
+date_format: "%-d %B %Y"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
