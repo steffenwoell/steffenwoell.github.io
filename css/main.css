@@ -30,7 +30,7 @@ h2,h3,h4,h5,h6 {
   font-weight: bold;
 }
 h2,h3,h4,h5,h6 {
-  padding: 10px 0 5px 0;
+  padding: 20px 0 5px 0;
 }
 a {
   /*color: {{ site.link-col }};*/
@@ -491,7 +491,7 @@ footer .theme-by {
   line-height: 1.1;
   display: block;
   font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
-  font-weight: 100;
+  font-weight: 600;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
