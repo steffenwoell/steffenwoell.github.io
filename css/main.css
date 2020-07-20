@@ -344,12 +344,13 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 36px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
   margin: -15px 0 6px 0;
   font-weight: 300;
+  font-size: 24px;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
