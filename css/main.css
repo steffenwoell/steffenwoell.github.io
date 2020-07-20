@@ -23,7 +23,7 @@ p {
 }
 h1 {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-weight: 800;
+  font-weight: bold;
 }
 h2,h3,h4,h5,h6 {
   font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
@@ -56,7 +56,7 @@ blockquote p:first-child {
 hr.small {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 2px;
+  border-width: 1px;
   border-color: inherit;
   border-radius: 3px;
 }
@@ -344,7 +344,7 @@ footer .theme-by {
   margin-top: 0;
 }
 .post-preview .post-subtitle {
-  margin: -10px 0 6px 0;
+  margin: -15px 0 6px 0;
   font-weight: 300;
 }
 .post-preview .post-meta,
@@ -491,7 +491,7 @@ footer .theme-by {
   line-height: 1.1;
   display: block;
   font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 300;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
