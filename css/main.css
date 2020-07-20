@@ -26,11 +26,11 @@ h1 {
   font-weight: bold;
 }
 h2,h3,h4,h5,h6 {
-  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
+  font-family: 'Lora', 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   font-weight: bold;
 }
 h2,h3,h4,h5,h6 {
-  padding: 10px 0 5px 0;
+  padding: 5px 0 5px 0;
 }
 a {
   /*color: {{ site.link-col }};*/
