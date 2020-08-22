@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Activities
-subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
+title: Conferences
+subtitle: Keynotes, Workshops, Teaching, Awards etc.
 ---
 
 {: .box-success}
-**Updated:** 5 July 2020
+**Updated:** 22 August 2020
+
+<p>&nbsp;</p>
 
 ## Presentations
 <p>"Doing Nature's Work: Subaltern Economies and Socialist Social Darwinism in Jack London's Writings." <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen. 2021. <a href="https://sanas20.com" target="_blank">Presentation</a>.</p>
@@ -32,11 +34,15 @@ subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
 <p>"Globe, Region, and Periphery: The Spatialization of the American West in Antebellum US Literature." <em>Collaborative Research Centre 1199</em>. Leipzig. 4 January 2017. Presentation.</p>
 <p>"Space and Place in American Studies." <em>Urban America: Mediating City Space as Place</em>, 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Keynote Address</a>.</p>
 
+<p>&nbsp;</p>
+
 ## Panel Organization
 <p>"Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century." <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Co-Chair.</p>
 <p><em>Regional Colloquium for American Studies</em>. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
 <p><em>Urban America: Mediating City Space as Place</em>. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Panel. Co-Organizer.</p>
 <p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. <a href="https://studytour2015.wordpress.com" target="_blank">Study Tour</a>. Co-Organizer.</p>
+
+<p>&nbsp;</p>
 
 ## Teaching
 <p><a href="http://americanstudies.uni-leipzig.de/content/research-bash" target="_blank">ASL Research Bash</a>. <em>American Studies Leipzig</em>. 25 June 2019.</p>
@@ -44,12 +50,14 @@ subtitle: Conferences, Keynotes, Workshops, Teaching, Awards
 <p>"Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature." <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Semester 2017/18. Seminar.</p>
 <p>"Racial Mixture as a Monstrous Threat in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Mixed Race America in U.S. Literature</em>. Leipzig. 8 June 2016. Guest Lecture.</p>
 
-## Research Stays
-<p>Center for Pacific Island Studies. <em>University of Hawai'i, Manoa</em>. 2020.</p>
-<p>Huntington Library. <em>University of California, Los Angeles</em>. 2020.</p>
-<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020.</p>
-<p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020.</p>
-<p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017.</p>
+<p>&nbsp;</p>
+
+## Field Studies
+<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG.</p>
+<p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by DFG.</p>
+<p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG.</p>
+
+<p>&nbsp;</p>
 
 ## Grants & Awards
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
