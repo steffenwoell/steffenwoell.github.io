@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conferences
+title: Activities
 subtitle: Keynotes, Workshops, Teaching, Awards etc.
 ---
 
