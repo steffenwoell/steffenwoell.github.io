@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Activities
-subtitle: Keynotes, Workshops, Teaching, Awards etc.
+subtitle: Conferences, Workshops, Teaching ...
 ---
 
 {: .box-success}
-**Updated:** 22 August 2020
+**Updated:** 23 August 2020
 
 <p>&nbsp;</p>
 
