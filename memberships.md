@@ -3,6 +3,10 @@ layout: page
 title: Memberships
 subtitle: Associations and Research Networks
 ---
+
+{: .box-success}
+**Updated:** 23 August 2020
+
 <p><a href="http://dgfa.de" target="_blank">DGfA</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
 <p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA</a> (Society of Early Americanists)</p>
 <p><a href="http://mpcaaca.org" target="_blank">MPCA/ACA</a> (The Midwest Popular and American Culture Association)</p>
