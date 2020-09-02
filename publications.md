@@ -5,12 +5,12 @@ subtitle: Published and Upcoming
 ---
 
 {: .box-success}
-**Updated:** 22 August 2020
+**Updated:** 2 September 2020
 
 <p>&nbsp;</p>
 
 ## Monographs
-<p><em>The West and the World: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2021. <a href="https://www.degruyter.com/view/title/573797" target="_blank">Forthcoming</a>.</p>
+<p><em>The West and the World: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://www.degruyter.com/view/title/573797" target="_blank">Forthcoming</a>.</p>
 
 <p>&nbsp;</p>
 
@@ -30,7 +30,7 @@ subtitle: Published and Upcoming
 <p>"Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>PAAS Yearbook</em>. 2020. Forthcoming.</p>
 <p>"'True Places Never Are': Navigating (Trans)Oceanic Imaginations in 'Moby-Dick.'" <em>American Studies Over_Seas</em>. 2020. Forthcoming.</p>
 <p>"Spatial Imaginations and Counter-Geographies of Oregon and the Far West." <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. 2020. Forthcoming.</p>
-<p>"'Fear Thy Neighbor': Paranoia and Suburban Victim-Hood in Mark Pellington's <em>Arlington Road</em>." Traditions and Transitions. Vol 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2020: 290-302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Print</a>.</p>
+<p>"'Fear Thy Neighbor': Paranoia and Suburban Victim-Hood in Mark Pellington's <em>Arlington Road</em>." <em>Traditions and Transitions</em>. Vol 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2020: 290-302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Print</a>.</p>
 <p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. Vol. 3. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.degruyter.com/view/product/518315" target="_blank">Print</a>.</p>
 <p>"Spatiality and Psyche: Surviving the Yukon in Jack London's 'Love of Life' and 'To Build a Fire.'" <em>Processes of Spatialization in the Americas: Configurations and Narratives</em>. Interamericana. Vol. 13. Eds. Gabriele Pisarz-Ramirez and Hannes Warnecke-Berger. Peter Lang, 2019: 75-98. <a href="https://www.peterlang.com/view/title/65439" target="_blank">Print</a>.</p>
 <p>"Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States." <em>Collaborative Research Centre 1199</em>. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. Leipziger Universitätsverlag, 2018. <a href="https://research.uni-leipzig.de/~sfb1199/publication/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/" target="_blank">Print</a>.</p>
