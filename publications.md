@@ -45,7 +45,7 @@ subtitle: Published and Upcoming
 
 ## Editing
 
-<p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Print</a>.</p>
+<p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access</a>.</p>
 
 <p>&nbsp;</p>
 
