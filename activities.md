@@ -45,6 +45,7 @@ subtitle: Conferences, Workshops, Teaching ...
 <p>&nbsp;</p>
 
 ## Teaching
+<p>"Reading the Transpacific: Asian American Cultures and Identities." <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Semester 2020/21. Seminar.</p>
 <p><a href="http://americanstudies.uni-leipzig.de/content/research-bash" target="_blank">ASL Research Bash</a>. <em>American Studies Leipzig</em>. 25 June 2019.</p>
 <p>"Racial Mixture as a Monstrous Threat in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Mixed Race America in U.S. Literature</em>. Leipzig. 13 June 2018. Guest Lecture.</p>
 <p>"Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature." <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Semester 2017/18. Seminar.</p>
