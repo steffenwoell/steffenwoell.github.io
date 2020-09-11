@@ -5,7 +5,7 @@ subtitle: Conferences, Workshops, Teaching ...
 ---
 
 {: .box-success}
-**Updated:** 23 August 2020
+**Updated:** 10 September 2020
 
 <p>&nbsp;</p>
 
@@ -40,7 +40,6 @@ subtitle: Conferences, Workshops, Teaching ...
 <p>"Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century." <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Co-Chair.</p>
 <p><em>Regional Colloquium for American Studies</em>. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
 <p><em>Urban America: Mediating City Space as Place</em>. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Panel. Co-Organizer.</p>
-<p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. <a href="https://studytour2015.wordpress.com" target="_blank">Study Tour</a>. Co-Organizer.</p>
 
 <p>&nbsp;</p>
 
@@ -50,6 +49,7 @@ subtitle: Conferences, Workshops, Teaching ...
 <p>"Racial Mixture as a Monstrous Threat in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Mixed Race America in U.S. Literature</em>. Leipzig. 13 June 2018. Guest Lecture.</p>
 <p>"Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature." <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Semester 2017/18. Seminar.</p>
 <p>"Racial Mixture as a Monstrous Threat in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Mixed Race America in U.S. Literature</em>. Leipzig. 8 June 2016. Guest Lecture.</p>
+<p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. <a href="https://studytour2015.wordpress.com" target="_blank">Study Tour</a>. Co-Organizer.</p>
 
 <p>&nbsp;</p>
 
