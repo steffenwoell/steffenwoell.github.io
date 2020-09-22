@@ -23,7 +23,7 @@ navbar-links:
   Bio: "bio"
   Publications: "publications"
   Projects: "projects"
-  Blog: "blog.html"
+  Blog: "blog"
   More:
   - Activities: "activities"
   - Memberships: "memberships"
