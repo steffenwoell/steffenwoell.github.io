@@ -15,7 +15,7 @@ For general matters, please contact me at `steffen.woell@uni-leipzig.de`
 ## Phone
 
 {: .box-note}
-*Office*: `+49 (341) 973 77 52`  
+Office: `+49 (341) 973 77 52`  
 
 ## Postal Address (V.i.S.d.P.)
 

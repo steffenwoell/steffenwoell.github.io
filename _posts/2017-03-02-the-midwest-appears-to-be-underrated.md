@@ -9,7 +9,7 @@ What a great day in Tulsa with Maša and Carl and what an epic way to lose my je
 
 Definitely worth it.
 
-By the way, Carl should really work as a tour guide, I learned so much about the city, the state, and the Midwest, it’s amazing. Short version: it has a lot to do with oil, dust, and tears. Oh, and there were also some tornadoes and grass fires today.
+By the way, Carl should really work as a tour guide, I learned so much about the city, the state, and the Midwest, it's amazing. Short version: it has a lot to do with oil, dust, and tears. Oh, and there were also some tornadoes and grass fires today.
 
 Stay safe,
 

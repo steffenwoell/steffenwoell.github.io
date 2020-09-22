@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Publications
-subtitle: Published and Upcoming
+subtitle: Published and Forthcoming
 ---
 
 {: .box-success}
-**Updated:** 10 September 2020
+**Updated:** 22 September 2020
 
 <p>&nbsp;</p>
 
@@ -19,7 +19,7 @@ subtitle: Published and Upcoming
 <p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik and Amerikanistik.</em> 2020. Forthcoming.</p>
 <p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
 <p>"Bleeding Borders: Space, Blackness, and Hybridity in Jack London's Representations of the American Southwest." <em>Amerikastudien / American Studies </em>63.1 (2018): 5–28. <a href="https://amst.winter-verlag.de/article/AMST/2018/1/3" target="_blank">Open Access</a>.</p>
-<p>"Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón’s <em>Gravity</em>." <em>Polish Journal for American Studies</em> 11 (2017): 203–222. <a href="http://www.paas.org.pl/pjas/pjas-archive/" target="_blank">Print</a>.</p>
+<p>"Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón's <em>Gravity</em>." <em>Polish Journal for American Studies</em> 11 (2017): 203–222. <a href="http://www.paas.org.pl/pjas/pjas-archive/" target="_blank">Print</a>.</p>
 <p>"Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger's <em>Ragged Dick</em>." <em>Emotion, Space and Society</em> 24 (2017): 1–8. <a href="http://www.sciencedirect.com/science/article/pii/S1755458616301359" target="_blank">Print</a>.</p>
 <p>"Inertia and Movement: The Spatialization of the Native Northland in Jack London's Short Stories." <em>GeoHumanities</em> 3.1 (2017): 65–87. <a href="http://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821" target="_blank">Print</a>.</p>
 <p>"American Health." <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
