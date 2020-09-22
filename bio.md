@@ -21,4 +21,4 @@ My research interests include
 * Trans-hemispheric and trans-oceanic (re)visions of fin de siècle imperialism
 * (Sub)cultural and millennialist apocalypticism
 
-A complete list of publications [can be found here](../publications).
+A complete list of publications can be found [here](../publications).
