@@ -4,7 +4,7 @@
 title: Steffen Wöll
 
 # Short description of your site
-description: Leipzig University / SFB 1199
+description: Leipzig University ~ SFB 1199
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,6 +23,7 @@ navbar-links:
   Bio: "bio"
   Publications: "publications"
   Projects: "projects"
+  Blog: "blog.html"
   More:
   - Activities: "activities"
   - Memberships: "memberships"
