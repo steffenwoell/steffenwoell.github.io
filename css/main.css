@@ -50,6 +50,11 @@ a:focus {
   -moz-transition: color .3s ease-in-out;
   transition: color .3s ease-in-out;
 }
+a.link-header {
+  font-weight: normal;
+  text-decoration: none;
+}
+}
 blockquote {
   color: #808080;
   font-style: italic;
