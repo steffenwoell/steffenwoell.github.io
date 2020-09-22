@@ -56,7 +56,7 @@ a.link-header {
 }
 a.link-header:hover,
 a.link-header:focus {
-  text-decoration: underline;
+  color: #404040;
 }
 blockquote {
   color: #808080;
