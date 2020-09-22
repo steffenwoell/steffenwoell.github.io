@@ -5,68 +5,21 @@ subtitle: Leipzig University ~ SFB 1199
 use-site-title: true
 ---
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+{: .box-success}
+**Updated:** 2 September 2020
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
+{: .box-note}
+For a complete CV see my <a href="https://www.uni-leipzig.de/personenprofil/mitarbeiter/steffen-adrian-woell/" target="_blank">personal profile at Leipzig University</a>.
 
-    <p class="post-meta">
-    {{ post.date | date: site.date_format }}
-    </p>
+Working as a postdoctoral fellow at Leipzig University's [Collaborative Research Centre 1199](https://research.uni-leipzig.de/~sfb1199/), I am currently in the process of publishing my doctoral thesis with the title "The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse."
 
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | relative_url }}" class="post-read-more">Read&nbsp;More</a>
-        {% endif %}
-      </div>
-    </div>
+In 2016, I received my master’s degree from the [Institute for American Studies](http://americanstudies.uni-leipzig.de) at Leipzig University with a paper about "American Spaces: Renegotiations of Cultural Geographies and Counter-Drafts to Spatial Master Narratives of the American West in Jack London’s Short Stories."
 
-  <!--  {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %} -->
+My research interests include
 
-   </article>
-  {% endfor %}
-</div>
+* Imaginations and representations of spatio-cultural (meta)narratives
+* The narrative nexus of space, mobility, agency, and otherness
+* Trans-hemispheric and trans-oceanic (re)visions of fin de siècle imperialism
+* (Sub)cultural and millennialist apocalypticism
 
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+A complete list of publications can be found [here](../publications).
