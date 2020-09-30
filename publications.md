@@ -14,7 +14,7 @@ subtitle: Published and Forthcoming
 
 <p>&nbsp;</p>
 
-## Articles
+## Peer-Reviewed Articles
 <p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik and Amerikanistik.</em> 2020. Forthcoming.</p>
 <p>"Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies." <em>ANGLICA: An International Journal of English Studies</em> 29.1 (2020): 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
 <p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
