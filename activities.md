@@ -5,12 +5,15 @@ subtitle: Conferences, Workshops, Teaching ...
 ---
 
 {: .box-success}
-**Updated:** 28 September 2020
+**Updated:** 2 October 2020
 
 <p>&nbsp;</p>
 
 ## Presentations
 <p>"Doing Nature's Work: Subaltern Economies and Socialist Social Darwinism in Jack London's Writings." <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen. 2021. <a href="https://sanas20.com" target="_blank">Presentation</a>.</p>
+<p>"The Naturalists' Frontier: Ethnic Mobilities in Jack London's Literary Geographies." <em>American Literature Association Annual Conference</em>. Boston. 27–30 May 2021. Presentation.</p>
+<p>"The Space Between Oceans: Mobilizing America's Transoceanic Empire." <em>SFB 1199, 5th Annual Conference</em>. Leipzig. 8 October 2020. <a href="https://research.uni-leipzig.de/~sfb1199/annual-conference/" target="_blank">Presentation</a>.</p>
+<p>"The Naturalists' Frontier: Ethnic Mobilities in Jack London's Literary Geographies." <em>American Literature Association Annual Conference</em>. San Diego. 21–24 May 2020. Presentation. [<red>Canceled due to COVID-19</red>]</p>
 <p>"Mapping Discourse in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>Mapping Space - Mapping Time - Mapping Texts: A Virtual One-Day Conference</em>. Online. 29 September 2020. <a href="https://www.flickr.com/photos/189983859@N08/50294560072/" target="_blank">Poster</a> <a href="https://www.lancaster.ac.uk/chronotopic-cartographies/" target="_blank">Presentation</a>.</p>
 <p>"Mapping Discourse in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>DoktorandInnen Posterkonferenz der Philologischen Fakultät</em>. Leipzig. 28 January 2020. <a href="https://www.philol.uni-leipzig.de" target="_blank">Poster Presentation</a>.</p>
 <p>"The Rocky Roads of Empire: The Rocky Mountains as Hemispheric Nexus and Barrier to Manifest Destiny in Nineteenth-Century American Literature." <em>Mediating Mountains</em>. 46th Austrian Association for American Studies Conference. Innsbruck. 23 November 2019. <a href="https://www.uibk.ac.at/amerikastudien/aktuelles/veranstaltungen/aaas-konferenz-2019.html" target="_blank">Presentation</a>.</p>
