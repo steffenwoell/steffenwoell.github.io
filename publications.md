@@ -5,7 +5,7 @@ subtitle: Published and Forthcoming
 ---
 
 {: .box-success}
-**Updated:** 26 October 2020
+**Updated:** 17 November 2020
 
 <p>&nbsp;</p>
 
@@ -15,7 +15,7 @@ subtitle: Published and Forthcoming
 <p>&nbsp;</p>
 
 ## Peer-Reviewed Articles
-<p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik and Amerikanistik.</em> 2020. Forthcoming.</p>
+<p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik and Amerikanistik</em> 68.3 (2020): 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
 <p>"Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies." <em>ANGLICA: An International Journal of English Studies</em> 29.1 (2020): 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
 <p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
 <p>"Bleeding Borders: Space, Blackness, and Hybridity in Jack London's Representations of the American Southwest." <em>Amerikastudien / American Studies </em>63.1 (2018): 5–28. <a href="https://amst.winter-verlag.de/article/AMST/2018/1/3" target="_blank">Open Access</a>.</p>
@@ -37,9 +37,12 @@ subtitle: Published and Forthcoming
 <p>&nbsp;</p>
 
 ## Reviews
+<p>Peer Reviewer for <em><a href="https://www.pfw.edu/clio/" target="_blank">Clio: A Journal of Literature, History, and the Philosophy of History</a></em>.</p>
+<p>Peer Reviewer for <em><a href="https://angl.winter-verlag.de" target="_blank">Anglistik</a></em> 31.2 (2020).</p>
 <p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em>. Forthcoming.</p>
 <p>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880–1930</em> by Dominic Davies. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29.5 (2019): 102–103. <a href="https://www.comparativ.net/v2/issue/view/158" target="_blank">Print</a>.</p>
 <p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29.1 (2019): 105–107. <a href="https://www.comparativ.net/v2/issue/view/154" target="_blank">Print</a>.</p>
+
 <p>&nbsp;</p>
 
 ## Editing
