@@ -4,12 +4,9 @@ title: Contact
 subtitle: Get in Touch
 ---
 
-{: .box-success}
-**Updated:** 12 November 2020
-
 ## E-Mail
 
-{: .box-note}
+{: .box-success}
 For general matters, please contact me at `steffen.woell@uni-leipzig.de`
 
 ## Phone
