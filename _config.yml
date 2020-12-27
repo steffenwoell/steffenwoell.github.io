@@ -22,7 +22,7 @@ description: Leipzig University ~ SFB 1199
 navbar-links:
 #  Bio: "bio"
   Publications: "publications"
-  Blog: "blog"
+  Journal: "journal"
   Contact: "contact"
   More:
   - Activities: "activities"
