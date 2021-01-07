@@ -8,7 +8,8 @@ subtitle: Published and Forthcoming
 **Updated:** 7 January 2021
 
 ## Books
-<p><em>The West and the World: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://www.degruyter.com/view/title/573797" target="_blank">Print</a>.</p>
+{: .box-warning}
+*The West and the World: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse*. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://www.amazon.de/West-Word-Formatting-Nineteenth-Century-Dialectics/dp/3110690004/" target="_blank">Print</a>.
 
 <p>&nbsp;</p>
 
