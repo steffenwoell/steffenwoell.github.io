@@ -5,7 +5,7 @@ subtitle: Published and Forthcoming
 ---
 
 {: .box-success}
-**Updated:** 17 November 2020
+**Updated:** 7 January 2021
 
 <p>&nbsp;</p>
 
@@ -15,6 +15,7 @@ subtitle: Published and Forthcoming
 <p>&nbsp;</p>
 
 ## Peer-Reviewed Articles
+<p>"Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>Polish Journal for American Studies</em>. 2020. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
 <p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik und Amerikanistik</em> 68.3 (2020): 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
 <p>"Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies." <em>ANGLICA: An International Journal of English Studies</em> 29.1 (2020): 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
 <p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
@@ -26,7 +27,6 @@ subtitle: Published and Forthcoming
 <p>&nbsp;</p>
 
 ## Edited Volumes
-<p>"Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>PAAS Yearbook</em>. 2020. Forthcoming.</p>
 <p>"'True Places Never Are': Navigating (Trans)Oceanic Imaginations in 'Moby-Dick.'" <em>American Studies Over_Seas</em>. 2020. Forthcoming.</p>
 <p>"Spatial Imaginations and Counter-Geographies of Oregon and the Far West." <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. 2020. Forthcoming.</p>
 <p>"'Fear Thy Neighbor': Paranoia and Suburban Victim-Hood in Mark Pellington's <em>Arlington Road</em>." <em>Traditions and Transitions</em>. Vol 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2019: 290–302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Open Access</a>.</p>
