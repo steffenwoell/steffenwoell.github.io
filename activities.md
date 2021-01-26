@@ -9,7 +9,7 @@ subtitle: Conferences, Workshops, Teaching ...
 
 <p>&nbsp;</p>
 
-## Conferences
+## Conference Presentations
 <p>"Doing Nature's Work: Subaltern Economies and Socialist Social Darwinism in Jack London's Writings." <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen. 2021. <a href="https://sanas20.com" target="_blank">Presentation</a>.</p>
 <p>"The Naturalists' Frontier: Ethnic Mobilities in Jack London's Literary Geographies." <em>American Literature Association Annual Conference</em>. Boston. 27–30 May 2021. <a href="https://americanliteratureassociation.org/ala-conferences/ala-annual-conference/" target="_blank">Presentation</a>.</p>
 <p>"Der Raum zwischen Ozeanen / The Space Between Oceans: Mobilizing America's Transoceanic Empire." <em>Forschungskonferenz der Philologischen Fakultät Leipzig</em>. Online. 26 January 2020. <a href="https://www.philol.uni-leipzig.de/institut-fuer-anglistik/newsdetail/artikel/forschungskonferenz-der-philologischen-fakultaet-2021-01-26-1/" target="_blank">Presentation</a>.</p>
@@ -42,7 +42,7 @@ subtitle: Conferences, Workshops, Teaching ...
 
 <p>&nbsp;</p>
 
-## Panels
+## Panel Organization
 <p>"Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century." <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Co-Chair.</p>
 <p><em>Regional Colloquium for American Studies</em>. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
 <p><em>Urban America: Mediating City Space as Place</em>. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Panel. Co-Organizer.</p>
