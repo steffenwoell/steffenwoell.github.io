@@ -5,7 +5,7 @@ subtitle: Published and Forthcoming
 ---
 
 {: .box-success}
-**Updated:** 11 January 2021
+**Updated:** 29 January 2021
 
 ## Books
 
@@ -51,7 +51,8 @@ subtitle: Published and Forthcoming
 
 <p>&nbsp;</p>
 
-## Miscellaneous
+## Other Publications
+<p>"The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse." <em>TRAFO – Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361" target="_blank">Web</a>.</p>
 <p>"Mapping Discourse in R.H. Dana's 'Two Years Before the Mast.'" <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
 <p><em>European Network for Minor Mobilities in the Americas</em>. <a href="https://enmma.org" target="_blank">Website</a>.</p>
 <p>"Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature." <em>TRAFO – Blog for Transregional Research</em>. 10 April 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
