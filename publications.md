@@ -5,7 +5,7 @@ subtitle: Published and Forthcoming
 ---
 
 {: .box-success}
-**Updated:** 29 January 2021
+**Updated:** 10 February 2021
 
 ## Books
 
@@ -27,6 +27,8 @@ subtitle: Published and Forthcoming
 <p>&nbsp;</p>
 
 ## Edited Volumes
+<p>"The Transatlantic Origins of the Western: A Bilingual Approach to Charles Sealsfield." <em>EAAS</em>. Eds. Christopher Conway (University of Texas, Arlington), David Rio (University of the Basque Country), Marek Paryz (University of Warsaw). 2022. Forthcoming.</p>
+<p>"Playing the Race Card: The Racial Dynamics of Lovecraftian Board Games." <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. 2022. Forthcoming.</p>
 <p>"'True Places Never Are': Navigating (Trans)Oceanic Imaginations in 'Moby-Dick.'" <em>American Studies Over_Seas</em>. 2021. Forthcoming.</p>
 <p>"Spatial Imaginations and Counter-Geographies of Oregon and the Far West." <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. 2021. Forthcoming.</p>
 <p>"'Fear Thy Neighbor': Paranoia and Suburban Victim-Hood in Mark Pellington's <em>Arlington Road</em>." <em>Traditions and Transitions</em>. Vol. 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2019: 290–302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Open Access</a>.</p>

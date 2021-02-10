@@ -5,7 +5,7 @@ subtitle: Conferences, Workshops, Teaching ...
 ---
 
 {: .box-success}
-**Updated:** 2 February 2021
+**Updated:** 10 February 2021
 
 <p>&nbsp;</p>
 
@@ -13,7 +13,7 @@ subtitle: Conferences, Workshops, Teaching ...
 <p>"Doing Nature's Work: Subaltern Economies and Socialist Social Darwinism in Jack London's Writings." <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen. 2021. <a href="https://sanas20.com" target="_blank">Presentation</a>.</p>
 <p>"The Naturalists' Frontier: Ethnic Mobilities in Jack London's Literary Geographies." <em>American Literature Association Annual Conference</em>. Boston. 27–30 May 2021. <a href="https://americanliteratureassociation.org/ala-conferences/ala-annual-conference/" target="_blank">Presentation</a>.</p>
 <p>"No Single Logic: Reassembling Human Geographies of the Louisiana Territory Through Biographies and Life Writing." <em>Assemblages of Empire: An American Studies Symposium</em>. University of Texas, Austin. 4-5 March 2021. <a href="https://aisna-graduates.online/2020/11/16/31-12-2020-cfp-assemblages-of-empire-an-american-studies-symposium/?fbclid=IwAR3YsIuC5esLnE5DB-6Iih_Xx3B4Dm0AwJV_75a6UGYDIsx0fQKtytCZUrQ" target="_blank">Presentation</a>.</p>
-<p>"Der Raum zwischen Ozeanen / The Space Between Oceans: Mobilizing America's Transoceanic Empire." <em>Forschungskonferenz der Philologischen Fakultät Leipzig</em>. Online. 26 January 2020. <a href="https://www.philol.uni-leipzig.de/institut-fuer-anglistik/newsdetail/artikel/forschungskonferenz-der-philologischen-fakultaet-2021-01-26-1/" target="_blank">Presentation</a>.</p>
+<p>"Der Raum zwischen Ozeanen / The Space Between Oceans: Mobilizing America's Transoceanic Empire." <em>Forschungskonferenz der Philologischen Fakultät Leipzig</em>. Online. 26 January 2021. <a href="https://www.philol.uni-leipzig.de/institut-fuer-anglistik/newsdetail/artikel/forschungskonferenz-der-philologischen-fakultaet-2021-01-26-1/" target="_blank">Presentation</a>.</p>
 <p>"The Space Between Oceans: Mobilizing America's Transoceanic Empire." <em>Fifth Annual Conference of the SFB 1199: Mobilities under the Global Condition from the 19th Century to the Present</em>. Leipzig/Online. 8 October 2020. <a href="https://research.uni-leipzig.de/~sfb1199/annual-conference/" target="_blank">Presentation</a>.</p>
 <p>"The Naturalists' Frontier: Ethnic Mobilities in Jack London's Literary Geographies." <em>American Literature Association Annual Conference</em>. San Diego. 21–24 May 2020. <a href="http://americanliteratureassociation.org/ala-conferences/ala-2020-and-covid-19/" target="_blank">Presentation</a>. [<em>Canceled due to COVID-19</em>]</p>
 <p>"Mapping Discourse in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>Mapping Space - Mapping Time - Mapping Texts: A Virtual One-Day Conference</em>. Online. 29 September 2020. <a href="https://www.flickr.com/photos/189983859@N08/50294560072/" target="_blank">Poster</a> <a href="https://www.lancaster.ac.uk/chronotopic-cartographies/" target="_blank">Presentation</a>.</p>
