@@ -24,7 +24,9 @@
           {%- endfor -%}
         </ul>
       <p class="copyright text-muted">
-      {{ "Steffen Wöll 2021" }}
+      &copy;  <script type="text/javascript">
+    document.write(new Date().getFullYear());
+  </script>
       {% if site.url-pretty %}
       &nbsp;&ndash;&nbsp;
       <a href="{{ '' | absolute_url }}" style="text-decoration: none">{{ site.url-pretty }}</a>
