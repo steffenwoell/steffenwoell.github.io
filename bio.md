@@ -5,14 +5,12 @@ subtitle:
 ---
 
 {: .box-success}
-**Updated:** 2 September 2020
+**Updated:** 22 April 2021
 
 {: .box-note}
 For a complete CV see my <a href="https://www.uni-leipzig.de/personenprofil/mitarbeiter/steffen-adrian-woell/" target="_blank">personal profile at Leipzig University</a>.
 
-Working as a postdoctoral fellow at Leipzig University's [Collaborative Research Centre 1199](https://research.uni-leipzig.de/~sfb1199/), I am currently in the process of publishing my doctoral thesis with the title "The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse."
-
-In 2016, I received my master's degree from the [Institute for American Studies](http://americanstudies.uni-leipzig.de) at Leipzig University with a paper about "American Spaces: Renegotiations of Cultural Geographies and Counter-Drafts to Spatial Master Narratives of the American West in Jack London's Short Stories."
+Working as a postdoctoral fellow at Leipzig University's [Collaborative Research Centre 1199](https://research.uni-leipzig.de/~sfb1199/), I have published articles on various and intersectional topics of American studies, including postmodern and naturalist literature, spatial imaginations, border studies, as well as film and horror studies. Recently, the monograph *The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse* (2020) was published with de Gruyter.
 
 My research interests include
 
