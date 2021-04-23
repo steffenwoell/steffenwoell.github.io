@@ -6,8 +6,8 @@ layout: null
 
 /* --- General --- */
 
-.fab {font-weight:300;}
-.fas {font-weight:300;}
+.fab {font-weight: 300;}
+.fas {font-weight: 300; background-color: #404040;}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
