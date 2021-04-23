@@ -7,7 +7,7 @@ title: Publications
 **Updated:** 23 April 2021
 
 {: .box-note}
-**ORCID:** `0000-0003-1582-6078`
+`**ORCID:** 0000-0003-1582-6078`
 
 ## Monographs
 
