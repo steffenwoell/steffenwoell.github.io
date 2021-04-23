@@ -72,17 +72,9 @@ name:
 social-network-links:
   rss: true
   email: "steffen.woell@uni-leipzig.de"
-#  github: steffenwoell
   researchgate: Steffen-Woell
   facebook: steffen.woell
   instagram: streetart_leipzig
-#  reddit: yourname
-#  linkedin: yourname
-#  xing: yourname
-#  youtube: yourname
-#  spotify: yourname
-#  telephone: yournumber
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -94,17 +86,6 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "steffenwoell.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
-# --- Web Statistics Section --- #
-
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: "UA-150194933-1"
-
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
-
-# Google Tag Manager ID
-#gtm: ""
-
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -112,9 +93,6 @@ url-pretty: "steffenwoell.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
-
-# To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
@@ -128,9 +106,6 @@ staticman:
     secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
-
-# Facebook App ID
-# fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page

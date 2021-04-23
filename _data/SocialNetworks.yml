@@ -8,7 +8,7 @@
 
 researchgate:
   name: "ResearchGate"
-  baseURL: "https://www.researchgate.net/"
+  baseURL: "https://www.researchgate.net/Profile/"
   icon: "fa-researchgate"
 
 facebook:
@@ -31,11 +31,6 @@ twitter:
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
 
-reddit:
-  name: "Reddit"
-  baseURL: "https://reddit.com/u/"
-  icon: "fa-reddit"
-
 email:
   name: "E-Mail"
   baseURL: "mailto:"
@@ -55,11 +50,6 @@ stackoverflow:
   name: "StackOverflow"
   baseURL: "https://stackoverflow.com/users/"
   icon: "fa-stack-overflow"
-
-snapchat:
-  name: "Snapchat"
-  baseURL: "https://www.snapchat.com/add/"
-  icon: "fa-snapchat-ghost"
 
 instagram:
   name: "Instagram"
@@ -95,8 +85,3 @@ twitch:
   name: "Twitch"
   baseURL: "https://www.twitch.tv/"
   icon: "fa-twitch"
-
-yelp:
-  name: "Yelp"
-  baseURL: "https://{{ site.author.yelp }}.yelp.com"
-  icon: "fa-yelp"
