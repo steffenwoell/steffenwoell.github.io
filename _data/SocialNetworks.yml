@@ -39,7 +39,7 @@ twitter:
 email:
   name: "E-Mail"
   baseURL: "mailto:"
-  icon: "fas fa-at"
+  icon: "far fa-paper-plane"
 
 linkedin:
   name: "LinkedIn"
