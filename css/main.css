@@ -6,9 +6,9 @@ layout: null
 
 /* --- General --- */
 
-.copyright text-muted {padding-top: 10px;}
+.copyright text-muted {margin-top: 12px;}
 
-.creativecommons {padding-top: 40px;}
+.creativecommons {margin-top: 40px; text-align: center;}
 
 .fab {font-weight: 300;}
 
