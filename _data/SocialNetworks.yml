@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+orcid:
+  name: "ORCID"
+  baseURL: "https://orcid.org/"
+  icon: "fa-orcid"
+
 researchgate:
   name: "ResearchGate"
   baseURL: "https://www.researchgate.net/Profile/"
