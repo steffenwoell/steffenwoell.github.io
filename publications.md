@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Publications
-subtitle: Published and Forthcoming
 ---
 
 {: .box-success}
 **Updated:** 22 April 2021
+
+{: .box-info}
+**ORCID:** `0000-0003-1582-6078`
 
 ## Monographs
 
