@@ -9,12 +9,12 @@
 orcid:
   name: "ORCID"
   baseURL: "https://orcid.org/"
-  icon: "fab fa-orcid"
+  icon: "fa-orcid"
 
 researchgate:
   name: "ResearchGate"
   baseURL: "https://www.researchgate.net/Profile/"
-  icon: "fab fa-researchgate"
+  icon: "fa-researchgate"
 
 facebook:
   name: "Facebook"
