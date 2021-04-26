@@ -13,7 +13,7 @@ orcid:
 
 researchgate:
   name: "ResearchGate"
-  baseURL: "https://www.researchgate.net/Profile/"
+  baseURL: "https://www.researchgate.net/profile/"
   icon: "fab fa-researchgate"
 
 facebook:
