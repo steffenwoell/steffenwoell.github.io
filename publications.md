@@ -17,7 +17,7 @@ ORCID: `0000-0003-1582-6078`
 <p>&nbsp;</p>
 
 ## Peer-Reviewed Journals
-<p>"Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana's <em>Two Years Before the Mast</em>." <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
+<p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana's <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
 <p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik und Amerikanistik</em> 68 (2020) 3: 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
 <p>"Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies." <em>ANGLICA: An International Journal of English Studies</em> 29 (2020) 1: 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
 <p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
