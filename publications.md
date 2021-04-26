@@ -4,7 +4,7 @@ title: Publications
 ---
 
 {: .box-success}
-**Updated:** 23 April 2021
+**Updated:** 26 April 2021
 
 {: .box-note}
 ORCID: `0000-0003-1582-6078`
@@ -17,26 +17,26 @@ ORCID: `0000-0003-1582-6078`
 <p>&nbsp;</p>
 
 ## Peer-Reviewed Journals
-<p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana's <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
-<p>"The Horrors of the Oriental Space and Language in H.P. Lovecraft's 'The Shadow over Innsmouth.'" <em>Zeitschrift für Anglistik und Amerikanistik</em> 68 (2020) 3: 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
-<p>"Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies." <em>ANGLICA: An International Journal of English Studies</em> 29 (2020) 1: 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
-<p>"'To Be Murdered': Simulations of Objectivity, Subjectivity, and Violence in Truman Capote's <em>In Cold Blood</em>." <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
-<p>"Bleeding Borders: Space, Blackness, and Hybridity in Jack London's Representations of the American Southwest." <em>Amerikastudien / American Studies </em>63 (2018) 1: 5-28. <a href="https://amst.winter-verlag.de/article/AMST/2018/1/3" target="_blank">Open Access</a>.</p>
-<p>"Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón's <em>Gravity</em>." <em>Polish Journal for American Studies</em> 11 (2017): 203–222. <a href="http://www.paas.org.pl/pjas/pjas-archive/" target="_blank">Print</a>.</p>
-<p>"Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger's <em>Ragged Dick</em>." <em>Emotion, Space and Society</em> 24 (2017): 1–8. <a href="http://www.sciencedirect.com/science/article/pii/S1755458616301359" target="_blank">Print</a>.</p>
-<p>"Inertia and Movement: The Spatialization of the Native Northland in Jack London's Short Stories." <em>GeoHumanities</em> 3 (2017) 1: 65–87. <a href="http://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821" target="_blank">Print</a>.</p>
+<p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
+<p>&#8220;The Horrors of the Oriental Space and Language in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Zeitschrift für Anglistik und Amerikanistik</em> 68 (2020) 3: 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
+<p>&#8220;Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies.&#8221; <em>ANGLICA: An International Journal of English Studies</em> 29 (2020) 1: 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
+<p>&#8220;&#8216;To Be Murdered&#8217;: Simulations of Objectivity, Subjectivity, and Violence in Truman Capote&#8217;s <em>In Cold Blood</em>.&#8221; <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
+<p>&#8220;Bleeding Borders: Space, Blackness, and Hybridity in Jack London&#8217;s Representations of the American Southwest.&#8221; <em>Amerikastudien / American Studies </em>63 (2018) 1: 5-28. <a href="https://amst.winter-verlag.de/article/AMST/2018/1/3" target="_blank">Open Access</a>.</p>
+<p>&#8220;Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón&#8217;s <em>Gravity</em>.&#8221; <em>Polish Journal for American Studies</em> 11 (2017): 203–222. <a href="http://www.paas.org.pl/pjas/pjas-archive/" target="_blank">Print</a>.</p>
+<p>&#8220;Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>Emotion, Space and Society</em> 24 (2017): 1–8. <a href="http://www.sciencedirect.com/science/article/pii/S1755458616301359" target="_blank">Print</a>.</p>
+<p>&#8220;Inertia and Movement: The Spatialization of the Native Northland in Jack London&#8217;s Short Stories.&#8221; <em>GeoHumanities</em> 3 (2017) 1: 65–87. <a href="http://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821" target="_blank">Print</a>.</p>
 
 <p>&nbsp;</p>
 
 ## Edited Volumes
-<p>"The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western." <em>EAAS Special Issue: The Literary Western in the Global Imagination</em>. Eds. Christopher Conway (University of Texas, Arlington), David Rio (University of the Basque Country), Marek Paryz (University of Warsaw). Accepted for Publication.</p>
-<p>"Playing the Race Card: The Racial Dynamics of Lovecraftian Board Games." <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Accepted for Publication.</p>
-<p>"'True Places Never Are': Navigating (Trans)Oceanic Imaginations in 'Moby-Dick.'" <em>American Studies Over_Seas</em>. 2021. Forthcoming.</p>
-<p>"Spatial Imaginations and Counter-Geographies of Oregon and the Far West." <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. 2021. Forthcoming.</p>
-<p>"'Fear Thy Neighbor': Paranoia and Suburban Victim-Hood in Mark Pellington's <em>Arlington Road</em>." <em>Traditions and Transitions</em>. Vol. 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2019: 290–302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Open Access</a>.</p>
+<p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>EAAS Special Issue: The Literary Western in the Global Imagination</em>. Eds. Christopher Conway (University of Texas, Arlington), David Rio (University of the Basque Country), Marek Paryz (University of Warsaw). Accepted for Publication.</p>
+<p>&#8220;Playing the Race Card: The Racial Dynamics of Lovecraftian Board Games.&#8221; <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Accepted for Publication.</p>
+<p>&#8220;&#8216;True Places Never Are&#8217;: Navigating (Trans)Oceanic Imaginations in &#8216;Moby-Dick.&#8217;&#8221; <em>American Studies Over_Seas</em>. 2021. Forthcoming.</p>
+<p>&#8220;Spatial Imaginations and Counter-Geographies of Oregon and the Far West.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. 2021. Forthcoming.</p>
+<p>&#8220;&#8216;Fear Thy Neighbor&#8217;: Paranoia and Suburban Victim-Hood in Mark Pellington&#8217;s <em>Arlington Road</em>.&#8221; <em>Traditions and Transitions</em>. Vol. 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2019: 290–302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Open Access</a>.</p>
 <p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. Vol. 3. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.degruyter.com/view/product/518315" target="_blank">Print</a>.</p>
-<p>"Spatiality and Psyche: Surviving the Yukon in Jack London's 'Love of Life' and 'To Build a Fire.'" <em>Processes of Spatialization in the Americas: Configurations and Narratives</em>. Interamericana. Vol. 13. Eds. Gabriele Pisarz-Ramirez and Hannes Warnecke-Berger. Peter Lang, 2019: 75–98. <a href="https://www.peterlang.com/view/title/65439" target="_blank">Print</a>.</p>
-<p>"Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States." <em>Collaborative Research Centre 1199</em>. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. Leipziger Universitätsverlag, 2018. <a href="https://research.uni-leipzig.de/~sfb1199/publication/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/" target="_blank">Print</a>.</p>
+<p>&#8220;Spatiality and Psyche: Surviving the Yukon in Jack London&#8217;s &#8216;Love of Life&#8217; and &#8216;To Build a Fire.&#8217;&#8221; <em>Processes of Spatialization in the Americas: Configurations and Narratives</em>. Interamericana. Vol. 13. Eds. Gabriele Pisarz-Ramirez and Hannes Warnecke-Berger. Peter Lang, 2019: 75–98. <a href="https://www.peterlang.com/view/title/65439" target="_blank">Print</a>.</p>
+<p>&#8220;Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States.&#8221; <em>Collaborative Research Centre 1199</em>. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. Leipziger Universitätsverlag, 2018. <a href="https://research.uni-leipzig.de/~sfb1199/publication/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/" target="_blank">Print</a>.</p>
 
 <p>&nbsp;</p>
 
@@ -56,11 +56,11 @@ ORCID: `0000-0003-1582-6078`
 <p>&nbsp;</p>
 
 ## Miscellaneous
-<p>"The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse." <em>TRAFO – Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361" target="_blank">Web</a>.</p>
-<p>"Mapping Discourse in R.H. Dana's 'Two Years Before the Mast.'" <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
+<p>&#8220;The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.&#8221; <em>TRAFO – Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361" target="_blank">Web</a>.</p>
+<p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
 <p><em>European Network for Minor Mobilities in the Americas</em>. <a href="https://enmma.org" target="_blank">Website</a>.</p>
-<p>"Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature." <em>TRAFO – Blog for Transregional Research</em>. 10 April 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
-<p>"The Second Cold War. The US Might Come Out on the Losing Side..." <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
-<p>"Mapping Discourse in R.H. Dana's Two Years Before the Mast," 28 January 2020, Geisteswissenschaftliches Zentrum der Universität Leipzig. <a title="Discursive Mapping in Two Years Before the Mast" href="/img/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Conference Poster</a>.</p>
-<p>"Urban America: Mediating City Space as Place," 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf">Conference Poster</a>.</p>
-<p>"American Health." <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
+<p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature.&#8221; <em>TRAFO – Blog for Transregional Research</em>. 10 April 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
+<p>&#8220;The Second Cold War. The US Might Come Out on the Losing Side...&#8221; <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
+<p>&#8220;Mapping Discourse in R.H. Dana&#8217;s Two Years Before the Mast,&#8221; 28 January 2020, Geisteswissenschaftliches Zentrum der Universität Leipzig. <a title="Discursive Mapping in Two Years Before the Mast" href="/img/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Conference Poster</a>.</p>
+<p>&#8220;Urban America: Mediating City Space as Place,&#8221; 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf">Conference Poster</a>.</p>
+<p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
