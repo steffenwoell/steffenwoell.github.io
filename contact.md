@@ -27,4 +27,4 @@ Room 5.07<br/>
 ## More ways to connect
 
 {: .box-blue}
-I'm active on a number of academic and social media platforms:<br/><br/>Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a><br/>Research @ <a href="https://uni-leipzig.academia.edu/SteffenWöll" target="_blank">Academia</a><br/>Social @ <a href="https://www.facebook.com/steffen.woell" target="_blank">Facebook</a><br/>Streetart @ <a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a><br/>Electronica @ <a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a>
+I am active on a number of academic and social media platforms:<br/><br/>Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a><br/>Research @ <a href="https://uni-leipzig.academia.edu/SteffenWöll" target="_blank">Academia</a><br/>Social @ <a href="https://www.facebook.com/steffen.woell" target="_blank">Facebook</a><br/>Streetart @ <a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a><br/>Electronica @ <a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a>
