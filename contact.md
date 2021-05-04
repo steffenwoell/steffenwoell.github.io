@@ -7,10 +7,11 @@ subtitle: Get in Touch
 ## Email
 
 {: .box-success}
-Please contact me at `steffen.woell@uni-leipzig.de`
+You can contact me at `steffen.woell@uni-leipzig.de`
 
 {: .box-blue}
-Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235  6797 83AD 2A2C 15D9 472B`. You can download my public key ([here](/dl/sw_pgp_public_key.asc)).
+Feel free to send encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235  6797 83AD 2A2C 15D9 472B`.
+You can download my public key [here](/dl/sw_pgp_public_key.asc).
 
 ## Phone
 
