@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Publications
+image: /img/press.jpg
 ---
 
 {: .box-success}
-**Updated:** 26 April 2021
+**Updated:** 4 May 2021
 
 {: .box-note}
 ORCID: `0000-0003-1582-6078`
