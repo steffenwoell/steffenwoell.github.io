@@ -15,6 +15,11 @@ layout: null
 .fab.fa-facebook-f.fa-stack-1x.fa-inverse {transition: 0.3s;}
 .fab.fa-facebook-f.fa-stack-1x.fa-inverse:hover {color: #1877f2;}
 
+.fab.fa-instagram.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-instagram.fa-stack-1x.fa-inverse:hover {color: ##bb00af;}
+
+
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
