@@ -12,7 +12,8 @@ layout: null
 
 .fab {font-weight: 300;}
 
-.fab.fa-facebook-f.fa-stack-1x.fa-inverse:hover {color: #1877f2; transition: 0.3s;}
+.fab.fa-facebook-f.fa-stack-1x.fa-inverse {opacity: 0.6; transition: 0.3s;}
+.fab.fa-facebook-f.fa-stack-1x.fa-inverse:hover {color: #1877f2; opacity: 1;}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
