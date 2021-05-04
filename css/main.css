@@ -12,11 +12,26 @@ layout: null
 
 .fab {font-weight: 300;}
 
+.fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
+
+.far.fa-paper-plane.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.far.fa-paper-plane.fa-stack-1x.fa-inverse:hover {color: #c0c0c0;}
+
+.fab.fa-researchgate.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-researchgate.fa-stack-1x.fa-inverse:hover {color: #00ccbb;}
+
+.fab.fa-orcid.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-orcid.fa-stack-1x.fa-inverse:hover {color: #a1c837;}
+
 .fab.fa-facebook-f.fa-stack-1x.fa-inverse {transition: 0.3s;}
 .fab.fa-facebook-f.fa-stack-1x.fa-inverse:hover {color: #1877f2;}
 
 .fab.fa-instagram.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fab.fa-instagram.fa-stack-1x.fa-inverse:hover {color: ##bb00af;}
+.fab.fa-instagram.fa-stack-1x.fa-inverse:hover {color: #bb00af;}
+
+.fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #bb00af;}
 
 
 
