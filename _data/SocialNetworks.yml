@@ -42,7 +42,7 @@ twitter:
   icon: "fab fa-twitter"
 
 email:
-  name: "E-Mail"
+  name: "Email"
   baseURL: "mailto:"
   icon: "far fa-paper-plane"
 
