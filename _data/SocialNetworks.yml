@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+soundcloud:
+  name: "SoundCloud"
+  baseURL: "https://soundcloud.com/"
+  icon: "fab fa-soundcloud"
+
 orcid:
   name: "ORCID"
   baseURL: "https://orcid.org/"
