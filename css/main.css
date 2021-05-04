@@ -8,7 +8,7 @@ layout: null
 
 .copyright text-muted {margin-top: 40px;}
 
-.creativecommons {margin-top: 40px; text-align: center;}
+.creativecommons {opacity: 0; margin-top: 40px; text-align: center;}
 
 .fab {font-weight: 300;}
 
@@ -32,8 +32,6 @@ layout: null
 
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: 0.3s;}
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
-
-
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
