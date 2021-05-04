@@ -2,7 +2,7 @@
 layout: page
 title: Activities
 subtitle: Conference Presentations, Workshops, Teaching etc.
-image: /img/pro.png
+image: /img/act.png
 ---
 
 {: .box-success}
