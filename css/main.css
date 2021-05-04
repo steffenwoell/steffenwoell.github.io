@@ -6,13 +6,13 @@ layout: null
 
 /* --- General --- */
 
-.copyright text-muted {margin-top: 20px;}
+.copyright text-muted {margin-top: 30px;}
 
 .creativecommons {margin-top: 60px; text-align: center;}
 
 .fab {font-weight: 300;}
 
-.fab fa-facebook-f fa-stack-1x fa-inverse:hover {background: #3b5a9b; color: white;}
+.fa-facebook-f:hover {background: #3b5a9b; color: white;!important;}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
