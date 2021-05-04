@@ -12,7 +12,7 @@ layout: null
 
 .fab {font-weight: 300;}
 
-.fa-facebook:hover {background: #3b5a9b; color: red;!important;}
+.fab fa-facebook:hover {background: #3b5a9b; color: red;!important;}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
