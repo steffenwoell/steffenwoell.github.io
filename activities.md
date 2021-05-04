@@ -2,10 +2,11 @@
 layout: page
 title: Activities
 subtitle: Conference Presentations, Workshops, Teaching etc.
+image: /img/act.png
 ---
 
 {: .box-success}
-**Updated:** 26 April 2021
+**Updated:** 4 May 2021
 
 <p>&nbsp;</p>
 
