@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-image: /img/press.jpg
+image: /img/press.png
 ---
 
 {: .box-success}
