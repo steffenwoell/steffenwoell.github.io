@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Get in Touch
+image: /img/con.png
 ---
 
 ## Email
