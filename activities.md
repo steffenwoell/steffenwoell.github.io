@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Activities
-subtitle: Conference Presentations, Workshops, Teaching etc.
 image: /img/act.png
 ---
 

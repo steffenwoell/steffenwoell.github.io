@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-subtitle: Current and Future Research
 image: /img/pro.png
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Memberships
-subtitle: Associations and Research Networks
 image: /img/mem.png
 ---
 
