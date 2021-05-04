@@ -13,19 +13,19 @@ Kindly address any general matters to `steffen.woell@uni-leipzig.de`
 {: .box-blue}
 Feel free to send me encrypted emails. The GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235  6797 83AD 2A2C 15D9 472B`<br />and my public key is [here](/dl/sw_pgp_public_key.asc).
 
-<p>&nbsp;></p>
+<p>&nbsp;</p>
 ## Social Media
 
 {: .box-warning}
 Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a><br/>Research @ <a href="https://uni-leipzig.academia.edu/SteffenWöll" target="_blank">Academia</a><br/>Social @ <a href="https://www.facebook.com/steffen.woell" target="_blank">Facebook</a><br/>Streetart @ <a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a><br/>Electronica @ <a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a>
 
-<p>&nbsp;></p>
+<p>&nbsp;</p>
 ## Phone
 
 {: .box-note}
 Office: `+49 (341) 973 77 52`  
 
-<p>&nbsp;></p>
+<p>&nbsp;</p>
 ## Postal Address (V.i.S.d.P.)
 
 {: .box-note}
