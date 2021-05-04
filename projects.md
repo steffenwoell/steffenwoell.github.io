@@ -5,6 +5,9 @@ subtitle: Current and Future Research
 image: /img/pro.png
 ---
 
+{: .box-success}
+**Updated:** 4 May 2021
+
 {: .box-warning}
 ## A History of Digital Violence: The American West in (Early) Video Game Culture
 Currently in the conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.

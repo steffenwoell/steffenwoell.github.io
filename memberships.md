@@ -2,10 +2,11 @@
 layout: page
 title: Memberships
 subtitle: Associations and Research Networks
+image: /img/mem.png
 ---
 
 {: .box-success}
-**Updated:** 3 January 2021
+**Updated:** 4 May 2021
 
 <p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 <p><a href="https://dgfa.de" target="_blank">DGfA</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
