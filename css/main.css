@@ -8,9 +8,7 @@ layout: null
 
 .copyright text-muted {margin-top: 40px;}
 
-.creativecommons a {opacity: 0.3; margin-top: 40px; text-align: center; transition: 0.3s;}
-
-.creativecommons a:hover {opacity: 1;}
+.creativecommons {margin-top: 40px; text-align: center;}
 
 .fab {font-weight: 300;}
 
