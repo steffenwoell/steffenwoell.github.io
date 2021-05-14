@@ -5,14 +5,14 @@ image: /img/pub.png
 ---
 
 {: .box-success}
-**Updated:** 4 May 2021
+**Updated:** 14 May 2021
 
 {: .box-note}
 ORCID: `0000-0003-1582-6078`
 
 ## Monographs
 
-{: .box-warning}
+{: .box-blue}
 *The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse*. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://www.amazon.de/West-Word-Formatting-Nineteenth-Century-Dialectics/dp/3110690004/" target="_blank">Print</a>.
 
 <p>&nbsp;</p>
@@ -30,8 +30,8 @@ ORCID: `0000-0003-1582-6078`
 <p>&nbsp;</p>
 
 ## Edited Volumes
-<p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>EAAS Special Issue: The Literary Western in the Global Imagination</em>. Eds. Christopher Conway (University of Texas, Arlington), David Rio (University of the Basque Country), Marek Paryz (University of Warsaw). Accepted for Publication.</p>
-<p>&#8220;Playing the Race Card: The Racial Dynamics of Lovecraftian Board Games.&#8221; <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Accepted for Publication.</p>
+<p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>EAAS Special Issue: The Literary Western in the Global Imagination</em>. Eds. Conway, Christopher, David Rio, and Marek Paryz. Accepted for Publication.</p>
+<p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Accepted for Publication.</p>
 <p>&#8220;&#8216;True Places Never Are&#8217;: Navigating (Trans)Oceanic Imaginations in &#8216;Moby-Dick.&#8217;&#8221; <em>American Studies Over_Seas</em>. 2021. Forthcoming.</p>
 <p>&#8220;Spatial Imaginations and Counter-Geographies of Oregon and the Far West.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. 2021. Forthcoming.</p>
 <p>&#8220;&#8216;Fear Thy Neighbor&#8217;: Paranoia and Suburban Victim-Hood in Mark Pellington&#8217;s <em>Arlington Road</em>.&#8221; <em>Traditions and Transitions</em>. Vol. 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2019: 290–302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Open Access</a>.</p>
