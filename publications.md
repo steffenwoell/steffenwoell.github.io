@@ -42,6 +42,7 @@ ORCID: `0000-0003-1582-6078`
 <p>&nbsp;</p>
 
 ## Reviews
+<p>Review of <em>Writing History in America&#8217;s Shadow: Japan, the Philippines, and the Question of Pan-Asianism</em> by Takamichi Serizawa. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em>. Forthcoming.</p>
 <p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Connections. A Journal for Historians and Area Specialists</em>. 8 January 2021. <a href="http://www.connections.clio-online.net/publicationreview/id/reb-95016" target="_blank">Open Access</a>.</p>
 <p>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880–1930</em> by Dominic Davies. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 5: 102–103. <a href="https://www.comparativ.net/v2/issue/view/158" target="_blank">Print</a>.</p>
 <p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 1: 105–107. <a href="https://www.comparativ.net/v2/issue/view/154" target="_blank">Print</a>.</p>
