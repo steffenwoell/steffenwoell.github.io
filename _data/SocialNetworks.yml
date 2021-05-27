@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+mastodon:
+  name: "Mastodon"
+  baseURL: "https://mastodon.social/"
+  icon: "fab fa-mastodon"
+
 soundcloud:
   name: "SoundCloud"
   baseURL: "https://soundcloud.com/"
