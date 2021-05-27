@@ -16,7 +16,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 ## Social Media
 
 {: .box-warning}
-Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a><br/>Research @ <a href="https://uni-leipzig.academia.edu/SteffenWöll" target="_blank">Academia</a><br/>Social @ <a href="https://www.facebook.com/steffen.woell" target="_blank">Facebook</a><br/>Streetart @ <a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a><br/>Electronica @ <a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a>
+Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3">ResearchGate</a><br/>Research @ <a href="https://uni-leipzig.academia.edu/SteffenWöll">Academia</a><br/>Social @ <a rel="me" href="https://mastodon.social/@SteffenWoell">Mastodon</a><br/>Streetart @ <a href="https://www.instagram.com/streetart_leipzig/">Instagram</a><br/>Electronica @ <a href="https://soundcloud.com/w-a_s">SoundCloud</a>
 
 <p>&nbsp;</p>
 ## Phone
