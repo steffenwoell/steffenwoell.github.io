@@ -19,7 +19,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 <i class="fab fa-researchgate"></i>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen_Woell3">ResearchGate</a><br/>
 <i class="fab fa-mastodon"></i>&nbsp;&nbsp;&nbsp;<a rel="me" href="https://mastodon.social/@SteffenWoell">Mastodon</a><br/>
 <i class="fab fa-instagram"></i>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/">Instagram</a><br/>
-<i class="fab fa-soundcloud"></i>&nbsp;&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s">SoundCloud</a>
+<i class="fab fa-soundcloud"></i>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s">SoundCloud</a>
 
 <p>&nbsp;</p>
 ## Phone
