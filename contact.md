@@ -15,7 +15,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 <p>&nbsp;</p>
 ## Social Media
 
-{: .box-success}
+{: .box-blue}
 Research <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Steffen_Woell3">ResearchGate</a><br/>
 Social <i class="fab fa-mastodon"></i> <a rel="me" href="https://mastodon.social/@SteffenWoell">Mastodon</a><br/>
 Photos <i class="fab fa-instagram"></i> <a href="https://www.instagram.com/streetart_leipzig/">Instagram</a><br/>
