@@ -10,16 +10,16 @@ image: /img/con.png
 Please send all correspondence to `steffen.woell@uni-leipzig.de`
 
 {: .box-note}
-Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235  6797 83AD 2A2C 15D9 472B`<br />and the public key is [here](/dl/sw_pgp_public_key.asc).
+Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B`<br />and the public key can be downloaded [here](/dl/sw_pgp_public_key.asc).
 
 <p>&nbsp;</p>
 ## Social Media
 
 {: .box-blue}
-Research <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Steffen_Woell3">ResearchGate</a><br/>
-Social <i class="fab fa-mastodon"></i> <a rel="me" href="https://mastodon.social/@SteffenWoell">Mastodon</a><br/>
-Photos <i class="fab fa-instagram"></i> <a href="https://www.instagram.com/streetart_leipzig/">Instagram</a><br/>
-Experiments <i class="fab fa-soundcloud"></i> <a href="https://soundcloud.com/w-a_s">SoundCloud</a>
+Research&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>&nbsp;<a href="https://www.researchgate.net/profile/Steffen_Woell3">ResearchGate</a><br/>
+Social&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-mastodon"></i>&nbsp;<a rel="me" href="https://mastodon.social/@SteffenWoell">Mastodon</a><br/>
+Photos&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-instagram"></i>&nbsp;<a href="https://www.instagram.com/streetart_leipzig/">Instagram</a><br/>
+Experiments&nbsp;&nbsp;&nbsp;&nbsp;<i class="fab fa-soundcloud"></i>&nbsp;<a href="https://soundcloud.com/w-a_s">SoundCloud</a>
 
 <p>&nbsp;</p>
 ## Phone
