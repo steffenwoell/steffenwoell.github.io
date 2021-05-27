@@ -31,6 +31,7 @@ Office: `+49 (341) 973 77 52`
 ## Mailing Address (V.i.S.d.P.)
 
 {: .box-note}
+Dr. Steffen Wöll<br/>
 Nikolaistrasse 6-10<br/>
 Room 5.07<br/>
 04109 Leipzig<br/>
