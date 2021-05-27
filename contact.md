@@ -9,14 +9,17 @@ image: /img/con.png
 {: .box-success}
 Please send all correspondence to `steffen.woell@uni-leipzig.de`
 
-{: .box-blue}
+{: .box-note}
 Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235  6797 83AD 2A2C 15D9 472B`<br />and the public key is [here](/dl/sw_pgp_public_key.asc).
 
 <p>&nbsp;</p>
 ## Social Media
 
-{: .box-warning}
-Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3">ResearchGate</a><br/>Research @ <a href="https://uni-leipzig.academia.edu/SteffenWöll">Academia</a><br/>Social @ <a rel="me" href="https://mastodon.social/@SteffenWoell">Mastodon</a><br/>Streetart @ <a href="https://www.instagram.com/streetart_leipzig/">Instagram</a><br/>Electronica @ <a href="https://soundcloud.com/w-a_s">SoundCloud</a>
+{: .box-success}
+Research @ <a href="https://www.researchgate.net/profile/Steffen_Woell3">ResearchGate</a><br/>
+Social @ <a rel="me" href="https://mastodon.social/@SteffenWoell">Mastodon</a><br/>
+Photos @ <a href="https://www.instagram.com/streetart_leipzig/"><i class="fab fa-instagram"></i> Instagram</a><br/>
+Experiments @ <a href="https://soundcloud.com/w-a_s">SoundCloud</a>
 
 <p>&nbsp;</p>
 ## Phone
