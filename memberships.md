@@ -2,10 +2,11 @@
 layout: page
 title: Memberships
 image: /img/mem.png
+js: /js/lastmod.js
 ---
 
-{: .box-success}
-**Updated:** 4 May 2021
+{: .box-updated}
+Updated on <script src="/js/lastmod.js"><\/script>
 
 <p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 <p><a href="https://dgfa.de" target="_blank">DGfA</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
