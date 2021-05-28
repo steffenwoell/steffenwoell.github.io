@@ -794,6 +794,12 @@ pre {
   border-radius: 5px 3px 3px 5px;
 }
 
+.box-update {
+  background-color: #c0c0c0;
+  border-left-color: #808080;
+  font-size: 80%;
+}
+
 .box-note {
   background-color: #eee;
   border-left-color: #2980b9;
