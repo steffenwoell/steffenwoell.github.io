@@ -5,7 +5,7 @@ image: /img/act.png
 ---
 
 {: .box-updated}
-Updated 4 May 2021
+Updated <?php echo filemtime("activities.md"); ?>
 
 <p>&nbsp;</p>
 
