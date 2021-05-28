@@ -22,8 +22,8 @@ function date_ddmmmyy(date)
 
   return "" +
     (d<10?"0"+d:d) + " " +
-    mmm + " " +
-    (y<10?"0"+y:Y);
+    m + " " +
+    (Y<10?"0"+y:y);
 }
 
 function date_lastmodified()
