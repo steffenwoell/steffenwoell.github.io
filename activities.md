@@ -4,8 +4,8 @@ title: Activities
 image: /img/act.png
 ---
 
-{: .box-success}
-**Updated:** 4 May 2021
+{: .box-updated}
+Updated 4 May 2021
 
 <p>&nbsp;</p>
 

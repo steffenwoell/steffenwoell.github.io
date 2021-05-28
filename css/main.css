@@ -786,7 +786,7 @@ pre {
 }
 
 /* --- Notification boxes --- */
-.box-update, .box-note, .box-warning, .box-error, .box-success, .box-blue {
+.box-updated, .box-note, .box-warning, .box-error, .box-success, .box-blue {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 25px 0px;
   border: 1px solid #eee;
@@ -794,9 +794,10 @@ pre {
   border-radius: 5px 3px 3px 5px;
 }
 
-.box-update {
+.box-updated {
   background-color: #dcfadc;
   border-left-color: #4d944d;
+  font-style: italic;
 }
 
 .box-note {
