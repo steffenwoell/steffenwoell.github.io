@@ -2,13 +2,16 @@
 layout: page
 title: Publications
 image: /img/pub.png
+js: /js/lastmod.js
 ---
 
-{: .box-success}
-**Updated:** 14 May 2021
+{: .box-updated}
+Updated on <script src="/js/lastmod.js"><\/script>
 
 {: .box-note}
 ORCID: `0000-0003-1582-6078`
+
+<p>&nbsp;</p>
 
 ## Monographs
 
