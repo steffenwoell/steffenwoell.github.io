@@ -2,10 +2,11 @@
 layout: page
 title: Activities
 image: /img/act.png
+js: /js/lastmod.js
 ---
 
 {: .box-updated}
-Updated <?php echo filemtime("activities.md"); ?>
+Updated <script>alert(fetchHeader(location.href,'Last-Modified'));</script>
 
 <p>&nbsp;</p>
 
