@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+home:
+  name: "Home"
+  baseURL: "https://steffenwoell.github.io/"
+  icon: "fas fa-home"
+
 mastodon:
   name: "Mastodon"
   baseURL: "https://mastodon.social/"
@@ -49,7 +54,7 @@ twitter:
 email:
   name: "Email"
   baseURL: "mailto:"
-  icon: "far fa-paper-plane"
+  icon: "fas fa-at"
 
 linkedin:
   name: "LinkedIn"
