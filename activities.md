@@ -6,7 +6,12 @@ js: /js/lastmod.js
 ---
 
 {: .box-updated}
-Updated <script>alert(fetchHeader(location.href,'Last-Modified'));</script>
+Updated <script>
+function myFunction() {
+  var x = new Date(document.lastModified);
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
 
 <p>&nbsp;</p>
 
