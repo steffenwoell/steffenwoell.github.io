@@ -6,12 +6,7 @@ js: /js/lastmod.js
 ---
 
 {: .box-updated}
-Updated <script>
-function myFunction() {
-  var x = new Date(document.lastModified);
-  document.getElementById("demo").innerHTML = x;
-}
-</script>
+Updated <script src="/js/lastmod.js"><\/script>
 
 <p>&nbsp;</p>
 
