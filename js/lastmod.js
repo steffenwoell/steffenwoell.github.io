@@ -21,9 +21,9 @@ function date_ddmmmyy(date)
     (10==m)?'Oct':(11==m)?'Nov':'Dec';
 
   return "" +
-    (d<10?"0"+d:d) + " " +
-    m + " " +
-    (Y<10?"0"+y:y);
+    (d<10?"0"+d:d) + "-" +
+    mmm + "-" +
+    (y<10?"0"+y:y);
 }
 
 function date_lastmodified()
@@ -43,3 +43,5 @@ function date_lastmodified()
 document.write(
   "Updated on " +
   date_lastmodified() );
+
+// -->
