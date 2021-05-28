@@ -31,8 +31,8 @@ function date_ddmmmyy(date)
     (10==m)?'Oct':(11==m)?'Nov':'Dec';
 
   return "" +
-    (d<10?"0"+d:d) + "-" +
-    mmm + "-" +
+    (d<10?"0"+d:d) + " " +
+    mmm + " " +
     (y<10?"0"+y:y);
 }
 
