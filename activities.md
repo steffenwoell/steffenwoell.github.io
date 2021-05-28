@@ -6,7 +6,7 @@ js: /js/lastmod.js
 ---
 
 {: .box-updated}
-Updated <script src="/js/lastmod.js"><\/script>
+<script src="/js/lastmod.js"><\/script>
 
 <p>&nbsp;</p>
 

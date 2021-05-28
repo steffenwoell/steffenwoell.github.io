@@ -31,8 +31,8 @@ function date_ddmmmyy(date)
     (10==m)?'Oct':(11==m)?'Nov':'Dec';
 
   return "" +
-    (d<10?"0"+d:d) + "-" +
-    mmm + "-" +
+    (d<10?"0"+d:d) + "&nbsp;" +
+    mmm + "&nbsp;" +
     (y<10?"0"+y:y);
 }
 
@@ -62,5 +62,5 @@ function date_lastmodified()
 // as DD-MMM-YY
 //
 document.write(
-  "This page was updated on " +
+  "Updated on " +
   date_lastmodified() );
