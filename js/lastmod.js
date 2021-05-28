@@ -33,7 +33,7 @@ function date_ddmmmyy(date)
   return "" +
     (d<10?"0"+d:d) + " " +
     mmm + " " +
-    (yyyy<10?"0"+y:y);
+    (y<10?"0"+yyyy:y);
 }
 
 
