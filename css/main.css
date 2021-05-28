@@ -795,9 +795,9 @@ pre {
 }
 
 .box-update {
-  background-color: #f5f5f5;
-  border-left-color: #ffff75;
-  font-size: 16px;
+  background-color: #dcfadc;
+  border-left-color: #4d944d;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .box-note {
