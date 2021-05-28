@@ -65,7 +65,7 @@ function date_lastmodified()
 // as DD-MMM-YY
 //
 document.write(
-  "Updated on " + 
+  "This page was updated on " +
   date_lastmodified() );
 
 // -->
