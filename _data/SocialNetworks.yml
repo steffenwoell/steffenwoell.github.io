@@ -8,7 +8,7 @@
 
 home:
   name: "Home"
-  baseURL: "https://steffenwoell.github.io/"
+  baseURL: "#"
   icon: "fas fa-home"
 
 mastodon:
