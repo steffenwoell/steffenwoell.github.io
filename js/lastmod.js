@@ -25,15 +25,15 @@ function date_ddmmmyy(date)
   // but the following method is
   // more compatible
   var mmm =
-    ( 1==m)?'Jan':( 2==m)?'Feb':(3==m)?'Mar':
-    ( 4==m)?'Apr':( 5==m)?'May':(6==m)?'Jun':
-    ( 7==m)?'Jul':( 8==m)?'Aug':(9==m)?'Sep':
-    (10==m)?'Oct':(11==m)?'Nov':'Dec';
+    ( 1==m)?'January':( 2==m)?'February':(3==m)?'March':
+    ( 4==m)?'April':( 5==m)?'May':(6==m)?'June':
+    ( 7==m)?'July':( 8==m)?'August':(9==m)?'September':
+    (10==m)?'October':(11==m)?'November':'December';
 
   return "" +
     (d<10?"0"+d:d) + " " +
     mmm + " " +
-    (y<10?"0"+y:y);
+    (yyyy<10?"0"+y:y);
 }
 
 
