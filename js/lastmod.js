@@ -1,64 +1,35 @@
+<script type='text/javascript'>
 
-//
-// format date as dd-mmm-yy
-// example: 12-Jan-99
-//
-function date_ddmmmyy(date)
-{
-  var d = date.getDate();
-  var m = date.getMonth() + 1;
-  var y = date.getYear();
+function showFileModified() {
+        var input, file;
 
-  // handle different year values
-  // returned by IE and NS in
-  // the year 2000.
-  if(y >= 2000)
-  {
-    y -= 2000;
-  }
-  if(y >= 100)
-  {
-    y -= 100;
-  }
+        // Testing for 'function' is more specific and correct, but doesn't work with Safari 6.x
+        if (typeof window.FileReader !== 'function' &&
+            typeof window.FileReader !== 'object') {
+            write("The file API isn't supported on this browser yet.");
+            return;
+        }
 
-  // could use splitString() here
-  // but the following method is
-  // more compatible
-  var mmm =
-    ( 1==m)?'January':( 2==m)?'February':(3==m)?'March':
-    ( 4==m)?'April':( 5==m)?'May':(6==m)?'June':
-    ( 7==m)?'July':( 8==m)?'August':(9==m)?'September':
-    (10==m)?'October':(11==m)?'November':'December';
+        input = document.getElementById('filename');
+        if (!input) {
+            write("Um, couldn't find the filename element.");
+        }
+        else if (!input.files) {
+            write("This browser doesn't seem to support the `files` property of file inputs.");
+        }
+        else if (!input.files[0]) {
+            write("Please select a file before clicking 'Show Modified'");
+        }
+        else {
+            file = input.files[0];
+            write("The last modified date of file '" + file.name + "' is " + new Date(file.lastModified));
+        }
 
-  return "" +
-    (d<10?"0"+d:d) + " " +
-    mmm + " " +
-    (y<10?"0"+y:y);
-}
+        function write(msg) {
+            var p = document.createElement('p');
+            p.innerHTML = msg;
+            document.body.appendChild(p);
+        }
+    }
 
-
-//
-// get last modified date of the
-// current document.
-//
-function date_lastmodified()
-{
-  var lmd = document.lastModified;
-  var s   = "Unknown";
-  var d1;
-
-  // check if we have a valid date
-  // before proceeding
-  if(0 != (d1=Date.parse(lmd)))
-  {
-    s = "" + date_ddmmmyy(new Date(d1));
-  }
-
-  return s;
-}
-
-//
-// finally display the last modified date
-// as DD-MMM-YY
-//
-document.write(date_lastmodified() );
+    </script>
