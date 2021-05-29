@@ -9,7 +9,7 @@ js: /js/lastmod.js
 Updated on <script src="/js/lastmod.js"><\/script>
 
 {: .box-note}
-ORCID: `0000-0003-1582-6078`
+ORCID: `0000-0003-1582-6078-`
 
 <p>&nbsp;</p>
 
