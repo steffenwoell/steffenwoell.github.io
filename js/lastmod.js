@@ -1,3 +1,4 @@
+<!--
 function showFileModified() {
         var input, file;
 
@@ -29,3 +30,4 @@ function showFileModified() {
             document.body.appendChild(p);
         }
     }
+//-->
