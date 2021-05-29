@@ -2,11 +2,10 @@
 layout: page
 title: Projects
 image: /img/pro.png
-js: /js/lastmod.js
 ---
 
 {: .box-updated}
-Updated on <script src="/js/lastmod.js"><\/script>
+Updated on 1 May 2021
 
 {: .box-warning}
 ## A History of Digital Violence: The American West in (Early) Video Game Culture

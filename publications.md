@@ -2,11 +2,10 @@
 layout: page
 title: Publications
 image: /img/pub.png
-js: /js/lastmod.js
 ---
 
 {: .box-updated}
-Updated on <script src="/js/lastmod.js"><\/script>
+Updated on 28 May 2021
 
 {: .box-note}
 ORCID: `0000-0003-1582-6078`

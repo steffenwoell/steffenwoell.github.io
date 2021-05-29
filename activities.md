@@ -2,11 +2,10 @@
 layout: page
 title: Activities
 image: /img/act.png
-js: /js/lastmod.js
 ---
 
 {: .box-updated}
-Updated on <script src="/js/lastmod.js"><\/script>
+Updated on 28 May 2021
 
 <p>&nbsp;</p>
 
