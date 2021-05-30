@@ -5,9 +5,8 @@ image: /img/pro.png
 ---
 
 {: .box-updated}
-Updated on 1 May 2021
+Updated on 30 May 2021
 
-{: .box-warning}
 ## A History of Digital Violence: The American West in (Early) Video Game Culture
 Currently in the conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
 
@@ -19,7 +18,6 @@ A preliminary structure might work alongside genres and focus on particular them
 
 <img src="/img/new-california-republic-fallout.png" alt="Flag of the New California Republic in Fallout 2" width="500">
 
-{: .box-note}
 **Figure:** Flag of the New California Republic in *Fallout* (1997) ([Source](https://fallout.fandom.com/wiki/New_California_Republic)).
 
 Central research questions include but are not limited to examining:
@@ -30,14 +28,12 @@ Central research questions include but are not limited to examining:
 
 <p>&nbsp;</p>
 
-{: .box-blue}
 ## ENMMA: European Network for the Study of Minor Mobilities in the Americas
 
 The European Network for Minor Mobilities in the Americas (ENMMA) situates itself within the broader, interdisciplinary field of mobility studies, shifting the field's attention to minor forms of movement and mobility. The way <a href="https://enmma.org/about/members" target="_blank">we</a> see it, mobility regimes discursively produce forms and classifications of movement that are uneven, differential, unrecognized, unmarked or invisible. As a result, minor mobilities are characterized by peripherality and marginality, unacknowledged agency (e.g. in domestic, carceral, or underage mobilities), limitation and failure (e.g. refugee mobilities). We examine their cultural work either as affirmation or critical transformation of mobility regimes. Relying on the Deleuzian understanding of "minor" and Mimi Sheller's concept of "differential mobilities," ENMMA aims at conceptualizing the multiple meanings of minor in the context of mobility and immobility research in literature and culture in the U.S., Canada, Mexico, Central America, and the Caribbean.
 
 <img src="/img/ENMMA-logo.png" alt="ENMMA research network logo" width="250">
 
-{: .box-note}
 **Figure:** ENMMA research network logo ([Source](https://enmma.org/)).
 
 In <a href="https://enmma.org/about/projects" target="_blank">our research</a>, we use the concept of minor mobilities as a heuristic tool for examining mobility regimes and knowledge productions in regional, national, and globally implicated settings. Unfolding in four <a href="https://enmma.org/about/research-clusters" target="_blank">research clusters</a>, our projects take up different scenarios which enact mobility regimes:
@@ -56,5 +52,4 @@ As "meaning-making paradigms that structure social environments, behaviors, and 
 * Sheller, Mimi. *Mobility Justice: The Politics of Movement in an Age of Anxiety*. <a href="https://www.bloomsbury.com/au/mobility-justice-9781788730921/" target="_blank">Verso</a>, 2018.
 * Taylor, Diana. *The Archive and the Repertoire: Performing Cultural Memory in the Americas*. <a href="https://www.dukeupress.edu/the-archive-and-the-repertoire" target="_blank">Duke University Press</a>, 2003.
 
-{: .box-note}
-**Info:** Visit the research network's <a href="https://enmma.org" target="_blank">official website</a>.
+Visit the research network's <a href="https://enmma.org" target="_blank">official website</a>.
