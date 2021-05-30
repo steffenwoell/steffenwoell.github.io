@@ -25,7 +25,7 @@ navbar-links:
   Activities: "activities"
   Contact: "contact"
   More:
-  - Projects: "projects"
+#  - Projects: "projects"
   - Memberships: "memberships"
   - Journal: "journal"
 
@@ -70,7 +70,7 @@ name:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  home: 
+  home:
   email: "steffen.woell@uni-leipzig.de"
   rss: true
   researchgate: Steffen-Woell
