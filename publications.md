@@ -8,7 +8,7 @@ image: /img/pub.png
 Updated on 23 June 2021
 
 {: .box-note}
-ORCID: `0000-0003-1582-6078`
+<a href="https://orcid.org/0000-0003-1582-6078" target="_blank"><i class="fab fa-orcid"></i>&nbsp;&nbsp;ORCID:</a>&nbsp;&nbsp;`0000-0003-1582-6078`
 
 <p>&nbsp;</p>
 
