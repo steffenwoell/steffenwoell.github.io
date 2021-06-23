@@ -8,7 +8,7 @@ image: /img/pub.png
 Updated on 23 June 2021
 
 {: .box-note}
-<i class="fab fa-orcid"></i>&nbsp;&nbsp;<a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID:</a>&nbsp;&nbsp;`0000-0003-1582-6078`<br/><i class="fas fa-external-link-alt"></i>&nbsp;&nbsp;<a href="http://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek (DNB)</a>
+<i class="fab fa-orcid"></i>&nbsp;&nbsp;<a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID:</a>&nbsp;&nbsp;`0000-0003-1582-6078`&nbsp;&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>&nbsp;&nbsp;<a href="http://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek (DNB)</a>
 
 <p>&nbsp;</p>
 
