@@ -5,7 +5,7 @@ image: /img/pub.png
 ---
 
 {: .box-updated}
-Updated on 28 May 2021
+Updated on 23 June 2021
 
 {: .box-note}
 ORCID: `0000-0003-1582-6078`
@@ -16,6 +16,9 @@ ORCID: `0000-0003-1582-6078`
 
 {: .box-blue}
 *The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse*. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://www.amazon.de/West-Word-Formatting-Nineteenth-Century-Dialectics/dp/3110690004/" target="_blank">Print</a>.
+
+{: .box-note}
+<a href="http://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek (DNB)</a>
 
 <p>&nbsp;</p>
 
