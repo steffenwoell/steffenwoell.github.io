@@ -5,7 +5,7 @@ image: /img/act.png
 ---
 
 {: .box-updated}
-Updated on 28 May 2021
+Updated on 28 June 2021
 
 <p>&nbsp;</p>
 
@@ -43,14 +43,16 @@ Updated on 28 May 2021
 
 <p>&nbsp;</p>
 
-## Panel Organization
-<p>&#8220;Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Co-Chair.</p>
-<p><em>Regional Colloquium for American Studies</em>. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
-<p><em>Urban America: Mediating City Space as Place</em>. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Panel. Co-Organizer.</p>
+## Conference & Workshop Organization
+<p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">International Workshop</a>. Co-Organizer.</p>
+<p>&#8220;Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Panel Co-Chair.</p>
+<p><Regional Colloquium for American Studies. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
+<p>Urban America: Mediating City Space as Place. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Co-Organizer.</p>
 
 <p>&nbsp;</p>
 
-## Teaching & Guest Lectures
+## Teaching & Lectures
+<p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Semester 2021/22. Seminar.</p>
 <p>&#8220;Reading the Transpacific: Asian American Cultures and Identities.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Semester 2020/21. Seminar.</p>
 <p><a href="http://americanstudies.uni-leipzig.de/content/research-bash" target="_blank">ASL Research Bash</a>. <em>American Studies Leipzig</em>. 25 June 2019.</p>
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig. 13 June 2018. Guest Lecture.</p>
