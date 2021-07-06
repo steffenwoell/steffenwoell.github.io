@@ -7,10 +7,10 @@ image: /img/con.png
 ## Email
 
 {: .box-success}
-Please send all correspondence to `steffen.woell@uni-leipzig.de`. I'll do my best to reply to your message as soon as possible.
+Please send all correspondence to `steffen.woell@uni-leipzig.de`.<br/>I'll reply to your message as soon as possible.
 
 {: .box-note}
-Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B`. My public is available to download [here](/dl/sw_pgp_public_key.asc).
+Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B`. My public key is available to download [here](/dl/sw_pgp_public_key.asc).
 
 <p>&nbsp;</p>
 ## Social Media
