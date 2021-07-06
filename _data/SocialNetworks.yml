@@ -11,6 +11,11 @@ home:
   baseURL: "#"
   icon: "fas fa-home"
 
+blog:
+  name: "Write.as"
+  baseURL: "https://write.as/"
+  icon: "fas fa-feather-alt"
+
 mastodon:
   name: "Mastodon"
   baseURL: "https://mastodon.social/"
