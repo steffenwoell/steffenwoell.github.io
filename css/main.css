@@ -14,6 +14,9 @@ layout: null
 
 .fab {font-weight: 300;}
 
+.fas.fa-feather-alt-1x.fa-inverse {transition: 0.3s;}
+.fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #ff0000;}
+
 .fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.3s;}
 .fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
 
