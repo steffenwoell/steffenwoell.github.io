@@ -44,7 +44,7 @@ Updated on 28 June 2021
 <p>&nbsp;</p>
 
 ## Conference & Workshop Organization
-<p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">International Workshop</a>. Co-Organizer.</p>
+<p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/28_sfb_workshop_archipelagic-imperial-spaces-and-mobilities/" target="_blank">International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>&#8220;Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Panel Co-Chair.</p>
 <p><Regional Colloquium for American Studies. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
 <p>Urban America: Mediating City Space as Place. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Co-Organizer.</p>
