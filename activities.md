@@ -11,7 +11,7 @@ Updated on 18 July 2021
 
 ## Presentations
 <p>&#8220;Doing Nature&#8217;s Work: Subaltern Economies and Socialist Social Darwinism in Jack London&#8217;s Writings.&#8221; <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen. 2021. <a href="https://sanas20.com" target="_blank">Presentation</a>. (Upcoming)</p>
-<p>&#8220;Unma(s)king Maps, Unmapping Empires: Archipelagic Cartographies as Epistemic Mobilities.&#8220; <em>Archipelagic Imperial Spaces and Mobilities</em>. Leipzig/online. 17 July 2021. <a href="https://research.uni-leipzig.de/~sfb1199/events/28_sfb_workshop_archipelagic-imperial-spaces-and-mobilities/" target="_blank">International Workshop</a>.</p>
+<p>&#8220;Unma(s)king Maps, Unmapping Empires: Archipelagic Cartographies as Epistemic Mobilities.&#8220; <em>Archipelagic Imperial Spaces and Mobilities</em>. Leipzig/online. 17 July 2021. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">International Workshop</a>.</p>
 <!--<p>&#8220;The Naturalists&#8217; Frontier: Ethnic Mobilities in Jack London&#8217;s Literary Geographies.&#8221; <em>American Literature Association Annual Conference</em>. Boston. 27–30 May 2021. <a href="https://americanliteratureassociation.org/ala-conferences/ala-annual-conference/" target="_blank">Presentation</a>.</p>-->
 <p>&#8220;No Single Logic: Reassembling Human Geographies of the Louisiana Territory Through Biographies and Life Writing.&#8221; <em>Assemblages of Empire: An American Studies Symposium</em>. University of Texas, Austin. 4-5 March 2021. <a href="https://utamsconference.wordpress.com/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Der Raum zwischen Ozeanen / The Space Between Oceans: Mobilizing America&#8217;s Transoceanic Empire.&#8221; <em>Forschungskonferenz der Philologischen Fakultät Leipzig</em>. Online. 26 January 2021. <a href="https://www.philol.uni-leipzig.de/institut-fuer-anglistik/newsdetail/artikel/forschungskonferenz-der-philologischen-fakultaet-2021-01-26-1/" target="_blank">Presentation</a>.</p>
@@ -45,7 +45,7 @@ Updated on 18 July 2021
 <p>&nbsp;</p>
 
 ## Conference & Workshop Organization
-<p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/28_sfb_workshop_archipelagic-imperial-spaces-and-mobilities/" target="_blank">International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
+<p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>&#8220;Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Panel Co-Chair.</p>
 <p><Regional Colloquium for American Studies. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
 <p>Urban America: Mediating City Space as Place. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Co-Organizer.</p>
