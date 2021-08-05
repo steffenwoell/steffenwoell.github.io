@@ -5,7 +5,7 @@ image: /img/pub.png
 ---
 
 {: .box-updated}
-Updated on 23 June 2021
+Updated on 5 August 2021
 
 {: .box-note}
 <a href="https://orcid.org/0000-0003-1582-6078" target="_blank"><i class="fab fa-orcid"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://d-nb.info/gnd/1225944139" target="_blank"><i class="fas fa-landmark"></i></a>&nbsp;&nbsp;<a href="http://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a>
@@ -20,6 +20,8 @@ Updated on 23 June 2021
 <p>&nbsp;</p>
 
 ## Peer-Reviewed Journals
+<p>&#8220;Unmasking Maps, Unmapping Empire: Archipelagic Cartographies as Epistemic Mobilities.&#8221; <em>Archipelagic Imperial Mobilities (Special Issue)</em>. Forthcoming.</p>
+<p>&#8220;Beyond the Artifact: Mapping Affect, Memory, and Spatial Identity.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em>. Forthcoming.</p>
 <p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
 <p>&#8220;The Horrors of the Oriental Space and Language in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Zeitschrift für Anglistik und Amerikanistik</em> 68 (2020) 3: 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
 <p>&#8220;Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies.&#8221; <em>ANGLICA: An International Journal of English Studies</em> 29 (2020) 1: 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
@@ -32,8 +34,8 @@ Updated on 23 June 2021
 <p>&nbsp;</p>
 
 ## Edited Volumes
-<p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>EAAS Special Issue: The Literary Western in the Global Imagination</em>. Eds. Conway, Christopher, David Rio, and Marek Paryz. Accepted for Publication.</p>
-<p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Accepted for Publication.</p>
+<p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>The Literary Western in the Global Imagination</em>. Eds. Conway, Christopher, David Rio, and Marek Paryz. Forthcoming.</p>
+<p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Forthcoming.</p>
 <p>&#8220;&#8216;True Places Never Are&#8217;: Navigating (Trans)Oceanic Imaginations in &#8216;Moby-Dick.&#8217;&#8221; <em>American Studies Over_Seas</em>. 2021. Forthcoming.</p>
 <p>&#8220;Spatial Imaginations and Counter-Geographies of Oregon and the Far West.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. 2021. Forthcoming.</p>
 <p>&#8220;&#8216;Fear Thy Neighbor&#8217;: Paranoia and Suburban Victim-Hood in Mark Pellington&#8217;s <em>Arlington Road</em>.&#8221; <em>Traditions and Transitions</em>. Vol. 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2019: 290–302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Open Access</a>.</p>
