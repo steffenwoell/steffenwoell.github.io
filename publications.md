@@ -20,7 +20,7 @@ Updated on 30 August 2021
 <p>&nbsp;</p>
 
 ## Peer-Reviewed Journals
-<p>&#8220;&#8216;Then I Started for the Mountains&#8217;: Retracing Louisiana&#8217;s Human Geographies across Five Remarkable Biographies&#8221; <em>Clio: A Journal of Literature, History, and the Philosophy of History</em>. Forthcoming.</p>
+<p>&#8220;&#8216;Then I Started for the Mountains&#8217;: Retracing Louisiana&#8217;s Human Geographies across Five Remarkable Biographies.&#8221; <em>Clio: A Journal of Literature, History, and the Philosophy of History</em>. Forthcoming.</p>
 <p>&#8220;Unmasking Maps, Unmapping Empire: Archipelagic Cartographies as Epistemic Mobilities.&#8221; <em>Archipelagic Imperial Mobilities (Special Issue)</em>. Forthcoming.</p>
 <p>&#8220;Beyond the Artifact: Mapping Affect, Memory, and Spatial Identity.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em>. Forthcoming.</p>
 <p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
