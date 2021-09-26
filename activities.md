@@ -5,7 +5,7 @@ image: /img/act.png
 ---
 
 {: .box-updated}
-Updated on 20 July 2021
+Updated July 20, 2021
 
 <p>&nbsp;</p>
 

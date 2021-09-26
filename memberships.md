@@ -5,7 +5,7 @@ image: /img/mem.png
 ---
 
 {: .box-updated}
-Updated on 1 May 2021
+Updated May 1, 2021
 
 <p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 <p><a href="https://dgfa.de" target="_blank">DGfA</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
