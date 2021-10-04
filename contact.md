@@ -13,7 +13,7 @@ Please direct all correspondence to `steffen.woell@uni-leipzig.de`.
 Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B`. My public key is [here](/dl/sw_pgp_public_key.asc).
 
 <p>&nbsp;</p>
-## Social Media
+## Social Platforms
 
 {: .box-blue}
 <a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank"><i class="fab fa-researchgate"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a><br/>
@@ -33,7 +33,7 @@ Office: `+49 (341) 973 77 52`-->
 
 {: .box-note}
 Dr. Steffen Wöll<br/>
-Nikolaistrasse 6-10<br/>
+Nikolaistr. 6-10<br/>
 Room 5.07<br/>
 04109 Leipzig<br/>
 Germany
