@@ -5,11 +5,12 @@ image: /img/act.png
 ---
 
 {: .box-updated}
-Updated October 1, 2021
+Updated October 4, 2021
 
 <p>&nbsp;</p>
 
 ## Presentations
+<p>&#8220;Polysemic Exchanges and Epistemic Flows: The Archipelago as Method and Metaphor for Cultural Transfers.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
 <p>&#8220;&#8216;The Great Seatsfield&#8217;: The Transatlantic Politics of the Early Western.&#8221; <em>Mid-Atlantic Popular & American Culture Association</em>. Online. 11 November 2021. <a href="https://mapaca.net/conference/2021" target="_blank">Presentation</a>.</p>
 <p>&#8220;Doing Nature&#8217;s Work: Subaltern Economies and Socialist Social Darwinism in Jack London&#8217;s Writings.&#8221; <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen / Online. 5-6 November, 2021. <a href="https://sanas2021.ch/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Oceans of Dissent: Liquefying the Trans-hemispheric Empire in Fin de Siècle Literature.&#8221; <em>American Studies Association</em>. San Juan/online. 12 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Presentation</a>.</p>
