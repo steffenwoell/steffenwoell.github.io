@@ -5,17 +5,18 @@ image: /img/act.png
 ---
 
 {: .box-updated}
-Updated October 4, 2021
+Updated October 11, 2021
 
 <p>&nbsp;</p>
 
 ## Presentations
 <p>&#8220;Polysemic Exchanges and Epistemic Flows: The Archipelago as Method and Metaphor for Cultural Transfers.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
 <p>&#8220;&#8216;The Great Seatsfield&#8217;: The Transatlantic Politics of the Early Western.&#8221; <em>Mid-Atlantic Popular & American Culture Association</em>. Online. 11 November 2021. <a href="https://mapaca.net/conference/2021" target="_blank">Presentation</a>.</p>
-<p>&#8220;Doing Nature&#8217;s Work: Subaltern Economies and Socialist Social Darwinism in Jack London&#8217;s Writings.&#8221; <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen/online. 5-6 November, 2021. <a href="https://sanas2021.ch/" target="_blank">Presentation</a>.</p>
+<p>&#8220;Doing Nature&#8217;s Work: Subaltern Economies and Socialist Social Darwinism in Jack London&#8217;s Writings.&#8221; <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen/online. 5-6 November, 2021. <a href="https://sanas2021.ch/" target="_blank">Presentation</a>. [<a href="https://u.pcloud.link/publink/show?code=XZFG4xXZvsbTkxame00mVpXNWpJt9VL8nSk7" target="_blank">Watch</a>]</p>
+<p>&#8220;The Seeds and Seeding of Empire.&#8221; <em>American Studies Association</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
 <p>&#8220;Oceans of Dissent: Liquefying the Trans-hemispheric Empire in Fin de Siècle Literature.&#8221; <em>American Studies Association</em>. San Juan/online. 12 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Presentation</a>.</p>
 <p>&#8220;Unma(s)king Maps, Unmapping Empires: Archipelagic Cartographies as Epistemic Mobilities.&#8220; <em>Archipelagic Imperial Spaces and Mobilities</em>. Leipzig/online. 17 July 2021. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">International Workshop</a>.</p>
-<p>&#8220;No Single Logic: Reassembling Human Geographies of the Louisiana Territory Through Biographies and Life Writing.&#8221; <em>Assemblages of Empire: An American Studies Symposium</em>. University of Texas, Austin. 4-5 March 2021. <a href="https://utamsconference.wordpress.com/" target="_blank">Presentation</a>.</p>
+<p>&#8220;No Single Logic: Reassembling Human Geographies of the Louisiana Territory Through Biographies and Life Writing.&#8221; <em>Assemblages of Empire: An American Studies Symposium</em>. University of Texas, Austin. 4-5 March 2021. <a href="https://utamsconference.wordpress.com/" target="_blank">Presentation</a>. [<a href="https://youtu.be/bjablrNN2Qw" target="_blank">Watch</a>]</p>
 <p>&#8220;Der Raum zwischen Ozeanen / The Space Between Oceans: Mobilizing America&#8217;s Transoceanic Empire.&#8221; <em>Forschungskonferenz der Philologischen Fakultät Leipzig</em>. Online. 26 January 2021. <a href="https://www.philol.uni-leipzig.de/institut-fuer-anglistik/newsdetail/artikel/forschungskonferenz-der-philologischen-fakultaet-2021-01-26-1/" target="_blank">Presentation</a>.</p>
 <p>&#8220;The Space Between Oceans: Mobilizing America&#8217;s Transoceanic Empire.&#8221; <em>Fifth Annual Conference of the SFB 1199: Mobilities under the Global Condition from the 19th Century to the Present</em>. Leipzig/online. 8 October 2020. <a href="https://research.uni-leipzig.de/~sfb1199/annual-conference/" target="_blank">Presentation</a>.</p>
 <p>&#8220;The Naturalists&#8217; Frontier: Ethnic Mobilities in Jack London&#8217;s Literary Geographies.&#8221; <em>American Literature Association Annual Conference</em>. San Diego. 21–24 May 2020. <a href="http://americanliteratureassociation.org/ala-conferences/ala-2020-and-covid-19/" target="_blank">Presentation</a>. [<em>Canceled due to COVID-19</em>]</p>
