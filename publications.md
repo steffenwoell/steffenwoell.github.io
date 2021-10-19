@@ -5,7 +5,7 @@ image: /img/pub.png
 ---
 
 {: .box-updated}
-Updated October 1, 2021
+Updated October 19, 2021
 
 {: .box-note}
 <a href="https://orcid.org/0000-0003-1582-6078" target="_blank"><i class="fab fa-orcid"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://d-nb.info/gnd/1225944139" target="_blank"><i class="fas fa-landmark"></i></a>&nbsp;&nbsp;<a href="http://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a>
@@ -39,7 +39,7 @@ Updated October 1, 2021
 <p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>The Literary Western in the Global Imagination</em>. Eds. Conway, Christopher, David Rio, and Marek Paryz. Forthcoming.</p>
 <p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Forthcoming.</p>
 <p>&#8220;&#8216;True Places Never Are&#8217;: Navigating (Trans)Oceanic Imaginations in &#8216;Moby-Dick.&#8217;&#8221; <em>American Studies Over_Seas</em>. 2021. Forthcoming.</p>
-<p>&#8220;Spatial Imaginations and Counter-Geographies of Oregon and the Far West.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. 2021. Forthcoming.</p>
+<p>&#8220;Spatial Imaginations and Counter-Geographies of Oregon and the Far West.&#8221; <em>Reinventar o social: movimentos e narrativas de resistência nas Américas [Reinventing the Social: Movements and Narratives of Resistance in the Americas</em>. Coimbra University Press. 2021: 237-64. <a href="https://www.amazon.es/dp/9892621255/" target="_blank">Print</a>.</p>
 <p>&#8220;&#8216;Fear Thy Neighbor&#8217;: Paranoia and Suburban Victim-Hood in Mark Pellington&#8217;s <em>Arlington Road</em>.&#8221; <em>Traditions and Transitions</em>. Vol. 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2019: 290–302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Open Access</a>.</p>
 <p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. Vol. 3. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.degruyter.com/view/product/518315" target="_blank">Print</a>.</p>
 <p>&#8220;Spatiality and Psyche: Surviving the Yukon in Jack London&#8217;s &#8216;Love of Life&#8217; and &#8216;To Build a Fire.&#8217;&#8221; <em>Processes of Spatialization in the Americas: Configurations and Narratives</em>. Interamericana. Vol. 13. Eds. Gabriele Pisarz-Ramirez and Hannes Warnecke-Berger. Peter Lang, 2019: 75–98. <a href="https://www.peterlang.com/view/title/65439" target="_blank">Print</a>.</p>
