@@ -6,9 +6,9 @@ layout: null
 
 /* --- General --- */
 
-.copyright text-muted {margin-top: 40px;}
+.copyright {margin-top: 40px;}
 
-.copyright made-with {
+.made-with {
   margin-bottom: 20px;
   color: #DDD;
   text-shadow: 1px 1px 2px #CCC;
