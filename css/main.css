@@ -8,7 +8,11 @@ layout: null
 
 .copyright text-muted {margin-top: 40px;}
 
-.copyright made-with {margin-bottom: 20px;}
+.copyright made-with {
+  margin-bottom: 20px;
+  font-family: monospace;
+  white-space: pre;
+}
 
 .creativecommons {margin-top: 60px; text-align: center;}
 
