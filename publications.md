@@ -58,7 +58,7 @@ Updated November 25, 2021
 <p>&nbsp;</p>
 
 ## Editing
-<p><em>Archipelagic Imperial Spaces and Mobilities</em> Special Issue. Co-editor. <a href="https://enmma.org/files/ENMMA_-_Archipelagic_Imperial_Spaces_and_Mobilities_Call_for_Contributions.pdf" target="_blank">Call for Contributions</a>.</p>
+<p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; <em>Journal of Transnational American Studies</em> Special Issue. Co-editor.</p>
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access</a>.</p>
 
 <p>&nbsp;</p>
