@@ -5,11 +5,12 @@ image: /img/act.png
 ---
 
 {: .box-updated}
-Updated October 11, 2021
+Updated November 29, 2021
 
 <p>&nbsp;</p>
 
 ## Presentations
+<p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Polysemic Exchanges and Epistemic Flows: The Archipelago as Method and Metaphor for Cultural Transfers.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
 <p>&#8220;&#8216;The Great Seatsfield&#8217;: The Transatlantic Politics of the Early Western.&#8221; <em>Mid-Atlantic Popular & American Culture Association</em>. Online. 11 November 2021. <a href="https://mapaca.net/conference/2021" target="_blank">Presentation</a>.</p>
 <p>&#8220;Doing Nature&#8217;s Work: Subaltern Economies and Socialist Social Darwinism in Jack London&#8217;s Writings.&#8221; <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen/online. 5-6 November, 2021. <a href="https://sanas2021.ch/" target="_blank">Presentation</a>. [<a href="https://u.pcloud.link/publink/show?code=XZFG4xXZvsbTkxame00mVpXNWpJt9VL8nSk7" target="_blank">Watch</a>]</p>
