@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-image: /img/act.png
+image: /img/mic.png
 ---
 
 {: .box-updated}
