@@ -5,7 +5,7 @@ image: /img/pub.png
 ---
 
 {: .box-updated}
-Updated December 1, 2021
+Updated January 26, 2022
 
 {: .box-note}
 <a href="https://orcid.org/0000-0003-1582-6078" target="_blank"><i class="fab fa-orcid"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://d-nb.info/gnd/1225944139" target="_blank"><i class="fas fa-landmark"></i></a>&nbsp;&nbsp;<a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a>
@@ -20,8 +20,8 @@ Updated December 1, 2021
 <p>&nbsp;</p>
 
 ## Peer-Reviewed Journals
-<p>&#8220;Unmasking Maps, Unmapping Empire: Archipelagic Cartographies as Epistemic Mobilities.&#8221; <em>Archipelagic Imperial Mobilities (Special Issue)</em>. Forthcoming.</p>
-<p>&#8220;Beyond the Artifact: Mapping Affect, Memory, and Spatial Identity.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em>. Forthcoming.</p>
+<p>&#8220;Unmasking Maps, Unmapping Empire: Archipelagic Cartographies as Epistemic Mobilities.&#8221; <em>Journal of Transatlantic American Studies</em> Special Issue &#8220;Archipelagic Imperial Mobilities.&#8221; Forthcoming 2022.</p>
+<p>&#8220;Beyond the Artifact: Mapping Affect, Memory, and Spatial Identity.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em>. Forthcoming 2022.</p>
 <p>&#8220;&#8216;Then I Started for the Mountains&#8217;: Retracing Louisiana&#8217;s Human Geographies across Five Remarkable Biographies.&#8221; <em>Clio: A Journal of Literature, History, and the Philosophy of History</em> 49 (2021) 1: 42-64. <a href="https://www.pfw.edu/clio/index-contents/" target="_blank">Print</a>.</p>
 <p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
 <p>&#8220;The Horrors of the Oriental Space and Language in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Zeitschrift für Anglistik und Amerikanistik</em> 68 (2020) 3: 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
