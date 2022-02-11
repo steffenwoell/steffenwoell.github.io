@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Publications
-image: /img/pub.png
+image: /img/pub2.jpg
 ---
 
 {: .box-updated}
-Updated January 26, 2022
+Updated February 11, 2022
 
 {: .box-note}
 <a href="https://orcid.org/0000-0003-1582-6078" target="_blank"><i class="fab fa-orcid"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://d-nb.info/gnd/1225944139" target="_blank"><i class="fas fa-landmark"></i></a>&nbsp;&nbsp;<a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a>
