@@ -5,7 +5,7 @@ image: /img/pil.jpg
 ---
 
 {: .box-updated}
-Updated February 11, 2022
+<i class="far fa-clock"></i>&nbsp;&nbsp;Updated February 11, 2022
 
 <p>&nbsp;</p>
 

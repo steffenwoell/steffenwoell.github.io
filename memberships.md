@@ -5,7 +5,7 @@ image: /img/mem.png
 ---
 
 {: .box-updated}
-Updated November 25, 2021
+<i class="far fa-clock"></i>&nbsp;&nbsp;Updated November 25, 2021
 
 <p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 <p><a href="https://dgfa.de" target="_blank">DGfA / GAAS</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
