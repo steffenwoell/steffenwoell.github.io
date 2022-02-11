@@ -5,13 +5,13 @@ image: /img/mic.png
 ---
 
 {: .box-updated}
-Updated January 26, 2022
+Updated February 11, 2022
 
 <p>&nbsp;</p>
 
 ## Presentations
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
-<p>&#8220;Polysemic Exchanges and Epistemic Flows: The Archipelago as Method and Metaphor for Cultural Transfers.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
+<p>&#8220;Archipelagic Thinking and the Transcultural Space of Mapping.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
 <p>&#8220;&#8216;The Great Seatsfield&#8217;: The Transatlantic Politics of the Early Western.&#8221; <em>Mid-Atlantic Popular & American Culture Association</em>. Online. 11 November 2021. <a href="https://mapaca.net/conference/2021" target="_blank">Presentation</a>.</p>
 <p>&#8220;Doing Nature&#8217;s Work: Subaltern Economies and Socialist Social Darwinism in Jack London&#8217;s Writings.&#8221; <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen/online. 5-6 November, 2021. <a href="https://sanas2021.ch/" target="_blank">Presentation</a>. [<a href="https://u.pcloud.link/publink/show?code=XZFG4xXZvsbTkxame00mVpXNWpJt9VL8nSk7" target="_blank">Watch</a>]</p>
 <p>&#8220;Oceans of Dissent: Liquefying the Trans-hemispheric Empire in Fin de Siècle Literature.&#8221; <em>American Studies Association</em>. San Juan/online. 12 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Presentation</a>.</p>
@@ -57,11 +57,12 @@ Updated January 26, 2022
 <p>&nbsp;</p>
 
 ## Teaching & Lectures
-<p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Semester 2021/22. Seminar.</p>
-<p>&#8220;Reading the Transpacific: Asian American Cultures and Identities.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Semester 2020/21. Seminar.</p>
+<p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig. Summer Term 2022. Seminar.</p>
+<p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Term 2021/22. Seminar.</p>
+<p>&#8220;Reading the Transpacific: Asian American Cultures and Identities.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Term 2020/21. Seminar.</p>
 <p><a href="http://americanstudies.uni-leipzig.de/content/research-bash" target="_blank">ASL Research Bash</a>. <em>American Studies Leipzig</em>. 25 June 2019.</p>
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig. 13 June 2018. Guest Lecture.</p>
-<p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Semester 2017/18. Seminar.</p>
+<p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Term 2017/18. Seminar.</p>
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig. 8 June 2016. Guest Lecture.</p>
 <p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. <a href="https://studytour2015.wordpress.com" target="_blank">Study Tour</a>. Co-Organizer.</p>
 
