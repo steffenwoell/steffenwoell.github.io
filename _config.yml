@@ -21,9 +21,9 @@ description: Postdoctoral Researcher at SFB 1199 / Leipzig University
 # List of links in the navigation bar
 navbar-links:
 #  Bio: "bio"
-  <i class="fas fa-book"></i>&nbsp;Publications: "publications"
-  <i class="fas fa-shoe-prints"></i>&nbsp;Activities: "activities"
-  <i class="far fa-envelope"></i>&nbsp;Contact: "contact"
+  Publications: "publications"
+  Activities: "activities"
+  Contact: "contact"
   More:
 #  - Projects: "projects"
   - Memberships: "memberships"
