@@ -802,7 +802,7 @@ pre {
 .box-updated {
   background-color: #dcfadc;
   border-left-color: #4d944d;
-  font-style: italic;
+  font-style: normal;
 }
 
 .box-note {
