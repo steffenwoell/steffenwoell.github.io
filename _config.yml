@@ -4,7 +4,7 @@
 title: Dr. Steffen Wöll
 
 # Short description of your site
-description: Postdoctoral Fellow at CRC 1199, Leipzig University
+description: Postdoctoral Researcher at SFB 1199 / Leipzig University
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,7 @@ description: Postdoctoral Fellow at CRC 1199, Leipzig University
 navbar-links:
 #  Bio: "bio"
   Publications: "publications"
-  Activities: "activities"
+  <i class="fas fa-chalkboard"></i>&nbsp;Activities: "activities"
   Contact: "contact"
   More:
 #  - Projects: "projects"

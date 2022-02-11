@@ -5,7 +5,7 @@ image: /img/pub2.jpg
 ---
 
 {: .box-updated}
-<i class="far fa-clock"></i>&nbsp;&nbsp;Updated February 11, 2022
+<i class="far fa-clock"></i>&nbsp; Updated February 11, 2022
 
 {: .box-note}
 <i class="fab fa-orcid"></i>&nbsp;<a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-landmark"></i>&nbsp;&nbsp;<a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-landmark"></i>&nbsp;&nbsp;<a href="https://catalog.loc.gov/vwebv/search?searchType=7&searchId=8902&maxResultsPerPage=25&recCount=25&recPointer=0&resultPointer=0&headingId=33459717" target="_blank">Library of Congress</a>
@@ -13,7 +13,7 @@ image: /img/pub2.jpg
 <p>&nbsp;</p>
 
 ## Monographs
-*The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse*. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://www.amazon.de/West-Word-Formatting-Nineteenth-Century-Dialectics/dp/3110690004/" target="_blank">Print</a>.
+*The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse*. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print</a>.
 
 <p>&nbsp;</p>
 
