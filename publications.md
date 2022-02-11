@@ -13,8 +13,6 @@ Updated February 11, 2022
 <p>&nbsp;</p>
 
 ## Monographs
-
-{: .box-blue}
 *The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse*. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://www.amazon.de/West-Word-Formatting-Nineteenth-Century-Dialectics/dp/3110690004/" target="_blank">Print</a>.
 
 <p>&nbsp;</p>
