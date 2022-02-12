@@ -5,7 +5,7 @@ image: /img/pil.jpg
 ---
 
 {: .box-updated}
-<span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; Updated February 11, 2022</span>
+<span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>
 
 <p>&nbsp;</p>
 
