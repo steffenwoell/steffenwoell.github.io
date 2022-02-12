@@ -5,7 +5,7 @@ image: /img/mem.png
 ---
 
 {: .box-updated}
-<span style="color: #488B49"><i class="far fa-clock"></i>&nbsp; Updated February 11, 2022</span>
+<span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>
 
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;<a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 
@@ -18,4 +18,5 @@ image: /img/mem.png
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;<a href="https://mapaca.net/">MAPACA</a> (Mid-Atlantic Popular & American Culture Association)</p>
 
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;<a href="https://mpcaaca.org" target="_blank">MPCA/ACA</a> (The Midwest Popular and American Culture Association)</p>
-<p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA</a> (Society of Early Americanists)</p>
+
+<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;<a href="https://www.societyofearlyamericanists.org" target="_blank">SEA</a> (Society of Early Americanists)</p>
