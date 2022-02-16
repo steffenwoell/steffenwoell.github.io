@@ -57,7 +57,7 @@ image: /img/pub2.jpg
 <p>&nbsp;</p>
 
 ## Editing
-<p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; <em>Journal of Transnational American Studies</em> Special Issue. Co-editor.</p>
+<p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; <em>Journal of Transnational American Studies</em> Special Issue. 2022. Co-editor.</p>
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access</a>.</p>
 
 <p>&nbsp;</p>
@@ -71,4 +71,4 @@ image: /img/pub2.jpg
 <p>&#8220;Mapping Discourse in R.H. Dana&#8217;s Two Years Before the Mast,&#8221; 28 January 2020, Geisteswissenschaftliches Zentrum der Universität Leipzig. <a title="Discursive Mapping in Two Years Before the Mast" href="/dl/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf">Conference Poster</a>.</p>
 <p>&#8220;Urban America: Mediating City Space as Place,&#8221; 2 April 2016, Deutsches Literaturinstitut Leipzig. <a title="ASL Conference Program 2016" href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf">Conference Poster</a>.</p>
 <p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
-<p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; <a href="/dl/Empfindung, Bewusstsein, Wirklichkeit (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
+<p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; 2013. <a href="/dl/Empfindung, Bewusstsein, Wirklichkeit (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
