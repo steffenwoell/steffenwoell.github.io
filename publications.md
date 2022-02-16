@@ -18,6 +18,7 @@ image: /img/pub2.jpg
 <p>&nbsp;</p>
 
 ## Peer-Reviewed Journals
+<p>&#8220;Kennedicide In The &#8216;Heartland Of The Real&#8217;: Conspiracy, Coincidence, And Narrative Instability In Don Delillo’s <em>Libra</em>.&#8221; <em>New Academia</em> XI (Jan. 2022). <a href="https://interactionsforum.com/about-us" target="_blank">Open Access</a>.</p>
 <p>&#8220;Unmasking Maps, Unmapping Empire: Archipelagic Cartographies as Epistemic Mobilities.&#8221; <em>Journal of Transatlantic American Studies</em> Special Issue &#8220;Archipelagic Imperial Mobilities.&#8221; Forthcoming 2022.</p>
 <p>&#8220;Beyond the Artifact: Mapping Affect, Memory, and Spatial Identity.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em>. Forthcoming 2022.</p>
 <p>&#8220;&#8216;Then I Started for the Mountains&#8217;: Retracing Louisiana&#8217;s Human Geographies across Five Remarkable Biographies.&#8221; <em>Clio: A Journal of Literature, History, and the Philosophy of History</em> 49 (2021) 1: 42-64. <a href="https://www.pfw.edu/clio/index-contents/" target="_blank">Print</a>.</p>
