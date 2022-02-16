@@ -22,12 +22,6 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 <a href="https://www.instagram.com/streetart_leipzig/" target="_blank"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a><br/>
 <a href="https://soundcloud.com/w-a_s" target="_blank"><i class="fab fa-soundcloud"></i></a>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a>
 
-<!-- <p>&nbsp;</p>
-## Phone
-
-{: .box-note}
-Office: `+49 (341) 973 77 52`-->
-
 <p>&nbsp;</p>
 ## Mailing Address (V.i.S.d.P.)
 
