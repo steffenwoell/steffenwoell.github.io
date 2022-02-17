@@ -30,6 +30,7 @@ image: /img/pub2.jpg
 <p>&#8220;Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón&#8217;s <em>Gravity</em>.&#8221; <em>Polish Journal for American Studies</em> 11 (2017): 203–222. <a href="http://www.paas.org.pl/pjas/pjas-archive/" target="_blank">Print</a>.</p>
 <p>&#8220;Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>Emotion, Space and Society</em> 24 (2017): 1–8. <a href="http://www.sciencedirect.com/science/article/pii/S1755458616301359" target="_blank">Print</a>.</p>
 <p>&#8220;Inertia and Movement: The Spatialization of the Native Northland in Jack London&#8217;s Short Stories.&#8221; <em>GeoHumanities</em> 3 (2017) 1: 65–87. <a href="http://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821" target="_blank">Print</a>.</p>
+<p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
 
 <p>&nbsp;</p>
 
@@ -62,18 +63,25 @@ image: /img/pub2.jpg
 
 <p>&nbsp;</p>
 
+## Programming
+<p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018–. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
+
+<p>&nbsp;</p>
+
+## Posters
+<p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; 28 January 2020. Geisteswissenschaftliches Zentrum der Universität Leipzig. <a href="/doc/Discursive-Map-Conference-Poster-2020-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
+<p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
+
+<p>&nbsp;</p>
+
 ## Miscellaneous
 <p>&#8220;Violence, Representation, and Ecocide in the American West.&#8221; 2021. Prepared for <em>Academia Letters</em>. <a href="/doc/Violence, Representation, and Ecocide in the American West (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.&#8221; <em>TRAFO – Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361" target="_blank">Web</a>.</p>
 <p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
-<p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018–. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature.&#8221; <em>TRAFO – Blog for Transregional Research</em>. 10 April 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
 <p>&#8220;The Second Cold War.&#8221; <em>The Unz Review</em>. 9 December 2015. <a href="https://www.unz.com/article/the-second-cold-war/" target="_blank">Web</a>.</p>
 <p>&#8220;The Second Cold War. The US Might Come Out on the Losing Side...&#8221; <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
-<p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; 28 January 2020. Geisteswissenschaftliches Zentrum der Universität Leipzig. <a href="/doc/Steffen-Wöll-Discursive-Map-Conference-Poster-2020.pdf" target="_blank">Conference Poster</a>.</p>
-<p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/img/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
-<p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Prof. Hartmut Keil). <a href="/doc/Allah's Own Country (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Prof. Crister S. Garrett &#10013;). <a href="/doc/States of Contingency (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
-<p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; 2013. Seminar Paper. <em>Geschichte der Philosophie</em> (Dr. Thomas Wendt). <a href="/doc/Empfindung, Bewusstsein, Wirklichkeit (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
+<p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; 2013. Seminar Paper. <em>Geschichte der Philosophie: Zu einer kleinen Geschichte des Positivismus im 19. und 20. Jahrhundert</em> (Dr. Thomas Wendt). <a href="/doc/Empfindung, Bewusstsein, Wirklichkeit (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;&#8216;I Thought of Carthage&#8217;: Tactical and Moral Adjustments of the 1945 Atomic Bomb Drops on Hiroshima and Nagasaki.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlohbach, M.A.). <a href="/doc/I Thought of Carthage (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
