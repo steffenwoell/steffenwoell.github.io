@@ -78,3 +78,9 @@ image: /img/pil.jpg
 ## Grants & Awards
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
 <p>DAAD Travel Stipend 2017.</p>
+
+<p>&nbsp;</p>
+
+## Voluntary Work
+<p>Wikipedia Editor. <a href="https://xtools.wmflabs.org/ec/de.wikipedia.org/Sevenone71" target="_blank">Info</a>.</p>
+<p>KulturLounge e.V. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>
