@@ -63,6 +63,7 @@ image: /img/pub2.jpg
 <p>&nbsp;</p>
 
 ## Miscellaneous
+<p>&#8220;Violence, Representation, and Ecocide in the American West.&#8221; 2021. Prepared for <em>Academia Letters</em>. <a href="/doc/Violence, Representation, and Ecocide in the American West (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.&#8221; <em>TRAFO – Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361" target="_blank">Web</a>.</p>
 <p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
 <p><em>European Network for Minor Mobilities in the Americas</em>. <a href="https://enmma.org" target="_blank">Website</a>.</p>
