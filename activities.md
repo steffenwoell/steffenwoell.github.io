@@ -83,4 +83,4 @@ image: /img/pil.jpg
 
 ## Voluntary Work
 <p>Wikipedia Editor. <a href="https://xtools.wmflabs.org/ec/de.wikipedia.org/Sevenone71" target="_blank">Info</a>.</p>
-<p>KulturLounge e.V. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>
+<p>KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>
