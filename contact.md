@@ -10,7 +10,7 @@ image: /img/con.png
 Please direct all correspondence to `steffen.woell@uni-leipzig.de`
 
 {: .box-note}
-Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B`. The public key is [here](/dl/sw_pgp_public_key.asc)
+Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B`. The public key is [here](/doc/sw_pgp_public_key.asc)
 
 <p>&nbsp;</p>
 ## Social
