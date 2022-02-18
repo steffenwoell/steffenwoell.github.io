@@ -7,8 +7,6 @@ image: /img/pil.jpg
 <!--{: .box-updated}
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
-<p>&nbsp;</p>
-
 ## Presentations
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Archipelagic Thinking and the Transcultural Space of Mapping.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
