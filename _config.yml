@@ -23,7 +23,7 @@ navbar-links:
 #  Bio: "bio"
   Publications: "publications"
   Activities: "activities"
-  Contact: "contact"
+  Imprint: "imprint"
   More:
 #  - Projects: "projects"
 #  - Memberships: "memberships"
@@ -218,5 +218,4 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+#  - 

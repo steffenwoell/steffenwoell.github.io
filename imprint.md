@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact
+title: Imprint
 image: /img/con.png
 ---
 
-## Email
+## Contact
 
 {: .box-success}
 Please direct all correspondence to `steffen.woell@uni-leipzig.de`
@@ -17,10 +17,12 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 ## Social Media
 
 {: .box-blue}
+<div>
 <p><a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank"><i class="fab fa-researchgate"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a></p>
 <p><a href="https://mastodon.social/@SteffenWoell" target="_blank"><i class="fab fa-mastodon"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a></p>
 <p><a href="https://www.instagram.com/streetart_leipzig/" target="_blank"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></p>
 <p><a href="https://soundcloud.com/w-a_s" target="_blank"><i class="fab fa-soundcloud"></i></a>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a></p>
+</div>
 
 <p>&nbsp;</p>
 
@@ -37,4 +39,4 @@ Germany
 
 ## Privacy Policy
 
-This personal, non-commercial website is committed to the strictest standards of data protection and user privacy. It follows a zero cookie and zero plugin policy. No personal data (e.g., browser fingerprints or IP addresses) are ever used, processed, or stored to identify or track vistors.
+This personal, non-commercial website is committed to the strictest standards of data protection and user privacy. It follows a zero cookie and zero plugin policy. No personal data (e.g., browser fingerprints or IP addresses) is  processed or stored to identify or track vistors.
