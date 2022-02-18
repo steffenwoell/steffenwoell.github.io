@@ -39,4 +39,5 @@ Germany
 
 ## Privacy Policy
 
-<p>This personal, non-commercial website is committed to the strictest standards of data protection and user privacy. It follows a zero cookie and zero plugin policy. No personal data (e.g., browser fingerprints or IP addresses) is  processed or stored to identify or track vistors.</p>
+{: .box-success}
+This personal, non-commercial website is committed to the strictest standards of data protection and user privacy. It follows a zero cookie and zero plugin policy. No personal data (e.g., browser fingerprints or IP addresses) is  processed or stored to identify or track vistors.
