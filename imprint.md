@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Imprint
 image: /img/con.png
 ---
 
