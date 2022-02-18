@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imprint
-image: /img/con.png
+image: /img/imp.png
 ---
 
 ## Contact
@@ -38,6 +38,6 @@ Germany
 <p>&nbsp;</p>
 
 ## Privacy Policy
- 
-{: .box-success}
-This personal, non-commercial website is committed to the strictest standards of data protection and user privacy. It follows a zero cookie and zero plugin policy. No personal data (e.g., browser fingerprints or IP addresses) is  processed or stored to identify or track vistors.
+
+{: .box-warning}
+As a personal and non-commercial internet presence `steffenwoell.github.io` is strongly committed to user privacy and data protection. The website adheres to a strict zero-cookies, zero-plugins, zero-logs, zero-analytics policy. No personal data (e.g., IP addresses or browser fingerprints) is ever stored, transmitted, or used to identify or track vistors.
