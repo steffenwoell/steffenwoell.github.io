@@ -29,11 +29,11 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 ## Mailing Address (V.i.S.d.P.)
 
 {: .box-note}
-`Dr. Steffen Wöll<br/>
-Nikolaistr. 6-10<br/>
-Room 5.07<br/>
-04109 Leipzig<br/>
-Germany`
+`Dr. Steffen Wöll`<br/>
+`Nikolaistr. 6-10`<br/>
+`Room 5.07`<br/>
+`04109 Leipzig`<br/>
+`Germany`
 
 <p>&nbsp;</p>
 
