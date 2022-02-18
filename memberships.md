@@ -4,8 +4,8 @@ title: Memberships
 image: /img/mem.png
 ---
 
-{: .box-updated}
-<span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>
+<!--{: .box-updated}
+<span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;<a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 

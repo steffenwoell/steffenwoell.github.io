@@ -4,8 +4,8 @@ title: Activities
 image: /img/pil.jpg
 ---
 
-{: .box-updated}
-<span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>
+<!--{: .box-updated}
+<span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
 <p>&nbsp;</p>
 
@@ -72,6 +72,18 @@ image: /img/pil.jpg
 <p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG.</p>
 <p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by DFG.</p>
 <p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG.</p>
+
+<p>&nbsp;</p>
+
+## Memberships
+
+<p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
+<p><a href="https://dgfa.de" target="_blank">DGfA / GAAS</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
+<p><a href="https://enmma.org/" target="_blank">ENMMA</a> (European Network for the Study of Minor Mobilities in the Americas)</p>
+<p><a href="https://lasaweb.org/en/">LASA</a> (Latin American Studies Association)</p>
+<p><a href="https://mapaca.net/">MAPACA</a> (Mid-Atlantic Popular & American Culture Association)</p>
+<p><a href="https://mpcaaca.org" target="_blank">MPCA/ACA</a> (The Midwest Popular and American Culture Association)</p>
+<p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA</a> (Society of Early Americanists)</p>
 
 <p>&nbsp;</p>
 
