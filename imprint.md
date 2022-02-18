@@ -40,3 +40,7 @@ Germany
 ## Privacy Policy
 
 This personal, non-commercial website is committed to the strictest standards of data protection and user privacy. It follows a zero cookie and zero plugin policy. No personal data (e.g., browser fingerprints or IP addresses) is  processed or stored to identify or track vistors.
+
+<p>&nbsp;</p>
+
+<a href="http://validator.w3.org/check.cgi?url=https%3A//steffenwoell.github.io/feed.xml"><img src="valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
