@@ -17,12 +17,12 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 ## Social Media
 
 {: .box-blue}
-<div>
+<div><p>
 <p><a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank"><i class="fab fa-researchgate"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank">ResearchGate</a></p>
 <p><a href="https://mastodon.social/@SteffenWoell" target="_blank"><i class="fab fa-mastodon"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a></p>
 <p><a href="https://www.instagram.com/streetart_leipzig/" target="_blank"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></p>
 <p><a href="https://soundcloud.com/w-a_s" target="_blank"><i class="fab fa-soundcloud"></i></a>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a></p>
-</div>
+</p></div>
 
 <p>&nbsp;</p>
 
