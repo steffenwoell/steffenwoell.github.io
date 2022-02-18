@@ -1,0 +1,43 @@
+<footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          {%- for link in site.social-network-links -%}
+            {%- assign curkey = link[0] -%}
+            {%- assign element = site.data.SocialNetworks[curkey] -%}
+            <li>
+            {%- if curkey == 'rss' -%}
+              <a href="{{ '/feed.xml' | relative_url }}" title="{{ element.name }}" target="_blank">
+            {%- elsif curkey == 'mastodon' -%}
+              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}" rel="me" target="_blank">
+                {%- elsif curkey == 'home' -%}
+                  <a href="https://steffenwoell.github.io/" title="{{ element.name }}">
+            {%- else -%}
+              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}" target="_blank">
+            {%- endif -%}
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="{{ element.icon }} fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">{{ element.name }}</span>
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      <p class="copyright">
+      &nbsp;Steffen W&ouml;ll&nbsp;<script>document.write(new Date().getFullYear());</script>
+      {% if site.url-pretty %}
+      &nbsp;&ndash;&nbsp;
+      <a href="{{ '' | absolute_url }}" style="text-decoration: none">{{ site.url-pretty }}</a>
+      {% endif %}
+      </p>
+      <div class="creativecommons">
+        <div class="made-with" style="margin: 40px 0 15px 0">Made with</div>
+        <div class="copyright"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 International License" style="text-decoration: none" target="_blank">
+          <img width="40" alt="Creative Commons Attribution 4.0 International License" style="border-width:0" src="/img/ccheart_red.png" /></a></div>
+      </div>
+      </div>
+    </div>
+  </div>
+</footer>
