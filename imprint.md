@@ -37,7 +37,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 
 <p>&nbsp;</p>
 
-## Privacy Policy
+## Privacy & Data Protection
 
 {: .box-warning}
-As a personal and non-commercial internet presence `steffenwoell.github.io` is strongly committed to user privacy and data protection. The website adheres to a strict zero-cookies, zero-plugins, zero-logs, zero-analytics policy. No personal data (e.g., IP addresses or browser fingerprints) is ever stored, transmitted, or used to identify or track vistors.
+As a personal and non-commercial internet presence `steffenwoell.github.io` is committed to user privacy and data protection. The website adheres to a strict zero-cookies, zero-plugins, zero-logs, zero-analytics policy. No personal data (e.g., IP addresses or browser fingerprints) is ever stored, transmitted, or used to identify and/or track vistors.
