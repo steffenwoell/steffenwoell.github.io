@@ -17,11 +17,10 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 ## Social Media
 
 {: .box-blue}
-<a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank"><i class="fab fa-researchgate"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a><!--<br/>
-<a href="https://write.as/dysnomia/" target="_blank"><i class="fas fa-feather-alt"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://write.as/dysnomia/" target="_blank">dysnomia (co-authored blog)</a>--><br/>
-<a href="https://mastodon.social/@SteffenWoell" target="_blank"><i class="fab fa-mastodon"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a><br/>
-<a href="https://www.instagram.com/streetart_leipzig/" target="_blank"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a><br/>
-<a href="https://soundcloud.com/w-a_s" target="_blank"><i class="fab fa-soundcloud"></i></a>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a>
+<p><a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank"><i class="fab fa-researchgate"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a></p>
+<p><a href="https://mastodon.social/@SteffenWoell" target="_blank"><i class="fab fa-mastodon"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a></p>
+<p><a href="https://www.instagram.com/streetart_leipzig/" target="_blank"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></p>
+<p><a href="https://soundcloud.com/w-a_s" target="_blank"><i class="fab fa-soundcloud"></i></a>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a></p>
 
 <p>&nbsp;</p>
 
@@ -34,7 +33,8 @@ Room 5.07<br/>
 04109 Leipzig<br/>
 Germany
 
+<p>&nbsp;</p>
 
 ## Privacy Policy
 
-This non-commercial website is committed to the strictest principles of data protection and privacy. No personal data (e.g., browser fingerprints or IP addresses) is used, processed, or stored in any way to identify or track vistors.
+This personal, non-commercial website is committed to the strictest standards of data protection and user privacy. It follows a zero cookie and zero plugin policy. No personal data (e.g., browser fingerprints or IP addresses) are ever used, processed, or stored to identify or track vistors.
