@@ -18,7 +18,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 
 {: .box-blue}
 <div>
-<p><a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank"><i class="fab fa-researchgate"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a></p>
+<p><a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank"><i class="fab fa-researchgate"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen_Woell3" target="_blank">ResearchGate</a></p>
 <p><a href="https://mastodon.social/@SteffenWoell" target="_blank"><i class="fab fa-mastodon"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a></p>
 <p><a href="https://www.instagram.com/streetart_leipzig/" target="_blank"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></p>
 <p><a href="https://soundcloud.com/w-a_s" target="_blank"><i class="fab fa-soundcloud"></i></a>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a></p>
@@ -39,8 +39,4 @@ Germany
 
 ## Privacy Policy
 
-This personal, non-commercial website is committed to the strictest standards of data protection and user privacy. It follows a zero cookie and zero plugin policy. No personal data (e.g., browser fingerprints or IP addresses) is  processed or stored to identify or track vistors.
-
-<p>&nbsp;</p>
-
-<a href="http://validator.w3.org/check.cgi?url=https%3A//steffenwoell.github.io/feed.xml"><img src="valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
+<p>This personal, non-commercial website is committed to the strictest standards of data protection and user privacy. It follows a zero cookie and zero plugin policy. No personal data (e.g., browser fingerprints or IP addresses) is  processed or stored to identify or track vistors.</p>
