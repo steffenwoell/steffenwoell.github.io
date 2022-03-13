@@ -47,8 +47,9 @@ image: /img/pil.jpg
 <p>&nbsp;</p>
 
 ## Conference & Workshop Organization
+<p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="#" target="_blank">2nd International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>The Seeds and Seeding of Empire. <em>American Studies Association</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
-<p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
+<p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">1st International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century. <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Panel Co-Chair.</p>
 <p>Regional Colloquium for American Studies. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
 <p>Urban America: Mediating City Space as Place. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Co-Organizer.</p>
@@ -56,14 +57,14 @@ image: /img/pil.jpg
 <p>&nbsp;</p>
 
 ## Teaching
-<p>&#8220;Mug Shots, Crime Culture, and American Media.&#8221; <em>Julius Maximilian University of Würzburg. 22 June 2022. Guest Seminar.</p>
-<p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig. Summer Term 2022. Seminar.</p>
-<p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Term 2021/22. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 21-22.pdf" target="_blank">Syllabus</a>.</p>
-<p>&#8220;Reading the Transpacific: Asian American Cultures and Identities.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Term 2020/21. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 20-21.pdf" target="_blank">Syllabus</a>.</p>
+<p>&#8220;Mug Shots, Crime Culture, and American Media.&#8221; Julius Maximilian University of Würzburg. 22 June 2022. Guest Seminar.</p>
+<p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. Seminar.</p>
+<p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2021/22. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 21-22.pdf" target="_blank">Syllabus</a>.</p>
+<p>&#8220;Reading the Transpacific: Asian American Cultures and Identities.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2020/21. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 20-21.pdf" target="_blank">Syllabus</a>.</p>
 <p><a href="http://americanstudies.uni-leipzig.de/content/research-bash" target="_blank">ASL Research Bash</a>. <em>American Studies Leipzig</em>. 25 June 2019.</p>
-<p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig. 13 June 2018. Guest Lecture.</p>
-<p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig. Winter Term 2017/18. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 17-18.pdf" target="_blank">Syllabus</a>.</p>
-<p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig. 8 June 2016. Guest Lecture.</p>
+<p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 13 June 2018. Guest Lecture.</p>
+<p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2017/18. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 17-18.pdf" target="_blank">Syllabus</a>.</p>
+<p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. Guest Lecture.</p>
 <p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. <a href="https://studytour2015.wordpress.com" target="_blank">Study Tour</a>. Co-Organizer.</p>
 
 <p>&nbsp;</p>
