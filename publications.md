@@ -12,25 +12,9 @@ image: /img/pub2.jpg
 
 <p>&nbsp;</p>
 
-## Monograph
-*The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse*. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print</a>.
-
-<p>&nbsp;</p>
-
-## Peer-Reviewed Journals
-<p>&#8220;Unmasking Maps, Unmaking Narratives: Towards an Archipelagic Cartography.&#8221; <em>Journal of Transatlantic American Studies</em> Special Issue &#8220;Archipelagic Imperial Mobilities.&#8221; Forthcoming 2022.</p>
-<p>&#8220;Beyond the Artifact: Mapping Affect, Memory, and Spatial Identity.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em>. Forthcoming 2022.</p>
-<p>&#8220;Kennedicide In The &#8216;Heartland Of The Real&#8217;: Conspiracy, Coincidence, And Narrative Instability In Don Delillo’s <em>Libra</em>.&#8221; <em>New Academia</em> XI (Jan. 2022). <a href="https://interactionsforum.com/about-us" target="_blank">Open Access</a>.</p>
-<p>&#8220;&#8216;Then I Started for the Mountains&#8217;: Retracing Louisiana&#8217;s Human Geographies across Five Remarkable Biographies.&#8221; <em>Clio: A Journal of Literature, History, and the Philosophy of History</em> 49 (2021) 1: 42-64. <a href="https://www.pfw.edu/clio/index-contents/" target="_blank">Print</a>.</p>
-<p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
-<p>&#8220;The Horrors of the Oriental Space and Language in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Zeitschrift für Anglistik und Amerikanistik</em> 68 (2020) 3: 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
-<p>&#8220;Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies.&#8221; <em>ANGLICA: An International Journal of English Studies</em> 29 (2020) 1: 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
-<p>&#8220;&#8216;To Be Murdered&#8217;: Simulations of Objectivity, Subjectivity, and Violence in Truman Capote&#8217;s <em>In Cold Blood</em>.&#8221; <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
-<p>&#8220;Bleeding Borders: Space, Blackness, and Hybridity in Jack London&#8217;s Representations of the American Southwest.&#8221; <em>Amerikastudien / American Studies </em>63 (2018) 1: 5-28. <a href="https://amst.winter-verlag.de/article/AMST/2018/1/3" target="_blank">Open Access</a>.</p>
-<p>&#8220;Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón&#8217;s <em>Gravity</em>.&#8221; <em>Polish Journal for American Studies</em> 11 (2017): 203–222. <a href="http://www.paas.org.pl/pjas/pjas-archive/" target="_blank">Print</a>.</p>
-<p>&#8220;Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>Emotion, Space and Society</em> 24 (2017): 1–8. <a href="http://www.sciencedirect.com/science/article/pii/S1755458616301359" target="_blank">Print</a>.</p>
-<p>&#8220;Inertia and Movement: The Spatialization of the Native Northland in Jack London&#8217;s Short Stories.&#8221; <em>GeoHumanities</em> 3 (2017) 1: 65–87. <a href="http://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821" target="_blank">Print</a>.</p>
-<p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
+## Monographs
+<p><em>The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print</a>.</p>
+<p><em>A Place Between Oceans: Spatial Imaginations of the American Empire, 1880&#8211;1940</em> (Work in Progress)</p>
 
 <p>&nbsp;</p>
 
@@ -44,6 +28,23 @@ image: /img/pub2.jpg
 <p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. Vol. 3. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.degruyter.com/view/product/518315" target="_blank">Print</a>.</p>
 <p>&#8220;Spatiality and Psyche: Surviving the Yukon in Jack London&#8217;s &#8216;Love of Life&#8217; and &#8216;To Build a Fire.&#8217;&#8221; <em>Processes of Spatialization in the Americas: Configurations and Narratives</em>. Interamericana. Vol. 13. Eds. Gabriele Pisarz-Ramirez and Hannes Warnecke-Berger. Peter Lang, 2019: 75–98. <a href="https://www.peterlang.com/view/title/65439" target="_blank">Print</a>.</p>
 <p>&#8220;Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States.&#8221; <em>Collaborative Research Centre 1199</em>. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. Leipziger Universitätsverlag, 2018. <a href="https://research.uni-leipzig.de/~sfb1199/publication/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/" target="_blank">Print</a>.</p>
+
+<p>&nbsp;</p>
+
+## Articles in Peer-Reviewed Journals
+<p>&#8220;Unmasking Maps, Unmaking Narratives: Towards an Archipelagic Cartography.&#8221; <em>Journal of Transatlantic American Studies</em> Special Issue &#8220;Archipelagic Imperial Mobilities.&#8221; Forthcoming 2022.</p>
+<p>&#8220;Beyond the Artifact: Mapping Affect, Memory, and Spatial Identity.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em>. Forthcoming 2022.</p>
+<p>&#8220;Kennedicide In The &#8216;Heartland Of The Real&#8217;: Conspiracy, Coincidence, And Narrative Instability In Don Delillo’s <em>Libra</em>.&#8221; <em>New Academia</em> XI (Jan. 2022). <a href="https://interactionsforum.com/about-us" target="_blank">Open Access</a>.</p>
+<p>&#8220;&#8216;Then I Started for the Mountains&#8217;: Retracing Louisiana&#8217;s Human Geographies across Five Remarkable Biographies.&#8221; <em>Clio: A Journal of Literature, History, and the Philosophy of History</em> 49 (2021) 1: 42-64. <a href="https://www.pfw.edu/clio/index-contents/" target="_blank">Print</a>.</p>
+<p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
+<p>&#8220;The Horrors of the Oriental Space and Language in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Zeitschrift für Anglistik und Amerikanistik</em> 68 (2020) 3: 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
+<p>&#8220;Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies.&#8221; <em>ANGLICA: An International Journal of English Studies</em> 29 (2020) 1: 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
+<p>&#8220;&#8216;To Be Murdered&#8217;: Simulations of Objectivity, Subjectivity, and Violence in Truman Capote&#8217;s <em>In Cold Blood</em>.&#8221; <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
+<p>&#8220;Bleeding Borders: Space, Blackness, and Hybridity in Jack London&#8217;s Representations of the American Southwest.&#8221; <em>Amerikastudien / American Studies </em>63 (2018) 1: 5-28. <a href="https://amst.winter-verlag.de/article/AMST/2018/1/3" target="_blank">Open Access</a>.</p>
+<p>&#8220;Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón&#8217;s <em>Gravity</em>.&#8221; <em>Polish Journal for American Studies</em> 11 (2017): 203–222. <a href="http://www.paas.org.pl/pjas/pjas-archive/" target="_blank">Print</a>.</p>
+<p>&#8220;Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>Emotion, Space and Society</em> 24 (2017): 1–8. <a href="http://www.sciencedirect.com/science/article/pii/S1755458616301359" target="_blank">Print</a>.</p>
+<p>&#8220;Inertia and Movement: The Spatialization of the Native Northland in Jack London&#8217;s Short Stories.&#8221; <em>GeoHumanities</em> 3 (2017) 1: 65–87. <a href="http://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821" target="_blank">Print</a>.</p>
+<p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
 
 <p>&nbsp;</p>
 
