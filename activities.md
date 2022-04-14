@@ -9,7 +9,7 @@ image: /img/pil.jpg
 
 ## Presentations
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
-<p>&#8220;Region, Nation, and Empire: Scaling Spatial Semantics in American Literature.&#8221; <em>Collaborative Research Centre 1199 Colloquium</em>. Leipzig. 11  May 2022.</p>
+<p>&#8220;Region, Nation, and Empire: Scaling Spatial Semantics in American Literature.&#8221; <em>Collaborative Research Centre 1199 Colloquium</em>. Leipzig. 11  May 2022. <a href="https://research.uni-leipzig.de/~sfb1199/app/uploads/2022/04/SFB_Colloquium_SS2022_Druckversion-1.pdf" target="_blank">Presentation</a>.</p>
 <p>&#8220;Archipelagic Thinking and the Transcultural Space of Mapping.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
 <p>&#8220;&#8216;The Great Seatsfield&#8217;: The Transatlantic Politics of the Early Western.&#8221; <em>Mid-Atlantic Popular & American Culture Association</em>. Online. 11 November 2021. <a href="https://mapaca.net/conference/2021" target="_blank">Presentation</a>.</p>
 <p>&#8220;Doing Nature&#8217;s Work: Subaltern Economies and Socialist Social Darwinism in Jack London&#8217;s Writings.&#8221; <em>Swiss Association for North American Studies Biennial Conference</em>. St. Gallen/online. 5-6 November, 2021. <a href="https://sanas2021.ch/" target="_blank">Presentation</a>. [<a href="https://u.pcloud.link/publink/show?code=XZFG4xXZvsbTkxame00mVpXNWpJt9VL8nSk7" target="_blank">Watch</a>]</p>
@@ -47,7 +47,7 @@ image: /img/pil.jpg
 <p>&nbsp;</p>
 
 ## Conference & Workshop Organization
-<p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="#" target="_blank">2nd International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
+<p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">2nd International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>The Seeds and Seeding of Empire. <em>American Studies Association</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
 <p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">1st International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century. <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Panel Co-Chair.</p>
