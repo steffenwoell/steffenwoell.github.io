@@ -80,13 +80,14 @@ image: /img/pub2.jpg
 
 <p>&nbsp;</p>
 
-## Programming
-<p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018–. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
-
-<p>&nbsp;</p>
-
 ## Miscellaneous Papers
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Prof. Hartmut Keil). <a href="/doc/Allah's Own Country (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Prof. Crister S. Garrett &#10013;). <a href="/doc/States of Contingency (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; 2013. Seminar Paper. <em>Geschichte der Philosophie: Zu einer kleinen Geschichte des Positivismus im 19. und 20. Jahrhundert</em> (Dr. Thomas Wendt). <a href="/doc/Empfindung, Bewusstsein, Wirklichkeit (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;&#8216;I Thought of Carthage&#8217;: Tactical and Moral Adjustments of the 1945 Atomic Bomb Drops on Hiroshima and Nagasaki.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlobach, M.A.). <a href="/doc/I Thought of Carthage (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
+
+<p>&nbsp;</p>
+
+## Programming (HTML / CSS / Java / CMS)
+<p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018–. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
+<p><em>steffenwoell.github.io<em>.</p>
