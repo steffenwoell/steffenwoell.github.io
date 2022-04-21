@@ -88,6 +88,6 @@ image: /img/pub2.jpg
 
 <p>&nbsp;</p>
 
-## Programming (HTML / CSS / Java / CMS)
+## Programming (`HTML / CSS / Java / CMS`)
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018–. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
-<p><em>steffenwoell.github.io<em>.</p>
+<p><em>steffenwoell.github.io<em>. 2019—. Website Programming & Design.</p>
