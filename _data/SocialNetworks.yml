@@ -9,7 +9,12 @@
 home:
   name: "Home"
   baseURL: "#"
-  icon: "fas fa-home"
+  icon: "fas fa-swimmer"
+
+up:
+  name: "Up"
+  baseURL: "#"
+  icon: "fas fa-arrow-up"
 
 blog:
   name: "Write.as"
