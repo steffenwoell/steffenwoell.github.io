@@ -6,6 +6,10 @@ layout: null
 
 /* --- General --- */
 
+.c-link a {
+  color: #AC8D10;
+}
+
 .copyright {
   margin-top: 25px;
 }
