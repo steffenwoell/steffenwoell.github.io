@@ -11,7 +11,7 @@ image: /img/pub2.jpg
 <i class="fab fa-orcid"></i>&nbsp;<a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-landmark"></i>&nbsp;&nbsp;<a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-landmark"></i>&nbsp;&nbsp;<a href="https://catalog.loc.gov/vwebv/search?searchType=7&searchId=8902&maxResultsPerPage=25&recCount=25&recPointer=0&resultPointer=0&headingId=33459717" target="_blank">Library of Congress</a>
 
 <div class="box-toc2">
-<p style="color:#4c99c4;margin-top:-1px"><i class="fas fa-wrench"></i>&nbsp; <b>Table of Contents</b></p>
+<p style="color:#005493;margin-top:-1px"><i class="fas fa-wrench"></i>&nbsp; <b>Table of Contents</b></p>
 <ol style="list-style:upper-roman">
 <li><a href="#monographs">Monographs</a></li>
 <li><a href="#edited-volumes">Edited Volumes</a></li>
@@ -104,5 +104,5 @@ image: /img/pub2.jpg
 <p><a name="programming">&nbsp;</a></p>
 
 ## IX.&nbsp;Programming (HTML, CSS, Java, CMS)
-<p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018–. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
+<p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
 <p><em>steffenwoell.github.io</em>. 2019—. Website Programming & Design.</p>
