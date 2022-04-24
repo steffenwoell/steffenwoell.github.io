@@ -10,6 +10,15 @@ layout: null
   margin-top: 25px;
 }
 
+.copyright a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.copyright a:hover {
+  text-decoration: none;
+}
+
 .made-with {
   margin-bottom: 12px;
   color: #bbb;
@@ -850,6 +859,11 @@ pre {
 .box-note {
   background-color: #eee;
   border-left-color: #2980b9;
+}
+
+.box-note a {
+  color: #555;
+  font-weight: bold;
 }
 
 .box-warning {
