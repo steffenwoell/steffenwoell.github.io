@@ -860,6 +860,30 @@ pre {
   line-height: 1.6em;
 }
 
+.box-toc2 {
+  background-color: #d4f0ff;
+  border-left-color: #5ab4e5;
+}
+
+.box-toc2 a {
+  color: #5ab4e5;
+  font-weight: normal;
+}
+
+.box-toc2 a:hover, a:focus {
+  color: #5ab4e5;
+  font-weight: normal;
+  text-decoration: underline;
+  -webkit-transition: color .2s ease-in-out;
+  -moz-transition: color .2s ease-in-out;
+  transition: color .2s ease-in-out;
+}
+
+.box-toc2 ol li::marker {
+  color: #5ab4e5;
+  line-height: 1.6em;
+}
+
 .box-error {
   background-color: #f4dddb;
   border-left-color: #c0392b;
