@@ -31,7 +31,7 @@ layout: null
 .fab {font-weight: 300;}
 
 .fas.fa-feather-alt.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fas.fa-feather-alt.fa-stack-1x.fa-inverse:hover {color: #ff0000;}
+.fas.fa-feather-alt.fa-stack-1x.fa-inverse:hover {color: #c0c0c0;}
 
 .fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.3s;}
 .fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
@@ -91,7 +91,8 @@ a {
   font-weight: 600;
 }
 a:hover,
-a:focus {
+a:focus,
+a:active {
   color: {{ site.hover-col }};
   text-decoration: underline;
   -webkit-transition: color .3s ease-in-out;
