@@ -7,12 +7,12 @@ image: /img/pil.jpg
 <!--{: .box-updated}
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
-{: .box-updated}
-<i class="far fa-bookmark"></i>&nbsp; Contents<br/>
-<a href="#pres">Presentations</a><br/>
-<a href="org">Conference & Workshop Organization</a><br/>
+<p class="box-warning" style="color:#AC8D10"><i class="fas fa-tasks"></i>&nbsp; Contents<br/><br/>
+<a href="#presentations">Presentations</a><br/>
+<a href="#conference-and-workshop-organization">Conference & Workshop Organization</a><br/>#
+</p>
 
-## <h2 id="pres">Presentations</h2>
+## <a name="presentations"></a>Presentations
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Region, Nation, and Empire: Scaling Spatial Semantics in American Literature.&#8221; <em>Collaborative Research Centre 1199 Colloquium</em>. Leipzig. 11  May 2022. <a href="https://research.uni-leipzig.de/~sfb1199/app/uploads/2022/04/SFB_Colloquium_SS2022_Druckversion-1.pdf" target="_blank">Presentation</a>.</p>
 <p>&#8220;Archipelagic Thinking and the Transcultural Space of Mapping.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
@@ -51,7 +51,7 @@ image: /img/pil.jpg
 
 <p>&nbsp;</p>
 
-## <h2 id="org">Conference & Workshop Organization</h2>
+## <a name="conference-and-workshop-organization"></a>Conference & Workshop Organization
 <p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">2nd International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>The Seeds and Seeding of Empire. <em>American Studies Association</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
 <p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">1st International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
@@ -61,7 +61,7 @@ image: /img/pil.jpg
 
 <p>&nbsp;</p>
 
-## Teaching
+## <a name="teaching"></a>Teaching
 <p>&#8220;Mug Shots, Crime Culture, and American Media.&#8221; Julius Maximilian University of Würzburg. 22 June 2022. Guest Seminar.</p>
 <p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. Seminar. <a href="/doc/LC-II Spectacle of Monsters Seminar 2022 Syllabus.pdf" target="_blank">Syllabus</a></p>
 <p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2021/22. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 21-22.pdf" target="_blank">Syllabus</a>.</p>
@@ -73,7 +73,7 @@ image: /img/pil.jpg
 
 <p>&nbsp;</p>
 
-## Field Studies
+## <a name="field-studies"></a>Field Studies
 <p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG.</p>
 <p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by DFG.</p>
 <p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG.</p>
@@ -81,7 +81,7 @@ image: /img/pil.jpg
 
 <p>&nbsp;</p>
 
-## Memberships
+## <a name="memberships"></a>Memberships
 
 <p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 <p><a href="https://dgfa.de" target="_blank">DGfA / GAAS</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
@@ -93,13 +93,13 @@ image: /img/pil.jpg
 
 <p>&nbsp;</p>
 
-## Grants & Awards
+## <a name="grants-awards"></a>Grants & Awards
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
 <p>DAAD Travel Stipend 2017.</p>
 
 <p>&nbsp;</p>
 
-## Voluntary Work
+## <a name="voluntary-work"></a>Voluntary Work
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award</a>.</p>
 <p>Wikipedia Editor. <a href="https://xtools.wmflabs.org/ec/de.wikipedia.org/Sevenone71" target="_blank">Info</a>.</p>
 <p>KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>
