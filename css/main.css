@@ -11,12 +11,14 @@ layout: null
 }
 
 .copyright a {
-  font-weight: bold;
+  font-weight: 600;
   text-decoration: none;
+  color: #555;
 }
 
 .copyright a:hover {
   text-decoration: none;
+  color: #555;
 }
 
 .made-with {
