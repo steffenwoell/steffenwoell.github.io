@@ -22,7 +22,7 @@ image: /img/pil.jpg
 
 <p><a name="presentations">&nbsp;</a></p>
 
-## Presentations
+## I.&nbsp;Presentations
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Region, Nation, and Empire: Scaling Spatial Semantics in American Literature.&#8221; <em>Collaborative Research Centre 1199 Colloquium</em>. Leipzig. 11  May 2022. <a href="https://research.uni-leipzig.de/~sfb1199/app/uploads/2022/04/SFB_Colloquium_SS2022_Druckversion-1.pdf" target="_blank">Presentation</a>.</p>
 <p>&#8220;Archipelagic Thinking and the Transcultural Space of Mapping.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
@@ -61,7 +61,7 @@ image: /img/pil.jpg
 
 <p><a name="conference-and-workshop-organization">&nbsp;</a></p>
 
-## Conference & Workshop Organization
+## II.&nbsp;Conference & Workshop Organization
 <p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">2nd International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>The Seeds and Seeding of Empire. <em>American Studies Association</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
 <p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">1st International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
@@ -71,7 +71,7 @@ image: /img/pil.jpg
 
 <p><a name="teaching">&nbsp;</a></p>
 
-## Teaching
+## III.&nbsp;Teaching
 <p>&#8220;Mug Shots, Crime Culture, and American Media.&#8221; Julius Maximilian University of Würzburg. 22 June 2022. Guest Seminar.</p>
 <p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. Seminar. <a href="/doc/LC-II Spectacle of Monsters Seminar 2022 Syllabus.pdf" target="_blank">Syllabus</a></p>
 <p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2021/22. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 21-22.pdf" target="_blank">Syllabus</a>.</p>
