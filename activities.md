@@ -8,13 +8,13 @@ image: /img/pil.jpg
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
 <p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; <b>Table of Contents</b><br/><br/>
-<i class="far fa-microphone"></i>&nbsp; <a href="#presentations">Presentations</a><br/>
-<i class="far fa-project-diagram"></i>&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a><br/>
-<i class="far fa-chalkboard-teacher"></i>&nbsp; <a href="#teaching">Teaching</a><br/>
-<i class="far fa-globe-americas"></i>&nbsp; <a href="#field-studies">Field Studies</a><br/>
-<i class="far fa-university"></i>&nbsp; <a href="#memberships">Memberships</a><br/>
-<i class="far fa-award"></i>&nbsp; <a href="#grants-awards">Grants & Awards</a><br/>
-<i class="far fa-handshake"></i>&nbsp; <a href="#voluntary-work">Voluntary Work</a>
+<i class="fas fa-microphone"></i>&nbsp; <a href="#presentations">Presentations</a><br/>
+<i class="fas fa-project-diagram"></i>&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a><br/>
+<i class="fas fa-chalkboard-teacher"></i>&nbsp; <a href="#teaching">Teaching</a><br/>
+<i class="fas fa-globe-americas"></i>&nbsp; <a href="#field-studies">Field Studies</a><br/>
+<i class="fas fa-university"></i>&nbsp; <a href="#memberships">Memberships</a><br/>
+<i class="fas fa-award"></i>&nbsp; <a href="#grants-awards">Grants & Awards</a><br/>
+<i class="fas fa-handshake"></i>&nbsp; <a href="#voluntary-work">Voluntary Work</a>
 </p>
 
 <p><a name="presentations">&nbsp;</a></p>
@@ -56,9 +56,9 @@ image: /img/pil.jpg
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Antebellum US Literature.&#8221; <em>Collaborative Research Centre 1199</em>. Leipzig. 4 January 2017. Presentation.</p>
 <p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place</em>, 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Keynote Address</a>.</p>
 
-<p>&nbsp;</p>
+<p><a name="conference-and-workshop-organization">&nbsp;</a></p>
 
-## <a name="conference-and-workshop-organization"></a>Conference & Workshop Organization
+## Conference & Workshop Organization
 <p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">2nd International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>The Seeds and Seeding of Empire. <em>American Studies Association</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
 <p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">1st International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
@@ -66,9 +66,9 @@ image: /img/pil.jpg
 <p>Regional Colloquium for American Studies. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
 <p>Urban America: Mediating City Space as Place. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Co-Organizer.</p>
 
-<p>&nbsp;</p>
+<p><a name="teaching">&nbsp;</a></p>
 
-## <a name="teaching"></a>Teaching
+## Teaching
 <p>&#8220;Mug Shots, Crime Culture, and American Media.&#8221; Julius Maximilian University of Würzburg. 22 June 2022. Guest Seminar.</p>
 <p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. Seminar. <a href="/doc/LC-II Spectacle of Monsters Seminar 2022 Syllabus.pdf" target="_blank">Syllabus</a></p>
 <p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2021/22. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 21-22.pdf" target="_blank">Syllabus</a>.</p>
@@ -78,17 +78,17 @@ image: /img/pil.jpg
 <p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2017/18. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 17-18.pdf" target="_blank">Syllabus</a>.</p>
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. Guest Lecture.</p>
 
-<p>&nbsp;</p>
+<p><a name="field-studies">&nbsp;</a></p>
 
-## <a name="field-studies"></a>Field Studies
+## Field Studies
 <p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG.</p>
 <p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by DFG.</p>
 <p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG.</p>
 <p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. <a href="https://studytour2015.wordpress.com" target="_blank">Study Tour</a>. Co-Organizer.</p>
 
-<p>&nbsp;</p>
+<p><a name="memberships">&nbsp;</a></p>
 
-## <a name="memberships"></a>Memberships
+## Memberships
 
 <p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 <p><a href="https://dgfa.de" target="_blank">DGfA / GAAS</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
@@ -98,15 +98,15 @@ image: /img/pil.jpg
 <p><a href="https://mpcaaca.org" target="_blank">MPCA/ACA</a> (The Midwest Popular and American Culture Association)</p>
 <p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA</a> (Society of Early Americanists)</p>
 
-<p>&nbsp;</p>
+<p><a name="grants-awards">&nbsp;</a></p>
 
-## <a name="grants-awards"></a>Grants & Awards
+## Grants & Awards
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
 <p>DAAD Travel Stipend 2017.</p>
 
-<p>&nbsp;</p>
+<p><a name="voluntary-work">&nbsp;</a></p>
 
-## <a name="voluntary-work"></a>Voluntary Work
+## Voluntary Work
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award</a>.</p>
 <p>Wikipedia Editor. <a href="https://xtools.wmflabs.org/ec/de.wikipedia.org/Sevenone71" target="_blank">Info</a>.</p>
 <p>KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>
