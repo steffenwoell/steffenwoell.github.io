@@ -8,13 +8,15 @@ image: /img/pil.jpg
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
 <p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; <b>Table of Contents</b><br/><br/>
-<i class="fas fa-microphone"></i>&nbsp; <a href="#presentations">Presentations</a><br/>
-<i class="fas fa-project-diagram"></i>&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a><br/>
-<i class="fas fa-chalkboard-teacher"></i>&nbsp; <a href="#teaching">Teaching</a><br/>
-<i class="fas fa-globe-americas"></i>&nbsp; <a href="#field-studies">Field Studies</a><br/>
-<i class="fas fa-university"></i>&nbsp; <a href="#memberships">Memberships</a><br/>
-<i class="fas fa-award"></i>&nbsp; <a href="#grants-awards">Grants & Awards</a><br/>
-<i class="fas fa-handshake"></i>&nbsp; <a href="#voluntary-work">Voluntary Work</a>
+<ol>
+<li><a href="#presentations">Presentations</a></li>
+<i class="fas fa-project-diagram"></i>&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
+<li><a href="#teaching">Teaching</a></li>
+<li><a href="#field-studies">Field Studies</a></li>
+<li><a href="#memberships">Memberships</a></li>
+<li><a href="#grants-awards">Grants & Awards</a></li>
+<li><a href="#voluntary-work">Voluntary Work</a></li>
+</ol>
 </p>
 
 <p><a name="presentations">&nbsp;</a></p>
