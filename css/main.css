@@ -97,6 +97,22 @@ a:hover,a:focus,a:active {
   font-weight: 600;
 }
 
+p a {
+  color: black;
+  text-decoration: none;
+  background-position-y: -0%;
+  background-image: linear-gradient( white 50%, gold 50%);
+  transition: background 500ms ease;
+  background-size: 2px;
+  background-size: auto 175%;
+}
+
+p a:hover {
+  background-position-y: 100%;
+  text-decoration: none;
+  color: black;
+}
+
 a.link-header {
   font-weight: normal;
   text-decoration: none;
