@@ -7,14 +7,14 @@ image: /img/pil.jpg
 <!--{: .box-updated}
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
-<p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; Contents<br/><br/>
-<i class="fas fa-1"></i>&nbsp; <a href="#presentations">Presentations</a><br/>
-<i class="fas fa-angle-right"></i>&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop<br/>Organization</a><br/>
-<i class="fas fa-angle-right"></i>&nbsp; <a href="#teaching">Teaching</a><br/>
-<i class="fas fa-angle-right"></i>&nbsp; <a href="#field-studies">Field Studies</a><br/>
-<i class="fas fa-angle-right"></i>&nbsp; <a href="#memberships">Memberships</a><br/>
-<i class="fas fa-angle-right"></i>&nbsp; <a href="#grants-awards">Grants & Awards</a><br/>
-<i class="fas fa-angle-right"></i>&nbsp; <a href="#voluntary-work">Voluntary Work</a>
+<p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; <b>Navigation</b><br/><br/>
+&nbsp; <a href="#presentations">Presentations</a><br/>
+&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a><br/>
+&nbsp; <a href="#teaching">Teaching</a><br/>
+&nbsp; <a href="#field-studies">Field Studies</a><br/>
+&nbsp; <a href="#memberships">Memberships</a><br/>
+&nbsp; <a href="#grants-awards">Grants & Awards</a><br/>
+&nbsp; <a href="#voluntary-work">Voluntary Work</a>
 </p>
 
 <p>&nbsp;</p>

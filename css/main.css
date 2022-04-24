@@ -822,6 +822,12 @@ pre {
   font-weight: normal;
 }
 
+.box-warning a:hover {
+  color: #88700e;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 .box-error {
   background-color: #f4dddb;
   border-left-color: #c0392b;
