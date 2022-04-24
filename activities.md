@@ -7,7 +7,7 @@ image: /img/pil.jpg
 <!--{: .box-updated}
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
-<p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; <b>Table of Contents</b><br/><br/>
+<div class="box-warning"><i class="fas fa-list-ul"></i>&nbsp; <b>Table of Contents</b><br/>
 <ol>
 <li><a href="#presentations">Presentations</a></li>
 <li><a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
@@ -17,7 +17,7 @@ image: /img/pil.jpg
 <li><a href="#grants-awards">Grants & Awards</a></li>
 <li><a href="#voluntary-work">Voluntary Work</a></li>
 </ol>
-</p>
+</div>
 
 <p><a name="presentations">&nbsp;</a></p>
 
