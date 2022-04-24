@@ -10,7 +10,7 @@ image: /img/imp.png
 Please direct all correspondence to `steffen.woell@uni-leipzig.de`
 
 <div class="box-note">
-Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B` and my public key can be found [here](/doc/sw_pgp_public_key.asc).
+Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B` and my public key can be found <a href="/doc/sw_pgp_public_key.asc">here</a>.
 </div>
 
 <p>&nbsp;</p>
@@ -19,11 +19,15 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 
 <div class="box-blue">
 <div>
-<div><a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank"><i class="fab fa-researchgate"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank">ResearchGate</a></div>
-<div><a href="https://mastodon.social/@SteffenWoell" target="_blank"><i class="fab fa-mastodon"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a></div>
-<div><a href="https://www.instagram.com/streetart_leipzig/" target="_blank"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></div>
+<div><a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank"><i class="fab fa-researchgate"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank">ResearchGate</a></div><br/>
+
+<div><a href="https://mastodon.social/@SteffenWoell" target="_blank"><i class="fab fa-mastodon"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a></div><br/>
+
+<div><a href="https://www.instagram.com/streetart_leipzig/" target="_blank"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></div><br/>
+
 <div><a href="https://soundcloud.com/w-a_s" target="_blank"><i class="fab fa-soundcloud"></i></a>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a></div>
-</div></div>
+</div>
+</div>
 
 <p>&nbsp;</p>
 
