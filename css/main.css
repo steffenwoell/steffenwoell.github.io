@@ -6,10 +6,6 @@ layout: null
 
 /* --- General --- */
 
-.c-link a {
-  color: #AC8D10;
-}
-
 .copyright {
   margin-top: 25px;
 }
@@ -819,6 +815,10 @@ pre {
 .box-warning {
   background-color: #fdf5d4;
   border-left-color: #f1c40f;
+}
+
+.box-warning a {
+  color: #AC8D10;
 }
 
 .box-error {
