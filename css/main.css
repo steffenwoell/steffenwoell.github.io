@@ -818,17 +818,17 @@ pre {
 }
 
 .box-warning a {
-  color: #AC8D10;
+  color: #ac8d10;
   font-weight: normal;
 }
 
 .box-warning a:hover, a:focus {
-  color: #f1c40e;
+  background-color: #f1c40e;
   font-weight: normal;
-  text-decoration: underline;
-  -webkit-transition: color .3s ease-in-out;
-  -moz-transition: color .3s ease-in-out;
-  transition: color .3s ease-in-out;
+  text-decoration: none;
+  -webkit-transition: color .1s ease-in-out;
+  -moz-transition: color .1s ease-in-out;
+  transition: color .1s ease-in-out;
 }
 
 .box-error {
