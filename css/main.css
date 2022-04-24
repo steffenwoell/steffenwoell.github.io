@@ -793,7 +793,7 @@ pre {
 }
 
 /* --- Notification boxes --- */
-.box-updated, .box-note, .box-warning, .box-error, .box-success, .box-blue, .box-toc {
+.box-updated, .box-note, .box-warning, .box-error, .box-success, .box-blue, .box-toc, .box-toc2 {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 25px 0px;
   border: 1px solid #eee;
@@ -866,12 +866,12 @@ pre {
 }
 
 .box-toc2 a {
-  color: #5ab4e5;
+  color: #005493;
   font-weight: normal;
 }
 
 .box-toc2 a:hover, a:focus {
-  color: #5ab4e5;
+  color: #005493;
   font-weight: normal;
   text-decoration: underline;
   -webkit-transition: color .2s ease-in-out;
