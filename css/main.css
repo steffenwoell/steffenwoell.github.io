@@ -848,7 +848,7 @@ pre {
   font-weight: normal;
 }
 
-.box-warning a:hover, a:focus {
+.box-warning a:hover, .box-warning a:focus {
   color: #ac8d10;
   font-weight: normal;
   text-decoration: underline;
@@ -872,7 +872,7 @@ pre {
   font-weight: normal;
 }
 
-.box-toc a:hover, a:focus {
+.box-toc a:hover, .box-toc a:focus {
   color: #ac8d10;
   font-weight: normal;
   text-decoration: underline;
