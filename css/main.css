@@ -88,18 +88,13 @@ h2,h3,h4,h5,h6 {
 a {
 color: #555;
 font-weight: 600;
-text-decoration: underline;
--webkit-transition: color .2s ease-in-out;
--moz-transition: color .2s ease-in-out;
-transition: color .2s ease-in-out;
+text-decoration: none;
 }
 
 a:link,a:hover,a:focus,a:active {
   color: #555;
   text-decoration: underline;
-  -webkit-transition: color .3s ease-in-out;
-  -moz-transition: color .3s ease-in-out;
-  transition: color .3s ease-in-out;
+  font-weight: 600;
 }
 
 a.link-header {
@@ -895,6 +890,7 @@ pre {
 .box-toc2 ol li::marker {
   color: #5ab4e5;
   line-height: 1.6em;
+  padding-left: 5px;
 }
 
 .box-error {
