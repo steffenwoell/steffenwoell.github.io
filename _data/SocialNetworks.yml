@@ -13,7 +13,7 @@ home:
 
 up:
   name: "Go Up"
-  baseURL: ""
+  baseURL: "https://steffenwoell.github.io/"
   icon: "fas fa-arrow-up"
 
 blog:
