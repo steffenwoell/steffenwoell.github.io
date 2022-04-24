@@ -832,7 +832,8 @@ pre {
 }
 
 .box-warning ol li::marker {
-  color: #ac8d10;
+  color: #d7d1b7;
+  line-height: 150%;
 }
 
 
