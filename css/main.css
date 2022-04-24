@@ -819,6 +819,7 @@ pre {
 
 .box-warning a {
   color: #AC8D10;
+  font-weight: normal;
 }
 
 .box-error {
