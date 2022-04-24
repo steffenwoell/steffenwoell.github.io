@@ -7,7 +7,12 @@ image: /img/pil.jpg
 <!--{: .box-updated}
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
-## Presentations
+{: .box-updated}
+<i class="far fa-bookmark"></i>&nbsp; Contents<br/>
+<a href="#pres">Presentations</a><br/>
+<a href="org">Conference & Workshop Organization</a><br/>
+
+## <h2 id="pres">Presentations</h2>
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Region, Nation, and Empire: Scaling Spatial Semantics in American Literature.&#8221; <em>Collaborative Research Centre 1199 Colloquium</em>. Leipzig. 11  May 2022. <a href="https://research.uni-leipzig.de/~sfb1199/app/uploads/2022/04/SFB_Colloquium_SS2022_Druckversion-1.pdf" target="_blank">Presentation</a>.</p>
 <p>&#8220;Archipelagic Thinking and the Transcultural Space of Mapping.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
@@ -46,7 +51,7 @@ image: /img/pil.jpg
 
 <p>&nbsp;</p>
 
-## Conference & Workshop Organization
+## <h2 id="org">Conference & Workshop Organization</h2>
 <p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">2nd International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>The Seeds and Seeding of Empire. <em>American Studies Association</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
 <p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">1st International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
