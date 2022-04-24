@@ -832,9 +832,8 @@ pre {
 }
 
 .box-warning ol li::marker {
-  color: #efe8cb;
-  line-height: 5em;
-  text-indent: 2em;
+  color: #d2ad15;
+  line-height: 1em;
 }
 
 
