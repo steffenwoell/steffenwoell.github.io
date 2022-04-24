@@ -8,14 +8,16 @@ image: /img/pil.jpg
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
 <p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; Contents<br/><br/>
-<i class="fas fa-angle-right"></i>&nbsp; <a href="#presentations">Presentations</a><br/>
-<i class="fas fa-angle-right"></i>&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a><br/>
+<i class="fas fa-1"></i>&nbsp; <a href="#presentations">Presentations</a><br/>
+<i class="fas fa-angle-right"></i>&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop<br/>Organization</a><br/>
 <i class="fas fa-angle-right"></i>&nbsp; <a href="#teaching">Teaching</a><br/>
 <i class="fas fa-angle-right"></i>&nbsp; <a href="#field-studies">Field Studies</a><br/>
 <i class="fas fa-angle-right"></i>&nbsp; <a href="#memberships">Memberships</a><br/>
 <i class="fas fa-angle-right"></i>&nbsp; <a href="#grants-awards">Grants & Awards</a><br/>
 <i class="fas fa-angle-right"></i>&nbsp; <a href="#voluntary-work">Voluntary Work</a>
 </p>
+
+<p>&nbsp;</p>
 
 ## <a name="presentations"></a>Presentations
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
