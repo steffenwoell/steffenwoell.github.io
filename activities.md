@@ -22,7 +22,7 @@ image: /img/pil.jpg
 
 <div><a name="presentations">&nbsp;</a></div>
 
-## <a name="presentations">I.&nbsp;Presentations</a>
+## I.&nbsp;Presentations
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Region, Nation, and Empire: Scaling Spatial Semantics in American Literature.&#8221; <em>Collaborative Research Centre 1199 Colloquium</em>. Leipzig. 11  May 2022. <a href="https://research.uni-leipzig.de/~sfb1199/app/uploads/2022/04/SFB_Colloquium_SS2022_Druckversion-1.pdf" target="_blank">Presentation</a>.</p>
 <p>&#8220;Archipelagic Thinking and the Transcultural Space of Mapping.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
@@ -59,7 +59,7 @@ image: /img/pil.jpg
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Antebellum US Literature.&#8221; <em>Collaborative Research Centre 1199</em>. Leipzig. 4 January 2017. Presentation.</p>
 <p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place</em>, 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Keynote Address</a>.</p>
 
-<p><a name="conference-and-workshop-organization">&nbsp;</a></p>
+<div><a name="conference-and-workshop-organization">&nbsp;</a></div>
 
 ## II.&nbsp;Conference & Workshop Organization
 <p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">2nd International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
@@ -69,7 +69,7 @@ image: /img/pil.jpg
 <p>Regional Colloquium for American Studies. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
 <p>Urban America: Mediating City Space as Place. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Co-Organizer.</p>
 
-<p><a name="teaching">&nbsp;</a></p>
+<div><a name="teaching">&nbsp;</a></div>
 
 ## III.&nbsp;Teaching
 <p>&#8220;Mug Shots, Crime Culture, and American Media.&#8221; Julius Maximilian University of Würzburg. 22 June 2022. Guest Seminar.</p>
@@ -81,7 +81,7 @@ image: /img/pil.jpg
 <p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2017/18. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 17-18.pdf" target="_blank">Syllabus</a>.</p>
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. Guest Lecture.</p>
 
-<p><a name="field-studies">&nbsp;</a></p>
+<div><a name="field-studies">&nbsp;</a></div>
 
 ## IV.&nbsp;Field Studies
 <p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG.</p>
@@ -89,7 +89,7 @@ image: /img/pil.jpg
 <p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG.</p>
 <p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. <a href="https://studytour2015.wordpress.com" target="_blank">Study Tour</a>. Co-Organizer.</p>
 
-<p><a name="memberships">&nbsp;</a></p>
+<div><a name="memberships">&nbsp;</a></div>
 
 ## V.&nbsp;Memberships
 
@@ -101,13 +101,13 @@ image: /img/pil.jpg
 <p><a href="https://mpcaaca.org" target="_blank">MPCA/ACA</a> (The Midwest Popular and American Culture Association)</p>
 <p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA</a> (Society of Early Americanists)</p>
 
-<p><a name="grants-awards">&nbsp;</a></p>
+<div><a name="grants-awards">&nbsp;</a></div>
 
 ## VI.&nbsp;Grants & Awards
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
 <p>DAAD Travel Stipend 2017.</p>
 
-<p><a name="voluntary-work">&nbsp;</a></p>
+<div><a name="voluntary-work">&nbsp;</a></div>
 
 ## VII.&nbsp;Voluntary Work
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award</a>.</p>
