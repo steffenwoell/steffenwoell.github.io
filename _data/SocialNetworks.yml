@@ -11,11 +11,6 @@ home:
   baseURL: "#"
   icon: "fas fa-swimmer"
 
-goup:
-  name: "Go Up"
-  baseURL: "#top"
-  icon: "fas fa-arrow-up"
-
 blog:
   name: "Write.as"
   baseURL: "https://write.as/"
