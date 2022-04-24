@@ -189,9 +189,9 @@ img {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #000;
+  background-color: #555;
   transform: scaleX(0);
-  transition: transform 0.3s ease;
+  transition: transform 0.5s ease;
 }
 
 .navbar-custom .nav li a:hover::before {
@@ -896,7 +896,7 @@ pre {
   font-weight: normal;
 }
 
-.box-toc2 a:hover, a:focus {
+.box-toc2 a:hover, .box-toc2 a:focus {
   color: #4c99c4;
   font-weight: normal;
   text-decoration: underline;
