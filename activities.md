@@ -7,8 +7,8 @@ image: /img/pil.jpg
 <!--{: .box-updated}
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
-<div class="box-warning"><i class="fas fa-list-ul"></i>&nbsp; <b>Table of Contents</b><br/>
-<ol>
+<div class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; <b>Table of Contents</b><br/><br/>
+<ol style="list-style:upper-roman">
 <li><a href="#presentations">Presentations</a></li>
 <li><a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
 <li><a href="#teaching">Teaching</a></li>

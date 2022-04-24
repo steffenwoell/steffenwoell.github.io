@@ -831,6 +831,11 @@ pre {
   transition: color .2s ease-in-out;
 }
 
+.box-warning ol li::marker {
+  color: #ac8d10;
+}
+
+
 .box-error {
   background-color: #f4dddb;
   border-left-color: #c0392b;
