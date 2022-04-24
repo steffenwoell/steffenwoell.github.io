@@ -10,7 +10,7 @@ image: /img/imp.png
 Please direct all correspondence to `steffen.woell@uni-leipzig.de`
 
 {: .box-note}
-Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B` and the public key is [here](/doc/sw_pgp_public_key.asc).
+Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B` and my public key can be found [here](/doc/sw_pgp_public_key.asc).
 
 <p>&nbsp;</p>
 
@@ -41,10 +41,10 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 
 {: .box-warning}
 <div>
-<p>As a personal and non-commercial internet presence <pre>steffenwoell.github.io</pre> is committed to user privacy and data protection. <em>The website adheres to a strict policy of</em></p>
+<p>This personal and non-commercial internet presence is committed to maximizing privacy, data reduction, and data protection. <em>The website therefore adheres to a strict policy of</em></p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-cookies</p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-plugins</p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-logs</p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-analytics</p>
-<p>No personal data (e.g., IP addresses or browser fingerprints) is stored, transmitted, or used to identify and/or track vistors.</p>
+<p>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or otherwise used to identify or track vistors.</p>
 </div>
