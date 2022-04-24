@@ -83,7 +83,7 @@ image: /img/pil.jpg
 
 <p><a name="field-studies">&nbsp;</a></p>
 
-## Field Studies
+## IV.&nbsp;Field Studies
 <p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG.</p>
 <p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by DFG.</p>
 <p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG.</p>
@@ -91,7 +91,7 @@ image: /img/pil.jpg
 
 <p><a name="memberships">&nbsp;</a></p>
 
-## Memberships
+## V.&nbsp;Memberships
 
 <p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 <p><a href="https://dgfa.de" target="_blank">DGfA / GAAS</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
@@ -103,13 +103,13 @@ image: /img/pil.jpg
 
 <p><a name="grants-awards">&nbsp;</a></p>
 
-## Grants & Awards
+## VI.&nbsp;Grants & Awards
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
 <p>DAAD Travel Stipend 2017.</p>
 
 <p><a name="voluntary-work">&nbsp;</a></p>
 
-## Voluntary Work
+## VII.&nbsp;Voluntary Work
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award</a>.</p>
 <p>Wikipedia Editor. <a href="https://xtools.wmflabs.org/ec/de.wikipedia.org/Sevenone71" target="_blank">Info</a>.</p>
 <p>KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>

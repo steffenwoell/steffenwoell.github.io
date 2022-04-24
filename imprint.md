@@ -41,7 +41,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is `8BED A8F0 0B
 
 {: .box-warning}
 <div>
-<p>As a personal and non-commercial internet presence `steffenwoell.github.io` is committed to user privacy and data protection. <em>The website adheres to a strict policy of</em></p>
+<p>As a personal and non-commercial internet presence <pre>steffenwoell.github.io</pre> is committed to user privacy and data protection. <em>The website adheres to a strict policy of</em></p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-cookies</p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-plugins</p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-logs</p>
