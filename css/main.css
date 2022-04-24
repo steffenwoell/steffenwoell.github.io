@@ -839,7 +839,6 @@ pre {
 .box-toc {
   background-color: #fdf5d4;
   border-left-color: #f1c40f;
-  width: 75%;
 }
 
 .box-toc a {
@@ -858,7 +857,7 @@ pre {
 
 .box-toc ol li::marker {
   color: #d2ad15;
-  line-height: 1em;
+  line-height: 1.5em;
 }
 
 .box-error {
