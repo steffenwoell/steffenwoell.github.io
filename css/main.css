@@ -857,7 +857,7 @@ pre {
 
 .box-toc ol li::marker {
   color: #d2ad15;
-  line-height: 2em;
+  line-height: 1.6em;
 }
 
 .box-error {
