@@ -809,8 +809,7 @@ pre {
 
 .box-note {
   background-color: #eee;
-  border-left-color: #808080;
-  /**border-left-color: #2980b9;**/
+  border-left-color: #2980b9;
 }
 
 .box-warning {
@@ -867,12 +866,12 @@ pre {
 }
 
 .box-toc2 a {
-  color: #005493;
+  color: #4c99c4;
   font-weight: normal;
 }
 
 .box-toc2 a:hover, a:focus {
-  color: #005493;
+  color: #4c99c4;
   font-weight: normal;
   text-decoration: underline;
   -webkit-transition: color .2s ease-in-out;
