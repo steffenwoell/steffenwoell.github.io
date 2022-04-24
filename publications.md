@@ -11,7 +11,7 @@ image: /img/pub2.jpg
 <i class="fab fa-orcid"></i>&nbsp;<a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-landmark"></i>&nbsp;&nbsp;<a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-landmark"></i>&nbsp;&nbsp;<a href="https://catalog.loc.gov/vwebv/search?searchType=7&searchId=8902&maxResultsPerPage=25&recCount=25&recPointer=0&resultPointer=0&headingId=33459717" target="_blank">Library of Congress</a>
 
 <div class="box-toc2">
-<p style="color:#4c99c4"><i class="fas fa-wrench"></i>&nbsp; <b>Table of Contents</b></p>
+<p style="color:#4c99c4;margin-top:-1px"><i class="fas fa-wrench"></i>&nbsp; <b>Table of Contents</b></p>
 <ol style="list-style:upper-roman">
 <li><a href="#monographs">Monographs</a></li>
 <li><a href="#edited-volumes">Edited Volumes</a></li>
@@ -20,7 +20,7 @@ image: /img/pub2.jpg
 <li><a href="#editing">Editing</a></li>
 <li><a href="#blogs-websites">Blogs & Websites</a></li>
 <li><a href="#posters">Posters</a></li>
-<li><a href="#misc-papers">Miscellaneous Papers</a></li>
+<li><a href="#miscellaneous-papers">Miscellaneous Papers</a></li>
 <li><a href="#programming">Programming</a></li>
 </ol>
 </div>
