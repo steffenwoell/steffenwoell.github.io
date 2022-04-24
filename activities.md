@@ -7,7 +7,7 @@ image: /img/pil.jpg
 <!--{: .box-updated}
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
-<p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; <b>Navigation</b><br/><br/>
+<p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; <b>Table of Contents</b><br/><br/>
 &nbsp; <a href="#presentations">Presentations</a><br/>
 &nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a><br/>
 &nbsp; <a href="#teaching">Teaching</a><br/>
@@ -19,7 +19,8 @@ image: /img/pil.jpg
 
 <p>&nbsp;</p>
 
-## <a name="presentations"></a>Presentations
+<a name="presentations">&nbsp;</a>
+## Presentations
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Region, Nation, and Empire: Scaling Spatial Semantics in American Literature.&#8221; <em>Collaborative Research Centre 1199 Colloquium</em>. Leipzig. 11  May 2022. <a href="https://research.uni-leipzig.de/~sfb1199/app/uploads/2022/04/SFB_Colloquium_SS2022_Druckversion-1.pdf" target="_blank">Presentation</a>.</p>
 <p>&#8220;Archipelagic Thinking and the Transcultural Space of Mapping.&#8221; <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/#Polysemic-spagne-Exchanges" target="_blank">Presentation</a>.</p>
