@@ -11,9 +11,9 @@ home:
   baseURL: "#"
   icon: "fas fa-swimmer"
 
-up:
+goup:
   name: "Go Up"
-  baseURL: "https://steffenwoell.github.io/"
+  baseURL: "#top"
   icon: "fas fa-arrow-up"
 
 blog:
