@@ -18,6 +18,7 @@ layout: null
 }
 
 .btc, .btc a, .btc a:active, .btc a:hover, .btc a:focus {
+  text-align: center;
   text-decoration: none;
   font-weight: normal;
   color: #bbb;

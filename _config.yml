@@ -79,7 +79,7 @@ social-network-links:
   mastodon: "@SteffenWoell"
   instagram: streetart_leipzig
   soundcloud: w-a_s
-  up: top
+  up: "#top"
 
 # Select which share links to show in posts
 share-links-active:

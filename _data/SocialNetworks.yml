@@ -12,8 +12,8 @@ home:
   icon: "fas fa-swimmer"
 
 up:
-  name: "Up"
-  baseURL: "#"
+  name: "Go Up"
+  baseURL: ""
   icon: "fas fa-arrow-up"
 
 blog:
