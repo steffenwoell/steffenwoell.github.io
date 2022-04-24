@@ -10,7 +10,7 @@ image: /img/pil.jpg
 <p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; <b>Table of Contents</b><br/><br/>
 <ol>
 <li><a href="#presentations">Presentations</a></li>
-<i class="fas fa-project-diagram"></i>&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
+<li><a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
 <li><a href="#teaching">Teaching</a></li>
 <li><a href="#field-studies">Field Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
