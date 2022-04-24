@@ -823,12 +823,12 @@ pre {
 }
 
 .box-warning a:hover, a:focus {
-  background-color: #f1c40e;
+  color: #ac8d10;
   font-weight: normal;
-  text-decoration: none;
-  -webkit-transition: color .1s ease-in-out;
-  -moz-transition: color .1s ease-in-out;
-  transition: color .1s ease-in-out;
+  text-decoration: underline;
+  -webkit-transition: color .2s ease-in-out;
+  -moz-transition: color .2s ease-in-out;
+  transition: color .2s ease-in-out;
 }
 
 .box-error {

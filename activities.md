@@ -8,16 +8,16 @@ image: /img/pil.jpg
 <span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
 <p class="box-warning" style="color:#AC8D10"><i class="fas fa-list-ul"></i>&nbsp; <b>Table of Contents</b><br/><br/>
-&nbsp; <a href="#presentations">Presentations</a><br/>
-&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a><br/>
-&nbsp; <a href="#teaching">Teaching</a><br/>
-&nbsp; <a href="#field-studies">Field Studies</a><br/>
-&nbsp; <a href="#memberships">Memberships</a><br/>
-&nbsp; <a href="#grants-awards">Grants & Awards</a><br/>
-&nbsp; <a href="#voluntary-work">Voluntary Work</a>
+<i class="far fa-microphone"></i>&nbsp; <a href="#presentations">Presentations</a><br/>
+<i class="far fa-project-diagram"></i>&nbsp; <a href="#conference-and-workshop-organization">Conference & Workshop Organization</a><br/>
+<i class="far fa-chalkboard-teacher"></i>&nbsp; <a href="#teaching">Teaching</a><br/>
+<i class="far fa-globe-americas"></i>&nbsp; <a href="#field-studies">Field Studies</a><br/>
+<i class="far fa-university"></i>&nbsp; <a href="#memberships">Memberships</a><br/>
+<i class="far fa-award"></i>&nbsp; <a href="#grants-awards">Grants & Awards</a><br/>
+<i class="far fa-handshake"></i>&nbsp; <a href="#voluntary-work">Voluntary Work</a>
 </p>
 
-<p><a name="presentations"></a></p>
+<p><a name="presentations">&nbsp;</a></p>
 
 ## Presentations
 <p>&#8220;Junge Republik und Junges Deutschland: Charles Sealsfields transatlantische Erzählpolitik.&#8221; <em>Charles Sealsfield Symposium</em>. Dortmund. September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
