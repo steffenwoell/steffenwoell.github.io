@@ -93,7 +93,8 @@ a {
 a:hover,
 a:focus,
 a:active {
-  color: {{ site.hover-col }};
+  color: #555;
+  font-weight: 600;
   text-decoration: underline;
   -webkit-transition: color .3s ease-in-out;
   -moz-transition: color .3s ease-in-out;
