@@ -37,7 +37,7 @@ image: /img/pub2.jpg
 <div><a name="edited-volumes">&nbsp;</a></div>
 
 ## II.&nbsp;Edited Volumes
-<p class="blue">
+<div class="blue">
 <p>&#8220;Mug Shots and Passport Photography.&#8221; <em>Bloomsbury Encyclopedia of Visual Culture</em>. Planned for Publication.</p>
 <p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>The Literary Western in the Global Imagination</em>. Eds. Conway, Christopher, David Rio, and Marek Paryz. Forthcoming.</p>
 <p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Forthcoming.</p>
@@ -47,12 +47,12 @@ image: /img/pub2.jpg
 <p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. Vol. 3. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.degruyter.com/view/product/518315" target="_blank">Print</a>.</p>
 <p>&#8220;Spatiality and Psyche: Surviving the Yukon in Jack London&#8217;s &#8216;Love of Life&#8217; and &#8216;To Build a Fire.&#8217;&#8221; <em>Processes of Spatialization in the Americas: Configurations and Narratives</em>. Interamericana. Vol. 13. Eds. Gabriele Pisarz-Ramirez and Hannes Warnecke-Berger. Peter Lang, 2019: 75–98. <a href="https://www.peterlang.com/view/title/65439" target="_blank">Print</a>.</p>
 <p>&#8220;Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States.&#8221; <em>Collaborative Research Centre 1199</em>. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. Leipziger Universitätsverlag, 2018. <a href="https://research.uni-leipzig.de/~sfb1199/publication/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/" target="_blank">Print</a>.</p>
-</p>
+</div>
 
 <div><a name="peer-reviewed-journals">&nbsp;</a></div>
 
 ## III.&nbsp;Peer-Reviewed Journals
-<p class="blue">
+<div class="blue">
 <p>&#8220;Unmasking Maps, Unmaking Narratives: Towards an Archipelagic Cartography.&#8221; <em>Journal of Transatlantic American Studies</em> Special Issue &#8220;Archipelagic Imperial Mobilities.&#8221; Forthcoming 2022.</p>
 <p>&#8220;Beyond the Artifact: Mapping Affect, Memory, and Spatial Identity.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em>. Forthcoming 2022.</p>
 <p>&#8220;Kennedicide In The &#8216;Heartland Of The Real&#8217;: Conspiracy, Coincidence, And Narrative Instability In Don Delillo’s <em>Libra</em>.&#8221; <em>New Academia</em> XI (Jan. 2022). <a href="https://interactionsforum.com/about-us" target="_blank">Open Access</a>.</p>
@@ -66,62 +66,62 @@ image: /img/pub2.jpg
 <p>&#8220;Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>Emotion, Space and Society</em> 24 (2017): 1–8. <a href="http://www.sciencedirect.com/science/article/pii/S1755458616301359" target="_blank">Print</a>.</p>
 <p>&#8220;Inertia and Movement: The Spatialization of the Native Northland in Jack London&#8217;s Short Stories.&#8221; <em>GeoHumanities</em> 3 (2017) 1: 65–87. <a href="http://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821" target="_blank">Print</a>.</p>
 <p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
-</p>
+</div>
 
 <div><a name="reviews">&nbsp;</a></div>
 
 ## IV.&nbsp;Reviews
-<p class="blue">
+<div class="blue">
 <p>Review of <em>Writing History in America&#8217;s Shadow: Japan, the Philippines, and the Question of Pan-Asianism</em> by Takamichi Serizawa. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em>. Forthcoming.</p>
 <p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Connections. A Journal for Historians and Area Specialists</em>. 8 January 2021. <a href="http://www.connections.clio-online.net/publicationreview/id/reb-95016" target="_blank">Open Access</a>.</p>
 <p>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880–1930</em> by Dominic Davies. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 5: 102–103. <a href="https://www.comparativ.net/v2/issue/view/158" target="_blank">Print</a>.</p>
 <p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 1: 105–107. <a href="https://www.comparativ.net/v2/issue/view/154" target="_blank">Print</a>.</p>
 <p>Peer Reviewer for <em><a href="https://www.pfw.edu/clio/" target="_blank">Clio: A Journal of Literature, History, and the Philosophy of History</a></em>.</p>
 <p>Peer Reviewer for <em><a href="https://angl.winter-verlag.de" target="_blank">Anglistik</a></em>.</p>
-</p>
+</div>
 
 <div><a name="editing">&nbsp;</a></div>
 
 ## V.&nbsp;Editing
-<p class="blue">
+<div class="blue">
 <p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; <em>Journal of Transnational American Studies</em> Special Issue. 2022. Co-editor.</p>
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access</a>.</p>
-</p>
+</div>
 
 <div><a name="blogs-websites">&nbsp;</a></div>
 
 ## VI.&nbsp;Blogs & Websites
-<p class="blue">
+<div class="blue">
 <p>&#8220;Violence, Representation, and Ecocide in the American West.&#8221; 2021. Prepared for <em>Academia Letters</em>. <a href="/doc/Violence, Representation, and Ecocide in the American West (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.&#8221; <em>TRAFO – Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361" target="_blank">Web</a>.</p>
 <p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature.&#8221; <em>TRAFO – Blog for Transregional Research</em>. 10 April 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
 <p>&#8220;The Second Cold War.&#8221; <em>The Unz Review</em>. 9 December 2015. <a href="https://www.unz.com/article/the-second-cold-war/" target="_blank">Web</a>.</p>
 <p>&#8220;The Second Cold War. The US Might Come Out on the Losing Side...&#8221; <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
-</p>
+</div>
 
 <div><a name="posters">&nbsp;</a></div>
 
 ## VII.&nbsp;Posters
-<p class="blue">
+<div class="blue">
 <p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; 28 January 2020. Geisteswissenschaftliches Zentrum der Universität Leipzig. <a href="/doc/Discursive-Map-Conference-Poster-2020-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
 <p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
-</p>
+</div>
 
 <div><a name="miscellaneous-papers">&nbsp;</a></div>
 
 ## VIII.&nbsp;Miscellaneous Papers
-<p class="blue">
+<div class="blue">
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Prof. Hartmut Keil). <a href="/doc/Allah's Own Country (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Prof. Crister S. Garrett &#10013;). <a href="/doc/States of Contingency (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; 2013. Seminar Paper. <em>Geschichte der Philosophie: Zu einer kleinen Geschichte des Positivismus im 19. und 20. Jahrhundert</em> (Dr. Thomas Wendt). <a href="/doc/Empfindung, Bewusstsein, Wirklichkeit (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;&#8216;I Thought of Carthage&#8217;: Tactical and Moral Adjustments of the 1945 Atomic Bomb Drops on Hiroshima and Nagasaki.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlobach, M.A.). <a href="/doc/I Thought of Carthage (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
-</p>
+</div>
 
 <div><a name="programming">&nbsp;</a></div>
 
 ## IX.&nbsp;Programming (HTML, CSS, Java, CMS)
-<p class="blue">
+<div class="blue">
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
 <p><em>steffenwoell.github.io</em>. 2019—. Website Programming & Design.</p>
-</p>
+</div>
