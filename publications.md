@@ -26,7 +26,7 @@ image: /img/pub2.jpg
 </ol>
 </div>
 
-<p class="blue">
+<div class="blue">
 <div><a name="monographs">&nbsp;</a></div>
 
 ## I.&nbsp;Monographs
@@ -109,4 +109,4 @@ image: /img/pub2.jpg
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
 <p><em>steffenwoell.github.io</em>. 2019—. Website Programming & Design.</p>
 
-</p>
+</div>
