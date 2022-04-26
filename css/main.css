@@ -966,7 +966,7 @@ pre {
   color: #555;
   text-decoration: none;
   background-position-y: -0%;
-  background-image: linear-gradient( white 50%, #c0392b 50%);
+  background-image: linear-gradient( #f4dddb 50%, #c0392b 50%);
   transition: background 500ms ease;
   background-size: 2px;
   background-size: auto 175%;
