@@ -7,7 +7,7 @@ image: /img/imp.png
 ## Contact
 
 {: .box-success}
-Please direct all correspondence to `steffen.woell@uni-leipzig.de
+Please direct all correspondence to `steffen.woell@uni-leipzig.de`
 
 <div class="box-note">
 Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and my public key can be found <a href="/doc/sw_pgp_public_key.asc">here</a>.
@@ -44,9 +44,9 @@ Germany</pre>
 
 <div class="box-warning">
 This personal and non-commercial internet presence is committed to maximizing privacy, data reduction, and data protection. <em>The website therefore adheres to a strict policy of</em>
-<div>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-cookies</div>
-<div>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-plugins</div>
-<div>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-logs</div>
-<div>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-analytics</div>
-<div>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or otherwise used to identify or track vistors.</div>
+<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-cookies</p>
+<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-plugins</p>
+<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-logs</p>
+<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-analytics</p>
+<p>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or otherwise used to identify or track vistors.</p>
 </div>
