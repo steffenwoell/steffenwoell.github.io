@@ -16,6 +16,7 @@ image: /img/pil.jpg
 <li><a href="#field-studies">Field Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
+<li><a href="#memberships">Memberships</a></li>
 <li><a href="#voluntary-work">Voluntary Work</a></li>
 </ol>
 </div>
@@ -108,9 +109,20 @@ image: /img/pil.jpg
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
 <p>DAAD Travel Stipend 2017.</p>
 
+<div><a name="memberships">&nbsp;</a></div>
+
+## VII.&nbsp;Memberships
+<p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
+<p><a href="https://dgfa.de" target="_blank">DGfA / GAAS</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
+<p><a href="https://enmma.org/" target="_blank">ENMMA</a> (European Network for the Study of Minor Mobilities in the Americas)</p>
+<p><a href="https://lasaweb.org/en/">LASA</a> (Latin American Studies Association)</p>
+<p><a href="https://mapaca.net/">MAPACA</a> (Mid-Atlantic Popular & American Culture Association)</p>
+<p><a href="https://mpcaaca.org" target="_blank">MPCA/ACA</a> (The Midwest Popular and American Culture Association)</p>
+<p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA</a> (Society of Early Americanists)</p>
+
 <div><a name="voluntary-work">&nbsp;</a></div>
 
-## VII.&nbsp;Voluntary Work
+## VIII.&nbsp;Voluntary Work
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award</a>.</p>
 <p>Wikipedia Editor. <a href="https://xtools.wmflabs.org/ec/de.wikipedia.org/Sevenone71" target="_blank">Info</a>.</p>
 <p>KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>

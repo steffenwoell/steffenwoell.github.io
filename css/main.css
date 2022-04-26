@@ -874,6 +874,22 @@ pre {
   font-style: normal;
 }
 
+.box-updated a {
+  color: #555;
+  text-decoration: none;
+  background-position-y: -0%;
+  background-image: linear-gradient( #dcfadc 50%, #4d944d 50%);
+  transition: background 500ms ease;
+  background-size: 2px;
+  background-size: auto 175%;
+}
+
+.box-updated a:hover {
+  background-position-y: 100%;
+  text-decoration: none;
+  color: #555;
+}
+
 .box-note {
   background-color: #eee;
   border-left-color: #2980b9;
@@ -881,7 +897,18 @@ pre {
 
 .box-note a {
   color: #555;
-  font-weight: bold;
+  text-decoration: none;
+  background-position-y: -0%;
+  background-image: linear-gradient( #eee 50%, #2980b9 50%);
+  transition: background 500ms ease;
+  background-size: 2px;
+  background-size: auto 175%;
+}
+
+.box-note a:hover {
+  background-position-y: 100%;
+  text-decoration: none;
+  color: #555;
 }
 
 .box-warning {
@@ -890,22 +917,19 @@ pre {
 }
 
 .box-warning a {
-  color: #ac8d10;
-  font-weight: normal;
+  color: #555;
+  text-decoration: none;
+  background-position-y: -0%;
+  background-image: linear-gradient( #fdf5d4 50%, #f1c40f 50%);
+  transition: background 500ms ease;
+  background-size: 2px;
+  background-size: auto 175%;
 }
 
-.box-warning a:hover, .box-warning a:focus {
-  color: #ac8d10;
-  font-weight: normal;
-  text-decoration: underline;
-  -webkit-transition: color .2s ease-in-out;
-  -moz-transition: color .2s ease-in-out;
-  transition: color .2s ease-in-out;
-}
-
-.box-warning ol li::marker {
-  color: #d2ad15;
-  line-height: 1em;
+.box-warning a:hover {
+  background-position-y: 100%;
+  text-decoration: none;
+  color: #555;
 }
 
 .box-toc {
@@ -983,9 +1007,41 @@ pre {
   border-left-color: #4d944d;
 }
 
+.box-success a {
+  color: #555;
+  text-decoration: none;
+  background-position-y: -0%;
+  background-image: linear-gradient( #dcfadc 50%, #4d944d 50%);
+  transition: background 500ms ease;
+  background-size: 2px;
+  background-size: auto 175%;
+}
+
+.box-success a:hover {
+  background-position-y: 100%;
+  text-decoration: none;
+  color: #555;
+}
+
 .box-blue {
   background-color: #d4f0ff;
   border-left-color: #5ab4e5;
+}
+
+.box-blue a {
+  color: #555;
+  text-decoration: none;
+  background-position-y: -0%;
+  background-image: linear-gradient( #d4f0ff 50%, #5ab4e5 50%);
+  transition: background 500ms ease;
+  background-size: 2px;
+  background-size: auto 175%;
+}
+
+.box-blue a:hover {
+  background-position-y: 100%;
+  text-decoration: none;
+  color: #555;
 }
 
 /* Fix table border github gist snippets */
