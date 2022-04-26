@@ -899,7 +899,7 @@ pre {
   color: #555;
   text-decoration: none;
   background-position-y: -0%;
-  background-image: linear-gradient( #eee 50%, #808080 50%);
+  background-image: linear-gradient( #eee 50%, #2980b9 50%);
   transition: background 500ms ease;
   background-size: 2px;
   background-size: auto 175%;

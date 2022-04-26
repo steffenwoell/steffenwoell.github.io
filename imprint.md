@@ -7,7 +7,7 @@ image: /img/imp.png
 ## Contact
 
 <div class="box-success">
-Please direct all correspondence to <pre>steffen.woell@uni-leipzig.de</pre>
+Please direct all correspondence to <pre class="highlight">steffen.woell@uni-leipzig.de</pre>
 </div>
 
 <div class="box-note">
@@ -20,9 +20,9 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 
 <div class="box-blue">
 <div>
-<div><i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank">ResearchGate</a></div><br/>
-<div><i class="fab fa-mastodon"></i>&nbsp;&nbsp;<a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a></div><br/>
-<div><i class="fab fa-instagram"></i>&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></div><br/>
+<div><i class="fab fa-researchgate"></i>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank">ResearchGate</a></div><br/>
+<div><i class="fab fa-mastodon"></i>&nbsp;&nbsp;&nbsp;<a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a></div><br/>
+<div><i class="fab fa-instagram"></i>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></div><br/>
 <div><i class="fab fa-soundcloud"></i>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a></div>
 </div>
 </div>
