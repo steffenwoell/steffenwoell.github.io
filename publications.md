@@ -21,6 +21,7 @@ image: /img/pub2.jpg
 <li><a href="#editing">Editing</a></li>
 <li><a href="#blogs-websites">Blogs & Websites</a></li>
 <li><a href="#posters">Posters</a></li>
+<li><a href="#maps">Maps</a></li>
 <li><a href="#miscellaneous-papers">Miscellaneous Papers</a></li>
 <li><a href="#programming">Programming</a></li>
 </ol>
@@ -108,9 +109,16 @@ image: /img/pub2.jpg
 <p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
 </div>
 
+<div><a name="maps">&nbsp;</a></div>
+
+## VIII.&nbsp;Maps
+<div class="blue">
+<p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.png" target="_blank">Map</a>.</p>
+</div>
+
 <div><a name="miscellaneous-papers">&nbsp;</a></div>
 
-## VIII.&nbsp;Miscellaneous Papers
+## IX.&nbsp;Miscellaneous Papers
 <div class="blue">
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Prof. Hartmut Keil). <a href="/doc/Allah's Own Country (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Prof. Crister S. Garrett &#10013;). <a href="/doc/States of Contingency (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
@@ -120,7 +128,7 @@ image: /img/pub2.jpg
 
 <div><a name="programming">&nbsp;</a></div>
 
-## IX.&nbsp;Programming (HTML, CSS, Java, CMS)
+## X.&nbsp;Programming (HTML, CSS, Java, CMS)
 <div class="blue">
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
 <p><em>steffenwoell.github.io</em>. 2019—. Website Programming & Design.</p>
