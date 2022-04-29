@@ -59,17 +59,17 @@ image: /img/pil.jpg
 <p>&#8220;Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón&#8217;s <em>Gravity</em>.&#8221; <em>Midwest Popular Culture Association Annual Conference</em>. St. Louis. 22 October 2017. <a href="http://mpcaaca.org/stlouis-2017/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Horrendous Hybridity: Spatial and Linguistic Representations of the Occult Orientalist Other in H.P. Lovecraft&#8217;s &#8216;The Shadow Over Innsmouth.&#8217;&#8221; <em>Society of Early Americanists 10th Biennial Conference</em>. Tulsa. 2 March 2017. <a href="https://sea2017.wordpress.com" target="_blank">Presentation</a>.</p>
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Antebellum US Literature.&#8221; <em>Collaborative Research Centre 1199</em>. Leipzig. 4 January 2017. Presentation.</p>
-<p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place</em>. Leipzig. 2 April 2016. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Keynote Address</a>.</p>
+<p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place (American Studies Leipzig Graduate Conference)</em>. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Keynote Address</a>.</p>
 
 <div><a name="conference-and-workshop-organization">&nbsp;</a></div>
 
 ## II.&nbsp;Conference & Workshop Organization
-<p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">2nd International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
+<p>Archipelagic Imperial Spaces and Mobilities. 30 March - 1 April 2022, Leipzig/online. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">Second International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
 <p>The Seeds and Seeding of Empire. <em>American Studies Association</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
-<p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">1st International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
-<p>Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century. <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. Panel Co-Chair.</p>
-<p>Regional Colloquium for American Studies. 13 January 2017, Deutsches Literaturinstitut Leipzig. Colloquium. Co-Organizer.</p>
-<p>Urban America: Mediating City Space as Place. 2 April 2016, Deutsches Literaturinstitut Leipzig. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Co-Organizer.</p>
+<p>Archipelagic Imperial Spaces and Mobilities. 15-17 July 2021, Leipzig/online. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">First International Workshop</a>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. Co-Organizer.</p>
+<p>Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century. <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas</em>. International Association of Inter-American Studies. Coimbra, Portugal. 24 March 2018. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. <a href="http://www.interamericanstudies.net/?page_id=6447" target="_blank">Panel Co-Chair</a>.</p>
+<p>Regional Colloquium for American Studies. Leipzig. 13 January 2017. Co-Organizer.</p>
+<p>Urban America: Mediating City Space as Place. Leipzig. 2 April 2016. <a href="http://www.americanspace-leipzig.de/?ai1ec_event=urban-america-mediating-city-space-as-place" target="_blank">Graduate Conference</a>. Co-Organizer.</p>
 
 <div><a name="teaching">&nbsp;</a></div>
 
