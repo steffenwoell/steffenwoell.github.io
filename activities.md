@@ -74,14 +74,14 @@ image: /img/pil.jpg
 <div><a name="teaching">&nbsp;</a></div>
 
 ## III.&nbsp;Teaching
-<p>&#8220;Mug Shots, Crime Culture, and American Media.&#8221; Julius Maximilian University of Würzburg. 22 June 2022. Guest Seminar.</p>
+<p>&#8220;Mug Shots, Crime Culture, and American Media.&#8221; Julius Maximilian University of Würzburg. 22 June 2022. Guest Lecture.</p>
 <p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. Seminar. <a href="/doc/LC-II Spectacle of Monsters Seminar 2022 Syllabus.pdf" target="_blank">Syllabus</a></p>
 <p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2021/22. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 21-22.pdf" target="_blank">Syllabus</a>.</p>
 <p>&#8220;Reading the Transpacific: Asian American Cultures and Identities.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2020/21. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 20-21.pdf" target="_blank">Syllabus</a>.</p>
 <p><a href="http://americanstudies.uni-leipzig.de/content/research-bash" target="_blank">ASL Research Bash</a>. <em>American Studies Leipzig</em>. 25 June 2019.</p>
-<p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 13 June 2018. Guest Lecture.</p>
+<p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 13 June 2018. <a href="https://americanstudies.uni-leipzig.de/content/courses-summer-2018-0?tab_id=5457#lasipp-tab-1" target="_blank">Guest Lecture</a>.</p>
 <p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2017/18. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 17-18.pdf" target="_blank">Syllabus</a>.</p>
-<p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. Guest Lecture.</p>
+<p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1" target="_blank">Guest Lecture</a>.</p>
 
 <div><a name="field-studies">&nbsp;</a></div>
 
