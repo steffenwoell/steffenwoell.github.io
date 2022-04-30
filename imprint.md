@@ -43,7 +43,7 @@ Germany</pre>
 ## Legal & Data Protection
 
 <div class="box-warning">
-Unless stated otherwise, all contents of this personal, non-commercial website are published under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. The website is designed to provide a maximum degree of user privacy, data protection, and data reduction. <em>Concretely, it enforces a strict policy of</em>
+Unless stated otherwise, all contents of this personal, non-commercial website are published under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. The website is designed to provide a maximum degree of user privacy, data protection, and data reduction. <em>Concretely, it enforces a strict policy of</em>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero first or third-party cookies</p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero social media plugins</p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero activity logs</p>
