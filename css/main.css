@@ -7,18 +7,18 @@ layout: null
 /* --- General --- */
 
 .copyright {
-  margin-top: 30px;
-  color: #bbb;
+  margin-top: 35px;
 }
 
 .copyright a {
+  font-weight: 600;
   text-decoration: none;
-  color: #bbb;
+  color: #555;
 }
 
 .copyright a:hover {
   text-decoration: none;
-  color: #eee;
+  color: #555;
 }
 
 .made-with {
