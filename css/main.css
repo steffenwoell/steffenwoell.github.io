@@ -8,14 +8,17 @@ layout: null
 
 .copyright {
   margin-top: 30px;
+  color: #bbb;
 }
 
 .copyright a {
   text-decoration: none;
+  color: #bbb;
 }
 
 .copyright a:hover {
   text-decoration: none;
+  color: #eee;
 }
 
 .made-with {
