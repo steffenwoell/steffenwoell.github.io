@@ -40,13 +40,13 @@ Germany</pre>
 
 <p>&nbsp;</p>
 
-## Privacy & Data Protection
+## Legal & Data Protection
 
 <div class="box-warning">
-This personal and non-commercial internet presence is committed to maximizing privacy, data reduction, and data protection. <em>The website therefore adheres to a strict policy of</em>
-<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-cookies</p>
-<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-plugins</p>
-<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-logs</p>
-<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero-analytics</p>
-<p>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or otherwise used to identify or track vistors.</p>
+Unless stated otherwise, all contents of this personal, non-commercial website are published under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. The website is designed to provide a maximum degree of user privacy, data protection, and data reduction. <em>Concretely, it enforces a strict policy of</em>
+<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero first or third-party cookies</p>
+<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero social media plugins</p>
+<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero activity logs</p>
+<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero analytics</p>
+<p>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or used to identify or track vistors.</p>
 </div>
