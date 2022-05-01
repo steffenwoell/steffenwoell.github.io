@@ -28,17 +28,6 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 
 <p>&nbsp;</p>
 -->
-## Mailing Address (V.i.S.d.P.)
-
-<div class="box-note">
-<pre>Dr. Steffen Wöll<br/>
-Nikolaistr. 6-10<br/>
-Room 5.07<br/>
-04109 Leipzig<br/>
-Germany</pre>
-</div>
-
-<p>&nbsp;</p>
 
 ## Legal & Data Protection
 
@@ -49,4 +38,16 @@ Unless stated otherwise, all contents of this personal, non-commercial website a
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero activity logs</p>
 <p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero analytics</p>
 <p>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or used to identify or track vistors.</p>
+</div>
+
+<p>&nbsp;</p>
+
+## Mailing Address (V.i.S.d.P.)
+
+<div class="box-note">
+<pre>Dr. Steffen Wöll<br/>
+Nikolaistr. 6-10<br/>
+Room 5.07<br/>
+04109 Leipzig<br/>
+Germany</pre>
 </div>
