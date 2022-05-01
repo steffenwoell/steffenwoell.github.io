@@ -14,7 +14,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 </div>
 
 <p>&nbsp;</p>
-
+<!--
 ## Social Media
 
 <div class="box-blue">
@@ -27,7 +27,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 </div>
 
 <p>&nbsp;</p>
-
+-->
 ## Mailing Address (V.i.S.d.P.)
 
 <div class="box-note">
