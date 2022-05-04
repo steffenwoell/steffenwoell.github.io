@@ -74,7 +74,7 @@ image: /img/pil.jpg
 <div><a name="teaching">&nbsp;</a></div>
 
 ## III.&nbsp;Teaching
-<p>&#8220;Illuminating Race, Class, and Gender: The Cultural Dynamics of Mugshots and Passport Photography.&#8221; <em>Prison and Literature</em>. Julius Maximilian University of Würzburg. 22 June 2022. <a href="https://www.neuphil.uni-wuerzburg.de/anglistik/abteilungen/amerikanistik/teaching/courses/" target="_blank">Guest Lecture</a>.</p>
+<p>&#8220;Illuminating Race, Class, and Gender: The Cultural Dynamics of Mugshots and Passport Photography.&#8221; <em>Prison and Literature</em>. Julius Maximilian University of Würzburg. 22 June 2022. <a href="https://www.neuphil.uni-wuerzburg.de/anglistik/abteilungen/amerikanistik/teaching/courses/" target="_blank">Guest Seminar</a>.</p>
 <p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. Seminar. <a href="/doc/LC-II Spectacle of Monsters Seminar 2022 Syllabus.pdf" target="_blank">Syllabus</a></p>
 <p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2021/22. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 21-22.pdf" target="_blank">Syllabus</a>.</p>
 <p>&#8220;Reading the Transpacific: Asian American Cultures and Identities.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2020/21. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 20-21.pdf" target="_blank">Syllabus</a>.</p>
