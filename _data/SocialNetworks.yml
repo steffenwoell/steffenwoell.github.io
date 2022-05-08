@@ -11,15 +11,15 @@ home:
   baseURL: "#"
   icon: "fas fa-swimmer"
 
-  email:
-    name: "Email"
-    baseURL: "mailto:"
-    icon: "fas fa-at"
+email:
+  name: "Email"
+  baseURL: "mailto:"
+  icon: "fas fa-at"
 
-  rss:
-    name: "RSS"
-    baseURL: "{{ '/feed.xml' | relative_url }}"
-    icon: "fas fa-rss"
+rss:
+  name: "RSS"
+  baseURL: "{{ '/feed.xml' | relative_url }}"
+  icon: "fas fa-rss"
 
 blog:
   name: "Write.as"
