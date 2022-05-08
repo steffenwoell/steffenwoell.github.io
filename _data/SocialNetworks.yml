@@ -11,39 +11,49 @@ home:
   baseURL: "#"
   icon: "fas fa-swimmer"
 
+  email:
+    name: "Email"
+    baseURL: "mailto:"
+    icon: "fas fa-at"
+
+  rss:
+    name: "RSS"
+    baseURL: "{{ '/feed.xml' | relative_url }}"
+    icon: "fas fa-rss"
+
 blog:
   name: "Write.as"
   baseURL: "https://write.as/"
   icon: "fas fa-feather-alt"
-
-mastodon:
-  name: "Mastodon"
-  baseURL: "https://mastodon.social/"
-  icon: "fab fa-mastodon"
-
-soundcloud:
-  name: "SoundCloud"
-  baseURL: "https://soundcloud.com/"
-  icon: "fab fa-soundcloud"
-
-orcid:
-  name: "ORCID"
-  baseURL: "https://orcid.org/"
-  icon: "fab fa-orcid"
 
 researchgate:
   name: "ResearchGate"
   baseURL: "https://www.researchgate.net/profile/"
   icon: "fab fa-researchgate"
 
-facebook:
-  name: "Facebook"
-  baseURL: "https://www.facebook.com/"
-  icon: "fab fa-facebook-f"
+orcid:
+  name: "ORCID"
+  baseURL: "https://orcid.org/"
+  icon: "fab fa-orcid"
+
+mastodon:
+  name: "Mastodon"
+  baseURL: "https://mastodon.social/"
+  icon: "fab fa-mastodon"
+
+instagram:
+  name: "Instagram"
+  baseURL: "https://www.instagram.com/"
+  icon: "fab fa-instagram"
+
+soundcloud:
+  name: "SoundCloud"
+  baseURL: "https://soundcloud.com/"
+  icon: "fab fa-soundcloud"
 
 tumblr:
   name: "Tumblr"
-  baseURL: ""
+  baseURL: "https://www.tumblr.com/"
   icon: "fab fa-tumblr"
 
 github:
@@ -55,11 +65,6 @@ twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
   icon: "fab fa-twitter"
-
-email:
-  name: "Email"
-  baseURL: "mailto:"
-  icon: "fas fa-paper-plane"
 
 linkedin:
   name: "LinkedIn"
@@ -76,11 +81,6 @@ stackoverflow:
   baseURL: "https://stackoverflow.com/users/"
   icon: "fab fa-stack-overflow"
 
-instagram:
-  name: "Instagram"
-  baseURL: "https://www.instagram.com/"
-  icon: "fab fa-instagram"
-
 youtube:
   name: "YouTube"
   baseURL: "https://www.youtube.com/"
@@ -95,8 +95,3 @@ telephone:
   name: "Phone"
   baseURL: "tel:"
   icon: "fas fa-phone"
-
-rss:
-  name: "RSS"
-  baseURL: "{{ '/feed.xml' | relative_url }}"
-  icon: "fas fa-rss"
