@@ -3,11 +3,7 @@ layout: post
 title: The Joys of Being Useless
 subtitle: One of Many
 image: /img/joy.png
-excerpt: It seems a lot of time has passed
-pursuing life at breakneck paces
-we crane our necks and look
-down at crowded streets
-and all those vacant spaces
+excerpt: It seems a lot of time has passed, pursuing life at breakneck paces, we crane our necks and look, down at crowded streets, and all those vacant spaces ...
 tags: [Journal, Leipzig, Germany]
 ---
 It seems a lot of time has passed
