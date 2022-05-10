@@ -46,7 +46,7 @@ layout: null
 .fab {font-weight: 300;}
 
 .fas.fa-quote-left.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fas.fa-quote-left.fa-stack-1x.fa-inverse:hover {color: #941100;}
+.fas.fa-quote-left.fa-stack-1x.fa-inverse:hover {color: #fdf5d4;}
 
 .fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.3s;}
 .fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
