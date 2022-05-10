@@ -37,10 +37,12 @@ layout: null
 
 .made-with a {
   color: #bbb;
+  text-decoration: none;
 }
 
 .made-with a:hover, .made-with a:focus, .made-with a:active {
   color: #bbb;
+  text-decoration: none;
 }
 
 .fab {font-weight: 300;}
