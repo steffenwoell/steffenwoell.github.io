@@ -45,6 +45,13 @@ layout: null
   text-decoration: none;
 }
 
+.commons {
+  margin: 60px 0 0 0;
+  color: #bbb;
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
+  text-align: center;
+}
+
 .fab {font-weight: 300;}
 
 .fas.fa-quote-left.fa-stack-1x.fa-inverse {transition: 0.3s;}
