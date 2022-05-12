@@ -1,4 +1,4 @@
-// Dean Attali / Beautiful Jekyll 2016
+// MIT License
 
 var main = {
 
