@@ -9,7 +9,7 @@ image: /img/imp.png
 {: .box-success}
 Please direct all correspondence to `steffen.woell@uni-leipzig.de`
 
-<div class="box-note" style="margin-bottom:40px">
+<div class="box-note" style="margin-bottom:60px">
 Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and my public key can be found <a href="/doc/sw_pgp_public_key.asc">here</a>.
 </div>
 
@@ -26,7 +26,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 
 ## Legal & Data Protection
 
-<div class="box-warning" style="margin-bottom:40px">
+<div class="box-warning" style="margin-bottom:60px">
 Unless stated otherwise, all contents of this personal, non-commercial website are published under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. The website is designed to provide a maximum degree of user privacy, data protection, and data reduction. <em>Concretely, it enforces a strict policy of</em>
 <p><i class="fas fa-toggle-on" style="padding-left:10px; padding-right:10px"></i>zero first or third-party cookies</p>
 <p><i class="fas fa-toggle-on" style="padding-left:10px; padding-right:10px"></i>zero social media plugins</p>
