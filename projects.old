@@ -4,8 +4,8 @@ title: Projects
 image: /img/pro.png
 ---
 
-{: .box-updated}
-<i class="far fa-clock"></i>&nbsp;&nbsp;Updated  May 30, 2021
+<!--{: .box-updated}
+<span style="color:#488B49"><i class="far fa-clock" style="padding-right:10px"></i><script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
 ## A History of Digital Violence: The American West in (Early) Video Game Culture
 Currently in the conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
@@ -25,8 +25,6 @@ Central research questions include but are not limited to examining:
 * How do these themes relate to those traditionally identified in literary and cultural discourses?
 * In what ways do interactivity, player input, and gameplay elements modify or expand traditional dimensions of "westernness"?
 * Can existing toolsets of the Digital Humanities be made productive to visualize the discursive landscapes of video games?
-
-<p>&nbsp;</p>
 
 ## ENMMA: European Network for the Study of Minor Mobilities in the Americas
 

@@ -34,17 +34,6 @@ layout: base
       <article role="main" class="blog-post">
         {{ content }}
       </article>
-<!--<p>&nbsp;</p>
-     {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          <i class="fa fa-tag" aria-hidden="true"></i>
-
-          {% for tag in page.tags %}
-            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-          {% endfor %}
-
-        </div>
-      {% endif %}-->
 
       {% if page.social-share %}
         {% include social-share.html %}

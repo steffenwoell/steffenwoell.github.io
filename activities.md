@@ -5,7 +5,7 @@ image: /img/pil.jpg
 ---
 
 <!--{: .box-updated}
-<span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
+<span style="color:#488B49"><i class="far fa-clock" style="padding-right:10px"></i><script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
 <div class="box-toc">
 <p style="color:#ac8d10;margin-top:-1px"><i class="fas fa-highlighter" style="padding-right:10px"></i><b>Table of Contents</b></p>

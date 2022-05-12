@@ -5,7 +5,7 @@ image: /img/pub2.jpg
 ---
 
 <!--{: .box-updated}
-<span style="color:#488B49"><i class="far fa-clock"></i>&nbsp; <script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
+<span style="color:#488B49"><i class="far fa-clock" style="padding-right:10px"></i><script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
 
 <div class="box-note">
 <i class="fab fa-orcid" style="padding-right:10px"></i><a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a>
@@ -14,7 +14,7 @@ image: /img/pub2.jpg
 </div>
 
 <div class="box-toc2">
-<p style="color:#4c99c4;margin-top:-1px"><i class="fas fa-wrench" style="padding-right:10px"></i><b>Table of Contents</b></p>
+<p style="color:#4c99c4;margin-top:-1px"><i class="fas fa-highlighter" style="padding-right:10px"></i><b>Table of Contents</b></p>
 <ol style="list-style:upper-roman">
 <li><a href="#monographs">Monographs</a></li>
 <li><a href="#edited-volumes">Edited Volumes</a></li>
