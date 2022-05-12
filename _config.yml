@@ -158,9 +158,11 @@ exclude:
   - CHANGELOG.md
   - CNAME
   - Dockerfile
+  - favicon.old.ico
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - projects.old
   - README.md
   - Vagrantfile
 
