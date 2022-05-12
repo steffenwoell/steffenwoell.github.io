@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-image: /img/pub2.png
+image: /img/pub2.webp
 ---
 
 <!--{: .box-updated}
@@ -115,7 +115,7 @@ image: /img/pub2.png
 
 ## VIII.&nbsp;Maps
 <div class="blue">
-<p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.png" target="_blank">Map</a>.</p>
+<p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.webp" target="_blank">Map</a>.</p>
 </div>
 
 <div><a name="miscellaneous-papers">&nbsp;</a></div>

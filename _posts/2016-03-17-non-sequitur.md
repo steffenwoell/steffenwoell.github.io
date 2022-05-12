@@ -3,7 +3,7 @@ layout: post
 title: Non Sequitur
 subtitle: Nothing Follows
 excerpt: All is real but nothing follows.
-image: /img/non-sequitur.png
+image: /img/non-sequitur.webp
 tags: [Music]
 ---
 <div style="padding-top:15px; padding-bottom:15px;">

@@ -2,7 +2,7 @@
 layout: post
 title: A Happy Death
 subtitle: St. Louis, Missouri
-image: /img/st-louis2.png
+image: /img/st-louis2.webp
 tags: [Journal, St. Louis, USA]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imprint
-image: /img/imp.png
+image: /img/imp.webp
 ---
 
 ## Contact

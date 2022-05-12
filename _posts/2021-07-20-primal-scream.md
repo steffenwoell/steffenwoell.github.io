@@ -2,7 +2,7 @@
 layout: post
 title: Primal Scream
 subtitle: Fragments of Becoming and Being
-image: /img/primal.png
+image: /img/primal.webp
 excerpt: In the beginning there was not the word, but the act of creating by speaking. As a speech act and autopoiesis, a creation by oneself and out of oneself. All of us, one might think, are little more than the physical continuations and psychosocial refractions of that primary act by whoever or whatever. On the one hand, as the biological actors of its repetition in the act of reproduction as a sympoetic doing-with or, to put it more simply, by doing it together. Nevertheless, birth — as a genetically “tainted” mimesis of bringing into the world through language itself — through the primal scream of mother and child points both towards language as an act of creation of the rational mind and to the inherent pain of every creative act.
 tags: [Journal, Leipzig, Germany]
 ---

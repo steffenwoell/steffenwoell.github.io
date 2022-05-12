@@ -2,7 +2,7 @@
 layout: post
 title: Mapping Discourse
 subtitle: In R.H. Dana's 'Two Years Before the Mast'
-image: /img/dmsquare.jpg
+image: /img/dmsquare.webp
 tags: [Article, Mapping, Literature]
 excerpt: "When Richard Henry Dana Jr. visited San Francisco in 1859 after an absence of almost a quarter of a century, he was informed that, unbeknownst to him, he had become a man of considerable fame on the West Coast. As an adolescent, Dana was studying law at Harvard when he caught the measles, which led to a inflammatory condition that affected his eyesight and reading ability. Coming from a well-to-do family, to everyone's surprise Dana decided not to take the classical route of doing some R&R in the resorts of Europe. Instead, he marched to Boston harbor and signed up as a low-ranking merchant sailor on the Pilgrim bound for Alta California via Cape Horn and the Chilean Juan Fernandez island."
 ---
@@ -15,7 +15,7 @@ Parts of this article are based on research done during the seminar [Visualizati
 
 When Richard Henry Dana Jr. visited San Francisco in 1859 after an absence of almost a quarter of a century, he was informed that, unbeknownst to him, he had become a man of considerable fame on the West Coast. As an adolescent, Dana was studying law at Harvard when he caught the measles, which led to a inflammatory condition that affected his eyesight and reading ability. Coming from a well-to-do family, to everyone's surprise Dana decided not to take the classical route of doing some R&R in the resorts of Europe. Instead, he marched to Boston harbor and signed up as a low-ranking merchant sailor on the *Pilgrim* bound for Alta California via Cape Horn and the Chilean Juan Fernandez island. The notes of this trip, especially the strenuous life at sea and sadistic behavior of the ship's captain is regarded by some critics as the inspiration for Melville's *Moby-Dick*. Since the resulting novel was one of the few (and out of those, perhaps the most readable) depiction of California written in English, Dana shaped the expectations and mindscapes of scores of American emigrants and squatters who moved to the newly acquired Californian territories in the aftermath of the Mexican-American War.
 
-![Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*](/img/discursive-map-rh-dana.png)
+![Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast*](/img/discursive-map-rh-dana.webp)
 
 {: .box-note}
 **Figure:** Concept of a discursive map based on Richard Henry Dana's *Two Years Before the Mast* (1840).

@@ -2,7 +2,7 @@
 layout: post
 title: Shipwreck of Self
 subtitle: Notes on Robinson Crusoe and the Logics of Progress
-image: /img/shipwreck.png
+image: /img/shipwreck.webp
 excerpt: Inaudible radio hits echo from the impact-resistant loudspeakers of the craftsmen on the ground floor across the street. They drill, hammer, grind, chisel, screw, scrape, shovel, wash their hands and lie down to be able to do it all over again. This is the only way everything can come about, the substance of the civil must be defended, confirmed and expanded every day. Progress, one might almost think, is the most humane form of war from which there is no way out, because standing still is too close to today's common understanding of being dead. But who is our enemy in this invisible struggle?
 tags: [Journal, Leipzig, Germany]
 ---

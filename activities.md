@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-image: /img/pil.jpg
+image: /img/pil.webp
 ---
 
 <!--{: .box-updated}

@@ -2,7 +2,7 @@
 layout: post
 title: The Adlershof Look
 subtitle: Berlin, Germany
-image: /img/berlin.png
+image: /img/berlin.webp
 tags: [Journal, Berlin, Germany, Lovecraft]
 ---
 

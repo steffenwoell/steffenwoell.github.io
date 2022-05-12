@@ -2,7 +2,7 @@
 layout: post
 title: Altered Beast
 subtitle: Los Angeles, California
-image: /img/beast.png
+image: /img/beast.webp
 excerpt: I lost it in my sleep, the center of myself, collapsed ...
 tags: [Journal, LA, California, USA]
 ---
