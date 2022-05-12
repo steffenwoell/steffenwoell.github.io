@@ -14,7 +14,7 @@ image: /img/pub2.jpg
 </div>
 
 <div class="box-toc2">
-<p style="color:#4c99c4"><i class="fas fa-wrench" style="padding-right:10px"></i><b>Table of Contents</b></p>
+<p style="color:#4c99c4;margin-top:-1px"><i class="fas fa-wrench" style="padding-right:10px"></i><b>Table of Contents</b></p>
 <ol style="list-style:upper-roman">
 <li><a href="#monographs">Monographs</a></li>
 <li><a href="#edited-volumes">Edited Volumes</a></li>
@@ -29,9 +29,9 @@ image: /img/pub2.jpg
 </ol>
 </div>
 
-<div><a name="monographs"></a></div>
+<div><a name="monographs">&nbsp;</a></div>
 
-## I. Monographs
+## I.&nbsp;Monographs
 <div class="blue">
 <p><em>The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print</a>.</p>
 <p><em>A Place Between Oceans: Spatial Imaginations of the American Empire, 1880&#8211;1940</em> (Work in progress)</p>
