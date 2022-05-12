@@ -68,7 +68,7 @@ name:
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
-# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+# If you want to add a new link that isn't here, you'll need to also edit _data/SocialNetworks.yml
 social-network-links:
   home:
   email: "steffen.woell@uni-leipzig.de"
@@ -87,8 +87,7 @@ share-links-active:
   linkedin: false
 
 # How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "steffenwoell.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "steffenwoell.github.io"
 
 # --- Comments --- #
 
@@ -100,13 +99,13 @@ url-pretty: "steffenwoell.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : # GitHub username/repository eg. "user/rep"
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
+    siteKey  : # Use your own site key, you need to apply for one on G00gle
     secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
@@ -124,7 +123,7 @@ date_format: "%-d %B %Y"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
-# Output options (more information on Jekyll's site)
+# Output options
 timezone: "Europe/Germany"
 markdown: kramdown
 highlighter: rouge
@@ -134,7 +133,7 @@ paginate: 5
 kramdown:
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
+# Default YAML values
 defaults:
   -
     scope:

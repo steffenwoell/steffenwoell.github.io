@@ -34,7 +34,7 @@ image: /img/pub2.jpg
 ## I.&nbsp;Monographs
 <div class="blue">
 <p><em>The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print</a>.</p>
-<p><em>A Place Between Oceans: Spatial Imaginations of the American Empire, 1880&#8211;1940</em> (Work in progress)</p>
+<p><em>A Place Between Oceans: Imagining the American Empire 1880&#8211;1940</em>. (Work in progress)</p>
 </div>
 
 <div><a name="edited-volumes">&nbsp;</a></div>
@@ -132,7 +132,7 @@ image: /img/pub2.jpg
 <div><a name="programming">&nbsp;</a></div>
 
 ## X.&nbsp;Programming (HTML, CSS, Java, CMS)
-<div class="blue" style="margin-bottom:80px">
+<div class="blue" style="margin-bottom:60px">
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
 <p><em>steffenwoell.github.io</em>. 2019—. Website Programming & Design.</p>
 </div>

@@ -116,4 +116,4 @@ image: /img/pil.jpg
 ## VII.&nbsp;Voluntary Work
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award</a>.</p>
 <p>Wikipedia Editor.</p>
-<p style="margin-bottom:80px">KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>
+<p style="margin-bottom:60px">KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>
