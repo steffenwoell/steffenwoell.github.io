@@ -24,6 +24,7 @@ navbar-links:
   Activities: "activities"
   Imprint: "imprint"
   More:
+  - Projects: "projects"
   - Journal: "/journal"
   - Tags: "tags"
 
