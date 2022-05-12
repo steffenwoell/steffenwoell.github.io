@@ -9,13 +9,11 @@ image: /img/imp.png
 {: .box-success}
 Please direct all correspondence to `steffen.woell@uni-leipzig.de`
 
-<div class="box-note">
+<div class="box-note" style="padding-bottom:40px">
 Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and my public key can be found <a href="/doc/sw_pgp_public_key.asc">here</a>.
 </div>
 
-<p>&nbsp;</p>
-<!--
-## Social Media
+<!--## Social Media
 
 <div class="box-blue">
 <div>
@@ -24,23 +22,18 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 <div><i class="fab fa-instagram"></i> &nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></div><br/>
 <div><i class="fab fa-soundcloud"></i>&nbsp;&nbsp;<a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a></div>
 </div>
-</div>
-
-<p>&nbsp;</p>
--->
+</div>-->
 
 ## Legal & Data Protection
 
-<div class="box-warning">
+<div class="box-warning" style="padding-bottom:40px">
 Unless stated otherwise, all contents of this personal, non-commercial website are published under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. The website is designed to provide a maximum degree of user privacy, data protection, and data reduction. <em>Concretely, it enforces a strict policy of</em>
-<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero first or third-party cookies</p>
-<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero social media plugins</p>
-<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero activity logs</p>
-<p>&nbsp;&nbsp;<i class="fas fa-toggle-on"></i>&nbsp;&nbsp;zero analytics</p>
+<p><i class="fas fa-toggle-on" style="padding-left:10px; padding-right:10px"></i>zero first or third-party cookies</p>
+<p><i class="fas fa-toggle-on" style="padding-left:10px; padding-right:10px"></i>zero social media plugins</p>
+<p><i class="fas fa-toggle-on" style="padding-left:10px; padding-right:10px"></i>zero activity logs</p>
+<p><i class="fas fa-toggle-on" style="padding-left:10px; padding-right:10px"></i>zero analytics</p>
 <p>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or used to identify or track vistors.</p>
 </div>
-
-<p>&nbsp;</p>
 
 ## Mailing Address (V.i.S.d.P.)
 
