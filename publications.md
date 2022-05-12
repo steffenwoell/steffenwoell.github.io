@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-image: /img/pub2.jpg
+image: /img/pub2.png
 ---
 
 <!--{: .box-updated}
