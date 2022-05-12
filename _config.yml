@@ -23,7 +23,7 @@ navbar-links:
   Publications: "publications"
   Activities: "activities"
   Imprint: "imprint"
-  Journal: "/journal/"
+  Journal: "/journal"
 #  More:
 #  - Projects: "projects"
 #  - Bio: "bio"
@@ -126,7 +126,7 @@ date_format: "%-d %B %Y"
 timezone: "Europe/Germany"
 markdown: kramdown
 highlighter: rouge
-# permalink: /:title/
+permalink: /:title/
 paginate: 5
 paginate_path: "journal/page:num"
 
