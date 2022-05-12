@@ -37,7 +37,7 @@ Unless stated otherwise, all contents of this personal, non-commercial website a
 
 ## Mailing Address (V.i.S.d.P.)
 
-<div class="box-note">
+<div class="box-note" style="margin-bottom:80px">
 <pre>Dr. Steffen Wöll<br/>
 Nikolaistr. 6-10<br/>
 Room 5.07<br/>

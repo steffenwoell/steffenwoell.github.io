@@ -132,7 +132,7 @@ image: /img/pub2.jpg
 <div><a name="programming">&nbsp;</a></div>
 
 ## X.&nbsp;Programming (HTML, CSS, Java, CMS)
-<div class="blue">
+<div class="blue" style="margin-bottom:80px">
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
 <p><em>steffenwoell.github.io</em>. 2019—. Website Programming & Design.</p>
 </div>
