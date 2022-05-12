@@ -217,5 +217,5 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-paginate-v2
+#  - jekyll-sitemap
