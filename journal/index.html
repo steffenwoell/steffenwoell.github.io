@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Journal
 subtitle: A Miscellany
 image: /img/jou.png
@@ -19,7 +19,7 @@ image: /img/jou.png
     </a>
 
     <p class="post-meta">
-    {{ post.date | date: site.date_format }}
+    {{ post.date | date_to_string }}
     </p>
 
     <div class="post-entry-container">
