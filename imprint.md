@@ -4,7 +4,7 @@ title: Imprint
 image: /img/imp.webp
 ---
 
-## Contact
+<h2>Contact</h2>
 
 {: .box-success}
 Please direct all correspondence to `steffen.woell@uni-leipzig.de`
