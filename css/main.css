@@ -4,12 +4,10 @@ layout: null
 
 @import url("pygment_highlights.css");
 
-/* --- General --- */
-
 .lastmod {
   margin: 80px 0 20px 0;
   color: #bbb;
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   text-align: center;
 }
 
@@ -18,7 +16,7 @@ layout: null
 }
 
 .copyright a {
-  font-weight: 400;
+  font-weight: 600;
   text-decoration: none;
   color: #555;
 }
@@ -31,7 +29,7 @@ layout: null
 .made-with {
   margin: 40px 0 20px 0;
   color: #bbb;
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   text-align: center;
 }
 
@@ -48,7 +46,7 @@ layout: null
 .commons {
   margin: 60px 0 0 0;
   color: #bbb;
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   text-align: center;
 }
 
@@ -76,9 +74,8 @@ layout: null
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
 
 body {
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   font-size: 18px;
-  font-weight: 300;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -92,16 +89,19 @@ p {
   margin: 15px 0px 15px 0px;
 }
 h1 {
-  font-family: 'Inter', Arial, sans-serif;
-  font-weight: 500;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
+  font-weight: 600;
+  font-style: normal;
 }
 h2 {
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 300;
+  font-style: italic;
 }
 h3,h4,h5,h6 {
-  font-family: 'Inter', Arial, sans-serif;
-  font-weight: 200;
+  font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
+  font-weight: 300;
+  font-style: italic;
 }
 h2,h3,h4,h5,h6 {
   padding: 5px 0 5px 0;
@@ -178,7 +178,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -219,7 +219,8 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
+  font-weight: 600;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img | relative_url }});
   background-attachment: fixed;
@@ -227,7 +228,7 @@ img {
 }
 
 .navbar-custom .nav li a {
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 12px;
   letter-spacing: 1px;
   text-decoration: none;
@@ -248,6 +249,8 @@ img {
 
 .navbar-custom .nav li a:hover::before {
   transform: scaleX(1);
+  font-weight: 800;
+  font-style: italic;
 }
 
 .navbar-custom .navbar-brand,
@@ -415,7 +418,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -476,23 +479,23 @@ footer .theme-by {
 .post-preview .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: normal;
+  font-style: italic;
   margin: 2px 0 5px 0;
 }
 .post-subheading .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: normal;
+  font-style: italic;
   margin: 10px 0 5px 0;
 }
 .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: normal;
-  font-weight: 300;
+  font-style: italic;
 }
 .post-preview .post-entry {
-  font-family: 'Inter', Arial, sans-serif;
+  /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  font-family: 'Playfair Display', 'Times New Roman', serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -532,7 +535,7 @@ footer .theme-by {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #777;
   font-size: 15px;
   margin-bottom: 20px;
@@ -626,7 +629,7 @@ footer .theme-by {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   font-weight: 300;
   margin: -5px 0 5px 0;
 }
@@ -651,7 +654,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -735,7 +738,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: normal;
@@ -790,7 +793,7 @@ table tr:nth-child(2n) {
   background-color: #f8f8f8;
 }
 table tr th {
-  font-weight: 400;
+  font-weight: bold;
   border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
@@ -909,7 +912,7 @@ pre {
 .box-note a {
   color: #555;
   text-decoration: none;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .box-note a:hover {
@@ -1078,7 +1081,7 @@ pre {
 }
 
 #full-tags-list {
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #full-tags-list .tag-entry {
