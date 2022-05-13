@@ -74,8 +74,9 @@ layout: null
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
 
 body {
-  font-family: 'Playfair Display', 'Times New Roman', serif;
+  font-family: 'Inter', 'Times New Roman', serif;
   font-size: 18px;
+  font-weight: 300;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -96,12 +97,10 @@ h1 {
 h2 {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 300;
-  font-style: italic;
 }
 h3,h4,h5,h6 {
   font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
-  font-weight: 300;
-  font-style: italic;
+  font-weight: 200;
 }
 h2,h3,h4,h5,h6 {
   padding: 5px 0 5px 0;
@@ -219,8 +218,6 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
-  font-weight: 600;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img | relative_url }});
   background-attachment: fixed;
@@ -228,8 +225,11 @@ img {
 }
 
 .navbar-custom .nav li a {
+  font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
+  font-weight: 500;
+  font-style: italic;
   text-transform: none;
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: 1px;
   text-decoration: none;
 }
@@ -249,8 +249,6 @@ img {
 
 .navbar-custom .nav li a:hover::before {
   transform: scaleX(1);
-  font-weight: 800;
-  font-style: italic;
 }
 
 .navbar-custom .navbar-brand,
@@ -479,7 +477,8 @@ footer .theme-by {
 .post-preview .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: italic;
+  font-style: normal;
+  font-weight: 200;
   margin: 2px 0 5px 0;
 }
 .post-subheading .post-meta {
@@ -629,8 +628,9 @@ footer .theme-by {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
+  font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
   font-weight: 300;
+  font-style: italic;
   margin: -5px 0 5px 0;
 }
 .intro-header .post-heading {
