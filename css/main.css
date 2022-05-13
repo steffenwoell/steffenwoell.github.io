@@ -229,7 +229,7 @@ img {
   font-family: 'Playfair Display', Times, serif;
   font-weight: 600;
   text-transform: none;
-  font-size: 16px;
+  font-size: 18px;
   letter-spacing: 1px;
   text-decoration: none;
 }
@@ -255,8 +255,8 @@ img {
 .navbar-custom .nav li a {
   color: {{ site.navbar-text-col }};
   font-weight: 600;
-  font-style: normal;
-  font-size: 20px;
+  font-style: italic;
+  font-size: 18px;
   font-family: 'Playfair Display', Times, serif;
 }
 
