@@ -522,6 +522,10 @@ footer .theme-by {
   font-weight: 700;
 }
 
+.post-read-more a:hover {
+  text-decoration: underline;
+}
+
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
     font-size: 36px;
