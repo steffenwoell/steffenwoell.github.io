@@ -18,7 +18,7 @@ layout: null
 }
 
 .copyright a {
-  font-weight: 600;
+  font-weight: 400;
   text-decoration: none;
   color: #555;
 }
@@ -93,15 +93,15 @@ p {
 }
 h1 {
   font-family: 'Inter', Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 500;
 }
 h2 {
   font-family: 'Inter', Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 300;
 }
 h3,h4,h5,h6 {
   font-family: 'Inter', Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 200;
 }
 h2,h3,h4,h5,h6 {
   padding: 5px 0 5px 0;
@@ -476,19 +476,20 @@ footer .theme-by {
 .post-preview .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: italic;
+  font-style: normal;
   margin: 2px 0 5px 0;
 }
 .post-subheading .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: italic;
+  font-style: normal;
   margin: 10px 0 5px 0;
 }
 .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: italic;
+  font-style: normal;
+  font-weight: 300;
 }
 .post-preview .post-entry {
   font-family: 'Inter', Arial, sans-serif;
@@ -789,7 +790,7 @@ table tr:nth-child(2n) {
   background-color: #f8f8f8;
 }
 table tr th {
-  font-weight: 600;
+  font-weight: 400;
   border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
@@ -908,7 +909,7 @@ pre {
 .box-note a {
   color: #555;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .box-note a:hover {
