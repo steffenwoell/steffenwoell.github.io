@@ -243,11 +243,21 @@ img {
   transform: scaleX(1);
 }
 
-.navbar-custom .navbar-brand,
+.navbar-custom,
 .navbar-custom .nav li a {
   font-family: 'Playfair Display', Times, serif;
   font-weight: 600;
   font-style: italic;
+  font-size: 16px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: {{ site.navbar-text-col }};
+}
+
+.navbar-brand {
+  font-family: 'Playfair Display', Times, serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 16px;
   letter-spacing: 1px;
   text-decoration: none;
