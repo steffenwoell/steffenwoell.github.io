@@ -9,7 +9,7 @@ layout: null
 .lastmod {
   margin: 80px 0 20px 0;
   color: #bbb;
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   text-align: center;
 }
 
@@ -31,7 +31,7 @@ layout: null
 .made-with {
   margin: 40px 0 20px 0;
   color: #bbb;
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   text-align: center;
 }
 
@@ -48,7 +48,7 @@ layout: null
 .commons {
   margin: 60px 0 0 0;
   color: #bbb;
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   text-align: center;
 }
 
@@ -76,7 +76,7 @@ layout: null
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
 
 body {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -91,15 +91,15 @@ p {
   margin: 15px 0px 15px 0px;
 }
 h1 {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   font-weight: bold;
 }
 h2 {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   font-weight: bold;
 }
 h3,h4,h5,h6 {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   font-weight: bold;
 }
 h2,h3,h4,h5,h6 {
@@ -177,7 +177,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -218,7 +218,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img | relative_url }});
   background-attachment: fixed;
@@ -414,7 +414,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -490,7 +490,7 @@ footer .theme-by {
   font-style: italic;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -530,7 +530,7 @@ footer .theme-by {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   color: #777;
   font-size: 15px;
   margin-bottom: 20px;
@@ -624,7 +624,7 @@ footer .theme-by {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   font-weight: 300;
   margin: -5px 0 5px 0;
 }
@@ -649,7 +649,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -733,7 +733,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: normal;
@@ -1076,7 +1076,7 @@ pre {
 }
 
 #full-tags-list {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
 }
 
 #full-tags-list .tag-entry {
