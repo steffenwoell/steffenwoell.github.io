@@ -74,9 +74,9 @@ layout: null
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
 
 body {
-  font-family: 'Inter', Times, sans-serif;
+  font-family: 'Space Mono', Times, sans-serif;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: normal;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -226,15 +226,11 @@ img {
 
 .navbar-custom .nav li a {
   font-family: 'Playfair Display', Times, serif;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: none;
   font-size: 16px;
   letter-spacing: 1px;
   text-decoration: none;
-}
-
-.navbar-custom .nav li a:hover: {
-  font-style: italic;
 }
 
 .navbar-custom .nav li a::before {
@@ -252,11 +248,15 @@ img {
 
 .navbar-custom .nav li a:hover::before {
   transform: scaleX(1);
+  font-style: italic;
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   color: {{ site.navbar-text-col }};
+  font-weight: 600;
+  font-style: italic;
+  font-size: 18px;
 }
 
 .navbar-custom .navbar-brand-logo {
