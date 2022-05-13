@@ -255,7 +255,7 @@ img {
 .navbar-custom .nav li a {
   color: {{ site.navbar-text-col }};
   font-weight: 600;
-  font-style: italic;
+  font-style: normal;
   font-size: 18px;
   font-family: 'Playfair Display', Times, serif;
 }
