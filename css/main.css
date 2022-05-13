@@ -74,7 +74,7 @@ layout: null
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
 
 body {
-  font-family: 'Space Mono', Times, sans-serif;
+  font-family: 'Inter', Times, sans-serif;
   font-size: 16px;
   font-weight: normal;
   color: #404040;
@@ -97,6 +97,7 @@ h1 {
 h2 {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 300;
+  font-style: italic;
 }
 h3,h4,h5,h6 {
   font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
@@ -248,7 +249,6 @@ img {
 
 .navbar-custom .nav li a:hover::before {
   transform: scaleX(1);
-  font-style: italic;
 }
 
 .navbar-custom .navbar-brand,
@@ -257,6 +257,8 @@ img {
   font-weight: 600;
   font-style: italic;
   font-size: 18px;
+  font-family: 'Playfair Display', Times, serif;
+  font-weight: 600;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -486,13 +488,13 @@ footer .theme-by {
 .post-subheading .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: italic;
+  font-style: normal;
   margin: 10px 0 5px 0;
 }
 .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: italic;
+  font-style: normal;
 }
 .post-preview .post-entry {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
