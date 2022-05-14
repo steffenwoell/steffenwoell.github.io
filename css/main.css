@@ -383,13 +383,14 @@ footer a {
   text-decoration: none;
 }
 
-.made-with-buttons a {
+.footer-buttons a {
+  text-align: center;
   color: #d1d1d1;
 }
 
-.made-with-buttons a:hover, .made-with-buttons a:active {
+.footer-buttons a:hover, .footer-buttons a:active {
   color: #a4a4a4;
-  transition: 0.5s ease;
+  transition: 0.5s;
 }
 
 .commons {
