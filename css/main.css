@@ -500,7 +500,7 @@ footer .theme-by {
   font-size: 18px;
   font-style: normal;
 }
-.post-preview .post-entry .blog-post {
+.post-preview .blog-post {
   font-family: 'Playfair Display', 'Times New Roman', serif;
 }
 .post-entry-container {
@@ -508,9 +508,11 @@ footer .theme-by {
   width: 100%;
   line-height: 1.5;
   padding-top: 10px;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
 }
 .post-entry {
   width: 100%;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
 }
 .post-image {
   display: none;

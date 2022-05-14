@@ -5,9 +5,9 @@ image: /img/pub2.webp
 ---
 
 <div class="box-note">
-<span style="white-space: nowrap; padding-right:30px"><i class="fab fa-orcid"></i><a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a></span>
-<span style="white-space: nowrap; padding-right:30px"><i class="fas fa-landmark"></i><a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a></span>
-<span style="white-space: nowrap"><i class="fas fa-landmark"></i><a href="https://catalog.loc.gov/vwebv/search?searchType=7&searchId=8902&maxResultsPerPage=25&recCount=25&recPointer=0&resultPointer=0&headingId=33459717" target="_blank">Library of Congress</a></span>
+<span style="white-space: nowrap; padding-right:30px"><i class="fab fa-orcid" style="padding-right:10px"></i><a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a></span>
+<span style="white-space: nowrap; padding-right:30px"><i class="fas fa-landmark" style="padding-right:10px"></i><a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a></span>
+<span style="white-space: nowrap"><i class="fas fa-landmark" style="padding-right:10px"></i><a href="https://catalog.loc.gov/vwebv/search?searchType=7&searchId=8902&maxResultsPerPage=25&recCount=25&recPointer=0&resultPointer=0&headingId=33459717" target="_blank">Library of Congress</a></span>
 </div>
 
 <div class="box-toc2">
