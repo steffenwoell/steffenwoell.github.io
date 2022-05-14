@@ -969,12 +969,11 @@ pre {
 
 .box-toc a {
   color: #ac8d10;
-  font-weight: normal;
+  font-weight: 600;
 }
 
 .box-toc a:hover, .box-toc a:focus {
   color: #ac8d10;
-  font-weight: normal;
   text-decoration: underline;
   -webkit-transition: color .2s ease-in-out;
   -moz-transition: color .2s ease-in-out;
@@ -993,12 +992,11 @@ pre {
 
 .box-toc2 a {
   color: #4c99c4;
-  font-weight: normal;
+  font-weight: 600;
 }
 
 .box-toc2 a:hover, .box-toc2 a:focus {
   color: #4c99c4;
-  font-weight: normal;
   text-decoration: underline;
   -webkit-transition: color .2s ease-in-out;
   -moz-transition: color .2s ease-in-out;
