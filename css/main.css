@@ -363,17 +363,17 @@ footer a {
 
 .copyright a {
   font-weight: 700;
-  color: #d1d1d1;
+  color: #555;
 }
 
 .copyright a:hover {
   text-decoration: none;
-  color: #a4a4a4;
+  color: #555;
 }
 
 .made-with {
   margin: 40px 0 20px 0;
-  color: #d1d1d1;
+  color: #a4a4a4;
   text-align: center;
   font-weight: 300;
 }
@@ -381,6 +381,11 @@ footer a {
 .made-with a .made-with a:hover, .made-with a:focus, .made-with a:active {
   color: #a4a4a4;
   text-decoration: none;
+}
+
+.fab.fa-github.fa-2x {
+  color: #d1d1d1;
+  transition: 0.5s;
 }
 
 .commons {
