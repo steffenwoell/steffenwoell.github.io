@@ -500,7 +500,7 @@ footer .theme-by {
   font-size: 18px;
   font-style: normal;
 }
-.post-preview .post-entry {
+.post-preview .post-entry .blog-post {
   font-family: 'Playfair Display', 'Times New Roman', serif;
 }
 .post-entry-container {
