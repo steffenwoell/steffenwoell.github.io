@@ -372,24 +372,24 @@ footer a {
 
 .made-with {
   margin: 40px 0 20px 0;
-  color: #bbb;
+  color: #555;
   text-align: center;
 }
 
 .made-with a .made-with a:hover, .made-with a:focus, .made-with a:active {
-  color: #bbb;
+  color: #555;
   text-decoration: none;
 }
 
 .commons {
   margin: 60px 0 0 0;
-  color: #bbb;
+  color: #555;
   text-align: center;
 }
 
 .lastmod {
   margin: 80px 0 20px 0;
-  color: #bbb;
+  color: #555;
   text-align: center;
 }
 
