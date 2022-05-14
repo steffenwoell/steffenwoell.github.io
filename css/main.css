@@ -378,14 +378,18 @@ footer a {
   font-weight: 300;
 }
 
-.made-with a .made-with a:hover, .made-with a:focus, .made-with a:active {
+.made-with a .made-with a:hover, .made-with a:active {
   color: #a4a4a4;
   text-decoration: none;
 }
 
-.fab.fa-github.fa-2x {
+.made-with-buttons a {
   color: #d1d1d1;
-  transition: 0.5s;
+}
+
+.made-with-buttons a:hover, .made-with-buttons a:active {
+  color: #a4a4a4;
+  transition: 0.5s ease;
 }
 
 .commons {
