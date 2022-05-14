@@ -393,18 +393,18 @@ footer a {
 
 .footer-buttons a:hover, .footer-buttons a:active {
   color: #a4a4a4;
-  transition: 0.5s ease-in;
+  transition: 0.5s ease-in-out;
 }
 
 .commons {
-  margin: 60px 0 0 0;
+  margin: 60px 0 20px 0;
   color: #a4a4a4;
   text-align: center;
   font-weight: 300;
 }
 
 .lastmod {
-  margin: 80px 0 20px 0;
+  margin: 80px 0 10px 0;
   color: #a4a4a4;
   text-align: center;
   font-weight: 300;
