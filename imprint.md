@@ -26,10 +26,10 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 
 <div class="box-warning" style="margin-bottom:60px">
 Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. All non self-made images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>. The website is designed to ensure user privacy, data protection, and data reduction by <em>following a strict policy of</em>
-<p><i class="fas fa-check-square" style="padding-left:10px; padding-right:10px"></i>no first or third-party cookies</p>
-<p><i class="fas fa-check-square" style="padding-left:10px; padding-right:10px"></i>no social media plugins</p>
-<p><i class="fas fa-check-square" style="padding-left:10px; padding-right:10px"></i>no activity logs</p>
-<p><i class="fas fa-check-square" style="padding-left:10px; padding-right:10px"></i>no analytics</p>
+<p><i class="fas fa-clipboard-check" style="padding-left:10px; padding-right:10px"></i>no first or third-party cookies</p>
+<p><i class="fas fa-clipboard-check" style="padding-left:10px; padding-right:10px"></i>no social media plugins</p>
+<p><i class="fas fa-clipboard-check" style="padding-left:10px; padding-right:10px"></i>no activity logs</p>
+<p><i class="fas fa-clipboard-check" style="padding-left:10px; padding-right:10px"></i>no analytics</p>
 <p>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or used to identify or track visitors.</p>
 </div>
 
