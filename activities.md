@@ -5,7 +5,7 @@ image: /img/pil.webp
 ---
 
 <div class="box-toc">
-<p style="color:#ac8d10;margin-top:-1px"><i class="fas fa-highlighter" style="padding-right:10px"></i><b>Table of Contents</b></p>
+<!--<p style="color:#ac8d10;margin-top:-1px"><i class="fas fa-highlighter" style="padding-right:10px"></i><b>Table of Contents</b></p>-->
 <ol style="list-style:upper-roman">
 <li><a href="#presentations">Presentations</a></li>
 <li><a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>

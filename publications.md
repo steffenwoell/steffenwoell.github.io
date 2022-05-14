@@ -11,7 +11,7 @@ image: /img/pub2.webp
 </div>
 
 <div class="box-toc2">
-<p style="color:#4c99c4;margin-top:-1px"><i class="fas fa-highlighter" style="padding-right:10px"></i><b>Table of Contents</b></p>
+<!--<p style="color:#4c99c4;margin-top:-1px"><i class="fas fa-highlighter" style="padding-right:10px"></i><b>Table of Contents</b></p>-->
 <ol style="list-style:upper-roman">
 <li><a href="#monographs">Monographs</a></li>
 <li><a href="#edited-volumes">Edited Volumes</a></li>
