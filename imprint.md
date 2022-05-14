@@ -25,10 +25,10 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 
 <div class="box-warning" style="margin-bottom:60px">
 Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. All non self-made images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>. This website is designed with user privacy, data protection, and data reduction in mind and uses
-<p><i class="fas fa-cookie-bite" style="padding-left:10px; padding-right:10px"></i><b>zero</b> first or third-party cookies</p>
-<p><i class="fas fa-thumbs-down" style="padding-left:10px; padding-right:10px"></i><b>no</b> social media plugins</p>
+<p><i class="fas fa-cookie-bite" style="padding-left:10px; padding-right:10px"></i><b>no</b> cookies</p>
+<p><i class="fas fa-thumbs-down" style="padding-left:10px; padding-right:11px"></i><b>no</b> social media plugins</p>
 <p><i class="fas fa-toilet-paper" style="padding-left:10px; padding-right:10px"></i><b>no</b> activity logs</p>
-<p><i class="fas fa-user-secret" style="padding-left:10px; padding-right:10px"></i><b>no</b> analytics</p>
+<p><i class="fas fa-user-secret" style="padding-left:10px; padding-right:12px"></i><b>no</b> analytics</p>
 <p><i class="fas fa-strikethrough" style="padding-left:10px; padding-right:10px"></i><b>no</b> remote fonts</p>
 <p>Both online and IRL, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance</a> are basic human rights. Therefore, and in compliance with the EU's <a href="https://gdpr.eu/what-is-gdpr/" target="_blank">General Data Protection Regulation</a> no data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or otherwise used to identify or track visitors.</p>
 </div>
