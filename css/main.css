@@ -359,7 +359,7 @@ footer a {
 .copyright {
   margin: 35px 0 50px 0;
   font-weight: 300;
-  color: #888;
+  color: #555;
   text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
@@ -386,12 +386,12 @@ footer a {
 }
 
 .footer-buttons a {
-  color: #888;
+  color: #ccc;
   text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .footer-buttons a:hover, .footer-buttons a:active, .footer-buttons a:focus {
-  color: #666;
+  color: #bbb;
   transition: 0.5s ease-in-out;
 }
 
