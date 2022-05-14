@@ -359,6 +359,8 @@ footer a {
 .copyright {
   margin: 35px 0 50px 0;
   font-weight: 300;
+  color: #888;
+  text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .copyright a {
@@ -373,14 +375,10 @@ footer a {
 
 .made-with {
   margin: 40px 0 20px 0;
-  color: #a4a4a4;
+  color: #888;
   text-align: center;
   font-weight: 300;
-}
-
-.made-with a .made-with a:hover, .made-with a:active {
-  color: #a4a4a4;
-  text-decoration: none;
+  text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .footer-buttons {
@@ -389,7 +387,7 @@ footer a {
 
 .footer-buttons a {
   color: #888;
-   text-shadow: 1px 1px rgba(255,255,255,0.8);
+  text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .footer-buttons a:hover, .footer-buttons a:active, .footer-buttons a:focus {
@@ -402,7 +400,7 @@ footer a {
   color: #888;
   text-align: center;
   font-weight: 300;
-   text-shadow: 1px 1px rgba(255,255,255,0.8);
+  text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .fab {font-weight: 300;}
