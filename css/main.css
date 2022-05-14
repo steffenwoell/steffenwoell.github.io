@@ -391,16 +391,10 @@ footer a {
   color: #d1d1d1;
 }
 
-.footer-buttons a:hover, .footer-buttons a:active {
+.footer-buttons a:hover, .footer-buttons a:active, .footer-buttons a:focus {
   color: #a4a4a4;
   transition: 0.5s ease-in-out;
-}
-
-.commons {
-  margin: 60px 0 20px 0;
-  color: #a4a4a4;
-  text-align: center;
-  font-weight: 300;
+  text-shadow: 0px 1px 0px rgba(0,0,0,.5);
 }
 
 .lastmod {
@@ -408,6 +402,7 @@ footer a {
   color: #a4a4a4;
   text-align: center;
   font-weight: 300;
+  text-shadow: 0px 1px 0px rgba(0,0,0,.5);
 }
 
 .fab {font-weight: 300;}
