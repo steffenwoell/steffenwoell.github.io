@@ -4,9 +4,6 @@ title: Publications
 image: /img/pub2.webp
 ---
 
-<!--{: .box-updated}
-<span style="color:#488B49"><i class="far fa-clock" style="padding-right:10px"></i><script>var date = document.lastModified; document.write("Last Modified: "+date);</script></span>-->
-
 <div class="box-note">
 <i class="fab fa-orcid" style="padding-right:10px"></i><a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a>
 <i class="fas fa-landmark" style="padding-left:30px; padding-right:10px"></i><a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a>

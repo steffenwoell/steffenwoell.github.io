@@ -4,8 +4,6 @@ title: Imprint
 image: /img/imp.webp
 ---
 
-<h2 class="post-title">Contact</h2>
-
 {: .box-success}
 Kindly direct all correspondence to `steffen.woell@uni-leipzig.de`
 
@@ -13,7 +11,7 @@ Kindly direct all correspondence to `steffen.woell@uni-leipzig.de`
 Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and my public key can be found <a href="/doc/sw_pgp_public_key.asc">here</a>.
 </div>
 
-<!--<h2 class="post-title">Social Media</h2>
+<!--## Social Media
 
 <div class="box-blue">
 <div>
@@ -24,7 +22,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 </div>
 </div>-->
 
-<h2 class="post-title">Legal & Data Protection</h2>
+## Legal & Data Protection
 
 <div class="box-warning" style="margin-bottom:60px">
 Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. All non self-made images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>. The website is designed to ensure user privacy, data protection, and data reduction by <em>following a strict policy of</em>
@@ -35,7 +33,7 @@ Unless stated otherwise, the contents of this personal, non-commercial website a
 <p>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or used to identify or track visitors.</p>
 </div>
 
-<h2 class="post-title">Mailing Address (V.i.S.d.P.)</h2>
+## Mailing Address (V.i.S.d.P.)
 
 <div class="box-note" style="margin-bottom:60px">
 <pre>Dr. Steffen Wöll<br/>

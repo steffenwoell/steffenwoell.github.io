@@ -169,7 +169,7 @@ img {
   left: 0;
   background-color: #555;
   transform: scaleX(0);
-  transition: transform 0.5s ease;
+  transition: transform 1s ease;
 }
 
 .navbar-custom .nav li a:hover::before {
@@ -398,25 +398,25 @@ footer a {
 
 .fab {font-weight: 300;}
 
-.fas.fa-quote-left.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fas.fa-quote-left.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fas.fa-quote-left.fa-stack-1x.fa-inverse:hover {color: #f1c40e;}
 
-.fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
 
-.fab.fa-researchgate.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-researchgate.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fab.fa-researchgate.fa-stack-1x.fa-inverse:hover {color: #00ccbb;}
 
-.fab.fa-orcid.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-orcid.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fab.fa-orcid.fa-stack-1x.fa-inverse:hover {color: #a1c837;}
 
-.fab.fa-mastodon.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-mastodon.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fab.fa-mastodon.fa-stack-1x.fa-inverse:hover {color: #2b90d9;}
 
-.fab.fa-instagram.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-instagram.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fab.fa-instagram.fa-stack-1x.fa-inverse:hover {color: #bb00af;}
 
-.fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
 
 footer .list-inline {
