@@ -24,12 +24,12 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 ## Legal & Data Protection
 
 <div class="box-warning" style="margin-bottom:60px">
-Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. All non self-made images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>. The website is designed to ensure user privacy, data protection, and data reduction by using
-<p><i class="fas fa-toggle-off" style="padding-left:10px; padding-right:10px"></i>no first or third-party cookies</p>
-<p><i class="fas fa-toggle-off" style="padding-left:10px; padding-right:10px"></i>no social media plugins</p>
-<p><i class="fas fa-toggle-off" style="padding-left:10px; padding-right:10px"></i>no activity logs</p>
-<p><i class="fas fa-toggle-off" style="padding-left:10px; padding-right:10px"></i>no analytics</p>
-<p>No data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or used to identify or track visitors.</p>
+Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. All non self-made images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>. This website is designed with user privacy, data protection, and data reduction in mind and uses
+<p><i class="fas fa-cookie-bite" style="padding-left:10px; padding-right:10px"></i><b>zero</b> first or third-party cookies</p>
+<p><i class="far fa-thumbs-down" style="padding-left:10px; padding-right:10px"></i><b>zero</b> social media plugins</p>
+<p><i class="fas fa-toilet-paper" style="padding-left:10px; padding-right:10px"></i><b>zero</b> activity logs</p>
+<p><i class="fas fa-user-secret" style="padding-left:10px; padding-right:10px"></i><b>zero</b> analytics</p>
+<p>Privacy is a human right. Therefore, and in compliance with the EU's General Data Protection Regulation (GDPR), zero information (for instance, I.P. addresses or browser fingerprints) is collected, transmitted, stored, or otherwise used to identify or track visitors.</p>
 </div>
 
 ## Mailing Address (V.i.S.d.P.)
