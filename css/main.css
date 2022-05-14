@@ -4,77 +4,10 @@ layout: null
 
 @import url("pygment_highlights.css");
 
-.lastmod {
-  margin: 80px 0 20px 0;
-  color: #bbb;
-  font-family: 'Helvetica Neue', 'Open Sans', Arial, sans-serif;
-  text-align: center;
-}
-
-.copyright {
-  margin: 35px 0 50px 0;
-}
-
-.copyright a {
-  font-weight: 600;
-  text-decoration: none;
-  color: #555;
-}
-
-.copyright a:hover {
-  text-decoration: none;
-  color: #555;
-}
-
-.made-with {
-  margin: 40px 0 20px 0;
-  color: #bbb;
-  font-family: 'Helvetica Neue', 'Open Sans', Arial, sans-serif;
-  text-align: center;
-}
-
-.made-with a {
-  color: #bbb;
-  text-decoration: none;
-}
-
-.made-with a:hover, .made-with a:focus, .made-with a:active {
-  color: #bbb;
-  text-decoration: none;
-}
-
-.commons {
-  margin: 60px 0 0 0;
-  color: #bbb;
-  font-family: 'Helvetica Neue', 'Open Sans', Arial, sans-serif;
-  text-align: center;
-}
-
-.fab {font-weight: 300;}
-
-.fas.fa-quote-left.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fas.fa-quote-left.fa-stack-1x.fa-inverse:hover {color: #f1c40e;}
-
-.fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
-
-.fab.fa-researchgate.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fab.fa-researchgate.fa-stack-1x.fa-inverse:hover {color: #00ccbb;}
-
-.fab.fa-orcid.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fab.fa-orcid.fa-stack-1x.fa-inverse:hover {color: #a1c837;}
-
-.fab.fa-mastodon.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fab.fa-mastodon.fa-stack-1x.fa-inverse:hover {color: #2b90d9;}
-
-.fab.fa-instagram.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fab.fa-instagram.fa-stack-1x.fa-inverse:hover {color: #bb00af;}
-
-.fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: 0.3s;}
-.fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
+/* --- Basics --- */
 
 body {
-  font-family: 'Playfair Display', 'Times New Roman', Helvetica, Arial, sans-serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   font-size: 18px;
   font-weight: 400;
   color: #404040;
@@ -179,7 +112,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   padding: 15px inherit;
 }
 
@@ -246,20 +179,20 @@ img {
 .navbar-custom,
 .navbar-custom .nav li a {
   font-family: 'Playfair Display', Times, serif;
-  font-weight: 600;
+  font-weight: 500;
   font-style: italic;
   font-size: 16px;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
   text-decoration: none;
   color: {{ site.navbar-text-col }};
 }
 
 .navbar-brand {
   font-family: 'Playfair Display', Times, serif;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
   font-size: 16px;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
   text-decoration: none;
   color: {{ site.navbar-text-col }};
 }
@@ -418,12 +351,71 @@ footer a {
   color: {{site.footer-link-col}};
 }
 
+.beautiful-jekyll-footer {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.copyright {
+  margin: 35px 0 50px 0;
+}
+
+.copyright a .copyright a:hover {
+  font-weight: 700;
+  text-decoration: none;
+  color: #555;
+}
+
+.made-with {
+  margin: 40px 0 20px 0;
+  color: #bbb;
+  text-align: center;
+}
+
+.made-with a .made-with a:hover, .made-with a:focus, .made-with a:active {
+  color: #bbb;
+  text-decoration: none;
+}
+
+.commons {
+  margin: 60px 0 0 0;
+  color: #bbb;
+  text-align: center;
+}
+
+.lastmod {
+  margin: 80px 0 20px 0;
+  color: #bbb;
+  text-align: center;
+}
+
+.fab {font-weight: 300;}
+
+.fas.fa-quote-left.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fas.fa-quote-left.fa-stack-1x.fa-inverse:hover {color: #f1c40e;}
+
+.fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
+
+.fab.fa-researchgate.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-researchgate.fa-stack-1x.fa-inverse:hover {color: #00ccbb;}
+
+.fab.fa-orcid.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-orcid.fa-stack-1x.fa-inverse:hover {color: #a1c837;}
+
+.fab.fa-mastodon.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-mastodon.fa-stack-1x.fa-inverse:hover {color: #2b90d9;}
+
+.fab.fa-instagram.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-instagram.fa-stack-1x.fa-inverse:hover {color: #bb00af;}
+
+.fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: 0.3s;}
+.fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
+
 footer .list-inline {
   margin: 0;
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Helvetica Neue', 'Open Sans', Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -500,7 +492,6 @@ footer .theme-by {
   font-style: normal;
 }
 .post-preview .post-entry {
-  /*font-family: 'Open Sans', 'Roboto', Helvetica, Arial, sans-serif;*/
   font-family: 'Playfair Display', 'Times New Roman', serif;
 }
 .post-entry-container {
@@ -545,7 +536,7 @@ footer .theme-by {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Playfair Display', Helvetica, Arial, sans-serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   color: #777;
   font-size: 15px;
   margin-bottom: 20px;
@@ -639,7 +630,7 @@ footer .theme-by {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 400;
   font-style: italic;
   margin: -5px 0 5px 0;
@@ -665,7 +656,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Playfair Display', Helvetica, 'Open Sans', Arial, sans-serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -749,7 +740,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Playfair Display', Helvetica, Arial, 'Open Sans', sans-serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: normal;
@@ -1092,7 +1083,7 @@ pre {
 }
 
 #full-tags-list {
-  font-family: 'Playfair Display', 'Roboto', Helvetica, Arial, sans-serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
 }
 
 #full-tags-list .tag-entry {
