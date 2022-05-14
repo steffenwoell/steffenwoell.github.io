@@ -169,7 +169,7 @@ img {
   left: 0;
   background-color: #555;
   transform: scaleX(0);
-  transition: transform 1s ease;
+  transition: transform 0.7s ease;
 }
 
 .navbar-custom .nav li a:hover::before {
