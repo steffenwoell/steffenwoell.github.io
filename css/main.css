@@ -357,10 +357,9 @@ footer a {
 }
 
 .copyright {
-  margin: 35px 0 50px 0;
+  margin: 40px 0 60px 0;
   font-weight: 300;
   color: #555;
-  text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .copyright a {
@@ -374,7 +373,7 @@ footer a {
 }
 
 .made-with {
-  margin: 40px 0 20px 0;
+  margin: 60px 0 20px 0;
   color: #888;
   text-align: center;
   font-weight: 300;
@@ -392,7 +391,7 @@ footer a {
 
 .footer-buttons a:hover, .footer-buttons a:active, .footer-buttons a:focus {
   color: #bbb;
-  transition: 0.5s ease-in-out;
+  transition: 0.5s;
 }
 
 .lastmod {
