@@ -8,7 +8,7 @@ layout: null
 /* --- Basics --- */
 
 body {
-  font-family: 'Inter', 'Times New Roman', serif;
+  font-family: 'Inter', Arial, sans-serif;
   font-size: 16px;
   font-weight: normal;
   color: #404040;
@@ -179,7 +179,7 @@ img {
 
 .navbar-custom,
 .navbar-custom .nav li a {
-  font-family: 'Playfair Display', Times, serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 500;
   font-style: italic;
   font-size: 16px;
@@ -189,7 +189,7 @@ img {
 }
 
 .navbar-brand {
-  font-family: 'Playfair Display', Times, serif;
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 500;
   font-style: normal;
   font-size: 16px;
@@ -353,7 +353,7 @@ footer a {
 }
 
 .beautiful-jekyll-footer {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 .copyright {
@@ -387,11 +387,11 @@ footer a {
 .footer-buttons a {
   color: #ccc;
   text-shadow: 1px 1px rgba(255,255,255,0.8);
+  transition: 0.5s ease;
 }
 
 .footer-buttons a:hover, .footer-buttons a:active, .footer-buttons a:focus {
   color: #bbb;
-  transition: 0.5s;
 }
 
 .lastmod {
