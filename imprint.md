@@ -5,7 +5,7 @@ image: /img/imp.webp
 ---
 
 {: .box-success}
-Please direct all correspondence and requests to `steffen.woell@uni-leipzig.de`
+Please direct all correspondence and requests to`steffen.woell@uni-leipzig.de`
 
 <div class="box-note" style="margin-bottom:60px">
 Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and my public key can be found <a href="/doc/sw_pgp_public_key.asc">here</a>.
