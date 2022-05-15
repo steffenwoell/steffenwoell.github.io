@@ -28,8 +28,7 @@ Unless stated otherwise, the contents of this personal, non-commercial website a
 <p><i class="fas fa-cookie-bite" style="padding-left:10px; padding-right:10px"></i><b>no</b> cookies</p>
 <p><i class="fas fa-thumbs-down" style="padding-left:10px; padding-right:11px"></i><b>no</b> social media plugins</p>
 <p><i class="fas fa-toilet-paper-slash" style="padding-left:10px; padding-right:10px"></i><b>no</b> activity logs</p>
-<p><i class="fas fa-user-secret" style="padding-left:10px; padding-right:12px"></i><b>no</b> analytics</p>
-<p><i class="fas fa-strikethrough" style="padding-left:10px; padding-right:10px"></i><b>no</b> remote fonts</p>
+<p><i class="fas fa-eye-slash" style="padding-left:10px; padding-right:12px"></i><b>no</b> analytics</p>
 <p>Both online and IRL, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance</a> are basic human rights. Therefore, and in compliance with the <a href="https://gdpr.eu/what-is-gdpr/" target="_blank">General Data Protection Regulation</a> of the European Union, no data (e.g., IP addresses or browser fingerprints) is collected, transmitted, stored, or otherwise used to identify or track visitors.</p>
 </div>
 

@@ -9,7 +9,7 @@
 home:
   name: "Home"
   baseURL: "#"
-  icon: "fas fa-swimmer"
+  icon: "fas fa-campground"
 
 email:
   name: "Email"
