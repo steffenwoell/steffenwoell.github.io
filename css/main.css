@@ -80,7 +80,9 @@ p a:hover {
 
 .blue a:after {
     padding-right: 5px;
-    content: "<i class="fas fa-external-link-alt"></i>";
+    content: "/img/external-link-alt-solid.svg";
+    width: 10px;
+    height: 10px;
 }
 
 .blue a:hover {
