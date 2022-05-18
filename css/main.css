@@ -78,6 +78,11 @@ p a:hover {
   background-size: auto 175%;
 }
 
+a.blue::after {
+    padding-right: 5px;
+    content: "<i class="fas fa-external-link-alt"></i>";
+}
+
 .blue a:hover {
   background-position-y: 100%;
   text-decoration: none;

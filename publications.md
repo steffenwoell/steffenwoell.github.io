@@ -22,7 +22,7 @@ image: /img/pub2.webp
 <li><a href="#posters">Posters</a></li>
 <li><a href="#maps">Maps</a></li>
 <li><a href="#miscellaneous-papers">Miscellaneous Papers</a></li>
-<li><a href="#programming">Programming</a></li>
+<li><a href="#programming-design">Programming</a></li>
 </ol>
 </div>
 
@@ -117,18 +117,18 @@ image: /img/pub2.webp
 
 <div><a name="miscellaneous-papers">&nbsp;</a></div>
 
-## IX.&nbsp;Miscellaneous Papers
+## IX.&nbsp;Miscellaneous Papers available on SocArXiv
 <div class="blue">
-<p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Hartmut Keil). <a href="/doc/Allah's Own Country (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
-<p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Crister S. Garrett &#10013;). <a href="/doc/States of Contingency (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
-<p>&#8220;Still Very Excite: A Retrospective of Ethnic Humor, Political Correctness, and Hate Speech in Sacha Baron Cohen&#8217;s <em>Borat</em>.&#8221; 2014. Seminar Paper. <em>ASL Project Module</em> (Gabriele Pisarz-Ramirez). <a href="/doc/Still Very Excite (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
-<p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; 2013. Seminar Paper. <em>Geschichte der Philosophie: Zu einer kleinen Geschichte des Positivismus im 19. und 20. Jahrhundert</em> (Thomas Wendt). <a href="/doc/Empfindung, Bewusstsein, Wirklichkeit (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
-<p>&#8220;&#8216;I Thought of Carthage&#8217;: Tactical and Moral Adjustments of the 1945 Atomic Bomb Drops on Hiroshima and Nagasaki.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlobach). <a href="/doc/I Thought of Carthage (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
+<p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Hartmut Keil). <a href="https://osf.io/preprints/socarxiv/smq6n/" target="_blank">Open Access</a>.</p>
+<p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Crister S. Garrett &#10013;). <a href="https://osf.io/preprints/socarxiv/qrjuk/" target="_blank">Open Access</a>.</p>
+<p>&#8220;Still Very Excite: A Retrospective of Ethnic Humor, Political Correctness, and Hate Speech in Sacha Baron Cohen&#8217;s <em>Borat</em>.&#8221; 2014. Seminar Paper. <em>ASL Project Module</em> (Gabriele Pisarz-Ramirez). <a href="https://osf.io/preprints/socarxiv/5du7c/" target="_blank">Open Access</a>.</p>
+<p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; 2013. Seminar Paper. <em>Geschichte der Philosophie: Zu einer kleinen Geschichte des Positivismus im 19. und 20. Jahrhundert</em> (Thomas Wendt). <a href="https://osf.io/preprints/socarxiv/96ysz" target="_blank">Open Access</a>.</p>
+<p>&#8220;&#8216;I Thought of Carthage&#8217;: Disentangling Moral and Military Aspects of the Hiroshima and Nagasaki Bombings.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlobach). <a href="https://osf.io/preprints/socarxiv/m3pj4" target="_blank">Open Access</a>.</p>
 </div>
 
-<div><a name="programming">&nbsp;</a></div>
+<div><a name="programming-design">&nbsp;</a></div>
 
-## X.&nbsp;Programming (HTML, CSS, Java, CMS)
+## X.&nbsp;Programming & Design (HTML, CSS, Java, PHP)
 <div class="blue" style="margin-bottom:60px">
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
 <p><em>steffenwoell.github.io</em>. 2019—. Website Programming & Design.</p>
