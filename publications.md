@@ -22,7 +22,7 @@ image: /img/pub2.webp
 <li><a href="#posters">Posters</a></li>
 <li><a href="#maps">Maps</a></li>
 <li><a href="#miscellaneous-papers">Miscellaneous Papers</a></li>
-<li><a href="#programming-design">Programming</a></li>
+<li><a href="#programming-design">Programming & Design</a></li>
 </ol>
 </div>
 
@@ -92,7 +92,7 @@ image: /img/pub2.webp
 
 ## VI.&nbsp;Blogs & Websites
 <div class="blue">
-<p>&#8220;Violence, Representation, and Ecocide in the American West.&#8221; 2021. Prepared for <em>Academia Letters</em>. <a href="/doc/Violence, Representation, and Ecocide in the American West (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
+<p>&#8220;Violence, Representation, and Ecocide in the American West.&#8221; 2021. For <em>Academia Letters</em>. <a href="/doc/Violence, Representation, and Ecocide in the American West (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.&#8221; <em>TRAFO – Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361" target="_blank">Web</a>.</p>
 <p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature.&#8221; <em>TRAFO – Blog for Transregional Research</em>. 10 April 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
