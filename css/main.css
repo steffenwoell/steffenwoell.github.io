@@ -78,12 +78,10 @@ p a:hover {
   background-size: auto 175%;
 }
 
-.blue a:after {
+/*.blue a:after {
     padding-right: 5px;
     content: url("/img/external-link-alt-solid.svg");
-    width: 10px;
-    height: 10px;
-}
+}*/
 
 .blue a:hover {
   background-position-y: 100%;
