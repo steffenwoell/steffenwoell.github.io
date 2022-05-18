@@ -80,7 +80,7 @@ p a:hover {
 
 .blue a:after {
     padding-right: 5px;
-    content: "/img/external-link-alt-solid.svg";
+    content: url("/img/external-link-alt-solid.svg");
     width: 10px;
     height: 10px;
 }
