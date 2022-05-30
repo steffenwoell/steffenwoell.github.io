@@ -370,7 +370,7 @@ footer a {
 .name {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-style: italic;
-  font-size: 100%;
+  font-size: 110%;
 }
 
 .copyright a {
@@ -512,6 +512,7 @@ footer .theme-by {
   margin: 10px 0 5px 0;
 }
 .post-meta {
+  font-family: 'Playfair Display', 'Times New Roman', serif;
   color: #808080;
   font-size: 18px;
   font-style: normal;
