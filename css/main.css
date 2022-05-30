@@ -367,6 +367,10 @@ footer a {
   color: #555;
 }
 
+.name {
+  font-family: 'Playfair Display', 'Times New Roman', serif;
+}
+
 .copyright a {
   font-weight: 700;
   color: #555;
