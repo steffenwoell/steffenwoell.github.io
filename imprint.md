@@ -24,7 +24,7 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre>8BED A8F0
 ## Legal & Data Protection
 
 <div class="box-warning" style="margin-bottom:60px">
-Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. All non self-made images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>. This website is designed with user privacy, data protection, and data reduction in mind and uses
+Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0" target="_blank">Creative Commons Attribution 4.0 International License</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok</a>. All other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a> if not marked differently. This website is designed with user privacy, data protection, and data reduction in mind and uses
 <p><i class="fas fa-cookie-bite" style="padding-left:10px;padding-right:10px"></i><b>no</b> cookies</p>
 <p><i class="fas fa-thumbs-down" style="padding-left:10px;padding-right:11px"></i><b>no</b> social media plugins</p>
 <p><i class="fas fa-toilet-paper-slash" style="padding-left:10px;padding-right:9px"></i><b>no</b> activity logs</p>
