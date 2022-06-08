@@ -117,7 +117,7 @@ image: /img/pub2.webp
 
 <div><a name="miscellaneous-papers">&nbsp;</a></div>
 
-## IX.&nbsp;Miscellaneous Papers available on SocArXiv
+## IX.&nbsp;Miscellaneous Papers
 <div class="blue">
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Hartmut Keil). <a href="https://osf.io/preprints/socarxiv/smq6n/" target="_blank">Open Access</a>.</p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Crister S. Garrett &#10013;). <a href="https://osf.io/preprints/socarxiv/qrjuk/" target="_blank">Open Access</a>.</p>

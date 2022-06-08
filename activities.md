@@ -7,19 +7,19 @@ image: /img/pil.webp
 <div class="box-toc">
 <!--<p style="color:#ac8d10;margin-top:-1px"><i class="fas fa-highlighter" style="padding-right:10px"></i><b>Table of Contents</b></p>-->
 <ol style="list-style:upper-roman">
-<li><a href="#presentations">Presentations</a></li>
+<li><a href="#presentations">Conference Presentations</a></li>
 <li><a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
 <li><a href="#teaching">Teaching</a></li>
 <li><a href="#field-studies">Field Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
-<li><a href="#voluntary-work">Voluntary Work</a></li>
+<li><a href="#non-profit">Non-profit Activities</a></li>
 </ol>
 </div>
 
 <div><a name="presentations">&nbsp;</a></div>
 
-## I.&nbsp;Presentations
+## I.&nbsp;Conference Presentations
 <p>&#8220;&#8216;Der Held ist das ganze Volk&#8217;: Revolution, Demokratie und deutsch-amerikanische Bildungspolitik in Charles Sealsfields frühen Wildwestromanen.&#8221; <em>»Go West!« Die Idee des »Westens« in bildungshistorischer Perspektive</em>. Münster. November 23, 2022. Presentation.</p>
 <p>&#8220;The Young Republic and Young Germany: Charles Sealsfield&#8217;s Transatlantic Narrative Politics.&#8221; <em>Master of the World? Charles Sealsfield&#8217;s America between Emancipation, Exceptionalism and Globalization</em>. Dortmund. September 23, 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
 <p>&#8220;&#8216;The whitest God makes &#8217;em&#8217;: Postbellum Racial Politics and the White Elephant War of 1884.&#8221; <em>Animals in the US Popular Imagination</em>. PopMeC / Austrian Association for Cultural Studies, Cultural History, and Popular Culture. Online. September 12, 2022. <a href="https://popular-animals.com/" target="_blank">Presentation</a>.</p>
@@ -34,7 +34,7 @@ image: /img/pil.webp
 <p>&#8220;No Single Logic: Reassembling Human Geographies of the Louisiana Territory Through Biographies and Life Writing.&#8221; <em>Assemblages of Empire: An American Studies Symposium</em>. University of Texas, Austin. 4-5 March 2021. <a href="https://utamsconference.wordpress.com/" target="_blank">Presentation</a>. [<a href="https://youtu.be/bjablrNN2Qw" target="_blank">Watch</a>]</p>
 <p>&#8220;Der Raum zwischen Ozeanen / The Space Between Oceans: Mobilizing America&#8217;s Transoceanic Empire.&#8221; <em>Forschungskonferenz der Philologischen Fakultät Leipzig</em>. Online. 26 January 2021. <a href="https://www.philol.uni-leipzig.de/institut-fuer-anglistik/newsdetail/artikel/forschungskonferenz-der-philologischen-fakultaet-2021-01-26-1/" target="_blank">Presentation</a>.</p>
 <p>&#8220;The Space Between Oceans: Mobilizing America&#8217;s Transoceanic Empire.&#8221; <em>Fifth Annual Conference of the SFB 1199: Mobilities under the Global Condition from the 19th Century to the Present</em>. Leipzig/online. 8 October 2020. <a href="https://research.uni-leipzig.de/~sfb1199/annual-conference/" target="_blank">Presentation</a>.</p>
-<p>&#8220;The Naturalists&#8217; Frontier: Ethnic Mobilities in Jack London&#8217;s Literary Geographies.&#8221; <em>American Literature Association Annual Conference</em>. San Diego. 21–24 May 2020. <a href="http://americanliteratureassociation.org/ala-conferences/ala-2020-and-covid-19/" target="_blank">Presentation</a>. [<em>Canceled due to Covid-19</em>]</p>
+<p>&#8220;The Naturalists&#8217; Frontier: Ethnic Mobilities in Jack London&#8217;s Literary Geographies.&#8221; <em>American Literature Association Annual Conference</em>. San Diego. 21–24 May 2020. <a href="http://americanliteratureassociation.org/ala-conferences/ala-2020-and-covid-19/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Mapping Discourse in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Mapping Space - Mapping Time - Mapping Texts: A Virtual One-Day Conference</em>. Online. 29 September 2020. <a href="https://www.flickr.com/photos/189983859@N08/50294560072/" target="_blank">Poster</a> <a href="https://www.lancaster.ac.uk/chronotopic-cartographies/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Mapping Discourse in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>DoktorandInnen Posterkonferenz der Philologischen Fakultät</em>. Leipzig. 28 January 2020. <a href="https://www.philol.uni-leipzig.de" target="_blank">Poster Presentation</a>.</p>
 <p>&#8220;The Rocky Roads of Empire: The Rocky Mountains as Hemispheric Nexus and Barrier to Manifest Destiny in Nineteenth-Century American Literature.&#8221; <em>Mediating Mountains</em>. 46th Austrian Association for American Studies Conference. Innsbruck. 23 November 2019. <a href="https://www.uibk.ac.at/amerikastudien/aktuelles/veranstaltungen/aaas-konferenz-2019.html" target="_blank">Presentation</a>.</p>
@@ -43,13 +43,13 @@ image: /img/pil.webp
 <p>&#8220;Muddying the Waters: Colliding Visions of the Louisiana Territory.&#8221; <em>Research Academy Leipzig / Graduate School Global and Area Studies</em>. Neudietendorf. 2 February 2019. <a href="https://home.uni-leipzig.de/~gsgas/events/winter-school/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Key Concepts and Future Projects.&#8221; <em>European Network for Minor Mobilities in the Americas</em>. Erlangen. 31 January 2019. <a href="https://enmma.org/news/events" target="_blank">Workshop</a>.</p>
 <p>&#8220;Inertia and Movement: The Spatialization of the Native Northland in Jack London&#8217;s Short Stories.&#8221; <em>American Im/Mobilities: 45th Austrian Association for American Studies Conference</em>. Vienna. 17 November 2018. <a href="https://aaas2018.univie.ac.at/">Presentation</a>.</p>
-<p>&#8220;&#8216;Feeling New York&#8217;: Public Urban Geographies and Private Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>St. Kliment Ohridski Sofia University</em> | <em>Traditions and Transitions</em>. Sofia. 28–30 September 2018. <a href="https://ttconference2018.wordpress.com" target="_blank">Presentation</a>. [<em>Canceled</em>].</p>
+<p>&#8220;&#8216;Feeling New York&#8217;: Public Urban Geographies and Private Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>St. Kliment Ohridski Sofia University</em> | <em>Traditions and Transitions</em>. Sofia. 28–30 September 2018. <a href="https://ttconference2018.wordpress.com" target="_blank">Presentation</a>.</p>
 <p>&#8220;Reimagining the American West: Spirituality, (Im)Mobilities, and Nationalistic Transcendence in Popular and Private Literature.&#8221; <em>16th International Summer School of the Graduate School Global and Area Studies and the Graduate Centre Humanities and Social Science of the Research Academy Leipzig</em>. Leipzig. 12 June 2018. <a href="http://research.uni-leipzig.de/~sfb1199/event/16th-international-summer-school/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Mapping Discourse in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; <em>Visualization of Processes of Spatialization Seminar</em>. Leipzig. 6 June 2018. <a href="http://research.uni-leipzig.de/~sfb1199/event/visualization-of-processes-of-spatialization/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Rewriting the Margins: Minor Mobilities at the Southern and Northern Borderlands in the Literary Geographies of Jack London.&#8221; <em>European Network for Minor Mobilities in the Americas Workshop</em>. Vienna. 3 May 2018. <a href="https://enmma.org" target="_blank">Presentation</a>.</p>
 <p>&#8220;Nativism, Foreign Bodies, and Racial Hybridity in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Foreign Bodies and Native Sons: Irish Association for American Studies Annual Conference</em>. Dublin. 28 April 2018. <a href="https://iaas.ie/iaas-annual-conference/" target="_blank">Presentation</a>.</p>
 <p>&#8220;&#8216;The Whole Extent of That Coast Will Be Covered with Free and Independent Americans&#8217;: Separatist Movements, Bio-Regionalism, and Anti-Nationalist Visions in Oregon Country and California.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas / International Association of Inter-American Studies Annual Conference</em>. Coimbra. 24 March 2018. <a href="http://www.interamericanstudies.net/?p=6481" target="_blank">Presentation</a>.</p>
-<p>&#8220;Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>Scottish Association for the Study of America Annual Conference</em>. St. Andrews. 3 March 2018. <a href="https://aisna-graduates.online/2017/12/31/cfp-scottish-association-for-the-study-of-america-2018-annual-conference/" target="_blank">Presentation</a>. [<em>Canceled</em>].</p>
+<p>&#8220;Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>Scottish Association for the Study of America Annual Conference</em>. St. Andrews. 3 March 2018. <a href="https://aisna-graduates.online/2017/12/31/cfp-scottish-association-for-the-study-of-america-2018-annual-conference/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Utopianism, Regionalism, and Local Color Nostalgia in the Literature of the Old Northwest.&#8221; <em>Research Academy Leipzig / Graduate School Global and Area Studies</em>. Wittenberg. 3 February 2018. <a href="https://home.uni-leipzig.de/~gsgas/events/winter-school/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Geographies of Empire: Der transpazifische und zirkumkaribische Raum in der Literatur der USA.&#8221; With Gabriele Pisarz-Ramirez. <em>Collaborative Research Centre 1199</em>. Leipzig. 3 January 2018. <a href="https://research.uni-leipzig.de/~sfb1199/event/dual-presentation-gabriele-pisarz-ramirez-philipp-clart-and-nikolas-broy/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Horrendous Hybridity: Spatial and Linguistic Representations of the Occult Orientalist Other in H.P. Lovecraft&#8217;s &#8216;The Shadow Over Innsmouth.&#8217;&#8221; <em>The Politics of Space and the Humanities</em>. Thessaloniki. 16 December 2017. <a href="http://www.enl.auth.gr/helaas/2017/" target="_blank">Presentation</a>.</p>
@@ -110,9 +110,9 @@ image: /img/pil.webp
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
 <p>DAAD Travel Stipend 2017.</p>
 
-<div><a name="voluntary-work">&nbsp;</a></div>
+<div><a name="non-profit">&nbsp;</a></div>
 
-## VII.&nbsp;Voluntary Work
+## VII.&nbsp;Non-profit Activities
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award</a>.</p>
 <p>Wikipedia Editor.</p>
 <p style="margin-bottom:60px">KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>
