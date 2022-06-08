@@ -18,11 +18,11 @@ image: /img/pub2.webp
 <li><a href="#peer-reviewed-journals">Peer-Reviewed Journals</a></li>
 <li><a href="#reviews">Reviews</a></li>
 <li><a href="#editing">Editing</a></li>
-<li><a href="#blogs-websites">Blogs & Websites</a></li>
+<li><a href="#internet">Internet</a></li>
+<li><a href="#digital-humanities">Digital Humanities</a></li>
 <li><a href="#posters">Posters</a></li>
-<li><a href="#maps">Maps</a></li>
 <li><a href="#miscellaneous-papers">Miscellaneous Papers</a></li>
-<li><a href="#programming-design">Programming & Design</a></li>
+<li><a href="#websites">Websites</a></li>
 </ol>
 </div>
 
@@ -88,9 +88,9 @@ image: /img/pub2.webp
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access</a>.</p>
 </div>
 
-<div><a name="blogs-websites">&nbsp;</a></div>
+<div><a name="Internet">&nbsp;</a></div>
 
-## VI.&nbsp;Blogs & Websites
+## VI.&nbsp;Internet
 <div class="blue">
 <p>&#8220;Violence, Representation, and Ecocide in the American West.&#8221; 2021. For <em>Academia Letters</em>. <a href="/doc/Violence, Representation, and Ecocide in the American West (Steffen Wöll).pdf" target="_blank">Open Access</a>.</p>
 <p>&#8220;The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.&#8221; <em>TRAFO – Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361" target="_blank">Web</a>.</p>
@@ -100,19 +100,20 @@ image: /img/pub2.webp
 <p>&#8220;The Second Cold War. The US Might Come Out on the Losing Side...&#8221; <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
 </div>
 
+<div><a name="digital-humanities">&nbsp;</a></div>
+
+## VIII.&nbsp;Digital Humanities
+<div class="blue">
+<p>&#8220;Conspicuous Spatializations: Visualizing (Anti-)Imperial Spatial Imaginations of Transhemispheric America through Corpus-based Data.&#8221; 2022. <a href="/doc/Conspicuous Spatializations - Visual Samples (Steffen Wöll).pdf" target="_blank">Interactive Visualizations [Samples]</a>.</p>
+<p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.webp" target="_blank">Map</a>.</p>
+</div>
+
 <div><a name="posters">&nbsp;</a></div>
 
 ## VII.&nbsp;Posters
 <div class="blue">
 <p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; 28 January 2020. Geisteswissenschaftliches Zentrum der Universität Leipzig. <a href="/doc/Discursive-Map-Conference-Poster-2020-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
 <p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
-</div>
-
-<div><a name="maps">&nbsp;</a></div>
-
-## VIII.&nbsp;Maps
-<div class="blue">
-<p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.webp" target="_blank">Map</a>.</p>
 </div>
 
 <div><a name="miscellaneous-papers">&nbsp;</a></div>
@@ -126,9 +127,9 @@ image: /img/pub2.webp
 <p>&#8220;&#8216;I Thought of Carthage&#8217;: Disentangling Moral and Military Aspects of the Hiroshima and Nagasaki Bombings.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlobach). <a href="https://osf.io/preprints/socarxiv/m3pj4" target="_blank">Open Access</a>.</p>
 </div>
 
-<div><a name="programming-design">&nbsp;</a></div>
+<div><a name="websites">&nbsp;</a></div>
 
-## X.&nbsp;Programming & Design (HTML, CSS, Java, PHP)
+## X.&nbsp;Websites
 <div class="blue" style="margin-bottom:60px">
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.org" target="_blank">Website Programming & Design</a>.</p>
 <p><em>steffenwoell.github.io</em>. 2019—. Website Programming & Design.</p>
