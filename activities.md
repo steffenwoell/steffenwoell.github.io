@@ -89,7 +89,7 @@ image: /img/pil.webp
 <p>Nettie Lee Benson Latin American Studies Collection. <em>University of Texas at Austin</em>. 2022. Funded by DFG / SFB 1199.</p> 
 <p>Otto G. Richter Library. <em>University of Miami</em>. 2022. Funded by DFG / SFB 1199.</p>
 <p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG / SFB 1199.</p>
-<p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by DFG.</p>
+<p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by DFG / SFB 1199.</p>
 <p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG / SFB 1199.</p>
 <p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Study Tour. Funded by VolkswagenStiftung. <a href="https://studytour2015.wordpress.com" target="_blank">Co-Organizer</a>.</p>
 
