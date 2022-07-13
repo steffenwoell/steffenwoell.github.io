@@ -10,7 +10,7 @@ image: /img/pil.webp
 <li><a href="#presentations">Conference Presentations</a></li>
 <li><a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
 <li><a href="#teaching">Teaching</a></li>
-<li><a href="#field-work-archival-studies">Field Studies</a></li>
+<li><a href="#field-work-archival-studies">Field Work & Archival Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
 <li><a href="#non-profit">Non-profit Activities</a></li>
