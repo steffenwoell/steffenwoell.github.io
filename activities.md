@@ -10,7 +10,7 @@ image: /img/pil.webp
 <li><a href="#presentations">Conference Presentations</a></li>
 <li><a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
 <li><a href="#teaching">Teaching</a></li>
-<li><a href="#field-studies">Field Studies</a></li>
+<li><a href="#field-work-archival-studies">Field Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
 <li><a href="#non-profit">Non-profit Activities</a></li>
@@ -83,13 +83,15 @@ image: /img/pil.webp
 <p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2017/18. Seminar. <a href="/doc/E&D Seminar Syllabus WiSe 17-18.pdf" target="_blank">Syllabus</a>.</p>
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1" target="_blank">Guest Lecture</a>.</p>
 
-<div><a name="field-studies">&nbsp;</a></div>
+<div><a name="field-work-archival-studies">&nbsp;</a></div>
 
-## IV.&nbsp;Field Studies
-<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG.</p>
+## IV.&nbsp;Field Work & Archival Studies
+<p>Nettie Lee Benson Latin American Studies Collection. <em>University of Texas at Austin</em>. 2022. Funded by DFG / SFB 1199.</p> 
+<p>Otto G. Richter Library. <em>University of Miami</em>. 2022. Funded by DFG / SFB 1199.</p>
+<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG / SFB 1199.</p>
 <p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by DFG.</p>
-<p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG.</p>
-<p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Study Tour. <a href="https://studytour2015.wordpress.com" target="_blank">Co-Organizer</a>.</p>
+<p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG / SFB 1199.</p>
+<p><em>Religion in American Society</em>. With Hartmut Keil. 15 September - 2 October 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Study Tour. Funded by VolkswagenStiftung. <a href="https://studytour2015.wordpress.com" target="_blank">Co-Organizer</a>.</p>
 
 <div><a name="memberships">&nbsp;</a></div>
 
