@@ -17,7 +17,7 @@ email:
   icon: "fas fa-at"
 
 rss:
-  name: "RSS"
+  name: "RSS Feed"
   baseURL: "{{ '/feed.xml' | relative_url }}"
   icon: "fas fa-rss"
 
