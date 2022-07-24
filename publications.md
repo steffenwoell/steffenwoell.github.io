@@ -20,8 +20,8 @@ image: /img/pub2.webp
 <li><a href="#editing">Editing</a></li>
 <li><a href="#internet">Internet</a></li>
 <li><a href="#digital-humanities">Digital Humanities</a></li>
+<li><a href="#open-access">Open Access (SocArXiv)</a></li>
 <li><a href="#posters">Posters</a></li>
-<li><a href="#miscellaneous-papers">Miscellaneous Papers</a></li>
 <li><a href="#websites">Websites</a></li>
 </ol>
 </div>
@@ -102,29 +102,29 @@ image: /img/pub2.webp
 
 <div><a name="digital-humanities">&nbsp;</a></div>
 
-## VIII.&nbsp;Digital Humanities
+## VII.&nbsp;Digital Humanities
 <div class="blue">
 <p>&#8220;Conspicuous Spatializations: Visualizing (Anti-)Imperial Spatial Imaginations of Transhemispheric America through Corpus-based Data.&#8221; 2022. <a href="/doc/Conspicuous-Spatializations_Visual-Samples-Steffen-Wöll.pdf" target="_blank">Interactive Visualizations</a> [Samples].</p>
 <p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.webp" target="_blank">Map</a>.</p>
 </div>
 
-<div><a name="posters">&nbsp;</a></div>
+<div><a name="open-access">&nbsp;</a></div>
 
-## VII.&nbsp;Posters
-<div class="blue">
-<p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; 28 January 2020. Geisteswissenschaftliches Zentrum der Universität Leipzig. <a href="/doc/Discursive-Map-Conference-Poster-2020-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
-<p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
-</div>
-
-<div><a name="miscellaneous-papers">&nbsp;</a></div>
-
-## IX.&nbsp;Miscellaneous Papers
+## VIII.&nbsp;Open Access (SocArXiv)
 <div class="blue">
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Hartmut Keil). <a href="https://osf.io/preprints/socarxiv/smq6n/" target="_blank">Open Access</a>.</p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Crister S. Garrett &#10013;). <a href="https://osf.io/preprints/socarxiv/qrjuk/" target="_blank">Open Access</a>.</p>
 <p>&#8220;Still Very Excite: A Retrospective of Ethnic Humor, Political Correctness, and Hate Speech in Sacha Baron Cohen&#8217;s <em>Borat</em>.&#8221; 2014. Seminar Paper. <em>ASL Project Module</em> (Gabriele Pisarz-Ramirez). <a href="https://osf.io/preprints/socarxiv/5du7c/" target="_blank">Open Access</a>.</p>
 <p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; 2013. Seminar Paper. <em>Geschichte der Philosophie: Zu einer kleinen Geschichte des Positivismus im 19. und 20. Jahrhundert</em> (Thomas Wendt). <a href="https://osf.io/preprints/socarxiv/96ysz" target="_blank">Open Access</a>.</p>
 <p>&#8220;&#8216;I Thought of Carthage&#8217;: Disentangling Moral and Military Aspects of the Hiroshima and Nagasaki Bombings.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlobach). <a href="https://osf.io/preprints/socarxiv/m3pj4" target="_blank">Open Access</a>.</p>
+</div>
+
+<div><a name="posters">&nbsp;</a></div>
+
+## IX.&nbsp;Posters
+<div class="blue">
+<p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; 28 January 2020. Geisteswissenschaftliches Zentrum der Universität Leipzig. <a href="/doc/Discursive-Map-Conference-Poster-2020-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
+<p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
 </div>
 
 <div><a name="websites">&nbsp;</a></div>
