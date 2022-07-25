@@ -38,7 +38,8 @@ image: /img/pub2.webp
 
 ## II.&nbsp;Edited Volumes
 <div class="blue">
-<p>&#8220;Mug Shots and Passport Photography.&#8221; <em>Bloomsbury Encyclopedia of Visual Culture</em>. Planned for Publication.</p>
+<p>&#8220;Visualizing Nineteenth-Century Exploration.&#8221; <em>A Cultural History of Exploration</em>. Bloomsbury. Planned for Publication in 2024.</p>
+<p>&#8220;Mug Shots and Passport Photography.&#8221; <em>Encyclopedia of Visual Culture</em>. Bloomsbury. Planned for Publication in 2023.</p>
 <p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>The Literary Western in the Global Imagination</em>. Eds. Conway, Christopher, David Rio, and Marek Paryz. Forthcoming.</p>
 <p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Forthcoming.</p>
 <p>&#8220;&#8216;True Places Never Are&#8217;: Navigating (Trans)Oceanic Imaginations in &#8216;Moby-Dick.&#8217;&#8221; <em>American Studies Over_Seas</em>. 2021. Forthcoming.</p>
