@@ -13,7 +13,7 @@ image: /img/pub2.webp
 <div class="box-toc2">
 <!--<p style="color:#4c99c4;margin-top:-1px"><i class="fas fa-highlighter" style="padding-right:10px"></i><b>Table of Contents</b></p>-->
 <ol style="list-style:upper-roman">
-<li><a href="#monographs">Monographs</a></li>
+<li><a href="#books">Books</a></li>
 <li><a href="#edited-volumes">Edited Volumes</a></li>
 <li><a href="#peer-reviewed-journals">Peer-Reviewed Journals</a></li>
 <li><a href="#reviews">Reviews</a></li>
@@ -26,10 +26,11 @@ image: /img/pub2.webp
 </ol>
 </div>
 
-<div><a name="monographs">&nbsp;</a></div>
+<div><a name="books">&nbsp;</a></div>
 
-## I.&nbsp;Monographs
+## I.&nbsp;Books
 <div class="blue">
+<p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.amazon.de/Periphere-Amerikanistik-Dialektik-Globalen-Kernbegriffe/dp/311064116X/" target="_blank">Print</a> & <a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html" target="_blank">Open Access</a>.</p>
 <p><em>The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print</a>.</p>
 <p><em>A Place Between Oceans: Imagining the American Empire 1880&#8211;1940</em>. (Work in progress)</p>
 </div>
@@ -45,7 +46,6 @@ image: /img/pub2.webp
 <p>&#8220;&#8216;True Places Never Are&#8217;: Navigating (Trans)Oceanic Imaginations in &#8216;Moby-Dick.&#8217;&#8221; <em>American Studies Over_Seas</em>. 2021. Forthcoming.</p>
 <p>&#8220;Spatial Imaginations and Counter-Geographies of Oregon and the Far West.&#8221; <em>Reinventar o social: movimentos e narrativas de resistência nas Américas / Reinventing the Social: Movements and Narratives of Resistance in the Americas</em>. Eds. Isabel Caldeira, Maria José Canelo, and Gonçalo Cholant. Coimbra University Press. 2021: 237-63. <a href="https://www.amazon.es/dp/9892621255/" target="_blank">Print</a> & <a href="http://monographs.uc.pt/iuc/catalog/book/235" target="_blank">Open Access</a>.</p>
 <p>&#8220;&#8216;Fear Thy Neighbor&#8217;: Paranoia and Suburban Victim-Hood in Mark Pellington&#8217;s <em>Arlington Road</em>.&#8221; <em>Traditions and Transitions</em>. Vol. 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2019: 290–302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Open Access</a>.</p>
-<p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. Vol. 3. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.degruyter.com/view/product/518315" target="_blank">Print</a>.</p>
 <p>&#8220;Spatiality and Psyche: Surviving the Yukon in Jack London&#8217;s &#8216;Love of Life&#8217; and &#8216;To Build a Fire.&#8217;&#8221; <em>Processes of Spatialization in the Americas: Configurations and Narratives</em>. Interamericana. Vol. 13. Eds. Gabriele Pisarz-Ramirez and Hannes Warnecke-Berger. Peter Lang, 2019: 75–98. <a href="https://www.peterlang.com/view/title/65439" target="_blank">Print</a>.</p>
 <p>&#8220;Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States.&#8221; <em>Collaborative Research Centre 1199</em>. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. Leipziger Universitätsverlag, 2018. <a href="https://research.uni-leipzig.de/~sfb1199/publication/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/" target="_blank">Print</a>.</p>
 </div>
