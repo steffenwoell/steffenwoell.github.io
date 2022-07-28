@@ -124,7 +124,7 @@ image: /img/pub2.webp
 
 ## IX.&nbsp;Posters
 <div class="blue">
-<p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; 28 January 2020. Geisteswissenschaftliches Zentrum der Universität Leipzig. <a href="/doc/Discursive-Map-Conference-Poster-2020-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
+<p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; 28 January 2020. Geisteswissenschaftliches Zentrum der Universität Leipzig. <a href="/doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
 <p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster</a>.</p>
 </div>
 
