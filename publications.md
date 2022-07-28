@@ -20,7 +20,7 @@ image: /img/pub2.webp
 <li><a href="#editing">Editing</a></li>
 <li><a href="#internet">Internet</a></li>
 <li><a href="#digital-humanities">Digital Humanities</a></li>
-<li><a href="#open-access">Open Access (SocArXiv)</a></li>
+<li><a href="#open-archives">Open Archives</a></li>
 <li><a href="#posters">Posters</a></li>
 <li><a href="#websites">Websites</a></li>
 </ol>
@@ -30,7 +30,7 @@ image: /img/pub2.webp
 
 ## I.&nbsp;Books
 <div class="blue">
-<p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. de Gruyter, 2019. With Gabriele Pisarz-Ramirez. <a href="https://www.amazon.de/Periphere-Amerikanistik-Dialektik-Globalen-Kernbegriffe/dp/311064116X/" target="_blank">Print</a> & <a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html" target="_blank">Open Access</a>.</p>
+<p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. de Gruyter, 2019. With Gabriele Pisarz-Ramirez.<a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html" target="_blank">Print & Open Access</a>.</p>
 <p><em>The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print</a>.</p>
 <p><em>A Place Between Oceans: Imagining the American Empire 1880&#8211;1940</em>. (Work in progress)</p>
 </div>
@@ -109,9 +109,9 @@ image: /img/pub2.webp
 <p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.webp" target="_blank">Map</a>.</p>
 </div>
 
-<div><a name="open-access">&nbsp;</a></div>
+<div><a name="open-archives">&nbsp;</a></div>
 
-## VIII.&nbsp;Open Access (SocArXiv)
+## VIII.&nbsp;Open Archives
 <div class="blue">
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Hartmut Keil). <a href="https://osf.io/preprints/socarxiv/smq6n/" target="_blank">Open Access</a>.</p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Crister S. Garrett &#10013;). <a href="https://osf.io/preprints/socarxiv/qrjuk/" target="_blank">Open Access</a>.</p>
