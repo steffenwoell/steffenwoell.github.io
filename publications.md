@@ -30,7 +30,7 @@ image: /img/pub2.webp
 
 ## I.&nbsp;Books
 <div class="blue">
-<p><em>Periphere Räume in der Amerikanistik</em>. Dialektik des Globalen. Kernbegriffe. de Gruyter, 2019. With Gabriele Pisarz-Ramirez.<a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html" target="_blank">Print & Open Access</a>.</p>
+<p><em>Periphere Räume in der Amerikanistik</em>. With Gabriele Pisarz-Ramirez. Dialektik des Globalen. Kernbegriffe. de Gruyter, 2019. <a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html" target="_blank">Print & Open Access</a>.</p>
 <p><em>The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. Dialectics of the Global. Vol. 13. Ed. Matthias Middell. de Gruyter. 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print</a>.</p>
 <p><em>A Place Between Oceans: Imagining the American Empire 1880&#8211;1940</em>. (Work in progress)</p>
 </div>
