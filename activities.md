@@ -86,11 +86,11 @@ image: /img/pil.webp
 <div><a name="field-work-archival-studies">&nbsp;</a></div>
 
 ## IV.&nbsp;Field Work & Archival Studies
-<p>Nettie Lee Benson Latin American Studies Collection. <em>University of Texas at Austin</em>. 2022. Funded by DFG / SFB 1199.</p> 
-<p>Otto G. Richter Library. <em>University of Miami</em>. 2022. Funded by DFG / SFB 1199.</p>
-<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by DFG / SFB 1199.</p>
-<p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by DFG / SFB 1199.</p>
-<p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by DFG / SFB 1199.</p>
+<p>Nettie Lee Benson Latin American Studies Collection. <em>University of Texas at Austin</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p> 
+<p>Otto G. Richter Library. <em>University of Miami</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by Deutsche Forschungsgemeinschaft.</p>
 <p><em>Religion in American Society</em>. 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Funded by VolkswagenStiftung. With Hartmut Keil. <a href="https://studytour2015.wordpress.com" target="_blank">Co-Organizer</a>.</p>
 
 <div><a name="memberships">&nbsp;</a></div>
