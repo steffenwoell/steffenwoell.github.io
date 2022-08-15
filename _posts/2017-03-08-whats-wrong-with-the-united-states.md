@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Wrong With the United States?
+title: What&#8217;s Wrong With the United States?
 subtitle: Oakland, California
 image: /img/oakland.webp
 tags: [Journal, Oakland, USA]
