@@ -792,9 +792,7 @@ footer .theme-by {
   color: #404040;
   border: 1px solid #808080;
   background-color: #FFF;
-  -webkit-transition: border .5s ease;
-  -moz-transition: border .5s ease;
-  transition: border .5s ease;
+  transition: 0.5s ease;
 }
 
 .pager {
