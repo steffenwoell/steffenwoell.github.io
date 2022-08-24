@@ -3,6 +3,8 @@ layout: post
 title: A Happy Death
 subtitle: St. Louis, Missouri
 image: /img/st-louis2.webp
+excerpt: I think I've never been so tired in my life. I am in St. Louis now. It took me a mere 50 (fifty) hours to get here. It is 9pm now and I was just surrounded by a motor cycle gang.
+permalink: /journal/:title/
 tags: [Journal, St. Louis, USA]
 ---
 

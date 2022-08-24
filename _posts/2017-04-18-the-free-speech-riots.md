@@ -4,6 +4,7 @@ title: "The Free Speech Riots: An Audio-Visual Account"
 subtitle: Berkeley, California
 excerpt: Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally at Berkeley's Civic Center Park.
 image: /img/berkeley-riots.webp
+permalink: /journal/:title/
 tags: [Journal, Berkeley, USA, Video, Music]
 ---
 

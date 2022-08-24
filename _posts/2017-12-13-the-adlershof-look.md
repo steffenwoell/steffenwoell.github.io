@@ -3,6 +3,8 @@ layout: post
 title: The Adlershof Look
 subtitle: Berlin, Germany
 image: /img/berlin.webp
+excerpt: I'm on my way to present yet another H.P. Lovecraft paper, this time at a conference in Thessaloniki, Greece. Planning this trip, however, presented a bit of a problem.
+permalink: /journal/:title/
 tags: [Journal, Berlin, Germany, Lovecraft]
 ---
 

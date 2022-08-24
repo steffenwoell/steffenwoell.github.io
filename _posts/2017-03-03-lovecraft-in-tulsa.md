@@ -3,6 +3,8 @@ layout: post
 title: Lovecraft in Tulsa
 subtitle: Tulsa, Oklahoma
 image: /img/tulsa2.webp
+excerpt: My panel presentation at the Society of Early Americanists 10th Biennial Conference went pretty well, although, in classic Woellian fashion, I put a spoke in my wheel by starting off by quoting a longish Whitman poem.
+permalink: /journal/:title/
 tags: [Journal, Tulsa, USA, Lovecraft]
 ---
 My panel presentation at the [Society of Early Americanists](https://www.societyofearlyamericanists.org/) 10th Biennial Conference went pretty well, although, in classic Woellian fashion, I put a spoke in my wheel by starting off by quoting a longish Whitman poem. I guess that baffled some people who where already a little surprised to hear about H.P. Lovecraft in an academic field that cuts its strings at 1800. So if you're interested how everybody's favorite racialist cosmic horror author connects to Orientalized colonial spaces of contagion and death (and let's be real: who wouldn't be?), what follows is the transcript of my talk. And no, I'm not doing sources or bibliographies or anything like that, this is a blog. Sue me...
@@ -18,7 +20,7 @@ For starting westward from Hindustan, from the vales of Kashmere, From Asia, fro
 From the south, from the ﬂowery peninsulas and the spice islands,<br/>
 Long having wander'd since, round the earth having wander'd,<br/>
 Now I face home again, very pleas'd and joyous,<br/>
-(But where is what I started for so long ago?  And why is it yet unfound?)
+(But where is what I started for so long ago? And why is it yet unfound?)
 
 {: .box-note}
 Walt Whitman, "Facing West from California's Shores"

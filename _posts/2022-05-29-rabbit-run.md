@@ -4,7 +4,7 @@ title: Rabbit, Run
 subtitle: A Summer of Lies
 image: /img/rab.webp
 excerpt: Nights of sullen smog, put a record on, fading songs and mumbled lyrics, burning whales washed up at your door, all that was promised was, a summer of lies ...
-
+permalink: /journal/:title/
 tags: [Journal, Leipzig, Germany]
 ---
 Nights of sullen smog  
