@@ -21,6 +21,7 @@ image: /img/pil.webp
 
 ## I.&nbsp;Conference Presentations
 <p>&#8220;&#8216;Der Held ist das ganze Volk&#8217;: Revolution, Demokratie und deutsch-amerikanische Bildungspolitik in Charles Sealsfields frühen Wildwestromanen.&#8221; <em>»Go West!« Die Idee des »Westens« in bildungshistorischer Perspektive</em>. Münster. November 23, 2022. Presentation.</p>
+<p>&#8220;From Daguerreotype to DNA: Mugshots as Cultural Expressions of Discipline, Bias, and Protest.&#8221; <em>Mid-Atlantic Popular & American Culture Association Annual Conference</em>. Online. 10 November 2022. <a href="https://mapaca.net/conference/2022" target="_blank">Presentation</a>.</p>
 <p>&#8220;The Young Republic and Young Germany: Charles Sealsfield&#8217;s Transatlantic Narrative Politics.&#8221; <em>Master of the World? Charles Sealsfield&#8217;s America between Emancipation, Exceptionalism and Globalization</em>. Dortmund. September 23, 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
 <p>&#8220;&#8216;The whitest God makes &#8217;em&#8217;: Postbellum Racial Politics and the White Elephant War of 1884.&#8221; <em>Animals in the US Popular Imagination</em>. PopMeC / Austrian Association for Cultural Studies, Cultural History, and Popular Culture. Online. September 15, 2022. <a href="https://popular-animals.com/" target="_blank">Presentation</a>.</p>
 <p>&#8220;Imperial Spatializations and Archipelagic Counter-Geographies.&#8221; <em>American Comparative Literature Association Annual Conference</em> | <em>Comparative Archipelagoes</em>. Taipeh. June 16, 2022. With Gabriele Pisarz-Ramirez. <a href="https://www.acla.org/annual-meeting-2022" target="_blank">Presentation</a>.</p>
@@ -63,6 +64,7 @@ image: /img/pil.webp
 <div><a name="conference-and-workshop-organization">&nbsp;</a></div>
 
 ## II.&nbsp;Conference & Workshop Organization
+<p>&#8220;Global Coalitions Endgame.&#8221; <em>American Studies Association Annual Conference</em>. New Orleans. 4 November 2022. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
 <p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; Leipzig/online. 30 March-1 April 2022. <em>Second International Workshop</em>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">Co-Organizer</a>.</p>
 <p>&#8220;The Seeds and Seeding of Empire.&#8221; <em>American Studies Association Annual Conference</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
 <p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; Leipzig/online. 15-17 July 2021. <em>First International Workshop</em>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">Co-Organizer</a>.</p>
