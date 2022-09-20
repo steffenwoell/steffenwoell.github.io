@@ -20,7 +20,7 @@ image: /img/pub2.webp
 <li><a href="#editing">Editing</a></li>
 <li><a href="#internet">Internet</a></li>
 <li><a href="#digital-humanities">Digital Humanities</a></li>
-<li><a href="#open-archives">Open Archives</a></li>
+<li><a href="#moderated-open-access">Moderated Open Access</a></li>
 <li><a href="#posters">Posters</a></li>
 <li><a href="#websites">Websites</a></li>
 </ol>
@@ -109,9 +109,9 @@ image: /img/pub2.webp
 <p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.webp" target="_blank">Map</a>.</p>
 </div>
 
-<div><a name="open-archives">&nbsp;</a></div>
+<div><a name="moderated-open-access">&nbsp;</a></div>
 
-## VIII.&nbsp;Open Archives
+## VIII.&nbsp;Moderated Open Access
 <div class="blue">
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Hartmut Keil). <a href="https://osf.io/preprints/socarxiv/smq6n/" target="_blank">Open Access</a>.</p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Crister S. Garrett &#10013;). <a href="https://osf.io/preprints/socarxiv/qrjuk/" target="_blank">Open Access</a>.</p>
