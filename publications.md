@@ -56,7 +56,6 @@ image: /img/pub2.webp
 <div class="blue">
 <p>&#8220;Unmasking Maps, Unmaking Narratives: Towards an Archipelagic Cartography.&#8221; <em>Journal of Transatlantic American Studies</em> Special Issue &#8220;Archipelagic Imperial Mobilities.&#8221; Forthcoming 2022.</p>
 <p>&#8220;Beyond the Artifact: Unfolding Medieval, Algorithmic, and Unruly Lives of Maps.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em> 92-93 (Summer 2022): 54-71. <a href="https://journals.lib.unb.ca/index.php/MCR/issue/view/2262" target="blank">Print</a></p>
-<p>&#8220;Kennedicide In The &#8216;Heartland Of The Real&#8217;: Conspiracy, Coincidence, And Narrative Instability In Don Delillo’s <em>Libra</em>.&#8221; <em>New Academia</em> XI (Jan. 2022). <a href="https://interactionsforum.com/about-us" target="_blank">Open Access</a>.</p>
 <p>&#8220;&#8216;Then I Started for the Mountains&#8217;: Retracing Louisiana&#8217;s Human Geographies across Five Remarkable Biographies.&#8221; <em>Clio: A Journal of Literature, History, and the Philosophy of History</em> 49 (2021) 1: 42-64. <a href="https://www.pfw.edu/clio/index-contents/" target="_blank">Print</a>.</p>
 <p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://search.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7/1?pq-origsite=gscholar&cbl=4510165" target="_blank">Open Access</a>.</p>
 <p>&#8220;The Horrors of the Oriental Space and Language in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Zeitschrift für Anglistik und Amerikanistik</em> 68 (2020) 3: 233–249. <a href="https://www.degruyter.com/view/journals/zaa/68/3/article-p233.xml" target="_blank">Print</a>.</p>
@@ -113,6 +112,7 @@ image: /img/pub2.webp
 
 ## VIII.&nbsp;Moderated Open Access
 <div class="blue">
+<p>&#8220;Kennedicide in the &#8216;Heartland of the Real&#8217;: Conspiracy, Coincidence, and Narrative Instability in Don DeLillo&#8217;s <em>Libra</em>.&#8221; <em>New Academia</em> XI (Jan. 2022). <a href="https://interactionsforum.com/about-us" target="_blank">Open Access</a>.</p>
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Hartmut Keil). <a href="https://osf.io/preprints/socarxiv/smq6n/" target="_blank">Open Access</a>.</p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Crister S. Garrett &#10013;). <a href="https://osf.io/preprints/socarxiv/qrjuk/" target="_blank">Open Access</a>.</p>
 <p>&#8220;Still Very Excite: A Retrospective of Ethnic Humor, Political Correctness, and Hate Speech in Sacha Baron Cohen&#8217;s <em>Borat</em>.&#8221; 2014. Seminar Paper. <em>ASL Project Module</em> (Gabriele Pisarz-Ramirez). <a href="https://osf.io/preprints/socarxiv/5du7c/" target="_blank">Open Access</a>.</p>
