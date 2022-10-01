@@ -7,9 +7,9 @@ image: /img/pil.webp
 <div class="box-toc">
 <!--<p style="color:#ac8d10;margin-top:-1px"><i class="fas fa-highlighter" style="padding-right:10px"></i><b>Table of Contents</b></p>-->
 <ol style="list-style:upper-roman">
-<li><a href="#presentations">Conference Presentations</a></li>
+<li><a href="#presentations">Presentations</a></li>
 <li><a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
-<li><a href="#teaching">Teaching</a></li>
+<li><a href="#teaching-mentoring">Teaching & Mentoring</a></li>
 <li><a href="#field-work-archival-studies">Field Work & Archival Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
@@ -19,7 +19,7 @@ image: /img/pil.webp
 
 <div><a name="presentations">&nbsp;</a></div>
 
-## I.&nbsp;Conference Presentations
+## I.&nbsp;Presentations
 <p>&#8220;&#8216;Der Held ist das ganze Volk&#8217;: Revolution, Demokratie und deutsch-amerikanische Bildungspolitik in Charles Sealsfields frühen Wildwestromanen.&#8221; <em>»Go West!« Die Idee des »Westens« in bildungshistorischer Perspektive</em>. Münster. 23 November 2022. Presentation.</p>
 <p>&#8220;From Daguerreotype to DNA: Mugshots as Cultural Expressions of Discipline, Bias, and Protest.&#8221; <em>Mid-Atlantic Popular & American Culture Association Annual Conference</em>. Online. 10 November 2022. <a href="https://mapaca.net/conference/2022" target="_blank">Presentation</a>.</p>
 <p>&#8220;The Young Republic and Young Germany: Charles Sealsfield&#8217;s Transatlantic Narrative Politics.&#8221; <em>Master of the World? Charles Sealsfield&#8217;s America between Emancipation, Exceptionalism and Globalization</em>. Dortmund. 23 September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/" target="_blank">Presentation</a>.</p>
@@ -72,9 +72,9 @@ image: /img/pil.webp
 <p>Regional Colloquium for American Studies. Leipzig. 13 January 2017. Co-Organizer.</p>
 <p>&#8220;Urban America: Mediating City Space as Place.&#8220; <em>American Studies Leipzig Graduate Conference</em>. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Co-Organizer</a>.</p>
 
-<div><a name="teaching">&nbsp;</a></div>
+<div><a name="teaching-mentoring">&nbsp;</a></div>
 
-## III.&nbsp;Teaching
+## III.&nbsp;Teaching & Mentoring
 <p>&#8220;Youth Cultures, Ethnicity, and Protest in the United States.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2022/23. Seminar. <a href="/doc/E&D Seminar WS 22-23 Syllabus.pdf" target="_blank">Syllabus</a>.</p>
 <p>&#8220;Illuminating Race, Class, and Gender: The Cultural Dynamics of Mugshots and Passport Photography.&#8221; <em>Prison and Literature</em>. Julius Maximilian University of Würzburg. 22 June 2022. <a href="https://www.neuphil.uni-wuerzburg.de/anglistik/aktuelles/single/news/illuminating-race-class-and-gender-the-cultural-dynamics-of-mugshots-and-passport-photography/" target="_blank">Guest Lecture</a>.</p>
 <p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. Seminar. <a href="/doc/LC-II Spectacle of Monsters Seminar 2022 Syllabus.pdf" target="_blank">Syllabus</a></p>
@@ -114,7 +114,7 @@ image: /img/pil.webp
 
 ## VI.&nbsp;Grants & Awards
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
-<p>DAAD Travel Stipend 2017.</p>
+<p>DAAD Travel Stipend. 2017.</p>
 
 <div><a name="non-profit">&nbsp;</a></div>
 
