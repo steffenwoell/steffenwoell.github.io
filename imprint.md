@@ -36,8 +36,8 @@ Unless stated otherwise, the contents of this personal, non-commercial website a
 
 <div class="box-note" style="margin-bottom:60px">
 <pre>Dr. Steffen Wöll
-Nikolaistr. 6-10<br/>
-Room 5.07<br/>
-04109 Leipzig<br/>
+Nikolaistr. 6-10
+Room 5.07
+04109 Leipzig
 Germany</pre>
 </div>
