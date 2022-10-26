@@ -75,7 +75,7 @@ image: /img/pil.webp
 <div><a name="teaching-mentoring">&nbsp;</a></div>
 
 ## III.&nbsp;Teaching & Mentoring
-<p>&#8220;African American History, Culture, and Literature before the Civil War&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. 24 October 2022. <a href="/doc/E&D Guest Lecture WS 22-23.pdf" target="_blank">Guest Lecture</a>.</p>
+<p>&#8220;African American History, Culture, and Literature until the Civil War.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. 24 October 2022. <a href="/doc/E&D Guest Lecture WS 22-23.pdf" target="_blank">Guest Lecture</a>.</p>
 <p>&#8220;Youth Cultures, Ethnicity, and Protest in the United States.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2022/23. Seminar. <a href="/doc/E&D Seminar WS 22-23 Syllabus.pdf" target="_blank">Syllabus</a>.</p>
 <p>&#8220;Illuminating Race, Class, and Gender: The Cultural Dynamics of Mugshots and Passport Photography.&#8221; <em>Prison and Literature</em>. Julius Maximilian University of Würzburg. 22 June 2022. <a href="https://www.neuphil.uni-wuerzburg.de/anglistik/aktuelles/single/news/illuminating-race-class-and-gender-the-cultural-dynamics-of-mugshots-and-passport-photography/" target="_blank">Guest Lecture</a>.</p>
 <p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. Seminar. <a href="/doc/LC-II Spectacle of Monsters Seminar 2022 Syllabus.pdf" target="_blank">Syllabus</a></p>
