@@ -85,7 +85,7 @@ image: /img/pub2.webp
 
 ## V.&nbsp;Editing
 <div class="blue">
-<p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; <em>Journal of Transnational American Studies</em> Special Issue. 2022. Co-editor.</p>
+<p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; <em>Journal of Transnational American Studies</em> Special Forum. 2023. Co-editor.</p>
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access</a>.</p>
 </div>
 
