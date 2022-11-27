@@ -8,7 +8,7 @@ image: /img/imp.webp
 Please direct all correspondence and requests to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`
 
 <div class="box-note" style="margin-bottom:60px">
-Feel free to send me encrypted emails by using this GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and this <a href="/doc/sw_pgp_public_key.asc"><i class="fas fa-key" style="padding-left:5px"></i>public key</a>.
+Feel free to send me encrypted emails by using this GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and this <a href="/doc/sw_pgp_public_key.asc"><i class="fas fa-key" style="padding-left:2px;padding-right:5px"></i>public key</a>.
 </div>
 
 <!--## Social Media
@@ -31,9 +31,9 @@ Unless stated otherwise, the contents of this personal, non-commercial site are 
 <div class="box-warning" style="margin-bottom:60px">
 Both online and IRL, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance</a> are basic human rights. In compliance with the <a href="https://gdpr.eu/what-is-gdpr/" target="_blank">General Data Protection Regulation</a> of the European Union, no data (e.g., IP addresses or browser fingerprints) is ever collected, transmitted, stored, or otherwise used to identify or track visitors. This website is build around privacy, data protection, and data economy and uses
 <p><i class="far fa-lemon" style="padding-left:10px;padding-right:10px"></i><b>zero</b> cookies</p>
-<p><i class="far fa-thumbs-down" style="padding-left:10px;padding-right:11px"></i><b>zero</b> social media plugins</p>
-<p><i class="far fa-file-excel" style="padding-left:10px;padding-right:9px"></i><b>zero</b> activity logs</p>
-<p><i class="far fa-eye-slash" style="padding-left:10px;padding-right:10px"></i><b>zero</b> analytics</p>
+<p><i class="far fa-thumbs-down" style="padding-left:10px;padding-right:10px"></i><b>zero</b> social media plugins</p>
+<p><i class="far fa-eye-slash" style="padding-left:10px;padding-right:9px"></i><b>zero</b> analytics</p>
+<p><i class="far fa-file-excel" style="padding-left:10px;padding-right:11px"></i><b>zero</b> activity logs</p>
 </div>
 
 ## Mailing Address (V.i.S.d.P.)
