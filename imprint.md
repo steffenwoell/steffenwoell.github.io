@@ -16,15 +16,13 @@ Feel free to send me encrypted messages by using this GPG/PGP fingerprint <pre><
 ## Legal
 
 <div class="fa-3x">
-  <i class="far fa-lemon fa-bounce"></i>
-  <i class="far fa-lemon fa-bounce"></i>
-
-  <!-- bounce animation with no "squish" -->
-  <i class="far fa-lemon fa-bounce" style=" --fa-bounce-start-scale-x: 1; --fa-bounce-start-scale-y: 1; --fa-bounce-jump-scale-x: 1; --fa-bounce-jump-scale-y: 1; --fa-bounce-land-scale-x: 1; --fa-bounce-land-scale-y: 1; " ></i>
-
-  <!-- bounce animation with no "squish" or "rebound" -->
-  <i class="far fa-lemon fa-bounce" style=" --fa-bounce-start-scale-x: 1; --fa-bounce-start-scale-y: 1; --fa-bounce-jump-scale-x: 1; --fa-bounce-jump-scale-y: 1; --fa-bounce-land-scale-x: 1; --fa-bounce-land-scale-y: 1; --fa-bounce-rebound: 0;" ></i>
+  <i class="fas fa-compact-disc fa-flip"></i>
+  <i class="fas fa-camera-rotate fa-flip"></i>
+  <i class="fas fa-cassette-tape fa-flip"></i>
+  <i class="fas fa-scroll fa-flip" style="--fa-flip-x: 1; --fa-flip-y: 0;" ></i>
+  <i class="fas fa-money-check-dollar fa-flip" style="--fa-animation-duration: 3s;" ></i>
 </div>
+
 
 
 <div class="box-warning" style="margin-bottom:60px">
