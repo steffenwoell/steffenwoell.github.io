@@ -24,7 +24,7 @@ rss:
 blog:
   name: "Write.as"
   baseURL: "https://write.as/"
-  icon: "fas fa-quote-left"
+  icon: "fa fa-font"
 
 researchgate:
   name: "ResearchGate"
