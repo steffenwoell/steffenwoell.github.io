@@ -7,13 +7,13 @@ image: /img/imp.webp
 ## Contact
 
 {: .box-success}
-Please address official and business correspondence to <i class="fas fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`. Private messages should be directed to `steffen.woell@gmail.de`
+Please address official and business correspondence to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`. Private messages should be directed to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@gmail.de`
 
 <div class="box-note" style="margin-bottom:60px">
 Feel free to send me encrypted messages by using this GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and download my <a href="/doc/sw_pgp_public_key.asc"><i class="fas fa-key" style="padding-left:2px;padding-right:5px"></i>public key</a>
 </div>
 
-## Legal <i class="fas fa-link"></i>
+## <a name="Legal" class="anchor">Legal <i class="fas fa-link fa-sm"></i></a>
 
 <div class="box-warning" style="margin-bottom:60px">
 Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="CC BY-NC 4.0" target="_blank">Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok</a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</div>
@@ -25,7 +25,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
 <p><i class="far fa-lemon" style="padding-left:10px;padding-right:10px"></i><b>zero</b> cookies</p>
 <p><i class="far fa-thumbs-down" style="padding-left:10px;padding-right:10px"></i><b>zero</b> social media plugins</p>
 <p><i class="far fa-eye-slash" style="padding-left:10px;padding-right:7px"></i><b>zero</b> analytics</p>
-<p><i class="far fa-file-excel" style="padding-left:10px;padding-right:14px"></i><b>zero</b> logs</p>
+<p><i class="far fa-file-excel" style="padding-left:10px;padding-right:14px"></i><b>zero</b> log files</p>
 </div>
 
 ## Mailing Address (V.i.S.d.P.)
