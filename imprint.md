@@ -22,10 +22,12 @@ Unless stated otherwise, the contents of this personal, non-commercial website a
 
 <div class="box-warning" style="margin-bottom:60px">
 Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance</a> are basic human rights. In compliance with the <a href="https://gdpr.eu/what-is-gdpr/" target="_blank">General Data Protection Regulation</a> of the European Union, no data (e.g., IP addresses or browser fingerprints) is ever collected, transmitted, stored, or otherwise used to identify or track visitors. This website is designed to ensure privacy, data protection, and data economy and uses
-<p><i class="far fa-lemon" style="padding-left:10px;padding-right:10px"></i><b>zero</b> cookies</p>
-<p><i class="far fa-thumbs-down" style="padding-left:10px;padding-right:10px"></i><b>zero</b> social media plugins</p>
-<p><i class="far fa-eye-slash" style="padding-left:10px;padding-right:7px"></i><b>zero</b> analytics</p>
-<p><i class="far fa-file-excel" style="padding-left:10px;padding-right:14px"></i><b>zero</b> log files</p>
+  <ul class="fa-ul">
+    <li><span class="fa-li"><i class="far fa-lemon"></i></span><b>zero</b> cookies</li>
+    <li><span class="fa-li"><i class="far fa-thumbs-down"></i></span><b>zero</b> social media plugins</li>
+    <li><span class="fa-li"><i class="far fa-eye-slash"></i></span><b>zero</b> analytics</li>
+    <li><span class="fa-li"><i class="far fa-file-excel"></i></span><b>zero</b> log files</li>
+  </ul>
 </div>
 
 ## Mailing Address (V.i.S.d.P.)
