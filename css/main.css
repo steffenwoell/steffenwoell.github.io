@@ -1107,7 +1107,7 @@ pre {
   animation:fa-beat 5s ease infinite;
 }
 
-.fa-beat a:hover {
+.footer-buttons > .fa-beat a:hover {
   color: red;
 }
 
