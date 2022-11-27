@@ -413,6 +413,10 @@ footer a {
   text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
+.anchor a:hover, .anchor a:active {
+  text-decoration: none;
+}
+
 .fab {font-weight: 300;}
 
 .fa.fa-font.fa-stack-1x.fa-inverse {transition: 0.5s;}
@@ -610,6 +614,7 @@ footer .theme-by {
     float: left;
   }
 }
+
 /* --- Post and page headers --- */
 
 .intro-header {
