@@ -15,6 +15,8 @@ Feel free to send me encrypted messages by using this GPG/PGP fingerprint <pre><
 
 ## Legal
 
+<i class="fas fa-heart fa-4x fa-beat"></i>
+
 <div class="box-warning" style="margin-bottom:60px">
 Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="CC BY-NC 4.0" target="_blank">Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok</a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</div>
 
