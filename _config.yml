@@ -72,11 +72,11 @@ social-network-links:
   home:
  # email: "steffen.woell@uni-leipzig.de"
   rss: true
-  blog: dysnomia
   researchgate: Steffen-Woell
   orcid: 0000-0003-1582-6078
   mastodon: "@SteffenWoell"
   instagram: streetart_leipzig
+  blog: dysnomia
   soundcloud: w-a_s
 
 # Select which share links to show in posts
