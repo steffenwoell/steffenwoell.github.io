@@ -413,6 +413,11 @@ footer a {
   text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
+.lastmod a {
+  color: #ccc;
+  text-shadow: 1px 1px rgba(255,255,255,0.8);
+}
+
 .fab {font-weight: 300;}
 
 .fas.fa-quote-left.fa-stack-1x.fa-inverse {transition: 0.5s;}
