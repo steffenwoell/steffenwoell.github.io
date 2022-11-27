@@ -5,10 +5,10 @@ image: /img/imp.webp
 ---
 
 {: .box-success}
-Please direct all correspondence and requests to <i class="far fa-envelope" style="padding-right:10px"></i>`steffen.woell@uni-leipzig.de`
+Please direct all correspondence and requests to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`
 
 <div class="box-note" style="margin-bottom:60px">
-Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and my public key can be found <a href="/doc/sw_pgp_public_key.asc">here</a>.
+Feel free to send me encrypted emails using this GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and <i class="fas fa-key" style="padding-right:10px"></i><a href="/doc/sw_pgp_public_key.asc">public key</a>.
 </div>
 
 <!--## Social Media
@@ -21,17 +21,19 @@ Feel free to send me encrypted emails. My GPG/PGP fingerprint is <pre><i class="
 </div>
 </div>-->
 
-## Legal & Data Protection
+## Legal
 
 <div class="box-warning" style="margin-bottom:60px">
-Unless stated otherwise, the contents of this personal, non-commercial site are made available under the <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="CC BY-NC 4.0" target="_blank">Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok</a>. All other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a> if not marked differently.</div>
+Unless stated otherwise, the contents of this personal, non-commercial site are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="CC BY-NC 4.0" target="_blank">Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok</a>. If not marked differently, other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</div>
+
+## Data Protection
+
 <div class="box-warning" style="margin-bottom:60px">
-This website is designed with user privacy, data protection, and data reduction in mind and uses
-<p><i class="far fa-cookie-bite" style="padding-left:10px;padding-right:10px"></i><b>zero</b> cookies</p>
+Both online and IRL, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance</a> are basic human rights. In compliance with the <a href="https://gdpr.eu/what-is-gdpr/" target="_blank">General Data Protection Regulation</a> of the European Union, no data (e.g., IP addresses or browser fingerprints) is ever collected, transmitted, stored, or otherwise used to identify or track visitors. This website is build around privacy, data protection, and data economy and uses
+<p><i class="far fa-lemon" style="padding-left:10px;padding-right:10px"></i><b>zero</b> cookies</p>
 <p><i class="far fa-thumbs-down" style="padding-left:10px;padding-right:11px"></i><b>zero</b> social media plugins</p>
-<p><i class="far fa-toilet-paper-slash" style="padding-left:10px;padding-right:9px"></i><b>zero</b> activity logs</p>
+<p><i class="far fa-trash-can" style="padding-left:10px;padding-right:9px"></i><b>zero</b> activity logs</p>
 <p><i class="far fa-eye-slash" style="padding-left:10px;padding-right:10px"></i><b>zero</b> analytics</p>
-<p>Both online and IRL, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance</a> are basic human rights. In compliance with the <a href="https://gdpr.eu/what-is-gdpr/" target="_blank">General Data Protection Regulation</a> of the European Union, no data (e.g., IP addresses or browser fingerprints) is ever collected, transmitted, stored, or otherwise used to identify or track visitors of this website.</p>
 </div>
 
 ## Mailing Address (V.i.S.d.P.)
