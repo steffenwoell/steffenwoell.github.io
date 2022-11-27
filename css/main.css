@@ -416,7 +416,6 @@ footer a {
 /* FONT AWESOME GENERIC BEAT */ 
 .fa-beat {
   animation:fa-beat 5s ease infinite;
-  color: red;
 }
 @keyframes fa-beat {
   0% {
