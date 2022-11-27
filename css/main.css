@@ -413,7 +413,7 @@ footer a {
   text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
-.anchor a:hover, .anchor a:active {
+.anchor a:hover {
   text-decoration: none;
 }
 

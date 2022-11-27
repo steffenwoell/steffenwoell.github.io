@@ -13,7 +13,7 @@ Please address official and business correspondence to <i class="far fa-envelope
 Feel free to send me encrypted messages by using this GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and download my <a href="/doc/sw_pgp_public_key.asc"><i class="fas fa-key" style="padding-left:2px;padding-right:5px"></i>public key</a>
 </div>
 
-## <a href="#legal" class="anchor">Legal <i class="fas fa-link fa-xs" id="legal"></i></a>
+## <a class="anchor">Legal <i class="fas fa-link fa-2xs" id="legal"></i></a>
 
 <div class="box-warning" style="margin-bottom:60px">
 Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="CC BY-NC 4.0" target="_blank">Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok</a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</div>
