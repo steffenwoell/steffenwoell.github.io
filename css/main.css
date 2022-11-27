@@ -413,8 +413,35 @@ footer a {
   text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
-.anchor a:hover {
-  text-decoration: none;
+/* FONT AWESOME GENERIC BEAT */ 
+.fa-beat {
+  animation:fa-beat 5s ease infinite;
+}
+@keyframes fa-beat {
+  0% {
+    transform:scale(1);
+  }
+  5% {
+    transform:scale(1.25);
+  }
+  20% {
+    transform:scale(1);
+  }
+  30% {
+    transform:scale(1);
+  }
+  35% {
+    transform:scale(1.25);
+  }
+  50% {
+    transform:scale(1);
+  }
+  55% {
+    transform:scale(1.25);
+  }
+  70% {
+    transform:scale(1);
+  }
 }
 
 .fab {font-weight: 300;}
