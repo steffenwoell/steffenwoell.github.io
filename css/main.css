@@ -413,15 +413,15 @@ footer a {
   text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
-.lastmod a {
+.lastmod button {
   color: #ccc;
   text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .fab {font-weight: 300;}
 
-.fas.fa-quote-left.fa-stack-1x.fa-inverse {transition: 0.5s;}
-.fas.fa-quote-left.fa-stack-1x.fa-inverse:hover {color: #f1c40e;}
+.fa.fa-font.fa-stack-1x.fa-inverse {transition: 0.5s;}
+.fa.fa-font.fa-stack-1x.fa-inverse:hover {color: #f1c40e;}
 
 .fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
