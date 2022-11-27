@@ -47,10 +47,13 @@
         <!--<script>var date = document.lastModified; document.write("Last updated: "+date);</script>-->
           <script>var date = document.lastModified; document.write("Last updated: " +new Date().toLocaleDateString('en-us', { month:"long", day:"numeric", year:"numeric" }));</script>
       </div>
-      <div class="lastmod"><i class="far fa-clock" style="padding-right:10px"></i>
+      <div class="lastmod"><i class="fa-solid fa-hourglass-end" style="padding-right:10px"></i>
         <script type="text/javascript">
+          $(document).ready(function() {
+              console.log("Time until DOMready: ", Date.now()-timerStart);
+          });
           $(window).load(function() {
-              console.log("Page loaded in ", Date.now()-timerStart);
+              console.log("Time until everything loaded: ", Date.now()-timerStart);
           });
      </script>
       </div>
