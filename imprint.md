@@ -6,25 +6,14 @@ image: /img/imp.webp
 
 ## Contact
 
-<div class="box-success">
+{: .box-success}
 Please address official and business correspondence to <i class="fas fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`. Private messages should be directed to `steffen.woell@gmail.de`
-</div>
 
 <div class="box-note" style="margin-bottom:60px">
 Feel free to send me encrypted messages by using this GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and download my <a href="/doc/sw_pgp_public_key.asc"><i class="fas fa-key" style="padding-left:2px;padding-right:5px"></i>public key</a>
 </div>
 
-<!--## Social Media
-<div class="box-blue">
-<div>
-<div><i class="fab fa-researchgate" style="padding-right:15px"></i><a href="https://www.researchgate.net/profile/Steffen-Woell" target="_blank">ResearchGate</a></div><br/>
-<div><i class="fab fa-mastodon" style="padding-right:15px"></i><a href="https://mastodon.social/@SteffenWoell" target="_blank">Mastodon</a></div><br/>
-<div><i class="fab fa-instagram" style="padding-right:15px"></i><a href="https://www.instagram.com/streetart_leipzig/" target="_blank">Instagram</a></div><br/>
-<div><i class="fab fa-soundcloud" style="padding-right:10px"></i><a href="https://soundcloud.com/w-a_s" target="_blank">SoundCloud</a></div>
-</div>
-</div>-->
-
-<a><h2>Legal</h2><i class="fas fa-link" style="padding-left:5px"></i></a>
+## Legal <i class="fas fa-link"></i>
 
 <div class="box-warning" style="margin-bottom:60px">
 Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="CC BY-NC 4.0" target="_blank">Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok</a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</div>
