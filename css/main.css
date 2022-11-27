@@ -1107,10 +1107,6 @@ pre {
   animation:fa-beat 5s ease infinite;
 }
 
-.footer-buttons > .fa-beat a:hover {
-  color: red;
-}
-
 @keyframes fa-beat {
   0% {
     transform:scale(1);
