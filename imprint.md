@@ -4,8 +4,11 @@ title: Imprint
 image: /img/imp.webp
 ---
 
-{: .box-success}
-Please direct all correspondence and requests to <i class="far fa-paper-plane" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`
+## Contact
+
+<div class="box-success">
+Please address official and business correspondence to <i class="fas fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`. Private messages should be directed to `steffen.woell@gmail.de`
+</div>
 
 <div class="box-note" style="margin-bottom:60px">
 Feel free to send me encrypted messages by using this GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and download my <a href="/doc/sw_pgp_public_key.asc"><i class="fas fa-key" style="padding-left:2px;padding-right:5px"></i>public key</a>
@@ -21,7 +24,7 @@ Feel free to send me encrypted messages by using this GPG/PGP fingerprint <pre><
 </div>
 </div>-->
 
-## Legal
+<a><h2>Legal</h2><i class="fas fa-link" style="padding-left:5px"></i></a>
 
 <div class="box-warning" style="margin-bottom:60px">
 Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="CC BY-NC 4.0" target="_blank">Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok</a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</div>
