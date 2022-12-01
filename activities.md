@@ -20,6 +20,7 @@ image: /img/pil.webp
 <div><a name="presentations">&nbsp;</a></div>
 
 ## I.&nbsp;Presentations
+<div class="gold">
 <p>&#8220;Cannibalizing Continuities: Narrative Crises and the Undead.&#8221; <em>Crises and Turns: Continuities and Discontinuities in American Culture</em>. 27th Biennial NAAS Conference. Uppsala. 25 May 2023. <a href="https://naas2023.com/" target="_blank">Presentation</a>.</p>
 <p>&#8220;&#8216;Der Held ist das ganze Volk&#8217;: Revolution, Demokratie und deutsch-amerikanische Bildungspolitik in Charles Sealsfields frühen Wildwestromanen.&#8221; <em>»Go West!« Die Idee des »Westens« in bildungshistorischer Perspektive</em>. Münster. 23 November 2022. <a href="https://www.hsozkult.de/event/id/event-129827" target="_blank">Lecture Series</a>.</p>
 <p>&#8220;From Daguerreotype to DNA: Mugshots as Cultural Expressions of Discipline, Bias, and Protest.&#8221; <em>Mid-Atlantic Popular & American Culture Association Annual Conference</em>. Online. 12 November 2022. <a href="https://mapaca.net/conference/2022" target="_blank">Presentation</a>.</p>
@@ -61,10 +62,12 @@ image: /img/pil.webp
 <p>&#8220;Horrendous Hybridity: Spatial and Linguistic Representations of the Occult Orientalist Other in H.P. Lovecraft&#8217;s &#8216;The Shadow Over Innsmouth.&#8217;&#8221; <em>Society of Early Americanists 10th Biennial Conference</em>. Tulsa. 2 March 2017. <a href="https://sea2017.wordpress.com" target="_blank">Presentation</a>.</p>
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Antebellum US Literature.&#8221; <em>Collaborative Research Centre 1199</em>. Leipzig. 4 January 2017. Presentation.</p>
 <p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place</em>. American Studies Leipzig Graduate Conference. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Keynote Address</a>.</p>
+</div>
 
 <div><a name="conference-and-workshop-organization">&nbsp;</a></div>
 
 ## II.&nbsp;Conference & Workshop Organization
+<div class="gold">
 <p>&#8220;Global Coalitions Endgame.&#8221; <em>American Studies Association Annual Conference</em>. New Orleans. 4 November 2022. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
 <p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; Leipzig/online. 30 March-1 April 2022. <em>Second International Workshop</em>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/" target="_blank">Co-Organizer</a>.</p>
 <p>&#8220;The Seeds and Seeding of Empire.&#8221; <em>American Studies Association Annual Conference</em>. San Juan/online. 14 October 2021. <a href="https://www.theasa.net/annual-meeting/years-meeting/online-program" target="_blank">Panel Chair</a>.</p>
@@ -72,10 +75,12 @@ image: /img/pil.webp
 <p>&#8220;Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas (International Association of Inter-American Studies)</em>. Coimbra. 24 March 2018. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. <a href="http://www.interamericanstudies.net/?page_id=6447" target="_blank">Panel Co-Chair</a>.</p>
 <p>Regional Colloquium for American Studies. Leipzig. 13 January 2017. Co-Organizer.</p>
 <p>&#8220;Urban America: Mediating City Space as Place.&#8220; <em>American Studies Leipzig Graduate Conference</em>. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Co-Organizer</a>.</p>
+</div>
 
 <div><a name="teaching-mentoring">&nbsp;</a></div>
 
 ## III.&nbsp;Teaching & Mentoring
+<div class="gold">
 <p>&#8220;African American History, Culture, and Literature until the Civil War.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. 24 October 2022. <a href="/doc/E&D Guest Lecture WS 22-23.pdf" target="_blank">Guest Lecture</a>.</p>
 <p>&#8220;Youth Cultures, Ethnicity, and Protest in the United States.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2022/23. <a href="/doc/E&D Seminar WS 22-23 Syllabus.pdf" target="_blank">Seminar</a>.</p>
 <p>&#8220;Illuminating Race, Class, and Gender: The Cultural Dynamics of Mugshots and Passport Photography.&#8221; <em>Prison and Literature</em>. Julius Maximilian University of Würzburg. 22 June 2022. <a href="https://www.neuphil.uni-wuerzburg.de/anglistik/aktuelles/single/news/illuminating-race-class-and-gender-the-cultural-dynamics-of-mugshots-and-passport-photography/" target="_blank">Guest Lecture</a>.</p>
@@ -86,10 +91,12 @@ image: /img/pil.webp
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 13 June 2018. <a href="https://americanstudies.uni-leipzig.de/content/courses-summer-2018-0?tab_id=5457#lasipp-tab-1" target="_blank">Guest Lecture</a>.</p>
 <p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2017/18. <a href="/doc/E&D Seminar Syllabus WiSe 17-18.pdf" target="_blank">Seminar</a>.</p>
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1" target="_blank">Guest Lecture</a>.</p>
+</div>
 
 <div><a name="field-work-archival-studies">&nbsp;</a></div>
 
 ## IV.&nbsp;Field Work & Archival Studies
+<div class="gold">
 <p>Tulane University Libraries. <em>Tulane University, New Orleans</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
 <p>Nettie Lee Benson Latin American Studies Collection. <em>University of Texas at Austin</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p> 
 <p>Otto G. Richter Library. <em>University of Miami</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
@@ -98,11 +105,12 @@ image: /img/pil.webp
 <p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by Deutsche Forschungsgemeinschaft.</p>
 <p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by Deutsche Forschungsgemeinschaft.</p>
 <p><em>Religion in American Society</em>. 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Funded by VolkswagenStiftung. With Hartmut Keil. <a href="https://studytour2015.wordpress.com" target="_blank">Co-Organizer</a>.</p>
+</div>
 
 <div><a name="memberships">&nbsp;</a></div>
 
 ## V.&nbsp;Memberships
-
+<div class="gold">
 <p><a href="https://www.acla.org/" target="_blank">ACLA</a> (American Comparative Literature Association)</p>
 <p><a href="https://theasa.net" target="_blank">ASA</a> (American Studies Association)</p>
 <p><a href="https://dgfa.de" target="_blank">DGfA / GAAS</a> (Deutsche Gesellschaft für Amerikastudien / German Association for American Studies)</p>
@@ -111,16 +119,21 @@ image: /img/pil.webp
 <p><a href="https://mapaca.net/">MAPACA</a> (Mid-Atlantic Popular & American Culture Association)</p>
 <p><a href="https://mpcaaca.org" target="_blank">MPCA/ACA</a> (The Midwest Popular and American Culture Association)</p>
 <p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA</a> (Society of Early Americanists)</p>
+</div>
 
 <div><a name="grants-awards">&nbsp;</a></div>
 
 ## VI.&nbsp;Grants & Awards
+<div class="gold">
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
 <p>DAAD Travel Stipend. 2017.</p>
+</div>
 
 <div><a name="non-profit">&nbsp;</a></div>
 
 ## VII.&nbsp;Non-profit Activities
+<div class="gold">
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award</a>.</p>
 <p>Wikipedia Editor.</p>
 <p style="margin-bottom:60px">KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association</a>.</p>
+</div>
