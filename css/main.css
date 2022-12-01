@@ -886,6 +886,7 @@ pre {
 }
 
 /* --- Notification boxes --- */
+
 .box-updated, .box-note, .box-warning, .box-error, .box-success, .box-blue, .box-toc, .box-toc2 {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 25px 0px;
