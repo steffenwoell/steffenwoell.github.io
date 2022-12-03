@@ -99,7 +99,7 @@ staticman:
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If using reCaptcha, must also set these parameters in staticman.yml
-    siteKey  : # If using own site key, must apply for one on G**gle
+    siteKey  : # If using own site key, must apply for one on G00gle
     secret   : # ENCRYPT password at https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
