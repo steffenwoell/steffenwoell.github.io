@@ -1,14 +1,14 @@
 # Define custom social network links here
 # Use same key as in _config.yml -> social-network-links
 # Must specify following properties:
-#   name: user-friendly name for link title
+#   name: user-friendly name used as a link title
 #   baseURL: will be combined with value of site.social-network-links.<key>
 #   icon: valid fontawesome icon class
 
 home:
   name: "Home"
   baseURL: "#"
-  icon: "fas fa-landmark-dome"
+  icon: "fas fa-igloo"
 
 email:
   name: "Email"
