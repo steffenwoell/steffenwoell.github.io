@@ -409,6 +409,7 @@ footer a {
 
 .footer-buttons {
   text-align: center;
+  white-space:nowrap;
 }
 
 .footer-buttons a {
