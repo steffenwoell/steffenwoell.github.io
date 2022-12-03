@@ -1110,11 +1110,11 @@ pre {
 
 .fa-fade {
   opacity: 1;
-  animation: fa-fade 2s infinite;
+  animation: fa-fade 1.5s infinite;
 }
 
 @keyframes fa-fade {
-0% { opacity: 0.1 }
+0% { opacity: 0.3 }
 100% { opacity: 1 }
 }
 
