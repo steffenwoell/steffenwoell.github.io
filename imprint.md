@@ -7,8 +7,7 @@ image: /img/imp.webp
 ## Contact
 
 {: .box-success}
-Please address official correspondence to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`
-Private messages should be directed to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@gmail.de`
+Please address official correspondence to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`. Private messages should be directed to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@gmail.de`
 
 <div class="box-note" style="margin-bottom:60px">
 Feel free to send me encrypted messages by using this GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre> and download my <a href="/doc/sw_pgp_public_key.asc"><i class="fas fa-key" style="padding-left:2px;padding-right:5px"></i>public key</a>
