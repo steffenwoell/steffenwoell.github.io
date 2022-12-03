@@ -16,12 +16,12 @@ Feel free to send me encrypted messages by using this GPG/PGP fingerprint <pre><
 ## Legal
 
 <div class="box-warning" style="margin-bottom:60px">
-Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="CC BY-NC 4.0" target="_blank"><i class="fas fa-arrow-right-to-bracket"></i>&nbsp;Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank"><i class="fas fa-arrow-right-to-bracket"></i>&nbsp;Ron Marzok</a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank"><i class="fas fa-arrow-right-to-bracket"></i>&nbsp;Unsplash</a>.</div>
+Unless stated otherwise, the contents of this personal, non-commercial website are made available under the <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="CC BY-NC 4.0" target="_blank">Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</a>. The profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok</a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</div>
 
 ## Data Protection
 
 <div class="box-warning" style="margin-bottom:60px">
-Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank"><i class="fas fa-arrow-right-to-bracket"></i>&nbsp;self-defense against surveillance</a> are basic human rights. In compliance with the <a href="https://gdpr.eu/what-is-gdpr/" target="_blank"><i class="fas fa-arrow-right-to-bracket"></i>&nbsp;General Data Protection Regulation</a> of the European Union, no data (e.g., IP addresses or browser fingerprints) is ever collected, transmitted, stored, or otherwise used to identify or track visitors. This website is designed to ensure privacy, data protection, and data economy and uses
+Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance</a> are basic human rights. In compliance with the <a href="https://gdpr.eu/what-is-gdpr/" target="_blank">General Data Protection Regulation</a> of the European Union, no data (e.g., IP addresses or browser fingerprints) is ever collected, transmitted, stored, or otherwise used to identify or track visitors. This website is designed to ensure privacy, data protection, and data economy and uses
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="far fa-lemon"></i></span><b>zero</b> cookies</li>
     <li><span class="fa-li"><i class="far fa-thumbs-down"></i></span><b>zero</b> social media plugins</li>
