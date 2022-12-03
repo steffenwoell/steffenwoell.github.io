@@ -882,7 +882,7 @@ pre {
 
 /* --- Notification boxes --- */
 
-.box-updated, .box-note, .box-warning, .box-error, .box-success, .box-blue, .box-toc, .box-toc2 {
+.box-updated, .box-note, .box-warning, .box-error, .box-success, .box-blue, .box-toc-act, .box-toc-pub {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 25px 0px;
   border: 1px solid #eee;
@@ -943,19 +943,19 @@ pre {
   color: #555;
 }
 
-.box-toc {
+.box-toc-act {
   background-color: #fdf5d4;
   border-left-color: #f1c40f;
   color: #ac8d10;
   font-weight: 600;
 }
 
-.box-toc a {
+.box-toc-act a {
   color: #ac8d10;
   font-weight: 600;
 }
 
-.box-toc a:hover, .box-toc a:focus {
+.box-toc-act a:hover, .box-toc-act a:focus {
   color: #ac8d10;
   text-decoration: underline;
   -webkit-transition: color .2s ease-in-out;
@@ -963,22 +963,22 @@ pre {
   transition: color .2s ease-in-out;
 }
 
-.box-toc ol li::marker {
+.box-toc-act ol li::marker {
   color: #d2ad15;
   line-height: 1.6em;
 }
 
-.box-toc2 {
+.box-toc-pub {
   background-color: #d4f0ff;
   border-left-color: #5ab4e5;
 }
 
-.box-toc2 a {
+.box-toc-pub a {
   color: #4c99c4;
   font-weight: 600;
 }
 
-.box-toc2 a:hover, .box-toc2 a:focus {
+.box-toc-pub a:hover, .box-toc-pub a:focus {
   color: #4c99c4;
   text-decoration: underline;
   -webkit-transition: color .2s ease-in-out;
@@ -986,7 +986,7 @@ pre {
   transition: color .2s ease-in-out;
 }
 
-.box-toc2 ol li::marker {
+.box-toc-pub ol li::marker {
   color: #5ab4e5;
   line-height: 1.6em;
   padding-left: 5px;
@@ -1040,7 +1040,7 @@ pre {
   border-left-color: #5ab4e5;
 }
 
-.box-blue a {
+/*.box-blue a {
   color: #555;
   text-decoration: none;
   background-position-y: -0%;
@@ -1052,6 +1052,16 @@ pre {
 
 .box-blue a:hover {
   background-position-y: 100%;
+  text-decoration: none;
+  color: #555;
+}*/
+
+.box-blue a {
+  color: #555;
+  text-decoration: none;
+}
+
+.box-blue a:hover {
   text-decoration: none;
   color: #555;
 }

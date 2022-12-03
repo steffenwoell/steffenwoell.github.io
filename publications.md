@@ -10,7 +10,7 @@ image: /img/pub2.webp
 <span style="white-space:nowrap"><i class="fas fa-landmark" style="padding-right:10px"></i><a href="https://catalog.loc.gov/vwebv/search?searchType=7&searchId=8902&maxResultsPerPage=25&recCount=25&recPointer=0&resultPointer=0&headingId=33459717" target="_blank">Library of Congress</a></span>
 </div>
 
-<div class="box-toc2">
+<div class="box-toc-pub">
 <div style="color:#4c99c4;margin-top:-1px"><i class="fas fa-database" style="padding-right:10px"></i><b>Contents</b></div>
 <ol style="list-style:upper-roman">
 <li><a href="#books">Books</a></li>

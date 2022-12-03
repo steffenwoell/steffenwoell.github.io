@@ -4,11 +4,11 @@ title: Activities
 image: /img/pil.webp
 ---
 
-<div class="box-toc">
-<div><i class="fas fa-database"></i>&nbsp;<b>Contents</b></div>
+<div class="box-toc-act">
+<div style="color:#ac8d10;margin-top:-1px"><i class="fas fa-database"></i>&nbsp;<b>Contents</b></div>
 <ol style="list-style:upper-roman">
 <li><a href="#presentations">Presentations</a></li>
-<li><a href="#conference-and-workshop-organization">Conference & Workshop Organization</a></li>
+<li><a href="#conference-workshop-organization">Conference & Workshop Organization</a></li>
 <li><a href="#teaching-mentoring">Teaching & Mentoring</a></li>
 <li><a href="#field-work-archival-studies">Field Work & Archival Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
@@ -64,7 +64,7 @@ image: /img/pil.webp
 <p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place</em>. American Studies Leipzig Graduate Conference. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Keynote Address</a>.</p>
 </div>
 
-<div><a name="conference-and-workshop-organization">&nbsp;</a></div>
+<div><a name="conference-workshop-organization">&nbsp;</a></div>
 
 ## II.&nbsp;Conference & Workshop Organization
 <div class="gold">
