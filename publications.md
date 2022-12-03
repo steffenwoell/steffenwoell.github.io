@@ -11,7 +11,7 @@ image: /img/pub2.webp
 </div>
 
 <div class="box-toc2">
-<div style="color:#4c99c4;margin-top:-1px"><i class="fas fa-bars-staggered" style="padding-right:10px"></i><b>Table of Contents</b></div>
+<div style="color:#4c99c4;margin-top:-1px"><i class="fas fa-database" style="padding-right:10px"></i><b>Contents</b></div>
 <ol style="list-style:upper-roman">
 <li><a href="#books">Books</a></li>
 <li><a href="#peer-reviewed-journals">Peer-Reviewed Journals</a></li>
