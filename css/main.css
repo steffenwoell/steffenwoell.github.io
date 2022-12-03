@@ -897,8 +897,8 @@ pre {
 }
 
 .box-updated {
-  background-color: #d2c2da;
-  border-left-color: #9645b1;
+  background-color: #f5eef9;
+  border-left-color: #910cbd;
   font-style: normal;
 }
 
@@ -1107,6 +1107,16 @@ pre {
 }
 
 /* Font Awesome tweaks */ 
+
+.fa-fade {
+  opacity: 1;
+  animation: fade 2s linear;
+}
+
+@keyframes fa-fade {
+0%,100% { opacity: 0 }
+50% { opacity: 1 }
+}
 
 .fa-beat {
   animation:fa-beat 5s ease infinite;
