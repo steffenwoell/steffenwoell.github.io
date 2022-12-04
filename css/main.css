@@ -400,7 +400,7 @@ footer a {
 }
 
 .license {
-  margin: 60px 0 20px 0;
+  margin: 45px 0 20px 0;
   color: #888;
   text-align: center;
   font-weight: 300;
@@ -1176,7 +1176,9 @@ pre {
   }
 }
 
-.fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {padding-left: 20px;}
+.fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {
+  padding: 0 0 20px 20px;
+}
 
 .fa-external-link-alt, .fa-file-pdf, .fa-youtube, .fa-file-image, .fa-lock-open {padding-left: 5px;}
 
