@@ -431,7 +431,7 @@ footer a {
 
 footer .list-inline {
   margin: 0;
-  padding: 0;
+  padding-top: 10px;
 }
 footer .copyright {
   text-align: center;
