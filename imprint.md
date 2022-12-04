@@ -37,8 +37,8 @@ Links to external websites are provided as a convenience and for informational p
 
 ## Data Protection & Accessibility
 
-<div class="box-warning" style="margin-bottom:60px">
-Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense<i class="fas fa-external-link-alt"></i></a> against surveillance represent basic human rights. In compliance with the <a href="https://gdpr.eu/what-is-gdpr/" target="_blank">General Data Protection Regulation<i class="fas fa-external-link-alt"></i></a> of the European Union, no data (e.g., IP addresses, cookies, or browser fingerprints) is ever collected, transmitted, stored, or used to identify or track visitors. This website is designed to guarantee user privacy, data protection, and data economy by following a policy of
+<div class="box-success" style="margin-bottom:60px">
+Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance<i class="fas fa-external-link-alt"></i></a> are basic human rights. This website is designed to ensure user privacy, data protection, and data economy. No data (e.g., IP addresses, cookies, or browser fingerprints) is ever collected, transmitted, stored, or used in any form to identify or track the visitors of this website, which observes a strict policy of
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="far fa-lemon"></i></span><b>zero</b> cookies</li>
     <li><span class="fa-li"><i class="far fa-thumbs-down"></i></span><b>zero</b> social media</li>
