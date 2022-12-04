@@ -417,15 +417,20 @@ footer a {
 
 .footer-buttons {
   text-align: center;
+  padding-right: 20px;
 }
 
-.footer-buttons a {
+.cc-buttons {
+  text-align: center;
+}
+
+.footer-buttons a, .cc-buttons a {
   color: #ccc;
   text-shadow: 1px 1px rgba(255,255,255,0.8);
   transition: 0.5s ease;
 }
 
-.footer-buttons a:hover, .footer-buttons a:active, .footer-buttons a:focus {
+.footer-buttons a:hover, .footer-buttons a:active, .footer-buttons a:focus, .cc-buttons a:hover, .cc-buttons a:active, .cc-buttons a:focus {
   color: #aaa;
 }
 
