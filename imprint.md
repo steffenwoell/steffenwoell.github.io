@@ -27,7 +27,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
     <li><span class="fa-li"><i class="far fa-thumbs-down"></i></span><b>zero</b> social media</li>
     <li><span class="fa-li"><i class="far fa-eye-slash"></i></span><b>zero</b> analytics</li>
     <li><span class="fa-li"><i class="far fa-file-excel"></i></span><b>zero</b> log files</li>
-    <li><span class="fa-li"><i class="fas fa-universal-access"></i></span><b>improved</b> accessibility</li>
+    <li><span class="fa-li"><i class="fab fa-accessible-icon"></i></span><b>improved</b> accessibility</li>
   </ul>
 </div>
 
