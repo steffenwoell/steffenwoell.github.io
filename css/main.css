@@ -1171,6 +1171,8 @@ pre {
   }
 }
 
+.fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {padding-left: 20px;}
+
 .fa-external-link-alt, .fa-file-pdf, .fa-youtube, .fa-file-image, .fa-lock-open {padding-left: 5px;}
 
 .fab {font-weight: 300;}
