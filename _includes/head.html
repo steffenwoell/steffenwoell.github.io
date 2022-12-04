@@ -1,17 +1,17 @@
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, viewport-fit=cover">
 
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }} | Steffen Wöll{% else %}{{ site.title }}{% endif %}</title>
 
-  <meta name="author" content="{{ site.author.name }}" />
+  <meta name="author" content="{{ site.author.name }}">
 
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}">
 
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
@@ -21,7 +21,7 @@
 
   {% if layout.common-css %}
     {% for css in layout.common-css %}
-      <link rel="stylesheet" href="{{ css | relative_url }}" />
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
 
@@ -33,16 +33,16 @@
 
   {% if page.css %}
     {% for css in page.css %}
-      <link rel="stylesheet" href="{{ css | relative_url }}" />
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
 
   {% if page.meta-title %}
-  <meta property="og:title" content="{{ page.meta-title }}" />
+  <meta property="og:title" content="{{ page.meta-title }}">
   {% elsif page.title %}
-  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:title" content="{{ page.title }}">
   {% else %}
-  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:title" content="{{ site.title }}">
   {% endif %}
 
    {% if page.meta-description %}
@@ -54,20 +54,20 @@
   {% endif %}
 
 
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content="website">
 
   {% if page.id %}
-  <meta property="og:url" content="{{ page.url | absolute_url }}" />
-  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% else %}
-  <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}" />
-  <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}">
+  <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
   {% endif %}
 
   {% if page.share-img %}
-  <meta property="og:image" content="{{ page.share-img }}" />
+  <meta property="og:image" content="{{ page.share-img }}">
   {% elsif site.avatar %}
-  <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
+  <meta property="og:image" content="{{ site.avatar | absolute_url }}">
   {% endif %}
 
   {% if site.matomo %}
@@ -76,7 +76,7 @@
 
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
   <!-- Staticman -->
-  <link rel="stylesheet" href="{{ "/css/staticman.css" | relative_url }}" />
+  <link rel="stylesheet" href="{{ "/css/staticman.css" | relative_url }}">
   {% endif %}
 
 </head>
