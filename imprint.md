@@ -32,7 +32,7 @@ Unless stated otherwise, the contents of this personal, non-commercial website a
 ## External Links
 
 <div class="box-warning" style="margin-bottom:60px">
-Links to external websites are provided as a convenience and for informational purposes only. They do not constitute an endorsement or an approval of any of the products, services or opinions of the corporation, organization, or individual responsible for the linked website. I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. For requests to remove an external link refer to the above contact details.
+Links to external websites are provided as a convenience and for informational purposes only. They do not constitute an endorsement or an approval of any of the products, services or opinions of the corporation, organization or individual responsible for the linked website. I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. For requests to remove a link please refer to the contact details above.
 </div>
 
 ## Data Protection & Accessibility
