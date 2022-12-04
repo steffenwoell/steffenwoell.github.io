@@ -400,7 +400,7 @@ footer a {
 }
 
 .license {
-  margin: 40px 0 20px 0;
+  margin: 60px 0 20px 0;
   color: #888;
   text-align: center;
   font-weight: 300;
@@ -417,14 +417,12 @@ footer a {
 
 .footer-buttons {
   text-align: center;
-  white-space:normal;
 }
 
 .footer-buttons a {
   color: #ccc;
   text-shadow: 1px 1px rgba(255,255,255,0.8);
   transition: 0.5s ease;
-  padding-bottom: 20px;
 }
 
 .footer-buttons a:hover, .footer-buttons a:active, .footer-buttons a:focus {
