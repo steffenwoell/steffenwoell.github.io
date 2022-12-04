@@ -47,9 +47,9 @@ image: /img/pub2.webp
 <p>&#8220;Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies.&#8221; <em>ANGLICA: An International Journal of English Studies</em> 29 (2020) 1: 87–107. <a href="https://anglica-journal.com/resources/html/article/details?id=207706" target="_blank">Print</a>.</p>
 <p>&#8220;&#8216;To Be Murdered&#8217;: Simulations of Objectivity, Subjectivity, and Violence in Truman Capote&#8217;s <em>In Cold Blood</em>.&#8221; <em>Irish Journal of American Studies</em>. 2019. <a href="http://ijas.iaas.ie/issue-8-steffen-woll/" target="_blank">Open Access</a>.</p>
 <p>&#8220;Bleeding Borders: Space, Blackness, and Hybridity in Jack London&#8217;s Representations of the American Southwest.&#8221; <em>Amerikastudien / American Studies </em>63 (2018) 1: 5-28. <a href="https://amst.winter-verlag.de/article/AMST/2018/1/3" target="_blank">Open Access</a>.</p>
-<p>&#8220;Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón&#8217;s <em>Gravity</em>.&#8221; <em>Polish Journal for American Studies</em> 11 (2017): 203–222. <a href="http://www.paas.org.pl/pjas/pjas-archive/" target="_blank">Print</a>.</p>
-<p>&#8220;Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>Emotion, Space and Society</em> 24 (2017): 1–8. <a href="http://www.sciencedirect.com/science/article/pii/S1755458616301359" target="_blank">Print</a>.</p>
-<p>&#8220;Inertia and Movement: The Spatialization of the Native Northland in Jack London&#8217;s Short Stories.&#8221; <em>GeoHumanities</em> 3 (2017) 1: 65–87. <a href="http://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821" target="_blank">Print</a>.</p>
+<p>&#8220;Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón&#8217;s <em>Gravity</em>.&#8221; <em>Polish Journal for American Studies</em> 11 (2017): 203–222. <a href="https://www.paas.org.pl/pjas/pjas-archive/" target="_blank">Print</a>.</p>
+<p>&#8220;Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger&#8217;s <em>Ragged Dick</em>.&#8221; <em>Emotion, Space and Society</em> 24 (2017): 1–8. <a href="https://www.sciencedirect.com/science/article/pii/S1755458616301359" target="_blank">Print</a>.</p>
+<p>&#8220;Inertia and Movement: The Spatialization of the Native Northland in Jack London&#8217;s Short Stories.&#8221; <em>GeoHumanities</em> 3 (2017) 1: 65–87. <a href="https://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821" target="_blank">Print</a>.</p>
 <p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access</a>.</p>
 </div>
 
@@ -73,7 +73,7 @@ image: /img/pub2.webp
 ## IV.&nbsp;Reviews
 <div class="blue">
 <p>Review of <em>Writing History in America&#8217;s Shadow: Japan, the Philippines, and the Question of Pan-Asianism</em> by Takamichi Serizawa. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em>. 27 May 2022. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-96786" target="_blank">Open Access</a>.</p>
-<p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Connections. A Journal for Historians and Area Specialists</em>. 8 January 2021. <a href="http://www.connections.clio-online.net/publicationreview/id/reb-95016" target="_blank">Open Access</a>.</p>
+<p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Connections. A Journal for Historians and Area Specialists</em>. 8 January 2021. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-95016" target="_blank">Open Access</a>.</p>
 <p>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880–1930</em> by Dominic Davies. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 5: 102–103. <a href="https://www.comparativ.net/v2/issue/view/158" target="_blank">Print</a>.</p>
 <p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 1: 105–107. <a href="https://www.comparativ.net/v2/issue/view/154" target="_blank">Print</a>.</p>
 <p>Peer reviewer for <em><a href="https://islandstudiesjournal.org/" target="_blank">Island Studies Journal</a></em>.</p>
@@ -98,7 +98,7 @@ image: /img/pub2.webp
 <p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web</a>.</p>
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature.&#8221; <em>TRAFO – Blog for Transregional Research</em>. 10 April 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web</a>.</p>
 <p>&#8220;The Second Cold War.&#8221; <em>The Unz Review</em>. 9 December 2015. <a href="https://www.unz.com/article/the-second-cold-war/" target="_blank">Web</a>.</p>
-<p>&#8220;The Second Cold War. The US Might Come Out on the Losing Side...&#8221; <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="http://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
+<p>&#8220;The Second Cold War. The US Might Come Out on the Losing Side...&#8221; <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="https://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web</a>.</p>
 </div>
 
 <div><a name="digital-humanities">&nbsp;</a></div>
