@@ -454,6 +454,10 @@ footer .theme-by {
   }
 }
 
+.footer-links li {
+  padding-bottom: 10px;
+}
+
 /* --- Post preview --- */
 
 .post-preview {
