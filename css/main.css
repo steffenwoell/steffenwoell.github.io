@@ -370,7 +370,7 @@ footer a {
 }
 
 .copyright {
-  margin: 40px 0 60px 0;
+  margin: 35px 0 60px 0;
   font-weight: 300;
   color: #555;
 }
@@ -460,7 +460,7 @@ footer .theme-by {
 }
 
 .footer-links li {
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 
 /* --- Post preview --- */
