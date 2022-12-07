@@ -133,7 +133,7 @@ image: /img/pil.webp
 <div><a name="non-profit">&nbsp;</a></div>
 
 ## VII.&nbsp;Non-profit Activities
-<div class="gold">
+<div class="gold" style="margin-bottom:-18px">
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award<i class="fas fa-external-link-alt"></i></a>.</p>
 <p>Wikipedia Editor.</p>
 <p style="margin-bottom:60px">KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association<i class="fas fa-external-link-alt"></i></a>.</p>
