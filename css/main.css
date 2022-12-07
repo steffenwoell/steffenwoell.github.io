@@ -51,6 +51,7 @@ a {
 color: #555;
 text-decoration: none;
 font-weight: bold;
+white-space: nowrap;
 }
 
 a:hover,a:focus,a:active {
@@ -61,6 +62,7 @@ a:hover,a:focus,a:active {
 .gold a {
   color: #555;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .gold a:hover {
@@ -87,6 +89,7 @@ a:hover,a:focus,a:active {
 .blue a {
   color: #555;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .blue a:hover {
