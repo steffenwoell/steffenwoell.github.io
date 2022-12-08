@@ -26,7 +26,7 @@ image: /img/pub2.webp
 </ol>
 </div>
 
-<div><a name="books">&nbsp;</a></div>
+<div><a id="books">&nbsp;</a></div>
 
 ## I.&nbsp;Books
 <div class="blue">
@@ -35,7 +35,7 @@ image: /img/pub2.webp
 <p><em>Periphere Räume in der Amerikanistik</em>. With Gabriele Pisarz-Ramirez. Dialektik des Globalen. Kernbegriffe. De Gruyter, 2019. <a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html" target="_blank">Print & Open Access<i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="peer-reviewed-journals">&nbsp;</a></div>
+<div><a id="peer-reviewed-journals">&nbsp;</a></div>
 
 ## II.&nbsp;Peer-Reviewed Journals
 <div class="blue">
@@ -53,7 +53,7 @@ image: /img/pub2.webp
 <p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v–viii. Introduction. <a href="http://www.aspeers.com/2015/introduction" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="book-chapters">&nbsp;</a></div>
+<div><a id="book-chapters">&nbsp;</a></div>
 
 ## III.&nbsp;Book Chapters
 <div class="blue">
@@ -68,7 +68,7 @@ image: /img/pub2.webp
 <p>&#8220;Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States.&#8221; <em>Collaborative Research Centre 1199</em>. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. Leipziger Universitätsverlag, 2018. <a href="https://research.uni-leipzig.de/~sfb1199/publication/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/" target="_blank">Print<i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="reviews">&nbsp;</a></div>
+<div><a id="reviews">&nbsp;</a></div>
 
 ## IV.&nbsp;Reviews
 <div class="blue">
@@ -81,7 +81,7 @@ image: /img/pub2.webp
 <p>Peer reviewer for <em><a href="https://angl.winter-verlag.de" target="_blank">Anglistik<i class="fas fa-external-link-alt"></i></a></em>.</p>
 </div>
 
-<div><a name="editing">&nbsp;</a></div>
+<div><a id="editing">&nbsp;</a></div>
 
 ## V.&nbsp;Editing
 <div class="blue">
@@ -89,11 +89,11 @@ image: /img/pub2.webp
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="internet">&nbsp;</a></div>
+<div><a id="internet">&nbsp;</a></div>
 
 ## VI.&nbsp;Internet
 <div class="blue">
-<p>&#8220;Violence, Representation, and Ecocide in the American West.&#8221; 2021. For <em>Academia Letters</em>. <a href="/doc/Violence, Representation, and Ecocide in the American West (Steffen Wöll).pdf" target="_blank">Open Access<i class="far fa-file-pdf"></i></a>.</p>
+<p>&#8220;Violence, Representation, and Ecocide in the American West.&#8221; 2021. For <em>Academia Letters</em>. <a href="/doc/Violence,%20Representation,%20and%20Ecocide%20in%20the%20American%20West%20(Steffen%20W&#246;ll).pdf" target="_blank">Open Access<i class="far fa-file-pdf"></i></a>.</p>
 <p>&#8220;The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.&#8221; <em>TRAFO – Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361" target="_blank">Web<i class="fas fa-external-link-alt"></i></a>.</p>
 <p>&#8220;Mapping Discourse in R.H. Dana&#8217;s &#8216;Two Years Before the Mast.&#8217;&#8221; <em>TRAFO – Blog for Transregional Research</em>. 31 October 2019. <a href="https://trafo.hypotheses.org/19891" target="_blank">Web<i class="fas fa-external-link-alt"></i></a>.</p>
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature.&#8221; <em>TRAFO – Blog for Transregional Research</em>. 10 April 2018. <a href="https://trafo.hypotheses.org/9636" target="_blank">Web<i class="fas fa-external-link-alt"></i></a>.</p>
@@ -101,7 +101,7 @@ image: /img/pub2.webp
 <p>&#8220;The Second Cold War. The US Might Come Out on the Losing Side...&#8221; <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="https://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412" target="_blank">Web<i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="digital-humanities">&nbsp;</a></div>
+<div><a id="digital-humanities">&nbsp;</a></div>
 
 ## VII.&nbsp;Digital Humanities
 <div class="blue">
@@ -109,7 +109,7 @@ image: /img/pub2.webp
 <p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.webp" target="_blank">Map<i class="fas fa-file-image"></i></a>.</p>
 </div>
 
-<div><a name="moderated-open-access">&nbsp;</a></div>
+<div><a id="moderated-open-access">&nbsp;</a></div>
 
 ## VIII.&nbsp;Moderated Open Access
 <div class="blue">
@@ -121,7 +121,7 @@ image: /img/pub2.webp
 <p>&#8220;&#8216;I Thought of Carthage&#8217;: Disentangling Moral and Military Aspects of the Hiroshima and Nagasaki Bombings.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlobach). <a href="https://osf.io/preprints/socarxiv/m3pj4" target="_blank">Open Access<i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="posters">&nbsp;</a></div>
+<div><a id="posters">&nbsp;</a></div>
 
 ## IX.&nbsp;Posters
 <div class="blue">
@@ -129,7 +129,7 @@ image: /img/pub2.webp
 <p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf" target="_blank">Conference Poster<i class="far fa-file-pdf"></i></a>.</p>
 </div>
 
-<div><a name="websites">&nbsp;</a></div>
+<div><a id="websites">&nbsp;</a></div>
 
 ## X.&nbsp;Websites
 <div class="blue" style="margin-bottom:42px">

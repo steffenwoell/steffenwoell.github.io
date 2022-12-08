@@ -17,7 +17,7 @@ image: /img/pil.webp
 </ol>
 </div>
 
-<div><a name="presentations">&nbsp;</a></div>
+<div><a id="presentations">&nbsp;</a></div>
 
 ## I.&nbsp;Presentations
 <div class="gold">
@@ -64,7 +64,7 @@ image: /img/pil.webp
 <p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place</em>. American Studies Leipzig Graduate Conference. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Keynote Address<i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="conference-workshop-organization">&nbsp;</a></div>
+<div><a id="conference-workshop-organization">&nbsp;</a></div>
 
 ## II.&nbsp;Conference & Workshop Organization
 <div class="gold">
@@ -77,7 +77,7 @@ image: /img/pil.webp
 <p>&#8220;Urban America: Mediating City Space as Place.&#8220; <em>American Studies Leipzig Graduate Conference</em>. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Co-Organizer<i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="teaching-mentoring">&nbsp;</a></div>
+<div><a id="teaching-mentoring">&nbsp;</a></div>
 
 ## III.&nbsp;Teaching & Mentoring
 <div class="gold">
@@ -94,7 +94,7 @@ image: /img/pil.webp
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1" target="_blank">Guest Lecture<i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="field-work-archival-studies">&nbsp;</a></div>
+<div><a id="field-work-archival-studies">&nbsp;</a></div>
 
 ## IV.&nbsp;Field Work & Archival Studies
 <div class="gold">
@@ -108,7 +108,7 @@ image: /img/pil.webp
 <p><em>Religion in American Society</em>. 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Funded by VolkswagenStiftung. With Hartmut Keil. <a href="https://studytour2015.wordpress.com" target="_blank">Co-Organizer<i class="fas fa-external-link-alt"></i></a>.</p>
 </div>
 
-<div><a name="memberships">&nbsp;</a></div>
+<div><a id="memberships">&nbsp;</a></div>
 
 ## V.&nbsp;Memberships
 <div class="gold">
@@ -122,7 +122,7 @@ image: /img/pil.webp
 <p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA<i class="fas fa-external-link-alt"></i></a> (Society of Early Americanists)</p>
 </div>
 
-<div><a name="grants-awards">&nbsp;</a></div>
+<div><a id="grants-awards">&nbsp;</a></div>
 
 ## VI.&nbsp;Grants & Awards
 <div class="gold">
@@ -130,7 +130,7 @@ image: /img/pil.webp
 <p>DAAD Travel Stipend. 2017.</p>
 </div>
 
-<div><a name="non-profit">&nbsp;</a></div>
+<div><a id="non-profit">&nbsp;</a></div>
 
 ## VII.&nbsp;Non-profit Activities
 <div class="gold" style="margin-bottom:-18px">
