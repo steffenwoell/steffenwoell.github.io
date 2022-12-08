@@ -42,7 +42,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="far fa-lemon"></i></span><b>zero</b> cookies</li>
     <li><span class="fa-li"><i class="far fa-thumbs-down"></i></span><b>zero</b> social media</li>
-    <li><span class="fa-li"><i class="fas fa-toggle-off"></i></span><b>zero</b> analytics</li>
+    <li><span class="fa-li"><i class="fas fa-ghost"></i></span><b>zero</b> analytics</li>
     <li><span class="fa-li"><i class="far fa-file-excel"></i></span><b>zero</b> log files</li>
     <li><span class="fa-li"><i class="fas fa-eye-low-vision"></i></span><b>improved</b> accessibility</li>
     <li><span class="fa-li"><i class="fab fa-html5"></i></span><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsteffenwoell.github.io%2F" target="_blank">valid HTML5<i class="fas fa-external-link-alt"></i></a></li>
