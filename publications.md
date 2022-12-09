@@ -132,7 +132,7 @@ image: /img/pub2.webp
 <div><a id="websites">&nbsp;</a></div>
 
 ## X.&nbsp;Websites
-<div class="blue" style="margin-bottom:100px">
+<div class="blue" style="margin-bottom:110px">
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.org" target="_blank">Website Programming & Design<i class="fas fa-external-link-alt"></i></a>.</p>
 <p><em>steffenwoell.github.io</em>. 2019—. Website Programming & Design.</p>
 </div>
