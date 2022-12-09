@@ -13,12 +13,16 @@ body {
   font-weight: normal;
   color: #404040;
   position: relative;
+  display: flex;
+  flex-direction:column;
+  min-height:100vh;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
 }
+
 
 p {
   line-height: 1.5;
@@ -351,7 +355,7 @@ img {
 footer {
   padding: 30px 0;
   border-top: 1px #EAEAEA solid;
-  margin-top: 50px;
+  margin-top: auto;
   font-size: 14px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
