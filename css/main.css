@@ -14,7 +14,7 @@ body {
   color: #404040;
   position: relative;
   display: flex; /* Sticky footer */
-  flex-direction:column; /* Sticky footer */
+  flex-direction: column; /* Sticky footer */
   min-height:100vh; /* Sticky footer */
   background-color: {{ site.page-col }};
   {% if site.page-img %}
