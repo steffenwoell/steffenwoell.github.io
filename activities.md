@@ -13,7 +13,7 @@ image: /img/act.webp
 <li><a href="#field-work-archival-studies">Field Work & Archival Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
-<li><a href="#volunteering">Volunteering</a></li>
+<li><a href="#volunteering">Volunteering Work</a></li>
 </ol>
 </div>
 
@@ -132,7 +132,7 @@ image: /img/act.webp
 
 <div><a id="volunteering">&nbsp;</a></div>
 
-## VII.&nbsp;Volunteering
+## VII.&nbsp;Volunteering Work
 <div class="gold" style="margin-bottom:110px">
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award<i class="fas fa-external-link-alt"></i></a></p>
 <p>Wikipedia Editor.</p>
