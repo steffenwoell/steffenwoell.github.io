@@ -106,7 +106,7 @@ image: /img/pub.webp
 ## VII.&nbsp;Digital Humanities
 <div class="blue">
 <p>&#8220;Conspicuous Spatializations: Visualizing (Anti-)Imperial Spatial Imaginations of Transhemispheric America through Corpus-based Data.&#8221; 2022. <a href="/doc/Conspicuous-Spatializations_Visual-Samples-Steffen-Wöll.pdf" target="_blank">Interactive Visualizations<i class="far fa-file-pdf"></i></a> [Samples].</p>
-<p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018. <a href="/img/discursive-map-rh-dana.webp" target="_blank">Map<i class="fas fa-file-image"></i></a></p>
+<p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018/2022. <a href="https://doi.org/10.48736/GD1RJN6HK" target="_blank">Map<i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
 <div><a id="moderated-open-access">&nbsp;</a></div>
