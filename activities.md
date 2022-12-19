@@ -13,7 +13,7 @@ image: /img/act.webp
 <li><a href="#field-work-archival-studies">Field Work & Archival Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
-<li><a href="#non-profit">Non-profit Activities</a></li>
+<li><a href="#volunteering">Volunteering</a></li>
 </ol>
 </div>
 
@@ -130,9 +130,9 @@ image: /img/act.webp
 <p>DAAD Travel Stipend. 2017.</p>
 </div>
 
-<div><a id="non-profit">&nbsp;</a></div>
+<div><a id="volunteering">&nbsp;</a></div>
 
-## VII.&nbsp;Non-profit Activities
+## VII.&nbsp;Volunteering
 <div class="gold" style="margin-bottom:110px">
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award<i class="fas fa-external-link-alt"></i></a></p>
 <p>Wikipedia Editor.</p>
