@@ -132,7 +132,7 @@ image: /img/act.webp
 
 <div><a id="volunteering">&nbsp;</a></div>
 
-## VII.&nbsp;Volunteering
+## VII.&nbsp;Volunteering 
 <div class="gold" style="margin-bottom:110px">
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award<i class="fas fa-external-link-alt"></i></a></p>
 <p>Wikipedia Editor.</p>
