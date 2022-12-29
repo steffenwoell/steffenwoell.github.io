@@ -39,7 +39,7 @@ image: /img/pub.webp
 
 ## II.&nbsp;Peer-Reviewed Journals
 <div class="blue">
-<p>&#8220;Unmasking Maps, Unmaking Narratives: Towards an Archipelagic Cartography.&#8221; <em>Journal of Transatlantic American Studies</em> Special Issue &#8220;Archipelagic Imperial Mobilities.&#8221; Forthcoming 2022.</p>
+<p>&#8220;Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography.&#8221; <em>Journal of Transatlantic American Studies</em> Special Forum &#8220;Archipelagic Imperial Mobilities.&#8221; Forthcoming 2023.</p>
 <p>&#8220;Beyond the Artifact: Unfolding Medieval, Algorithmic, and Unruly Lives of Maps.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em> 92-93 (Summer 2022): 54-71. <a href="https://journals.lib.unb.ca/index.php/MCR/issue/view/2262" target="blank">Print<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;&#8216;Then I Started for the Mountains&#8217;: Retracing Louisiana&#8217;s Human Geographies across Five Remarkable Biographies.&#8221; <em>Clio: A Journal of Literature, History, and the Philosophy of History</em> 49 (2021) 1: 42-64. <a href="https://www.pfw.edu/clio/index-contents/" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Polish Journal for American Studies</em> 14 (2020): 197-209. <a href="https://www.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7" target="_blank">Open Access<i class="fas fa-external-link-alt"></i></a></p>
