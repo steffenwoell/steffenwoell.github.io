@@ -57,10 +57,10 @@ image: /img/pub.webp
 
 ## III.&nbsp;Book Chapters
 <div class="blue">
-<p>&#8220;Visualizing Nineteenth-Century Exploration.&#8221; <em>A Cultural History of Exploration</em>. Bloomsbury. Planned for Publication in 2024.</p>
-<p>&#8220;Mug Shots and Passport Photography.&#8221; <em>Encyclopedia of Visual Culture</em>. Bloomsbury. Planned for Publication in 2023.</p>
-<p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>The Literary Western in the Global Imagination</em>. Eds. Conway, Christopher, David Rio, and Marek Paryz. Forthcoming.</p>
-<p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft</em>. Ed. Tim Lanzendörfer. Palgrave. Forthcoming.</p>
+<p>&#8220;Visualizing Nineteenth-Century Exploration.&#8221; <em>A Cultural History of Exploration</em>. Bloomsbury. Planned for Publication 2024.</p>
+<p>&#8220;Mug Shots and Passport Photography.&#8221; <em>Encyclopedia of Visual Culture</em>. Bloomsbury. Planned for Publication 2023.</p>
+<p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft</em>. Eds. Tim Lanzendörfer and Max José Dreysse Passos de Carvalho. Palgrave Studies in Adaptation and Visual Culture. Palgrave Macmillan. 2023. <a href="https://link.springer.com/book/9783031137648" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
+<p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>The Western in the Global Literary Imagination </em>. Eds. Christopher Conway, Marek Paryż, and David Rio.     European Perspectives on the United States, Vol. 5. Brill. 2022: 131-48. <a href="https://brill.com/display/title/61576" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;&#8216;True Places Never Are&#8217;: Navigating (Trans)Oceanic Imaginations in <em>Moby-Dick</em>.&#8221; <em>American Studies Over_Seas Vol. 1: Narrating Multiple America(s)</em>. Eds. Edgardo Medeiros da Silva, Margarida Vale de Gato, Mário Avelar et al. Peter Lang. 2022: 51-63. <a href="https://www.peterlang.com/document/1252903" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Spatial Imaginations and Counter-Geographies of Oregon and the Far West.&#8221; <em>Reinventar o social: movimentos e narrativas de resistência nas Américas / Reinventing the Social: Movements and Narratives of Resistance in the Americas</em>. Eds. Isabel Caldeira, Maria José Canelo, and Gonçalo Cholant. Coimbra University Press. 2021: 237-63. <a href="https://www.amazon.es/dp/9892621255/" target="_blank">Print<i class="fas fa-external-link-alt"></i></a> & <a href="http://monographs.uc.pt/iuc/catalog/book/235" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;&#8216;Fear Thy Neighbor&#8217;: Paranoia and Suburban Victim-Hood in Mark Pellington&#8217;s <em>Arlington Road</em>.&#8221; <em>Traditions and Transitions</em>. Vol. 1. Eds. Emilia Slavova et al. St. Kliment Ohridski University Press. 2019: 290–302. <a href="https://eas.uni-sofia.bg/traditions-and-transitions/" target="_blank">Open Access<i class="fas fa-external-link-alt"></i></a></p>
@@ -85,7 +85,7 @@ image: /img/pub.webp
 
 ## V.&nbsp;Editing
 <div class="blue">
-<p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; <em>Journal of Transnational American Studies</em> Special Forum. 2023. Co-editor.</p>
+<p><em>Archipelagic Spaces and Im/Mobilities</em>. Special Forum. <em>Journal of Transnational American Studies</em> Forthcoming 2023. Co-editor. Open Access.</p>
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
