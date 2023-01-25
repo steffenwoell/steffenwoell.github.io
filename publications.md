@@ -14,13 +14,13 @@ image: /img/pub.webp
 <div style="color:#4c99c4;margin-top:-1px"><i class="fas fa-database" style="padding-right:10px"></i><b>Contents</b></div>
 <ol style="list-style:upper-roman">
 <li><a href="#books">Books</a></li>
-<li><a href="#peer-reviewed-journals">Peer-Reviewed Journals</a></li>
-<li><a href="#book-chapters">Book Chapters</a></li>
+<li><a href="#journals">Journals (Peer-Reviewed)</a></li>
+<li><a href="#book-chapters">Book Chapters (Peer-Reviewed)</a></li>
 <li><a href="#reviews">Reviews</a></li>
 <li><a href="#editing">Editing</a></li>
 <li><a href="#internet">Internet</a></li>
 <li><a href="#digital-humanities">Digital Humanities</a></li>
-<li><a href="#moderated-open-access">Moderated Open Access</a></li>
+<li><a href="#open-access">Moderated Open Access</a></li>
 <li><a href="#posters">Posters</a></li>
 <li><a href="#websites">Websites</a></li>
 </ol>
@@ -35,9 +35,9 @@ image: /img/pub.webp
 <p><em>Periphere Räume in der Amerikanistik</em>. With Gabriele Pisarz-Ramirez. Dialektik des Globalen. Kernbegriffe. De Gruyter, 2019. <a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html" target="_blank">Print & Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
-<div><a id="peer-reviewed-journals">&nbsp;</a></div>
+<div><a id="journals">&nbsp;</a></div>
 
-## II.&nbsp;Peer-Reviewed Journals
+## II.&nbsp;Journals (Peer-Reviewed)
 <div class="blue">
 <p>&#8220;Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography.&#8221; <em>Journal of Transatlantic American Studies</em> Special Forum &#8220;Archipelagic Imperial Mobilities.&#8221; Forthcoming 2023.</p>
 <p>&#8220;From Starved Rock to Cancer Alley: Simulated Violence and Representational Collapse in the American West.&#8221; <em>Intersectional Perspectives: Identity, Culture, and Society</em>. Forthcoming 2023.</p>
@@ -56,7 +56,7 @@ image: /img/pub.webp
 
 <div><a id="book-chapters">&nbsp;</a></div>
 
-## III.&nbsp;Book Chapters
+## III.&nbsp;Book Chapters (Peer-Reviewed)
 <div class="blue">
 <p>&#8220;Visualizing Nineteenth-Century Exploration.&#8221; <em>A Cultural History of Exploration</em>. Bloomsbury. Planned for Publication 2024.</p>
 <p>&#8220;Mug Shots and Passport Photography.&#8221; <em>Encyclopedia of Visual Culture</em>. Bloomsbury. Planned for Publication 2023.</p>
@@ -110,7 +110,7 @@ image: /img/pub.webp
 <p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018/2022. <a href="https://doi.org/10.48736/GD1RJN6HK" target="_blank">Map<i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
-<div><a id="moderated-open-access">&nbsp;</a></div>
+<div><a id="open-access">&nbsp;</a></div>
 
 ## VIII.&nbsp;Moderated Open Access
 <div class="blue">
