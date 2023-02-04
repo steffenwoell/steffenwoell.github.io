@@ -82,7 +82,7 @@ image: /img/act.webp
 
 ## III.&nbsp;Teaching & Mentoring
 <div class="gold">
-<p>&#8220;Unfilmable / Unwatchable: Cinematic Depictions of Identity, Conformity, and Neurodiversity.&#8221; <em>Media and Society</em>. Leipzig University. Summer Term 2023. Seminar.</p>
+<p>&#8220;Unfilmable / Unwatchable: Cinematic Depictions of Identity, Conformity, and Neurodiversity.&#8221; <em>Media and Society</em>. Leipzig University. Summer Term 2023. <a href="/doc/MaS%Seminar%2023%Syllabus.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a>.</p>
 <p>&#8220;African American History, Culture, and Literature until the Civil War.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. 24 October 2022. <a href="/doc/E&D%20Guest%20Lecture%20WS%2022-23.pdf" target="_blank">Guest Lecture<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;Youth Cultures, Ethnicity, and Protest in the United States.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2022/23. <a href="/doc/E&D%20Seminar%20WS%2022-23%20Syllabus.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;Illuminating Race, Class, and Gender: The Cultural Dynamics of Mugshots and Passport Photography.&#8221; <em>Prison and Literature</em>. Julius Maximilian University of Würzburg. 22 June 2022. <a href="https://www.neuphil.uni-wuerzburg.de/anglistik/aktuelles/single/news/illuminating-race-class-and-gender-the-cultural-dynamics-of-mugshots-and-passport-photography/" target="_blank">Guest Lecture<i class="fas fa-external-link-alt"></i></a></p>
