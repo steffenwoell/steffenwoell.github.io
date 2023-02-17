@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eaten by Worms
-subtitle: ∂iscovery
+subtitle: A Vagary
 image: /img/wor.webp
 excerpt: Sound of the future, Crawling slowly, Through ravines, Nearby echo ...
 permalink: /journal/:title/
@@ -14,9 +14,9 @@ Through ravines
 Nearby echo  
 In sickness  
 And in health  
-That’s me  
+That's me  
 Only more so  
-We’re all  
+We're all  
 On the inside  
 Looking out  
 Moroder marauder  
