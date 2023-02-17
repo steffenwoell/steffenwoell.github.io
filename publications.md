@@ -58,7 +58,7 @@ image: /img/pub.webp
 
 ## III.&nbsp;Book Chapters (Peer-Reviewed)
 <div class="blue">
-<p>&#8220;Visualizing Nineteenth-Century Exploration.&#8221; <em>A Cultural History of Exploration</em>. Bloomsbury. Accepted for Publication. 2024.</p>
+<p>&#8220;Visualizing Exploration.&#8221; <em>A Cultural History of Exploration</em>. Bloomsbury. Accepted for Publication. 2024.</p>
 <p>&#8220;Mug Shots and Passport Photography.&#8221; <em>Encyclopedia of Visual Culture</em>. Bloomsbury. Accepted for Publication. 2023.</p>
 <p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft: Comic, Film, Podcast, TV, Games</em>. Eds. Tim Lanzendörfer and Max José Dreysse Passos de Carvalho. Palgrave Studies in Adaptation and Visual Culture. Palgrave Macmillan. 2023:  339-57. <a href="https://link.springer.com/chapter/10.1007/978-3-031-13765-5_19" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>The Western in the Global Literary Imagination </em>. Eds. Christopher Conway, Marek Paryż, and David Rio.European Perspectives on the United States, Vol. 5. Brill. 2022: 131-48. <a href="https://brill.com/display/title/61576" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
