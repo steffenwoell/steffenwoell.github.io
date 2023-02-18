@@ -8,7 +8,7 @@
 home:
   name: "Home"
   baseURL: "#"
-  icon: "fas fa-igloo"
+  icon: "fas fa-compass"
 
 email:
   name: "Email"
