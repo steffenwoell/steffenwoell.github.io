@@ -962,7 +962,7 @@ pre {
 
 /* --- Notification boxes --- */
 
-.box-updated, .box-note, .box-warning, .box-error, .box-success, .box-blue, .box-toc-act, .box-toc-pub {
+.box-res, .box-note, .box-warning, .box-error, .box-success, .box-blue, .box-toc-act, .box-toc-pub {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 25px 0px;
   border: 1px solid #eee;
@@ -970,18 +970,19 @@ pre {
   border-radius: 5px 3px 3px 5px;
 }
 
-.box-updated {
+.box-res {
   background-color: #f5eef9;
   border-left-color: #910cbd;
+  color: #885499;
   font-style: normal;
 }
 
-.box-updated a {
+.box-res a {
   color: #555;
   text-decoration: none;
 }
 
-.box-updated a:hover {
+.box-res a:hover {
   text-decoration: none;
   color: #555;
 }
