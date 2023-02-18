@@ -2,7 +2,7 @@
 layout: post
 title: Unsinkable
 subtitle: Dublin, Ireland
-image: /img/dublin.webp
+image: /img/dub.webp
 excerpt: How much fun is it to almost miss your connection in Munich? I would say it all depends on you liking your name blaring loudly on airport speakers, pronounced with that particularly German semi-military 'gusto.'
 permalink: /journal/:title/
 tags: [Journal, Dublin, Ireland]

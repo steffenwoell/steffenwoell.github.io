@@ -2,7 +2,7 @@
 layout: post
 title: The Midwest Appears to be Underrated
 subtitle: Tulsa, Oklahoma
-image: /img/tulsa.webp
+image: /img/tu1.webp
 excerpt: What a great day in Tulsa with Maša and Carl and what an epic way to lose my jet lag, including (but not limited to) cruising around town in a cream-colored 1983 Mercedes on Route 66
 permalink: /journal/:title/
 tags: [Journal, Tulsa, USA]

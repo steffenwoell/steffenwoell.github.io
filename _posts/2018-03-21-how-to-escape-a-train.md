@@ -2,7 +2,7 @@
 layout: post
 title: How to Escape a Train
 subtitle: Lisbon, Portugal
-image: /img/lisbon.webp
+image: /img/lis.webp
 permalink: /journal/:title/
 tags: [Journal, Lisbon, Portugal]
 ---

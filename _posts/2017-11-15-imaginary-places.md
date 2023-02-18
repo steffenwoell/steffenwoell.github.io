@@ -2,7 +2,7 @@
 layout: post
 title: Imaginary Places
 subtitle: Tübingen, Germany
-image: /img/tuebingen.webp
+image: /img/tue.webp
 excerpt: It is a travelling of melancholy, years since my last long train journey through Germany. Fog, low hanging November clouds, specks of light on grey green brown patterns, rows of trees marking edges and possessions.
 permalink: /journal/:title/
 tags: [Journal, Tübingen, Germany]

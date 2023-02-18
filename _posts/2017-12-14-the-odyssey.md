@@ -2,7 +2,7 @@
 layout: post
 title: The Odyssey
 subtitle: Thessaloniki, Greece
-image: /img/thess-2.webp
+image: /img/th2.webp
 excerpt: In a bus from Kavala, I see the undisturbed mirror of the Aegean sea to my left, rough rock faces rising to the right.
 permalink: /journal/:title/
 tags: [Journal, Thessaloniki, Greece]

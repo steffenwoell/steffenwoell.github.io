@@ -2,7 +2,7 @@
 layout: post
 title: Lovecraft in Tulsa
 subtitle: Tulsa, Oklahoma
-image: /img/tulsa2.webp
+image: /img/tu2.webp
 excerpt: My panel presentation at the Society of Early Americanists 10th Biennial Conference went pretty well, although, in classic Woellian fashion, I put a spoke in my wheel by starting off by quoting a longish Whitman poem.
 permalink: /journal/:title/
 tags: [Journal, Tulsa, USA, Lovecraft]

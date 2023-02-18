@@ -29,7 +29,7 @@ navbar-links:
 
 # Image to show in navigation bar - must be square (width = height)
 # Remove for no image in navbar
-avatar: "/img/profile-picture-steffen-woell3.webp"
+avatar: "/img/swp.webp"
 
 # Image logo in top-left corner instead of title text
 # title-img: /path/to/image

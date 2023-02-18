@@ -3,7 +3,7 @@ layout: post
 title: Non Sequitur
 subtitle: Nothing Follows
 excerpt: All is real but nothing follows.
-image: /img/non-sequitur.webp
+image: /img/nsq.webp
 permalink: /journal/:title/
 tags: [Music]
 ---

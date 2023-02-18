@@ -2,7 +2,7 @@
 layout: post
 title: The Rabbit Hole
 subtitle: Paris, France
-image: /img/paris.webp
+image: /img/par.webp
 excerpt: What a day. I almost forgot how much fun traveling could be. Fun and "fun" that is.
 permalink: /journal/:title/
 tags: [Journal, Paris, France]

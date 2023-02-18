@@ -2,7 +2,7 @@
 layout: post
 title: What&#8217;s Wrong With the United States?
 subtitle: Oakland, California
-image: /img/oakland.webp
+image: /img/oak.webp
 permalink: /journal/:title/
 excerpt: It's an interesting time to be alive. It is an even more exciting time to be in the US, no doubt.
 tags: [Journal, Oakland, USA]
