@@ -24,8 +24,8 @@ body {
 }
 
 p {
-  line-height: 1.5;
-  margin: 15px 0px 15px 0px;
+  line-height: 1.8;
+  margin: 15px 0 15px 0;
 }
 
 h1 {
@@ -975,6 +975,7 @@ pre {
   border-left-color: #910cbd;
   color: #885499;
   font-style: normal;
+  line-height: 1.7;
 }
 
 .box-res a {
