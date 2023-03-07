@@ -121,8 +121,8 @@ image: /img/act.webp
 <p><a href="https://lasaweb.org/en/" target="_blank">LASA<i class="fas fa-external-link-alt"></i></a> (Latin American Studies Association)</p>
 <p><a href="https://mapaca.net" target="_blank">MAPACA<i class="fas fa-external-link-alt"></i></a> (Mid-Atlantic Popular & American Culture Association)</p>
 <p><a href="https://mpcaaca.org" target="_blank">MPCA/ACA<i class="fas fa-external-link-alt"></i></a> (The Midwest Popular and American Culture Association)</p>
-<!--<p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA<i class="fas fa-external-link-alt"></i></a> (Society of Early Americanists)</p>
-</div>-->
+<!--<p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA<i class="fas fa-external-link-alt"></i></a> (Society of Early Americanists)</p>-->
+</div>
 
 <div><a id="grants-awards">&nbsp;</a></div>
 
