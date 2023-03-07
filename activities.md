@@ -121,8 +121,8 @@ image: /img/act.webp
 <p><a href="https://lasaweb.org/en/" target="_blank">LASA<i class="fas fa-external-link-alt"></i></a> (Latin American Studies Association)</p>
 <p><a href="https://mapaca.net" target="_blank">MAPACA<i class="fas fa-external-link-alt"></i></a> (Mid-Atlantic Popular & American Culture Association)</p>
 <p><a href="https://mpcaaca.org" target="_blank">MPCA/ACA<i class="fas fa-external-link-alt"></i></a> (The Midwest Popular and American Culture Association)</p>
-<p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA<i class="fas fa-external-link-alt"></i></a> (Society of Early Americanists)</p>
-</div>
+<!--<p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA<i class="fas fa-external-link-alt"></i></a> (Society of Early Americanists)</p>
+</div>-->
 
 <div><a id="grants-awards">&nbsp;</a></div>
 
@@ -137,6 +137,5 @@ image: /img/act.webp
 ## VII.&nbsp;Volunteering
 <div class="gold" style="margin-bottom:110px">
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award<i class="fas fa-external-link-alt"></i></a></p>
-<p>Wikipedia Editor.</p>
 <p>KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association<i class="fas fa-external-link-alt"></i></a></p>
 </div>
