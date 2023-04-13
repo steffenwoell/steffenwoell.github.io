@@ -26,7 +26,7 @@ Germany</pre>
 ## Copyrights
 
 <div class="box-warning" style="margin-bottom:60px">
-Unless stated otherwise, the contents of this personal, non-commercial website are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons license<i class="fas fa-external-link-alt"></i></a>. Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash<i class="fas fa-external-link-alt"></i></a>.
+Unless stated otherwise, the contents of this personal, non-commercial website are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons license<i class="fas fa-external-link-alt"></i></a>. Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash<i class="fas fa-external-link-alt"></i></a>.
 </div>
 
 ## External Links
