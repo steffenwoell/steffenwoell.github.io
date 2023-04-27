@@ -9,7 +9,7 @@ image: /img/act.webp
 <ol style="list-style:upper-roman">
 <li><a href="#presentations">Presentations</a></li>
 <li><a href="#conference-panels-workshops">Conference Panels & Workshops</a></li>
-<li><a href="#teaching-mentoring">Teaching & Mentoring</a></li>
+<li><a href="#teaching">Teaching</a></li>
 <li><a href="#field-work-archival-studies">Field Work & Archival Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
@@ -80,9 +80,9 @@ image: /img/act.webp
 <p>&#8220;Urban America: Mediating City Space as Place.&#8220; <em>American Studies Leipzig Graduate Conference</em>. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Co-Organizer<i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
-<div><a id="teaching-mentoring">&nbsp;</a></div>
+<div><a id="teaching">&nbsp;</a></div>
 
-## III.&nbsp;Teaching & Mentoring
+## III.&nbsp;Teaching
 <div class="gold">
 <!--<p>&#8220;Visual Discourses of Race and Ethnicity.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2023/24. Seminar.</p>-->
 <p>&#8220;Unfilmable / Unwatchable: Cinematic Depictions of Identity, Conformity, and Neurodiversity.&#8221; <em>Media and Society</em>. Leipzig University. Summer Term 2023. <a href="/doc/MaS-Seminar-Summer-2023-Syllabus.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
