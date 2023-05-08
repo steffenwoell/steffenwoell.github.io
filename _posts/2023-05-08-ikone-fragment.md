@@ -22,5 +22,6 @@ Rote Maske
 Scharlachrotes "A"  
 Quelle der Macht  
 Blässe der Nacht  
-Ich hab'  Du hast  
+Ich hab'  
+Du hast  
 An dich gedacht.  
