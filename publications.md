@@ -87,7 +87,7 @@ image: /img/pub.webp
 
 ## V.&nbsp;Editing
 <div class="blue">
-<p><em>Archipelagic Spaces and Im/Mobilities</em>. Special Forum. <em>Journal of Transnational American Studies</em> Forthcoming 2023. Co-editor. Open Access.</p>
+<p>&#8220;Archipelagic Spaces and Im/Mobilities.&#8220; <em>Journal of Transnational American Studies</em> Special Forum. Co-editor. <a href="https://escholarship.org/uc/acgcc_jtas" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
