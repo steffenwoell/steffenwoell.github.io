@@ -74,6 +74,7 @@ image: /img/pub.webp
 
 ## IV.&nbsp;Reviews
 <div class="blue">
+<p>Review of <em>The Creole Archipelago: Race and Borders in the Colonial Caribbean</em> by Tessa Murphy. <em>Connections. A Journal for Historians and Area Specialists</em>. Accepted for Publication. 2024.</p>
 <p>Review of <em>Writing History in America&#8217;s Shadow: Japan, the Philippines, and the Question of Pan-Asianism</em> by Takamichi Serizawa. <em>Connections. A Journal for Historians and Area Specialists</em>. 27 May 2022. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-96786" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Connections. A Journal for Historians and Area Specialists</em>. 8 January 2021. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-95016" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880-1930</em> by Dominic Davies. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 5: 102-103. <a href="https://www.comparativ.net/v2/issue/view/158" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
@@ -87,8 +88,8 @@ image: /img/pub.webp
 
 ## V.&nbsp;Editing
 <div class="blue">
-<p>&#8220;Archipelagic Spaces and Im/Mobilities.&#8220; <em>Journal of Transnational American Studies</em> Special Forum. Co-editor. <a href="https://escholarship.org/uc/acgcc_jtas" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
-<p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="http://www.aspeers.com/2015" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
+<p>&#8220;Archipelagic Spaces and Im/Mobilities.&#8220; <em>Journal of Transnational American Studies</em> Special Forum. Co-editor. <a href="https://escholarship.org/uc/acgcc_jtas/14/1" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
+<p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="https://doi.org/10.54465/aspeers.08" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
 <div><a id="internet">&nbsp;</a></div>
