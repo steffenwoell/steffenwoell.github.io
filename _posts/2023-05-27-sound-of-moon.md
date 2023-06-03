@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Sound of Moon
+title: Sound of Moon
 subtitle: Uppsala, Sweden
 image: /img/sou.webp
 excerpt: Aquarian homestead, Breathing through roots, Arrested by, A longer embrace ...
