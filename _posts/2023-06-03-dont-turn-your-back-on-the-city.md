@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Turn Your Back on the City
+title: Don&#8217;t Turn Your Back on the City
 subtitle: Berlin, Germany
 image: /img/don.webp
 excerpt: Moving faster, A neon moon is growing nearer to me, Life is taking longer than I expected it to be ...
