@@ -57,6 +57,18 @@ font-weight: bold;
 white-space: nowrap;
 }
 
+.jhead a {
+  color: #555;
+  text-decoration: none;
+  font-weight: bold;
+  white-space: normal;
+  }
+
+.jhead a:hover {
+    text-decoration: none;
+    color: #555;
+  }
+
 a:hover,a:focus,a:active {
   color: #555;
   text-decoration: none;
