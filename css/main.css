@@ -977,10 +977,15 @@ pre {
   border-radius: 5px 3px 3px 5px;
 }
 
+.box-res-head {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
 .box-res {
-  background-color: #f5eef9;
-  border-left-color: #910cbd;
-  color: #885499;
+  background-color: #DDFFE7;
+  border-left-color: #167D7F;
+  color: #167D7F;
   font-style: normal;
   line-height: 1.7;
 }
