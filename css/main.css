@@ -982,12 +982,17 @@ pre {
   font-weight: bold;
 }
 
+.fa-flask {
+  padding-right: 5px;
+}
+
 .box-res {
   background-color: #DDFFE7;
   border-left-color: #167D7F;
   color: #167D7F;
   font-style: normal;
   line-height: 1.7;
+  margin: 40px 0px 80px 0px;
 }
 
 .box-res a {
