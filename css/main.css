@@ -697,7 +697,7 @@ footer .theme-by {
 
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 24px;
+  font-size: 22px;
   line-height: 1.1;
   display: block;
   font-family: 'Playfair Display', 'Times New Roman', serif;
@@ -749,7 +749,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 70px;
+    font-size: 64px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
