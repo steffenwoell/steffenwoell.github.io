@@ -46,7 +46,7 @@
 	{% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="{{ '' | relative_url }}">
+	    <a href="{{ '' | absolute_url }}">
 	      <img class="avatar-img" src="{{ site.avatar | relative_url }}" alt="avatar-img">
 		</a>
 	  </div>

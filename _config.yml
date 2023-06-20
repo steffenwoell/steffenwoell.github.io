@@ -1,23 +1,23 @@
 # --- General options --- #
 
-# Name of website
+# Website name
 title: Dr. Steffen Wöll
 
-# Brief description of website
+# Website subtitle
 description: Postdoctoral Researcher at SFB 1199 / Leipzig University
 
 # --- Local development options ---
-# If website is hosted locally rather than on GitHub, uncomment the next two parameters to set the url and # baseurl (Danger!)
+# If website is hosted locally rather than on GitHub, uncomment next two parameters to set url and baseurl (Danger!)
 
-# url is website domain URL without trailing slash
+# Website URL without trailing slash
 # url: "https://example.com"
 
-# baseurl should be an empty string
+# Should be an empty string
 # baseurl: ""
 
 # --- Navigation bar options --- #
 
-# List of links in navigation bar
+# Links in navigation bar
 navbar-links:
   Publications: "publications/"
   Activities: "activities/"
@@ -27,16 +27,16 @@ navbar-links:
 #  - Projects: "projects"
 #  - Tags: "tags"
 
-# Image to show in navigation bar - must be square (width = height)
+# Image shown in navigation bar, must be square (width = height)
 # Remove for no image in navbar
 avatar: "/img/swp.webp"
 
 # Image logo in top-left corner instead of title text
 # title-img: /path/to/image
 
-# --- Background colour/image options --- #
+# --- Background color/image options --- #
 
-# Color values can be any valid CSS
+# Color values, any valid CSS
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
@@ -48,8 +48,7 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
-# Alternatively, the navbar, footer, and page background can be set to use background images
-# instead of color
+# Alternatively, use background images instead of color
 
 # navbar-img: "/img/bgimage.webp"
 # footer-img: "/img/bgimage.webp"
@@ -57,11 +56,11 @@ footer-link-col: "#404040"
 
 # --- Footer options --- #
 
-# Danger: Do not delete "name" parameter
+# Danger: Do not delete 'name' parameter
 author:
 name:
 
-# Select active Social Network Links.
+# Select active Social Network Links
 # If adding new link also edit _data/SocialNetworks.yml
 social-network-links:
   home:
@@ -74,7 +73,7 @@ social-network-links:
   instagram: streetart_leipzig/
   soundcloud: w-a_s
 
-# Select which share links to show in posts
+# Share links shown in posts
 share-links-active:
   twitter: false
   facebook: false
@@ -85,21 +84,21 @@ url-pretty: "steffenwoell.github.io"
 
 # --- Comments --- #
 
-# Fill in Disqus shortname (NOT the userid) if you want to support Disqus comments
+# Fill in Disqus shortname (NOT userid) to support Disqus comments
 # disqus: ""
 
-# If using JustComments fill in API Key
-#just-comments: "ABCD-EFGH-IJKL"
+# If using JustComments, fill in API Key
+# just-comments: "ABCD-EFGH-IJKL"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : # GitHub username/repository eg. "user/rep"
-  branch     : master # If not using `master` branch also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  repository : # GitHub username/repository, e.g. "user/rep"
+  branch     : master # If not using 'master' branch must also update 'branch' parameter in staticman.yml
+  endpoint   : # URL of own deployment, with trailing slash (will fallback to a public GitLab instance), e.g. https://<your-api>/v3/entry/github/
   reCaptcha:
-    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
-    # If using reCaptcha, must also set these parameters in staticman.yml
-    siteKey  : # If using own site key, must apply for one on G00gle
+    # reCaptcha for Staticman (optional, but recommended for spam protection)
+    # If using reCaptcha must also set these parameters in staticman.yml
+    siteKey  : # If using own site key must apply for one on G00gle
     secret   : # ENCRYPT password at https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
@@ -108,8 +107,7 @@ staticman:
 # Truncates excerpt to specified number of words on index page
 excerpt_length: 120
 
-# Character used to separate site title and description in HTML document title
-# and RSS feed title
+# Character used to separate site title and description in HTML document title and RSS feed title
 title-separator: "-"
 
 # Ruby Date Format
@@ -136,8 +134,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: false  # add comments to all blog posts
-      social-share: false # add social media sharing buttons to all blog posts
+      comments: false  # add comments to blog posts
+      social-share: false # add s0cial media buttons to blog posts
   -
     scope:
       path: "" # all files
@@ -145,7 +143,7 @@ defaults:
       layout: "page"
       show-avatar: true
 
-# Use tags on index page and make tags on each post clickable
+# Use tags on index page and make tags on blog posts clickable
 link-tags: false
 
 # Excluded files from production site
