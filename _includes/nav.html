@@ -5,7 +5,7 @@
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-        <span class="icon-bar"></span> 
+        <span class="icon-bar"></span>
       </button>
       {%- if site.title-img -%}
         {% if page.url contains '/journal' %}
@@ -24,22 +24,22 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
-      {%- for link in site.navbar-links -%}
+        {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
-          <li class="navlinks-container">
-            <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div class="navlinks-children">
-              {%- for childlink in link[1] -%}
-              {%- for linkparts in childlink %}
-              <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-              {%- endfor -%}
-              {%- endfor %}
-            </div>
-          </li>
+        <li class="navlinks-container">
+          <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
+          <div class="navlinks-children">
+            {%- for childlink in link[1] -%}
+            {%- for linkparts in childlink %}
+            <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+            {%- endfor -%}
+            {%- endfor %}
+          </div>
+        </li>
         {% else %}
-          <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+        <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
         {%- endif -%}
-      {%- endfor -%}
+        {%- endfor -%}
       </ul>
     </div>
 
@@ -63,3 +63,19 @@
 
   </div>
 </nav>
+
+{% assign journal_url = '/journal' | relative_url %}
+{% assign current_url = page.url | relative_url %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var navbarLogo = document.querySelector(".navbar-brand-logo");
+    if (navbarLogo) {
+      if (current_url.startsWith(journal_url)) {
+        navbarLogo.href = journal_url;
+      } else {
+        navbarLogo.href = '/';
+      }
+    }
+  });
+</script>
