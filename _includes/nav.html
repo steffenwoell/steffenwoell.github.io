@@ -15,43 +15,43 @@
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right" tabindex="0">
-      {%- for link in site.navbar-links -%}
+      <ul class="nav navbar-nav navbar-right">
+        {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
-          <li class="navlinks-container">
-            <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div class="navlinks-children">
-              {%- for childlink in link[1] -%}
-              {%- for linkparts in childlink %}
-              <a href="{{ linkparts[1] | relative_url }}" tabindex="-1">{{ linkparts[0] }}</a>
-              {%- endfor -%}
-              {%- endfor %}
-            </div>
-          </li>
+        <li class="navlinks-container">
+          <a class="navlinks-parent" href="javascript:void(0)" role="button" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+          <div class="navlinks-children">
+            {%- for childlink in link[1] -%}
+            {%- for linkparts in childlink %}
+            <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+            {%- endfor -%}
+            {%- endfor %}
+          </div>
+        </li>
         {% else %}
-          <li><a href="{{ link[1] | relative_url }}" tabindex="-1">{{ link[0] }}</a></li>
+        <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
         {%- endif -%}
-      {%- endfor -%}
+        {%- endfor -%}
       </ul>
     </div>
 
-	{% if page.image and (layout.show-avatar or page.show-avatar) %}
-	<div class="avatar-container">
-	  <div class="avatar-img-border">
-	    <a href="{{ '' | absolute_url }}">
-	      <img class="avatar-img" src="{{ page.image | relative_url }}" alt="avatar-img">
-		</a>
-	  </div>
-	</div>
-	{% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
-	<div class="avatar-container">
-	  <div class="avatar-img-border">
-	    <a href="{{ '' | absolute_url }}">
-	      <img class="avatar-img" src="{{ site.avatar | relative_url }}" alt="avatar-img">
-		</a>
-	  </div>
-	</div>
-	{% endif %}
+    {% if page.image and (layout.show-avatar or page.show-avatar) %}
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="{{ '' | absolute_url }}">
+          <img class="avatar-img" src="{{ page.image | relative_url }}" alt="avatar-img">
+        </a>
+      </div>
+    </div>
+    {% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="{{ '' | absolute_url }}">
+          <img class="avatar-img" src="{{ site.avatar | relative_url }}" alt="avatar-img">
+        </a>
+      </div>
+    </div>
+    {% endif %}
 
   </div>
 </nav>
