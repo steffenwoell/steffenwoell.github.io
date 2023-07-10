@@ -38,7 +38,7 @@ Links to external websites are provided as a convenience and for informational p
 ## Data Protection & Accessibility
 
 <div class="box-success" style="margin-bottom:100px">
-Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance<i class="fas fa-external-link-alt"></i></a> are basic human rights. This website is designed with a focus on data privacy, data protection, and data economy. No personal identifiers (such as IP addresses, cookies, or browser fingerprints) are collected, transmitted, or stored in any form. Concretely, this policy includes:
+Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance<i class="fas fa-external-link-alt"></i></a> are basic human rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers such as IP addresses, cookies, or browser fingerprints are collected, transmitted, or stored in any form (please note that <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection" target="_blank">GitHub&#8217;s own privacy policies</a> may differ). This includes:
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="fas fa-cookie-bite"></i></span><b>zero</b> cookies</li>
     <li><span class="fa-li"><i class="fas fa-thumbs-down"></i></span><b>zero</b> social media</li>
