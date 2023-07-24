@@ -1,13 +1,10 @@
 # --- General options --- #
 
-# Website name
 title: Dr. Steffen Wöll
-
-# Website subtitle
 description: Postdoctoral Researcher at SFB 1199 / Leipzig University
 
 # --- Local development options ---
-# If website is hosted locally rather than on GitHub, uncomment next two parameters to set url and baseurl (Danger!)
+# If hosted locally rather than on GitHub, uncomment next two parameters to set url and baseurl (Danger!)
 
 # Website URL without trailing slash
 # url: "https://example.com"
@@ -15,9 +12,8 @@ description: Postdoctoral Researcher at SFB 1199 / Leipzig University
 # Should be an empty string
 # baseurl: ""
 
-# --- Navigation bar options --- #
+# --- Navbar options --- #
 
-# Links in navigation bar
 navbar-links:
   Publications: "publications/"
   Activities: "activities/"
@@ -27,16 +23,14 @@ navbar-links:
 #  - Projects: "projects"
 #  - Tags: "tags"
 
-# Image shown in navigation bar, must be square (width = height)
-# Remove for no image in navbar
+# Navbar image, must be square (width = height)
+# Remove for no image
 avatar: "/img/swp.webp"
 
-# Image logo in top-left corner instead of title text
+# Logo in top-left corner instead of title text
 # title-img: /path/to/image
 
-# --- Background color/image options --- #
-
-# Color values, any valid CSS
+# --- Background options --- #
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
@@ -48,7 +42,7 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
-# Alternatively, use background images instead of color
+# Background images instead of color
 
 # navbar-img: "/img/bgimage.webp"
 # footer-img: "/img/bgimage.webp"
@@ -60,11 +54,11 @@ footer-link-col: "#404040"
 author:
 name:
 
-# Select active Social Network Links
+# Select active social links
 # If adding new link also edit _data/SocialNetworks.yml
 social-network-links:
   home:
- # email: "steffen.woell@uni-leipzig.de"
+  email: "steffen.woell@uni-leipzig.de"
   rss: true
   researchgate: Steffen-Woell
   orcid: 0000-0003-1582-6078
@@ -90,13 +84,13 @@ url-pretty: "steffenwoell.github.io"
 # If using JustComments, fill in API Key
 # just-comments: "ABCD-EFGH-IJKL"
 
-# To use Staticman comments, fill in repository, branch, and endpoint
+# To use Staticman comments, fill in repository, branch & endpoint
 staticman:
   repository : # GitHub username/repository, e.g. "user/rep"
   branch     : master # If not using 'master' branch must also update 'branch' parameter in staticman.yml
   endpoint   : # URL of own deployment, with trailing slash (will fallback to a public GitLab instance), e.g. https://<your-api>/v3/entry/github/
   reCaptcha:
-    # reCaptcha for Staticman (optional, but recommended for spam protection)
+    # reCaptcha for Staticman (optional, recommended for spam protection)
     # If using reCaptcha must also set these parameters in staticman.yml
     siteKey  : # If using own site key must apply for one on G00gle
     secret   : # ENCRYPT password at https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
@@ -107,10 +101,10 @@ staticman:
 # Truncates excerpt to specified number of words on index page
 excerpt_length: 120
 
-# Character used to separate site title and description in HTML document title and RSS feed title
+# Character used to separate site title and description in HTML and RSS feed title
 title-separator: "-"
 
-# Ruby Date Format
+# Ruby date format
 date_format: "%-d %B %Y"
 
 # --- No need to touch anything below --- #
@@ -135,7 +129,7 @@ defaults:
     values:
       layout: "post"
       comments: false  # add comments to blog posts
-      social-share: false # add s0cial media buttons to blog posts
+      social-share: false # add social buttons to blog posts
   -
     scope:
       path: "" # all files
@@ -143,7 +137,7 @@ defaults:
       layout: "page"
       show-avatar: true
 
-# Use tags on index page and make tags on blog posts clickable
+# Use tags on index page & make tags on blog posts clickable
 link-tags: false
 
 # Excluded files from production site
