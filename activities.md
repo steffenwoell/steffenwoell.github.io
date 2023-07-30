@@ -141,5 +141,6 @@ image: /img/act.webp
 ## VII.&nbsp;Volunteering
 <div class="gold" style="margin-bottom:110px">
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award<i class="fas fa-external-link-alt"></i></a></p>
-<p>KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Non-profit cultural association<i class="fas fa-external-link-alt"></i></a></p>
+<p>Kurzfilmwanderung Leipzig. <a href="https://kurzfilmwanderung.de/" target="_blank">Supported by the Cultural Foundation of the Free State of Saxony<i class="fas fa-external-link-alt"></i></a></p>
+<p>KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Supported by the Federal Government Commissioner for Culture and the Media of Germany<i class="fas fa-external-link-alt"></i></a></p>
 </div>
