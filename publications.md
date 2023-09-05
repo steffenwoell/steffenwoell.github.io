@@ -39,7 +39,7 @@ image: /img/pub.webp
 
 ## II.&nbsp;Journals (Peer-Reviewed)
 <div class="blue">
-<p>&#8220;From Starved Rock to Cancer Alley: Simulated Violence and Representational Collapse in the American West.&#8221; <em>Intersectional Perspectives: Identity, Culture, and Society</em>. Forthcoming 2023.</p>
+<p>&#8220;From Starved Rock to Cancer Alley: Simulated Violence and Representational Collapse in the American West.&#8221; <em>Intersectional Perspectives: Identity, Culture, and Society</em> 2 (2023): 29-57. <a href="https://doi.org/10.18573/ipics.97" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography.&#8221; <em>Journal of Transatlantic American Studies</em> 14 (2023) 1: 137-167. <a href="https://doi.org/10.5070/T814160835" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Introduction: Conceptualizing Archipelagic Mobilities.&#8221; <em>Journal of Transatlantic American Studies</em> 14 (2023) 1: 75-92. With Barbara Gfoellner, Gabriele Pisarz-Ramirez, and Alexandra Ganser. <a href="https://doi.org/10.5070/T814160878" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Beyond the Artifact: Unfolding Medieval, Algorithmic, and Unruly Lives of Maps.&#8221; <em>Material Culture Review / Revue de la Culture Matérielle</em> 92 (2022): 54-71. <a href="https://journals.lib.unb.ca/index.php/MCR/article/view/32833" target="blank">Print<i class="fas fa-external-link-alt"></i></a></p>
@@ -74,7 +74,7 @@ image: /img/pub.webp
 
 ## IV.&nbsp;Reviews
 <div class="blue">
-<p>Review of <em>The Creole Archipelago: Race and Borders in the Colonial Caribbean</em> by Tessa Murphy. <em>Connections. A Journal for Historians and Area Specialists</em>. Accepted for Publication. 2024.</p>
+<p>Review of <em>The Creole Archipelago: Race and Borders in the Colonial Caribbean</em> by Tessa Murphy. <em>Connections. A Journal for Historians and Area Specialists</em>. 1 September 2023. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-128689" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>Review of <em>Writing History in America&#8217;s Shadow: Japan, the Philippines, and the Question of Pan-Asianism</em> by Takamichi Serizawa. <em>Connections. A Journal for Historians and Area Specialists</em>. 27 May 2022. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-96786" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Connections. A Journal for Historians and Area Specialists</em>. 8 January 2021. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-95016" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880-1930</em> by Dominic Davies. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 5: 102-103. <a href="https://www.comparativ.net/v2/issue/view/158" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
