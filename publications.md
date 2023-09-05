@@ -79,9 +79,9 @@ image: /img/pub.webp
 <p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Connections. A Journal for Historians and Area Specialists</em>. 8 January 2021. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-95016" target="_blank">Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 <p>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880-1930</em> by Dominic Davies. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 5: 102-103. <a href="https://www.comparativ.net/v2/issue/view/158" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
 <p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 1: 105-107. <a href="https://www.comparativ.net/v2/issue/view/154" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
-<p>Peer reviewer for <em><a href="https://islandstudiesjournal.org/" target="_blank">Island Studies Journal<i class="fas fa-external-link-alt"></i></a></em>.</p>
-<p>Peer reviewer for <em><a href="https://www.pfw.edu/clio/" target="_blank">Clio: A Journal of Literature, History, and the Philosophy of History<i class="fas fa-external-link-alt"></i></a></em>.</p>
-<p>Peer reviewer for <em><a href="https://angl.winter-verlag.de" target="_blank">Anglistik<i class="fas fa-external-link-alt"></i></a></em>.</p>
+<p>Peer reviewer for <em><a href="https://islandstudiesjournal.org/" target="_blank">Island Studies Journal<i class="fas fa-external-link-alt"></i></a></em></p>
+<p>Peer reviewer for <em><a href="https://www.pfw.edu/clio/" target="_blank">Clio: A Journal of Literature, History, and the Philosophy of History<i class="fas fa-external-link-alt"></i></a></em></p>
+<p>Peer reviewer for <em><a href="https://angl.winter-verlag.de" target="_blank">Anglistik<i class="fas fa-external-link-alt"></i></a></em></p>
 </div>
 
 <div><a id="editing">&nbsp;</a></div>
