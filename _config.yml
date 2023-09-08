@@ -19,7 +19,7 @@ navbar-links:
   Activities: "activities/"
   Journal: "/journal/"
   Imprint: "imprint/"
-  Search: "/_includes/search.html"
+  Search: "/search/"
 #  More:
 #  - Projects: "projects"
 #  - Tags: "tags"
