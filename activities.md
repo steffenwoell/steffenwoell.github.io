@@ -46,7 +46,7 @@ image: /img/act.webp
 <p>&#8220;Mapping Discourse in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>Mapping Space - Mapping Time - Mapping Texts: A Virtual One-Day Conference</em>. Online. 29 September 2020. <a href="https://www.lancaster.ac.uk/chronotopic-cartographies/" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a> [<a href="https://www.flickr.com/photos/189983859@N08/50294560072/" target="_blank">Poster<i class="far fa-file-image"></i></a>]</p>
 <p>&#8220;Mapping Discourse in Richard Henry Dana&#8217;s <em>Two Years Before the Mast</em>.&#8221; <em>DoktorandInnen Posterkonferenz der Philologischen Fakultät</em>. Leipzig. 28 January 2020. <a href="https://www.philol.uni-leipzig.de" target="_blank">Poster Presentation<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;The Rocky Roads of Empire: The Rocky Mountains as Hemispheric Nexus and Barrier to Manifest Destiny in Nineteenth-Century American Literature.&#8221; <em>Mediating Mountains</em>. 46th Austrian Association for American Studies Conference. Innsbruck. 23 November 2019. <a href="https://www.uibk.ac.at/amerikastudien/aktuelles/veranstaltungen/aaas-konferenz-2019.html" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
-<p>&#8220;&#8216;True Places Never Are&#8217;: Navigating Spatial Imaginations in <em>Moby-Dick</em>.&#8221; <em>Over_Seas: Melville, Whitman and all the Intrepid Sailors</em>. Lisbon. 3 July 2019. Presentation.</p>
+<p>&#8220;&#8216;True Places Never Are&#8217;: Navigating Spatial Imaginations in <em>Moby-Dick</em>.&#8221; <em>Over_Seas: Melville, Whitman and all the Intrepid Sailors</em>. Lisbon. 3 July 2019. Presentation</p>
 <p>&#8220;Figuring and Refiguring the Spatial Embodiment of Empire.&#8221; <em>Nuestra América: Justice and Inclusion: Latin American Studies Association Annual Conference</em>. Boston. 25 May 2019. <a href="https://lasaweb.org/en/lasa2019/" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Muddying the Waters: Colliding Visions of the Louisiana Territory.&#8221; <em>Research Academy Leipzig / Graduate School Global and Area Studies</em>. Neudietendorf. 2 February 2019. <a href="https://home.uni-leipzig.de/~gsgas/events/winter-school/" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Key Concepts and Future Projects.&#8221; <em>European Network for Minor Mobilities in the Americas</em>. Erlangen. 31 January 2019. <a href="https://enmma.org/events" target="_blank">Workshop<i class="fas fa-external-link-alt"></i></a></p>
@@ -65,7 +65,7 @@ image: /img/act.webp
 <p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Antebellum US Literature.&#8221; <em>Global Frontiers</em>. Tübingen. 17 November 2017. <a href="https://uni-tuebingen.de/en/fakultaeten/philosophische-fakultaet/fachbereiche/geschichtswissenschaft/seminareinstitute/neuere-geschichte/wiss-veranstaltungen/konferenzen-und-workshops/archiv/sommer-und-winterkurse/archiv/global-frontiers-15-17-nov-2017/" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón&#8217;s <em>Gravity</em>.&#8221; <em>Midwest Popular Culture Association Annual Conference</em>. St. Louis. 22 October 2017. Funded by DAAD. <a href="https://mpcaaca.org/wp-content/uploads/2017/10/MPCA_2017_program_draft_10-12-17.pdf" target="_blank">Presentation<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;Horrendous Hybridity: Spatial and Linguistic Representations of the Occult Orientalist Other in H.P. Lovecraft&#8217;s &#8216;The Shadow Over Innsmouth.&#8217;&#8221; <em>Society of Early Americanists 10th Biennial Conference</em>. Tulsa. 2 March 2017. <a href="https://sea2017.wordpress.com" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
-<p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Antebellum US Literature.&#8221; <em>Collaborative Research Centre 1199</em>. Leipzig. 4 January 2017. Presentation.</p>
+<p>&#8220;Globe, Region, and Periphery: The Spatialization of the American West in Antebellum US Literature.&#8221; <em>Collaborative Research Centre 1199</em>. Leipzig. 4 January 2017. Presentation</p>
 <p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place</em>. American Studies Leipzig Graduate Conference. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Keynote Address<i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
@@ -78,7 +78,7 @@ image: /img/act.webp
 <p>&#8220;The Seeds and Seeding of Empire.&#8221; <em>American Studies Association Annual Conference</em>. San Juan/online. 14 October 2021. <a href="https://asa.press.jhu.edu/program21/program.pdf" target="_blank">Panel Chair<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; Leipzig/online. 15-17 July 2021. <em>First International Workshop</em>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. <a href="https://enmma.org/workshop-archipelagic-imperial-spaces-and-mobilities" target="_blank">Co-Organizer<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century.&#8221; <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas (International Association of Inter-American Studies)</em>. Coimbra. 24 March 2018. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. <a href="http://www.interamericanstudies.net/?page_id=6447" target="_blank">Panel Co-Chair<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
-<p>Regional Colloquium for American Studies. Leipzig. 13 January 2017. Co-Organizer.</p>
+<p>Regional Colloquium for American Studies. Leipzig. 13 January 2017. Co-Organizer</p>
 <p>&#8220;Urban America: Mediating City Space as Place.&#8220; <em>American Studies Leipzig Graduate Conference</em>. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016" target="_blank">Co-Organizer<i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
@@ -94,7 +94,7 @@ image: /img/act.webp
 <p>&#8220;The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.&#8221; <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. <a href="/doc/LC-II-Seminar-Summer-2022-Syllabus.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;&#8216;A technical white elephant&#8217;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2021/22. <a href="/doc/E&D-Seminar-Syllabus-WS-21-22.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;Reading the Transpacific: Asian American Cultures and Identities.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2020/21. <a href="/doc/E&D-Seminar-Syllabus-WS-20-21.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
-<p><a href="/doc/Research-Bash-Summer-2019.pdf" target="_blank">ASL Research Bash<i class="far fa-file-pdf"></i></a> <em>American Studies Leipzig</em>. 25 June 2019.</p>
+<p><a href="/doc/Research-Bash-Summer-2019.pdf" target="_blank">ASL Research Bash<i class="far fa-file-pdf"></i></a> <em>American Studies Leipzig</em>. 25 June 2019</p>
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 13 June 2018. <a href="https://americanstudies.uni-leipzig.de/content/courses-summer-2018-0?tab_id=5457#lasipp-tab-1" target="_blank">Guest Lecture<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2017/18. <a href="/doc/E&D-Seminar-Syllabus-WS-17-18.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1" target="_blank">Guest Lecture<i class="fas fa-external-link-alt"></i></a></p>
@@ -104,13 +104,13 @@ image: /img/act.webp
 
 ## IV.&nbsp;Field Work & Archival Studies
 <div class="gold">
-<p>Tulane University Libraries. <em>Tulane University, New Orleans</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
-<p>Nettie Lee Benson Latin American Studies Collection. <em>University of Texas at Austin</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p> 
-<p>Otto G. Richter Library. <em>University of Miami</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
-<p>The Huntington Library. <em>The Huntington, San Marino</em>. 2020. Funded by Deutsche Forschungsgemeinschaft.</p>
-<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by Deutsche Forschungsgemeinschaft.</p>
-<p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by Deutsche Forschungsgemeinschaft.</p>
-<p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p>Tulane University Libraries. <em>Tulane University, New Orleans</em>. 2022. Funded by Deutsche Forschungsgemeinschaft</p>
+<p>Nettie Lee Benson Latin American Studies Collection. <em>University of Texas at Austin</em>. 2022. Funded by Deutsche Forschungsgemeinschaft</p> 
+<p>Otto G. Richter Library. <em>University of Miami</em>. 2022. Funded by Deutsche Forschungsgemeinschaft</p>
+<p>The Huntington Library. <em>The Huntington, San Marino</em>. 2020. Funded by Deutsche Forschungsgemeinschaft</p>
+<p>Dornsife College of Letters, Arts and Sciences. <em>University of South California, Los Angeles</em>. 2020. Funded by Deutsche Forschungsgemeinschaft</p>
+<p>Special Collections Library. <em>University of Oregon, Eugene</em>. 2020. Funded by Deutsche Forschungsgemeinschaft</p>
+<p>Bancroft Library Western Americana Collection. <em>University of California, Berkeley</em>. 2017. Funded by Deutsche Forschungsgemeinschaft</p>
 <p><em>Religion in American Society</em>. 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Funded by VolkswagenStiftung. With Hartmut Keil. <a href="https://studytour2015.wordpress.com" target="_blank">Co-Organizer<i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
@@ -132,8 +132,8 @@ image: /img/act.webp
 
 ## VI.&nbsp;Grants & Awards
 <div class="gold">
-<p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018.</p>
-<p>DAAD Travel Stipend. 2017.</p>
+<p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018</p>
+<p>DAAD Travel Stipend. 2017</p>
 </div>
 
 <div><a id="volunteering">&nbsp;</a></div>

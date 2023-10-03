@@ -30,7 +30,7 @@ image: /img/pub.webp
 
 ## I.&nbsp;Books
 <div class="blue">
-<p><em>A Place Between Oceans: Imagining the American Empire 1880&#8211;1940</em>. Work in progress.</p>
+<p><em>A Place Between Oceans: Imagining the American Empire 1880&#8211;1940</em>. Work in progress</p>
 <p><em>The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. De Gruyter, 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
 <p><em>Periphere Räume in der Amerikanistik</em>. With Gabriele Pisarz-Ramirez. Dialektik des Globalen. Kernbegriffe. De Gruyter, 2019. <a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html" target="_blank">Print & Open Access<i class="fas fa-lock-open"></i><i class="fas fa-external-link-alt"></i></a></p>
 </div>
@@ -59,8 +59,8 @@ image: /img/pub.webp
 
 ## III.&nbsp;Book Chapters (Peer-Reviewed)
 <div class="blue">
-<p>&#8220;Visualizing Exploration.&#8221; <em>A Cultural History of Exploration</em>. Bloomsbury. Accepted for Publication. 2024.</p>
-<p>&#8220;Mug Shots and Passport Photography.&#8221; <em>Encyclopedia of Visual Culture</em>. Bloomsbury. Accepted for Publication. 2023.</p>
+<p>&#8220;Visualizing Exploration.&#8221; <em>A Cultural History of Exploration</em>. Bloomsbury. Accepted for Publication. 2024</p>
+<p>&#8220;Mug Shots and Passport Photography.&#8221; <em>Encyclopedia of Visual Culture</em>. Bloomsbury. Accepted for Publication. 2023</p>
 <p>&#8220;Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the <em>Arkham Horror</em> Board Game.&#8221; With Amelie Rieß. <em>The Medial Afterlives of H.P. Lovecraft: Comic, Film, Podcast, TV, Games</em>. Eds. Tim Lanzendörfer and Max José Dreysse Passos de Carvalho. Palgrave Studies in Adaptation and Visual Culture. Palgrave Macmillan. 2023: 339-57. <a href="https://link.springer.com/chapter/10.1007/978-3-031-13765-5_19" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western.&#8221; <em>The Western in the Global Literary Imagination</em>. Eds. Christopher Conway, Marek Paryż, and David Rio. European Perspectives on the United States, Vol. 5. Brill. 2022: 131-48. <a href="https://brill.com/display/title/61576" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;&#8216;True Places Never Are&#8217;: Navigating (Trans)Oceanic Imaginations in <em>Moby-Dick</em>.&#8221; <em>American Studies Over_Seas Vol. 1: Narrating Multiple America(s)</em>. Eds. Edgardo Medeiros da Silva, Margarida Vale de Gato, Mário Avelar et al. Peter Lang. 2022: 51-63. <a href="https://www.peterlang.com/document/1252903" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
@@ -109,7 +109,7 @@ image: /img/pub.webp
 
 ## VII.&nbsp;Digital Humanities
 <div class="blue">
-<p>&#8220;Conspicuous Spatializations: Visualizing (Anti-)Imperial Spatial Imaginations of Transhemispheric America through Corpus-based Data.&#8221; 2022. <a href="/doc/Conspicuous-Spatializations_Visual-Samples-Steffen-Wöll.pdf" target="_blank">Interactive Visualizations<i class="far fa-file-pdf"></i></a> [Samples].</p>
+<p>&#8220;Conspicuous Spatializations: Visualizing (Anti-)Imperial Spatial Imaginations of Transhemispheric America through Corpus-based Data.&#8221; 2022. <a href="/doc/Conspicuous-Spatializations_Visual-Samples-Steffen-Wöll.pdf" target="_blank">Interactive Visualizations<i class="far fa-file-pdf"></i></a> [Samples]</p>
 <p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018/2022. <a href="https://doi.org/10.48736/GD1RJN6HK" target="_blank">Map<i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
@@ -138,5 +138,5 @@ image: /img/pub.webp
 ## X.&nbsp;Websites
 <div class="blue" style="margin-bottom:110px">
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.carrd.co/" target="_blank">Programming / Design<i class="fas fa-external-link-alt"></i></a></p>
-<p><em>steffenwoell.github.io</em>. 2019—. Programming / Design.</p>
+<p><em>steffenwoell.github.io</em>. 2019—. Programming / Design</p>
 </div>
