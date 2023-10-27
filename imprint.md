@@ -7,7 +7,7 @@ image: /img/imp.webp
 ## Contact
 
 {: .box-success}
-Please address business and other official correspondence to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`. Private messages should be directed to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@gmail.de`.
+Please address business and other official correspondence to <i class="far fa-envelope" style="padding-left:5px"></i>`steffen.woell@uni-leipzig.de`. Private messages may be directed to <i class="far fa-envelope" style="padding-left:5px"></i>`xmf4s5ij0@mozmail.com`.
 
 <div class="box-note" style="margin-bottom:60px">
 Feel free to send me encrypted messages with the GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
