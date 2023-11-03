@@ -1,7 +1,7 @@
 ---
 layout: post
 title: schwarzweisz
-subtitle: Frankfurt, Germany
+subtitle: Frankfurt a.M., Germany
 image: /img/isz.webp
 excerpt: Fire that burns with invisible flame, Thumping and churning ...
 permalink: /journal/:title/
