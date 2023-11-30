@@ -87,7 +87,7 @@ image: /img/act.webp
 
 ## III.&nbsp;Teaching
 <div class="gold">
-<p>&#8220;Race & Consumption.&#8221; <em>Ethnicity and Diversity in US Culture II</em>. Leipzig University. Summer Term 2024.<!-- <a href="/doc/E&D-Seminar-Syllabus-WS-23-24.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a>--></p>
+<p>&#8220;Race & Consumption.&#8221; <em>Ethnicity and Diversity in US Culture II</em>. Leipzig University. Summer Term 2024. Seminar<!-- <a href="/doc/E&D-Seminar-Syllabus-WS-23-24.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a>--></p>
 <p>&#8220;Visual Discourses of Race and Ethnicity.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2023/24. <a href="/doc/E&D-Seminar-Syllabus-WS-23-24.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;Unfilmable / Unwatchable: Cinematic Depictions of Identity, Conformity, and Neurodiversity.&#8221; <em>Media and Society</em>. Leipzig University. Summer Term 2023. <a href="/doc/MaS-Seminar-Summer-2023-Syllabus.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;African American History, Culture, and Literature until the Civil War.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. 24 October 2022. <a href="/doc/E&D-Guest-Lecture-WS-22-23.pdf" target="_blank">Guest Lecture<i class="far fa-file-pdf"></i></a></p>
