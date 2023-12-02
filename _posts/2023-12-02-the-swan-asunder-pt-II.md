@@ -8,7 +8,7 @@ permalink: /journal/:title/
 tags: [Journal, Leipzig, Germany]
 ---
 
-Repress these thoughts 
+Repress these thoughts  
 a tearing asunder  
 milky lens and foggy bottom  
 a cure for you, oh  
@@ -39,8 +39,8 @@ patterns washed into this
 human thicket  
 
 My swan  
-my swan  
 don't look beyond  
 your Delta  
+my swan  
 don't turn around  
 your Nile.  
