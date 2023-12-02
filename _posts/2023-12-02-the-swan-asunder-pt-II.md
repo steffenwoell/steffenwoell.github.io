@@ -8,7 +8,7 @@ permalink: /journal/:title/
 tags: [Journal, Leipzig, Germany]
 ---
 
-Repress these thoughts --  
+Repress these thoughts 
 a tearing asunder  
 milky lens and foggy bottom  
 a cure for you, oh  
@@ -26,10 +26,10 @@ in the space
 between the pages  
 a shoulder to cry  
 
-Existence / eXistenZ
+Existence / eXistenZ  
 a body to flatten  
-so wholesome –- forbidden  
-so hidden -- entrenched  
+so wholesome - forbidden  
+so hidden - entrenched  
 a thought that  
 never dies but  
 
