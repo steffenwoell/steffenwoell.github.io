@@ -10,6 +10,7 @@ image: /img/act.webp
 <li><a href="#presentations">Presentations</a></li>
 <li><a href="#conference-panels-workshops">Conference Panels & Workshops</a></li>
 <li><a href="#teaching">Teaching</a></li>
+<li><a href="#thesis-supervision">Thesis Supervision</a></li>
 <li><a href="#field-work-archival-studies">Field Work & Archival Studies</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
@@ -21,7 +22,8 @@ image: /img/act.webp
 
 ## I.&nbsp;Presentations
 <div class="gold">
-<p>&#8220;Revolutionary Geographies: Identity, Algocracy, and Resistance in the Age of AI.&#8221; <em>2nd International Humanities - Society - Identity Congress (HSIC): Evolution/Revolution</em>. University of Warsaw. 6 December 2023. <a href="https://hsic.wn.uw.edu.pl/" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
+<p>&#8220;Mapping Migrant Bodies: Surveillance, Algocracy, and Cartographic Resistance.&#8220; <em>1924–2024: The American Immigrant Narrative Revisited<em>. European Association of American Studies Biennial Conference. 2-7 April 2024. <a href="https://www.eaas.eu/conferences/eaas-biennial-conferences/770-2022-eaas-conference-munich">Presentation<i class="fas fa-external-link-alt"></i></a>.</p>
+<p>&#8220;Revolutionary Geographies: Identity, Algocracy, and Resistance in the Age of AI.&#8221; <em>2nd International Humanities - Society - Identity Congress (HSIC): Evolution/Revolution</em>. University of Warsaw. Warsaw. 6 December 2023. <a href="https://hsic.wn.uw.edu.pl/" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Remapping Human Geographies: Spatial Imaginations and the Social Agency of Mapmaking.&#8221; <em>Comparative Literature: The Imaginaire and (Re)Shaping the World</em>. Department of English Language and Literature. Cairo. 15 November 2023. <a href="https://www.academia.edu/88401985/CFP_The_15th_International_Symposium_on_Comparative_Literature_The_Imaginaire_and_Re_Shaping_the_World_14_16_November_2023" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Making Space for Solidarity: Maps as Agents of Affective Reterritorialization and Social Change.&#8221; <em>Crises and Turns: Continuities and Discontinuities in American Culture</em>. American Studies Association Annual Conference. Montréal. 3 November 2023. <a href="https://www.theasa.net/node/293" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
 <p>&#8220;Visualizing Vulnerabilities in R.H. Dana&#8217;s Californian Travel Literature.&#8221; <em>Vulnerabilities: Weaknesses, Threats, Resilience in the U.S.A. and in Global Perspective</em>. XXVII AISNA Biennial Conference. Narni. 21 September 2023. <a href="https://www.aisna.net/conference-narni/" target="_blank">Presentation<i class="fas fa-external-link-alt"></i></a></p>
@@ -87,7 +89,7 @@ image: /img/act.webp
 
 ## III.&nbsp;Teaching
 <div class="gold">
-<p>&#8220;Race & Consumption.&#8221; <em>Ethnicity and Diversity in US Culture II</em>. Leipzig University. Summer Term 2024. Seminar<!-- <a href="/doc/E&D-Seminar-Syllabus-WS-23-24.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a>--></p>
+<p>&#8220;Race & Consumption.&#8221; <em>Ethnicity and Diversity in US Culture II</em>. Leipzig University. Summer Term 2024. Seminar<!-- <a href="/doc/E&DII-Seminar-Syllabus-Summer-2024.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a>--></p>
 <p>&#8220;Visual Discourses of Race and Ethnicity.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2023/24. <a href="/doc/E&D-Seminar-Syllabus-WS-23-24.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;Unfilmable / Unwatchable: Cinematic Depictions of Identity, Conformity, and Neurodiversity.&#8221; <em>Media and Society</em>. Leipzig University. Summer Term 2023. <a href="/doc/MaS-Seminar-Summer-2023-Syllabus.pdf" target="_blank">Seminar<i class="far fa-file-pdf"></i></a></p>
 <p>&#8220;African American History, Culture, and Literature until the Civil War.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. 24 October 2022. <a href="/doc/E&D-Guest-Lecture-WS-22-23.pdf" target="_blank">Guest Lecture<i class="far fa-file-pdf"></i></a></p>
@@ -102,9 +104,16 @@ image: /img/act.webp
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1" target="_blank">Guest Lecture<i class="fas fa-external-link-alt"></i></a></p>
 </div>
 
+<div><a id="thesis-supervision">&nbsp;</a></div>
+
+## IV.&nbsp;Thesis Supervision
+<div class="gold">
+<p>&#8220;Filmic Representations of American Domesticity in the 1970s.&#8221; <em>MA Thesis</em>. Leipzig University. Winter Term 2023/24.</p>
+</div>
+
 <div><a id="field-work-archival-studies">&nbsp;</a></div>
 
-## IV.&nbsp;Field Work & Archival Studies
+## V.&nbsp;Field Work & Archival Studies
 <div class="gold">
 <p>Tulane University Libraries. <em>Tulane University, New Orleans</em>. 2022. Funded by Deutsche Forschungsgemeinschaft</p>
 <p>Nettie Lee Benson Latin American Studies Collection. <em>University of Texas at Austin</em>. 2022. Funded by Deutsche Forschungsgemeinschaft</p> 
@@ -118,7 +127,7 @@ image: /img/act.webp
 
 <div><a id="memberships">&nbsp;</a></div>
 
-## V.&nbsp;Memberships
+## VI.&nbsp;Memberships
 <div class="gold">
 <p><a href="https://www.acla.org" target="_blank">ACLA<i class="fas fa-external-link-alt"></i></a> (American Comparative Literature Association)</p>
 <p><a href="https://theasa.net" target="_blank">ASA<i class="fas fa-external-link-alt"></i></a> (American Studies Association)</p>
@@ -127,12 +136,12 @@ image: /img/act.webp
 <p><a href="https://lasaweb.org/en/" target="_blank">LASA<i class="fas fa-external-link-alt"></i></a> (Latin American Studies Association)</p>
 <p><a href="https://mapaca.net" target="_blank">MAPACA<i class="fas fa-external-link-alt"></i></a> (Mid-Atlantic Popular & American Culture Association)</p>
 <p><a href="https://mpcaaca.org" target="_blank">MPCA/ACA<i class="fas fa-external-link-alt"></i></a> (The Midwest Popular and American Culture Association)</p>
-<!--<p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA<i class="fas fa-external-link-alt"></i></a> (Society of Early Americanists)</p>-->
+<p><a href="https://www.societyofearlyamericanists.org" target="_blank">SEA<i class="fas fa-external-link-alt"></i></a> (Society of Early Americanists)</p>
 </div>
 
 <div><a id="grants-awards">&nbsp;</a></div>
 
-## VI.&nbsp;Grants & Awards
+## VII.&nbsp;Grants & Awards
 <div class="gold">
 <p>Scottish Association for the Study of America. Annual Conference Essay Prize. 2018</p>
 <p>DAAD Travel Stipend. 2017</p>
@@ -140,7 +149,7 @@ image: /img/act.webp
 
 <div><a id="volunteering">&nbsp;</a></div>
 
-## VII.&nbsp;Volunteering
+## VIII.&nbsp;Volunteering
 <div class="gold" style="margin-bottom:110px">
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award<i class="fas fa-external-link-alt"></i></a></p>
 <p>Kurzfilmwanderung Leipzig. <a href="https://kurzfilmwanderung.de/" target="_blank">Supported by the Cultural Foundation of the Free State of Saxony<i class="fas fa-external-link-alt"></i></a></p>
