@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
-gem "github-pages", '197', group: :jekyll_plugins
+gem 'github-pages', group: :jekyll_plugins
 
 gem 'jekyll-paginate'
 
 gem 'jekyll-sitemap', '~> 1.4'
 
-gem 'jekyll-seo-tag', '~> 2.8'
+gem 'jekyll-seo-tag', '~> 2.8.0'
 
 # gem 'jekyll-webp', '~> 1.0'
 
