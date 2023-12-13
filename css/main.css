@@ -921,6 +921,7 @@ table tr td :last-child {
   font-family: monospace;
   white-space: pre;
   color: #333;
+  word-break: break-all;
 }
 
 pre {
