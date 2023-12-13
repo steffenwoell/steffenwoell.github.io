@@ -981,6 +981,10 @@ pre {
 
 /* --- Notification boxes --- */
 
+.toc {
+  list-style:upper-roman;
+}
+
 .box-res, .box-note, .box-warning, .box-error, .box-success, .box-blue, .box-toc-act, .box-toc-pub {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 25px 0px;

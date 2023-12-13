@@ -12,7 +12,7 @@ image: /img/pub.webp
 
 <div class="box-toc-pub">
 <div class="ctd-pub"><i class="fas fa-database"></i><b>Contents</b></div>
-<ol style="list-style:upper-roman">
+<ol class="toc">
 <li><a href="#books">Books</a></li>
 <li><a href="#journals">Journals (Peer-Reviewed)</a></li>
 <li><a href="#book-chapters">Book Chapters (Peer-Reviewed)</a></li>
