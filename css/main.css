@@ -987,7 +987,7 @@ pre {
 
 .pub-head {
   white-space: nowrap;
-  padding-right: 30px
+  padding-right: 30px;
 }
 
 .box-res, .box-note, .box-warning, .box-error, .box-success, .box-blue, .box-toc-act, .box-toc-pub {
@@ -1282,8 +1282,14 @@ pre {
   padding-right: 5px;
 }
 
-.fa-database, .fa-landmark, .fa-orcid, .fa-clock {
+.fa-database, .fa-landmark, .fa-orcid, .fa-clock, fa-creative-commons-by {
   padding-right: 10px;
+}
+
+.fa-hourglass-half {
+  color: #ccc;
+  text-shadow: 1px 1px rgba(255,255,255,0.8);
+  padding-right: 6px;
 }
 
 .fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {
