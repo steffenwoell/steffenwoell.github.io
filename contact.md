@@ -7,7 +7,7 @@ image: /img/con.webp
 ## Email
 
 <div class="box-success">
-Kindly address official correspondence to <span class="pref"><i class="fas fa-envelope"></i>steffen.woell@uni-leipzig.de</span><br/> Private messages should be directed to <span class="pref"><i class="fas fa-envelope"></i>steffen.woell@gmail.com</span>
+Kindly address official correspondence to <span class="pref"><i class="far fa-envelope"></i>steffen.woell@uni-leipzig.de</span><br/> Private messages should be directed to <span class="pref"><i class="far fa-envelope"></i>steffen.woell@gmail.com</span>
 </div>
 
 <div class="box-note cboxa">
