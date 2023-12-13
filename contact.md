@@ -7,7 +7,7 @@ image: /img/imp.webp
 ## Email
 
 <div class="box-success">
-Please address official correspondence to <span class="highlight pre">steffen.woell@uni-leipzig.de</span>. Private messages should be directed to <span class="highlighter-rouge">steffen.woell@gmail.com</span>.
+Kindly address official correspondence to <span class="pref">steffen.woell@uni-leipzig.de</span>. Private messages should be directed to <span class="pref">steffen.woell@gmail.com</span>.
 </div>
 
 <div class="box-note cboxa">
