@@ -4,8 +4,7 @@ title: Contact
 image: /img/con.webp
 ---
 
-## Email
-
+<h2>Email</h2>
 <div class="box-success">
 Kindly address official correspondence to <span class="pref"><i class="far fa-envelope"></i>steffen.woell@uni-leipzig.de</span><br/>Personal messages should be directed to <span class="pref"><i class="far fa-envelope"></i>steffen.woell@gmail.com</span>
 </div>
@@ -14,8 +13,7 @@ Kindly address official correspondence to <span class="pref"><i class="far fa-en
 Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
 </div>
 
-## Mailing Address (V.i.S.d.P.)
-
+<h2>Mailing Address (V.i.S.d.P.)</h2>
 <div class="box-note cboxa">
 <pre>
 Dr. Steffen Wöll
@@ -26,8 +24,7 @@ Germany
 </pre>
 </div>
 
-## Your Data
-
+<h2>Your Data</h2>
 <div class="box-success cboxb">
 Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance<i class="fas fa-external-link-alt"></i></a> are basic human rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers such as IP addresses, cookies, or browser fingerprints are collected, transmitted, or stored in any form. This includes:
   <ul class="fa-ul">
@@ -42,8 +39,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
     <li><span class="fa-li"><i class="fab fa-github"></i></span>GitHub&#8217;s privacy policies <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection" target="_blank">may differ<i class="fas fa-external-link-alt"></i></a></li>
 </div>
 
-## Licensing & Copyrights
-
+<h2>Licensing & Copyrights</h2>
 <div class="box-warning cboxa">
 <ul>
 <li>Unless stated otherwise, the contents of this personal, non-commercial website are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons license<i class="fas fa-external-link-alt"></i></a></li>
@@ -53,8 +49,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
 </ul>
 </div>
 
-## External Links
-
+<h2>External Links</h2>
 <div class="box-warning cboxa">
 Links to external websites are provided as a convenience and for informational purposes only. They do neither constitute an endorsement nor an approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. For requests to remove a link refer to the contact details above.
 </div>
