@@ -73,6 +73,7 @@ a:hover,a:focus,a:active {
   color: #555;
   text-decoration: none;
   white-space: nowrap;
+  word-break: break-all;
 }
 
 .gold a:hover {
@@ -84,6 +85,7 @@ a:hover,a:focus,a:active {
   color: #555;
   text-decoration: none;
   white-space: nowrap;
+  word-break: break-all;
 }
 
 .blue a:hover {
@@ -1035,6 +1037,7 @@ pre {
 .box-toc-act a {
   color: #ac8d10;
   font-weight: 600;
+  word-break: break-all;
 }
 
 .box-toc-act a:hover, .box-toc-act a:focus {
@@ -1058,6 +1061,7 @@ pre {
 .box-toc-pub a {
   color: #4c99c4;
   font-weight: 600;
+  word-break: break-all;
 }
 
 .box-toc-pub a:hover, .box-toc-pub a:focus {
