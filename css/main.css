@@ -899,9 +899,6 @@ table tr td :last-child {
   font-family: monospace;
   white-space: pre;
   color: #333;
-  background-color: #f5f5f5;
-  border: 1px solid #ccc;
-  border-radius: 4px;
 }
 
 pre {

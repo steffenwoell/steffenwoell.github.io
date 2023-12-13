@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Contact
-image: /img/imp.webp
+image: /img/con.webp
 ---
 
 ## Email
 
 <div class="box-success">
-Kindly address official correspondence to <span class="pref">steffen.woell@uni-leipzig.de</span>. Private messages should be directed to <span class="pref">steffen.woell@gmail.com</span>.
+Kindly address official correspondence to <span class="pref">steffen.woell@uni-leipzig.de</span> Private messages should be directed to <span class="pref">steffen.woell@gmail.com</span>
 </div>
 
 <div class="box-note cboxa">
-Feel free to send me encrypted messages with the GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
+Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
 </div>
 
 ## Mailing Address (V.i.S.d.P.)
@@ -50,6 +50,6 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
     <li><span class="fa-li"><i class="fab fa-html5"></i></span><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsteffenwoell.github.io%2F" target="_blank">valid HTML5<i class="fas fa-external-link-alt"></i></a></li>
     <li><span class="fa-li"><i class="fab fa-css3-alt"></i></span><a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsteffenwoell.github.io" target="_blank">valid CSS3<i class="fas fa-external-link-alt"></i></a></li>
     <li><span class="fa-li"><i class="fas fa-rss"></i></span><a href="https://www.rssboard.org/rss-validator/check.cgi?url=https%3A//steffenwoell.github.io/feed.xml" target="_blank">valid RSS 2.0<i class="fas fa-external-link-alt"></i></a></li>
-    <!-- //Not yet, see contrast issues// <li><span class="fa-li"><i class="fas fa-universal-access"></i></span><b>accessible</b> design</li>-->
+    <!-- //Not yet, still some font contrast issues// <li><span class="fa-li"><i class="fas fa-universal-access"></i></span><b>accessible</b> design</li>-->
   </ul>
 </div>
