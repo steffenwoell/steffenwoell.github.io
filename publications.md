@@ -5,9 +5,9 @@ image: /img/pub.webp
 ---
 
 <div class="box-note">
-<span style="white-space:nowrap;padding-right:30px"><i class="fab fa-orcid"></i><a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a></span>
-<span style="white-space:nowrap;padding-right:30px"><i class="fas fa-landmark"></i><a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a></span>
-<span style="white-space:nowrap"><i class="fas fa-landmark"></i><a href="https://catalog.loc.gov/vwebv/search?searchArg=Wo%CC%88ll,%20Steffen&searchCode=NAME%2B&searchType=1&recCount=25" target="_blank">Library of Congress</a></span>
+<span class="pub-head"><i class="fab fa-orcid"></i><a href="https://orcid.org/0000-0003-1582-6078" target="_blank">ORCID</a></span>
+<span class="pub-head"><i class="fas fa-landmark"></i><a href="https://d-nb.info/gnd/1225944139" target="_blank">Deutsche Nationalbibliothek</a></span>
+<span class="pub-head"><i class="fas fa-landmark"></i><a href="https://catalog.loc.gov/vwebv/search?searchArg=Wo%CC%88ll,%20Steffen&searchCode=NAME%2B&searchType=1&recCount=25" target="_blank">Library of Congress</a></span>
 </div>
 
 <div class="box-toc-pub">
