@@ -1154,6 +1154,14 @@ pre {
   color: #555;
 }
 
+.cboxa {
+  margin-bottom: 60px;
+}
+
+.cboxb {
+  margin-bottom: 100px;
+}
+
 /* Fix table border github gist snippets */
 .gist, .gist-file table tr {
   border: unset;
