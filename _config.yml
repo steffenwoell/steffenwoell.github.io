@@ -99,7 +99,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates excerpt to specified number of words on index page
-excerpt_length: 120
+excerpt_length: 0
 
 # Character used to separate site title and description in HTML and RSS feed title
 title-separator: "-"
