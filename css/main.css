@@ -55,6 +55,7 @@ color: #555;
 text-decoration: none;
 font-weight: bold;
 white-space: nowrap;
+word-break: break-all;
 }
 
 a.jhead {
