@@ -99,7 +99,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates excerpt to specified number of words on index page
-excerpt_length: 0
+excerpt_length: 250
 
 # Character used to separate site title and description in HTML and RSS feed title
 title-separator: "-"
@@ -149,11 +149,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - projects.md
-  - tags.html
   - README.md
   - Vagrantfile
   - staticman.yml
+  - projects.md
+  - tags.html
 
 # Included plugins on production site
 plugins:
