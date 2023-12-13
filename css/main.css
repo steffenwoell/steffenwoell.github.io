@@ -466,14 +466,8 @@ footer .theme-by {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 20px 0;
+  padding: 20px 0 0 0;
   border-bottom: 1px solid #eee;
-}
-
-@media only screen and (min-width: 900px) {
-  .post-preview {
-    padding: 20px 0 0 0;
-  }
 }
 
 .post-preview:last-child {
@@ -575,6 +569,18 @@ footer .theme-by {
 @media only screen and (min-width: 900px) {
   .post-preview .post-title {
     font-size: 36px;
+  }
+}
+
+@media only screen and (max-width: 899px) {
+  .post-preview .post-title {
+    font-size: 28px;
+  }
+  .post-preview .post-subtitle {
+    font-size: 20px;
+  }
+  .post-preview .post-meta {
+    font-size: 16px;
   }
 }
 
