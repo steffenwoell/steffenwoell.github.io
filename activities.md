@@ -5,7 +5,7 @@ image: /img/act.webp
 ---
 
 <div class="box-toc-act">
-<div style="color:#ac8d10;margin-top:-1px"><i class="fas fa-database" style="padding-right:10px"></i><b>Contents</b></div>
+<div class="ctd-act"><i class="fas fa-database"></i><b>Contents</b></div>
 <ol style="list-style:upper-roman">
 <li><a href="#presentations">Presentations</a></li>
 <li><a href="#conference-panels-workshops">Conference Panels & Workshops</a></li>
@@ -150,7 +150,7 @@ image: /img/act.webp
 <div><a id="volunteering">&nbsp;</a></div>
 
 ## VIII.&nbsp;Volunteering
-<div class="gold" style="margin-bottom:110px">
+<div class="gold mbot">
 <p>Mentoring applicants for Leipzig University's <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award" target="_blank">Pre-Doc Award<i class="fas fa-external-link-alt"></i></a></p>
 <p>Kurzfilmwanderung Leipzig. <a href="https://kurzfilmwanderung.de/" target="_blank">Supported by the Cultural Foundation of the Free State of Saxony<i class="fas fa-external-link-alt"></i></a></p>
 <p>KulturLounge e.V. Leipzig. <a href="https://kulturlounge.jimdofree.com/" target="_blank">Supported by the Federal Government Commissioner for Culture and the Media of Germany<i class="fas fa-external-link-alt"></i></a></p>

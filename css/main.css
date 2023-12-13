@@ -82,6 +82,11 @@ a:hover,a:focus,a:active {
   color: #555;
 }
 
+.ctd-act {
+  color: #ac8d10;
+  margin-top: -1px;
+}
+
 .blue a {
   color: #555;
   text-decoration: none;
@@ -92,6 +97,15 @@ a:hover,a:focus,a:active {
 .blue a:hover {
   text-decoration: none;
   color: #555;
+}
+
+.ctd-pub {
+  color: #4c99c4;
+  margin-top: -1px;
+}
+
+.mbot {
+  margin-bottom: 110px;
 }
 
 a.link-header {
@@ -1257,6 +1271,10 @@ pre {
 
 .fa-fingerprint, .fa-envelope {
   padding-right: 5px;
+}
+
+.fa-database, .fa-landmark, .fa-orcid, .fa-clock {
+  padding-right: 10px;
 }
 
 .fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {
