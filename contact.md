@@ -7,11 +7,11 @@ image: /img/con.webp
 ## Email
 
 <div class="box-success">
-Kindly address official correspondence to <span class="pref"><i class="far fa-envelope"></i>steffen.woell@uni-leipzig.de</span><br/> Private messages should be directed to <span class="pref"><i class="far fa-envelope"></i>steffen.woell@gmail.com</span>
+Kindly address official correspondence to <span class="pref"><i class="far fa-envelope"></i>steffen.woell@uni-leipzig.de</span><br/>Personal messages should be directed to <span class="pref"><i class="far fa-envelope"></i>steffen.woell@gmail.com</span>
 </div>
 
 <div class="box-note cboxa">
-Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
+Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
 </div>
 
 ## Mailing Address (V.i.S.d.P.)
@@ -29,13 +29,13 @@ Germany
 ## Copyrights
 
 <div class="box-warning cboxa">
-Unless stated otherwise, the contents of this personal, non-commercial website are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons license<i class="fas fa-external-link-alt"></i></a>. Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a>. If not marked differently, all other images are courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash<i class="fas fa-external-link-alt"></i></a>.
+Unless stated otherwise, the contents of this personal, non-commercial website are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons license<i class="fas fa-external-link-alt"></i></a> Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a> If not marked differently, all other images covered by a <a href="https://unsplash.com/" target="_blank">Unsplash<i class="fas fa-external-link-alt"></i></a> (free) license. Hosted fonts "Inter" and "Playfair Display" are used as per <a href=/css/fonts/LICENSE-2.0.txt">Apache License 2.0<i class="far fa-file-lines"></i></a>
 </div>
 
 ## External Links
 
 <div class="box-warning cboxa">
-Links to external websites are provided as a convenience and for informational purposes only. They do not constitute an endorsement or an approval of any of the products, services or opinions of the corporation, organization or individual responsible for the linked website. I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. For requests to remove a link please refer to the contact details above.
+Links to external websites are provided as a convenience and for informational purposes only. They do neither constitute an endorsement nor an approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. For requests to remove a link refer to the contact details above.
 </div>
 
 ## Data Protection & Accessibility

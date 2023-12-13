@@ -1244,7 +1244,7 @@ pre {
   font-size: 16px;
 }
 
-/* Font Awesome tweaks */ 
+/* Font Awesome */ 
 
 .fa-fade {
   opacity: 1;
@@ -1287,6 +1287,10 @@ pre {
   }
 }
 
+.fa-external-link-alt, .fa-file-pdf, .fa-file-image, .fa-file-lines, .fa-youtube, .fa-lock-open {
+  padding-left: 5px;
+}
+
 .fa-fingerprint, .fa-envelope {
   padding-right: 5px;
 }
@@ -1304,8 +1308,6 @@ pre {
 .fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {
   padding: 0 0 20px 20px;
 }
-
-.fa-external-link-alt, .fa-file-pdf, .fa-youtube, .fa-file-image, .fa-lock-open {padding-left: 5px;}
 
 .fab {font-weight: 300;}
 
