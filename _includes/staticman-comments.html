@@ -38,7 +38,7 @@
           <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
           <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
         </div>
-        <div class="form-group hidden" style="display: none;">
+        <div class="form-group hidden">
           <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
           <input type="hidden" name="options[slug]" value="{{ page.slug }}">
           <label for="comment-form-location">Not used. Leave blank if you are a human.</label>

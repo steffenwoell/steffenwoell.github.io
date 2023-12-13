@@ -70,6 +70,14 @@ a:hover,a:focus,a:active {
   text-decoration: none;
 }
 
+.hidden {
+  display: none;
+}
+
+.padded {
+  padding: 15px 0 15px 0;
+}
+
 .gold a {
   color: #555;
   text-decoration: none;
