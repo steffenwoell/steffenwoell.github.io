@@ -26,10 +26,15 @@ Germany
 </pre>
 </div>
 
-## Copyrights
+## Licensing & Copyrights
 
 <div class="box-warning cboxa">
-Unless stated otherwise, the contents of this personal, non-commercial website are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons license<i class="fas fa-external-link-alt"></i></a> Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a> If not marked differently, all other images are licensed through <a href="https://unsplash.com/license" target="_blank">Unsplash<i class="fas fa-external-link-alt"></i></a> Hosted fonts "Inter" and "Playfair Display" are used under <a href="/css/fonts/LICENSE-2.0.txt">Apache License 2.0<i class="far fa-file"></i></a>
+<ul>
+<li>Unless stated otherwise, the contents of this personal, non-commercial website are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons license<i class="fas fa-external-link-alt"></i></a></li>
+<li>Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a></li>
+<li>If not marked differently, all other images are licensed through <a href="https://unsplash.com/license" target="_blank">Unsplash<i class="fas fa-external-link-alt"></i></a></li>
+<li>Hosted fonts "Inter" and "Playfair Display" are used under <a href="/css/fonts/LICENSE-2.0.txt">Apache License 2.0<i class="far fa-file"></i></a></li>
+</ul>
 </div>
 
 ## External Links
