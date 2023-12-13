@@ -43,10 +43,10 @@ Germany
 Links to external websites are provided as a convenience and for informational purposes only. They do neither constitute an endorsement nor an approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. For requests to remove a link refer to the contact details above.
 </div>
 
-## Data Protection & Accessibility
+## Your Data
 
 <div class="box-success cboxb">
-Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance<i class="fas fa-external-link-alt"></i></a> are basic human rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers such as IP addresses, cookies, or browser fingerprints are collected, transmitted, or stored in any form (please note that <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection" target="_blank">GitHub&#8217;s own privacy policies</a> may differ). This includes:
+Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance<i class="fas fa-external-link-alt"></i></a> are basic human rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers such as IP addresses, cookies, or browser fingerprints are collected, transmitted, or stored in any form. This includes:
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="fas fa-cookie-bite"></i></span><b>zero</b> cookies</li>
     <li><span class="fa-li"><i class="fas fa-thumbs-down"></i></span><b>zero</b> social media</li>
@@ -55,6 +55,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
     <li><span class="fa-li"><i class="fab fa-html5"></i></span><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsteffenwoell.github.io%2F" target="_blank">valid HTML5<i class="fas fa-external-link-alt"></i></a></li>
     <li><span class="fa-li"><i class="fab fa-css3-alt"></i></span><a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsteffenwoell.github.io" target="_blank">valid CSS3<i class="fas fa-external-link-alt"></i></a></li>
     <li><span class="fa-li"><i class="fas fa-rss"></i></span><a href="https://www.rssboard.org/rss-validator/check.cgi?url=https%3A//steffenwoell.github.io/feed.xml" target="_blank">valid RSS 2.0<i class="fas fa-external-link-alt"></i></a></li>
-    <!-- //Not yet, still some font contrast issues// <li><span class="fa-li"><i class="fas fa-universal-access"></i></span><b>accessible</b> design</li>-->
+    <!-- //Not quite, still some font contrast issues to solve// <li><span class="fa-li"><i class="fas fa-universal-access"></i></span><b>accessible</b> design</li>-->
+    <li><span class="fa-li"><i class="fab fa-github"></i></span>GitHub&#8217;s <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection" target="_blank">privacy policies<i class="fas fa-external-link-alt"></i></a> may differ
   </ul>
 </div>
