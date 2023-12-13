@@ -4,9 +4,9 @@ gem 'github-pages', group: :jekyll_plugins
 
 gem 'jekyll-paginate'
 
-gem 'jekyll-sitemap', '~> 1.4'
+gem 'jekyll-sitemap', '~> 1.2.0'
 
-gem 'jekyll-seo-tag', '~> 2.8.0'
+gem 'jekyll-seo-tag', '~> 2.5.0'
 
 # gem 'jekyll-webp', '~> 1.0'
 
