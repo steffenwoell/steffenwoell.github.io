@@ -25,7 +25,7 @@ Germany
 </div>
 
 <h2>Your Data</h2>
-<div class="box-success cboxb">
+<div class="box-success cboxa">
 Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance<i class="fas fa-external-link-alt"></i></a> are basic human rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers such as IP addresses, cookies, or browser fingerprints are collected, transmitted, or stored in any form. This includes:
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="fas fa-cookie-bite"></i></span><b>zero</b> cookies</li>
@@ -36,7 +36,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
     <li><span class="fa-li"><i class="fab fa-css3-alt"></i></span><a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsteffenwoell.github.io" target="_blank">valid CSS3<i class="fas fa-external-link-alt"></i></a></li>
     <li><span class="fa-li"><i class="fas fa-rss"></i></span><a href="https://www.rssboard.org/rss-validator/check.cgi?url=https%3A//steffenwoell.github.io/feed.xml" target="_blank">valid RSS 2.0<i class="fas fa-external-link-alt"></i></a></li>
     <!-- //Not quite, still some font contrast issues to solve// <li><span class="fa-li"><i class="fas fa-universal-access"></i></span><b>accessible</b> design</li>-->
-    <li><span class="fa-li"><i class="fab fa-github"></i></span>GitHub&#8217;s privacy policies <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection" target="_blank">may differ<i class="fas fa-external-link-alt"></i></a></li>
+    <li><span class="fa-li"><i class="fab fa-github-alt"></i></span>GitHub policies <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection" target="_blank">may differ<i class="fas fa-external-link-alt"></i></a></li>
   </ul>
 </div>
 
@@ -51,6 +51,6 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
 </div>
 
 <h2>External Links</h2>
-<div class="box-warning cboxa">
+<div class="box-warning cboxb">
 Links to external websites are provided as a convenience and for informational purposes only. They do neither constitute an endorsement nor an approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. For requests to remove a link refer to the contact details above.
 </div>
