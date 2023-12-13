@@ -7,11 +7,11 @@ image: /img/con.webp
 ## Email
 
 <div class="box-success">
-Kindly address official correspondence to <span class="pref">steffen.woell@uni-leipzig.de</span> Private messages should be directed to <span class="pref">steffen.woell@gmail.com</span>
+Kindly address official correspondence to <span class="pref"><i class="fas fa-envelope"></i>steffen.woell@uni-leipzig.de</span><br/> Private messages should be directed to <span class="pref"><i class="fas fa-envelope"></i>steffen.woell@gmail.com</span>
 </div>
 
 <div class="box-note cboxa">
-Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" style="padding-right:10px"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
+Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
 </div>
 
 ## Mailing Address (V.i.S.d.P.)

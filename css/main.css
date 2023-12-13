@@ -1255,6 +1255,10 @@ pre {
   }
 }
 
+.fa-fingerprint .fa-envelope {
+  padding-right: 10px;
+}
+
 .fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {
   padding: 0 0 20px 20px;
 }
