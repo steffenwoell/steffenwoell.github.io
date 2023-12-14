@@ -26,9 +26,9 @@ image: /img/pub.webp
 </ol>
 </div>
 
-<div><a id="books"></a></div>
+<div><a id="books">&nbsp;</a></div>
 
-## I. Books
+## I.&nbsp;Books
 <div class="blue">
 <p><em>A Place Between Oceans: Imagining the American Empire 1880&#8211;1940</em>. Habilitation project</p>
 <p><em>The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</em>. De Gruyter, 2020. <a href="https://doi.org/10.1515/9783110690132" target="_blank">Print<i class="fas fa-external-link-alt"></i></a></p>
