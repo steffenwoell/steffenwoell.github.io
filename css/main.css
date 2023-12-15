@@ -3,6 +3,7 @@
 /* --- Theming --- */
 
 html { 
+  --h1-color: #404040;
   --main-bg-color: #fff;
   --main-text-color: #404040;
   --link-color: #555;
@@ -27,10 +28,15 @@ html {
   --footer-misc-text-effect: 1px 1px rgba(255,255,255,0.8);
   --footer-misc-color: #ccc;
   --footer-misc-hover-color: #aaa;
+  --journal-preview-divider: 1px solid #eee;
+  --journal-preview-link-color: #404040;
+  --journal-preview-meta-color: #808080;
+  --journal-preview-subtitle-color: #404040;
 }
 
 @media (prefers-color-scheme: dark) {
-	html {
+	html {  
+  --h1-color: #ad7547;
   --main-bg-color: #1a3042;
   --main-text-color: #d1ae91;
   --link-color: #d1ae91;
@@ -55,6 +61,10 @@ html {
   --footer-misc-text-effect: none;
   --footer-misc-color: #d1ae91;
   --footer-misc-hover-color: #ad7547;
+  --journal-preview-divider: 1px solid #808080;
+  --journal-preview-link-color: #ad7547;
+  --journal-preview-meta-color: #808080;
+  --journal-preview-subtitle-color: #d1ae91;
 	}
 }
 
@@ -81,6 +91,7 @@ h1 {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 600;
   font-style: normal;
+  color: var(--h1-color);
 }
 
 h2 {
@@ -527,22 +538,16 @@ footer .theme-by {
 
 .post-preview {
   padding: 20px 0 0 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: var(--journal-preview-divider);
 }
 
 .post-preview:last-child {
   border-bottom: 0;
 }
 
-.post-preview a {
+.post-preview a, .post-preview a:focus, .post-preview a:hover {
   text-decoration: none;
-  color: #404040;
-}
-
-.post-preview a:focus,
-.post-preview a:hover {
-  text-decoration: none;
-  color: #404040;
+  color: var(--journal-preview-link-color);
 }
 
 .post-preview .post-title {
@@ -554,10 +559,11 @@ footer .theme-by {
   margin: -10px 0 5px 0;
   font-weight: 300;
   font-size: 24px;
+  color: var(--journal-preview-subtitle-color);
 }
 
 .post-preview .post-meta {
-  color: #808080;
+  color: var(--journal-preview-meta-color);
   font-size: 18px;
   font-style: normal;
   font-weight: 200;
@@ -565,7 +571,7 @@ footer .theme-by {
 }
 
 .post-subheading .post-meta {
-  color: #808080;
+  color: #80808f0;
   font-size: 18px;
   font-style: normal;
   margin: 10px 0 5px 0;
