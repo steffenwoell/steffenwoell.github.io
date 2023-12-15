@@ -50,9 +50,11 @@ html {
   --box-toc-act-li: #d2ad15;
   --box-err-bg: #f4dddb; /* - Box Error light - */
   --box-err-stripe: #c0392b;
+  --box-err-text: #555;
   --box-err-link: #555;
   --box-success-bg: #dcfadc; /* - Box Success light - */
   --box-success-stripe: #4d944d;
+  --box-success-text: #555;
   --box-success-link: #555;
   --box-res-bg: #ddffe7; /* - Box Research light - */
   --box-res-stripe: #167d7f;
@@ -60,6 +62,7 @@ html {
   --box-res-link: #555;
   --box-warn-bg: #fdf5d4; /* - Box Warning light - */
   --box-warn-stripe: #f1c40f;
+  --box-warn-text: #555;
   --box-warn-link: #555;
 }
 
@@ -94,34 +97,37 @@ html {
   --journal-preview-link-color: #ad7547;
   --journal-preview-meta-color: #808080;
   --journal-preview-subtitle-color: #d1ae91;
-  --box-note-bg: #0b0116; /* - Box Note dark - */
-  --box-note-text: #f1fbe6;
-  --box-note-stripe: #f1fbe6;
-  --box-note-link: #f1fbe6;
-  --box-toc-pub-cont: #; /* - Box Pub dark - */
-  --box-toc-pub-bg: #;
-  --box-toc-pub-stripe: #;
-  --box-toc-pub-link: #;
-  --box-toc-pub-hover: #;
-  --box-toc-pub-li: #;
-  --box-toc-act-cont: #; /* - Box Act dark - */
-  --box-toc-act-bg: #;
-  --box-toc-act-stripe: #;
-  --box-toc-act-link: #;
-  --box-toc-act-hover: #;
-  --box-toc-act-li: #;
+  --box-note-bg: #757685; /* - Box Note dark - */
+  --box-note-text: #302f23;
+  --box-note-stripe: #302f23;
+  --box-note-link: #302f23;
+  --box-toc-pub-cont: #252900; /* - Box Pub dark - */
+  --box-toc-pub-bg: #6b65bd;
+  --box-toc-pub-stripe: #252900;
+  --box-toc-pub-link: #252900;
+  --box-toc-pub-hover: #252900;
+  --box-toc-pub-li: #252900;
+  --box-toc-act-cont: #003544; /* - Box Act dark - */
+  --box-toc-act-bg: #a66957;
+  --box-toc-act-stripe: #003544;
+  --box-toc-act-link: #003544;
+  --box-toc-act-hover: #003544;
+  --box-toc-act-li: #003544;
   --box-err-bg: #; /* - Box Error dark - */
   --box-err-stripe: #;
+  --box-err-text: #;
   --box-err-link: #;
-  --box-success-bg: #; /* - Box Success dark - */
-  --box-success-stripe: #;
-  --box-success-link: #;
-  --box-res-bg: #; /* - Box Research dark - */
-  --box-res-stripe: #;
-  --box-res-text: #;
-  --box-res-link: #;
+  --box-success-bg: #588639; /* - Box Success dark - */
+  --box-success-stripe: #451e63;
+  --box-success-text: #451e63;
+  --box-success-link: #451e63;
+  --box-res-bg: #2a6762; /* - Box Research dark - */
+  --box-res-stripe: #230000;
+  --box-res-text: #230000;
+  --box-res-link: #230000;
   --box-warn-bg: #; /* - Box Warning dark - */
   --box-warn-stripe: #;
+  --box-warn-text: #;
   --box-warn-link: #;
 	}
 }
@@ -1199,6 +1205,7 @@ pre {
 }
 
 .box-error {
+  color: var(--box-err-text);
   background-color: var(--box-err-bg);
   border-left-color: var(--box-err-stripe);
 }
@@ -1210,6 +1217,7 @@ pre {
 }
 
 .box-success {
+  color: var(--box-success-text);
   background-color: var(--box-success-bg);
   border-left-color: var(--box-success-stripe);
 }
