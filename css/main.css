@@ -102,22 +102,22 @@ html {
   --journal-preview-link-color: #888;
   --journal-preview-meta-color: #666;
   --journal-preview-subtitle-color: #777;
-  --box-note-bg: #596a6b; /* - Box Note dark - */
-  --box-note-text: #000;
-  --box-note-stripe: #000;
-  --box-note-link: #000;
-  --box-toc-pub-cont: #252900; /* - Box Pub dark - */
-  --box-toc-pub-bg: #6b65bd;
-  --box-toc-pub-stripe: #252900;
-  --box-toc-pub-link: #252900;
-  --box-toc-pub-hover: #252900;
-  --box-toc-pub-li: #252900;
-  --box-toc-act-cont: #003544; /* - Box Act dark - */
-  --box-toc-act-bg: #a66957;
-  --box-toc-act-stripe: #003544;
-  --box-toc-act-link: #003544;
-  --box-toc-act-hover: #003544;
-  --box-toc-act-li: #003544;
+  --box-note-bg: #757685; /* - Box Note dark - */
+  --box-note-text: #302f23;
+  --box-note-stripe: #302f23;
+  --box-note-link: #302f23;
+  --box-toc-pub-cont: #ecbca4; /* - Box Pub dark - */
+  --box-toc-pub-bg: #17465e;
+  --box-toc-pub-stripe: #ecbca4;
+  --box-toc-pub-link: #ecbca4;
+  --box-toc-pub-hover: #ecbca4;
+  --box-toc-pub-li: #dfa385;
+  --box-toc-act-cont: #001617; /* - Box Act dark - */
+  --box-toc-act-bg: #9b4845;
+  --box-toc-act-stripe: #001617;
+  --box-toc-act-link: #001617;
+  --box-toc-act-hover: #001617;
+  --box-toc-act-li: #192f30;
   --box-err-bg: #910e17; /* - Box Error dark - */
   --box-err-stripe: #ee6aa1;
   --box-err-text: #ee6aa1;
@@ -126,10 +126,10 @@ html {
   --box-success-stripe: #002740;
   --box-success-text: #002740;
   --box-success-link: #002740;
-  --box-res-bg: #2a6762; /* - Box Research dark - */
-  --box-res-stripe: #230000;
-  --box-res-text: #230000;
-  --box-res-link: #230000;
+  --box-res-bg: #3f2d83; /* - Box Research dark - */
+  --box-res-stripe: #7fadd5;
+  --box-res-text: #7fadd5;
+  --box-res-link: #7fadd5;
   --box-warn-bg: #ddebaf; /* - Box Warning dark - */
   --box-warn-stripe: #251653;
   --box-warn-text: #251653;
@@ -642,7 +642,7 @@ footer .theme-by {
 }
 
 .post-subheading .post-meta {
-  color: #808080;
+  color: #80808f0;
   font-size: 18px;
   font-style: normal;
   margin: 10px 0 5px 0;
@@ -1368,6 +1368,12 @@ pre {
 
 .fa.fa-font.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fa.fa-font.fa-stack-1x.fa-inverse:hover {color: #f1c40e;}
+
+.fas.fa-compass.fa-stack-1x.fa-inverse {transition: 0.5s;}
+.fas.fa-compass.fa-stack-1x.fa-inverse:hover {color: #c0c0c0;}
+
+.fas.fa-at.fa-stack-1x.fa-inverse {transition: 0.5s;}
+.fas.fa-at.fa-stack-1x.fa-inverse:hover {color: #c0c0c0;}
 
 .fas.fa-rss.fa-stack-1x.fa-inverse {transition: 0.5s;}
 .fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
