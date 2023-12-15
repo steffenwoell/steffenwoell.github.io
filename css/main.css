@@ -102,10 +102,10 @@ html {
   --journal-preview-link-color: #888;
   --journal-preview-meta-color: #666;
   --journal-preview-subtitle-color: #777;
-  --box-note-bg: #757685; /* - Box Note dark - */
-  --box-note-text: #302f23;
-  --box-note-stripe: #302f23;
-  --box-note-link: #302f23;
+  --box-note-bg: #596a6b; /* - Box Note dark - */
+  --box-note-text: #000;
+  --box-note-stripe: #000;
+  --box-note-link: #000;
   --box-toc-pub-cont: #252900; /* - Box Pub dark - */
   --box-toc-pub-bg: #6b65bd;
   --box-toc-pub-stripe: #252900;
@@ -642,7 +642,7 @@ footer .theme-by {
 }
 
 .post-subheading .post-meta {
-  color: #80808f0;
+  color: #808080;
   font-size: 18px;
   font-style: normal;
   margin: 10px 0 5px 0;
