@@ -13,17 +13,6 @@ Address official correspondence to <pre><i class="far fa-envelope"></i>steffen.w
 Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
 </div>
 
-<h2>Mailing Address</h2>
-<div class="box-note cboxa">
-<pre>
-Dr. Steffen Wöll (V.i.S.d.P.)
-Nikolaistr. 6-10
-Raum 5.07
-04109 Leipzig
-Germany
-</pre>
-</div>
-
 <h2>Your Data</h2>
 <div class="box-success cboxa">
 Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance<i class="fas fa-external-link-alt"></i></a> are basic human rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers such as IP addresses, cookies, or browser fingerprints are collected, transmitted, or stored in any form. This includes:
@@ -53,4 +42,15 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
 <h2>External Links</h2>
 <div class="box-warning cboxb">
 Links to external websites are provided as a convenience and for informational purposes only. They do neither constitute an endorsement nor an approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. For requests to remove a link refer to the contact details above.
+</div>
+
+<h2>Mailing Address</h2>
+<div class="box-note cboxa">
+<pre>
+Dr. Steffen Wöll (V.i.S.d.P.)
+Nikolaistr. 6-10
+Raum 5.07
+04109 Leipzig
+Germany
+</pre>
 </div>
