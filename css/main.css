@@ -68,35 +68,35 @@ html {
 
 @media (prefers-color-scheme: dark) {
 	html {  
-  --h1-color: #ad7547; /* - Basics dark - */
+  --h1-color: #999; /* - Basics dark - */
   --main-bg-color: #1a3042;
-  --main-text-color: #d1ae91;
-  --link-color: #ad7547;
+  --main-text-color: #888;
+  --link-color: #888;
   --link-active-color: #ad7547;
   --navbar-bg-color: #12202d; /* - Navbar dark - */
-  --navbar-text-color: #d1ae91;
-  --navbar-brand-color: #d1ae91;
+  --navbar-text-color: #888;
+  --navbar-brand-color: #888;
   --navbar-border: 0px solid red;
   --navbar-collapse-border-color: #1a3042;
   --pager-bg-color: #12202d; /* - Pager dark - */
   --pager-bg-hover-color: #182a3b;
-  --pager-text-color: #d1ae91;
-  --pager-text-hover-color: #ad7547;
-  --pager-border: 1px solid #12202d;
-  --pager-border-hover: 1px solid #ad7547;
+  --pager-text-color: #777;
+  --pager-text-hover-color: #888;
+  --pager-border: 1px solid #777;
+  --pager-border-hover: 1px solid #888;
   --footer-border: 0px solid red; /* - Footer dark - */
   --footer-bg-color: #12202d;
   --footer-links-bg-color: #1a3042;
-  --footer-links-icon-color: #d1ae91;
-  --footer-copyright-link-color: #d1ae91;
-  --footer-misc-text-color: #d1ae91;
+  --footer-links-icon-color: #888;
+  --footer-copyright-link-color: #888;
+  --footer-misc-text-color: #888;
   --footer-misc-text-effect: none;
-  --footer-misc-color: #d1ae91;
+  --footer-misc-color: #888;
   --footer-misc-hover-color: #ad7547;
-  --journal-preview-divider: 1px solid #808080; /* - Journal landing dark - */
-  --journal-preview-link-color: #ad7547;
-  --journal-preview-meta-color: #808080;
-  --journal-preview-subtitle-color: #d1ae91;
+  --journal-preview-divider: 1px solid #444; /* - Journal landing dark - */
+  --journal-preview-link-color: #888;
+  --journal-preview-meta-color: #666;
+  --journal-preview-subtitle-color: #777;
   --box-note-bg: #757685; /* - Box Note dark - */
   --box-note-text: #302f23;
   --box-note-stripe: #302f23;
