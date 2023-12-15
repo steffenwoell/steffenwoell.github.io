@@ -1,18 +1,18 @@
-# --- General options --- #
+# --- Basics --- #
 
 title: Dr. Steffen Wöll
 description: Postdoctoral Researcher at SFB 1199 / Leipzig University
 
 # --- Local development options ---
-# If hosted locally rather than on GitHub, uncomment next two parameters to set url and baseurl (Danger!)
+# If hosted locally set url and baseurl (Danger!)
 
-# Website URL without trailing slash
+# URL without trailing slash
 # url: "https://example.com"
 
 # Should be an empty string
 # baseurl: ""
 
-# --- Navbar options --- #
+# --- Navbar --- #
 
 navbar-links:
   Publications: "publications/"
@@ -23,32 +23,14 @@ navbar-links:
 #  - Projects: "projects"
 #  - Tags: "tags"
 
-# Navbar image, must be square (width = height)
+# Navbar image, must be square
 # Remove for no image
 avatar: "/img/swp.webp"
 
 # Logo in top-left corner instead of title text
 # title-img: /path/to/image
 
-# --- Background options --- #
-
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#404040"
-hover-col: "#404040"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-
-# Background images instead of color
-
-# navbar-img: "/img/bgimage.webp"
-# footer-img: "/img/bgimage.webp"
-# page-img: "/img/bgimage.webp"
-
-# --- Footer options --- #
+# --- Footer --- #
 
 # Danger: Do not delete 'name' parameter
 author:
@@ -73,32 +55,11 @@ share-links-active:
   facebook: false
   linkedin: false
 
-# How to display link to website in footer
+# Format of link to website in footer
 url-pretty: "steffenwoell.github.io"
-
-# --- Comments --- #
-
-# Fill in Disqus shortname (NOT userid) to support Disqus comments
-# disqus: ""
-
-# If using JustComments, fill in API Key
-# just-comments: "ABCD-EFGH-IJKL"
-
-# To use Staticman comments, fill in repository, branch & endpoint
-staticman:
-  repository : # GitHub username/repository, e.g. "user/rep"
-  branch     : master # If not using 'master' branch must also update 'branch' parameter in staticman.yml
-  endpoint   : # URL of own deployment, with trailing slash (will fallback to a public GitLab instance), e.g. https://<your-api>/v3/entry/github/
-  reCaptcha:
-    # reCaptcha for Staticman (optional, recommended for spam protection)
-    # If using reCaptcha must also set these parameters in staticman.yml
-    siteKey  : # If using own site key must apply for one on G00gle
-    secret   : # ENCRYPT password at https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
-# Excerpt Word Length
-# Truncates excerpt to specified number of words on index page
 excerpt_length: 250
 
 # Character used to separate site title and description in HTML and RSS feed title
@@ -106,8 +67,6 @@ title-separator: "-"
 
 # Ruby date format
 date_format: "%-d %B %Y"
-
-# --- No need to touch anything below --- #
 
 # Output options
 timezone: "Europe/Germany"
@@ -128,7 +87,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: false  # add comments to blog posts
+      comments: false
       social-share: false # add social buttons to blog posts
   -
     scope:
@@ -140,7 +99,7 @@ defaults:
 # Use tags on index page & make tags on blog posts clickable
 link-tags: false
 
-# Excluded files from production site
+# Exclude files from production site
 exclude:
   - CHANGELOG.md
   - CNAME
@@ -151,11 +110,10 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
-  - staticman.yml
   - projects.md
   - tags.html
 
-# Included plugins on production site
+# Include plugins on production site
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag

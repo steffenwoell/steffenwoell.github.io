@@ -15,11 +15,7 @@ body {
   display: flex; /* Sticky footer */
   flex-direction: column; /* Sticky footer */
   min-height:100vh; /* Sticky footer */
-  background-color: {{ site.page-col }};
-  {% if site.page-img %}
-  background-image: url({{ site.page-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+  background-color: #fff;
 }
 
 p {
@@ -168,16 +164,6 @@ img {
   max-width: 100%;
 }
 
-.disqus-comments {
-  margin-top: 30px;
-}
-
-@media only screen and (min-width: 900px) {
-  .disqus-comments {
-    margin-top: 40px;
-  }
-}
-
 .linked-section {
   padding-top: 60px;
   margin-top: -25px;
@@ -186,12 +172,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col }};
+  background-color: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
-  {% if site.navbar-img %}
-  background-image: url({{ site.navbar-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
 }
 
 .navbar-custom .nav li a::before {
@@ -219,7 +201,7 @@ img {
   font-size: 16px;
   letter-spacing: 0px;
   text-decoration: none;
-  color: {{ site.navbar-text-col }};
+  color: #404040;
 }
 
 .navbar-brand {
@@ -229,7 +211,7 @@ img {
   font-size: 16px;
   letter-spacing: 0px;
   text-decoration: none;
-  color: {{ site.navbar-text-col }};
+  color: #404040;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -323,7 +305,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background-color: {{ site.navbar-children-col }};
+  background-color: #F5F5F5;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -372,11 +354,7 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: auto; /* Sticky footer */
   font-size: 14px;
-  background-color: {{ site.footer-col }};
-  {% if site.footer-img %}
-  background-image: url({{ site.footer-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+  background-color: #F5F5F5;
 }
 
 footer p.text-muted {
@@ -384,7 +362,7 @@ footer p.text-muted {
 }
 
 footer a {
-  color: {{site.footer-link-col}};
+  color: #404040;
 }
 
 .beautiful-jekyll-footer {
@@ -506,7 +484,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: {{ site.hover-col }};
+  color: #404040;
 }
 
 .post-preview .post-title {

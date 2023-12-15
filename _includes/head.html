@@ -53,7 +53,6 @@
   <meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
   {% endif %}
 
-
   <meta property="og:type" content="website">
 
   {% if page.id %}
@@ -70,13 +69,5 @@
   <meta property="og:image" content="{{ site.avatar | absolute_url }}">
   {% endif %}
 
-  {% if site.matomo %}
-  {% include matomo.html %}
-  {% endif %}
-
-  {% if page.comments and site.staticman.repository and site.staticman.branch %}
-  <!-- Staticman -->
-  <link rel="stylesheet" href="{{ "/css/staticman.css" | relative_url }}">
-  {% endif %}
   {% seo %}
 </head>
