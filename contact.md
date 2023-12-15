@@ -40,12 +40,17 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
 </div>
 
 <h2>External Links</h2>
-<div class="box-warning cboxb">
-Links to external websites are provided as a convenience and for informational purposes only. They do neither constitute an endorsement nor an approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. For requests to remove a link refer to the contact details above.
+<div class="box-warning cboxa">
+<ul>
+<li>Links to external websites are provided as a convenience and for informational purposes only.</li>
+<li>Links do neither constitute an endorsement nor an approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website.</li>
+<li>I do not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites.</li>
+<li>To request the removal of a link refer to the contact details above.</li>
+</ul>
 </div>
 
 <h2>Mailing Address</h2>
-<div class="box-note cboxa">
+<div class="box-note cboxb">
 <pre>
 Dr. Steffen Wöll (V.i.S.d.P.)
 Nikolaistr. 6-10
