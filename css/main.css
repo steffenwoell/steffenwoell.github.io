@@ -1,8 +1,62 @@
----
-layout: null
----
-
 @import url("fonts.css");
+
+/* --- Theming --- */
+
+html { 
+  --main-bg-color: #fff;
+  --main-text-color: #404040;
+  --link-color: #555;
+  --link-active-color: #555;
+  --navbar-bg-color: #f5f5f5;
+  --navbar-text-color: #404040;
+  --navbar-brand-color: #404040;
+  --navbar-border: 1px solid #eaeaea;
+  --navbar-collapse-border-color: #f5f5f5;
+  --pager-bg-color: #fff;
+  --pager-bg-hover-color: #fff;
+  --pager-text-color: #404040;
+  --pager-text-hover-color: #404040;
+  --pager-border: 1px solid #ddd;
+  --pager-border-hover: 1px solid #808080;
+  --footer-border: 1px #eaeaea solid;
+  --footer-bg-color: #f5f5f5;
+  --footer-links-bg-color: #404040;
+  --footer-links-icon-color: #f5f5f5;
+  --footer-copyright-link-color: #555;
+  --footer-misc-text-color: #888;
+  --footer-misc-text-effect: 1px 1px rgba(255,255,255,0.8);
+  --footer-misc-color: #ccc;
+  --footer-misc-hover-color: #aaa;
+}
+
+@media (prefers-color-scheme: dark) {
+	html {
+  --main-bg-color: #1a3042;
+  --main-text-color: #d1ae91;
+  --link-color: #d1ae91;
+  --link-active-color: #d1ae91;
+  --navbar-bg-color: #12202d;
+  --navbar-text-color: #d1ae91;
+  --navbar-brand-color: #d1ae91;
+  --navbar-border: 0px solid red;
+  --navbar-collapse-border-color: #1a3042;
+  --pager-bg-color: #12202d;
+  --pager-bg-hover-color: #182a3b;
+  --pager-text-color: #d1ae91;
+  --pager-text-hover-color: #ad7547;
+  --pager-border: 1px solid #12202d;
+  --pager-border-hover: 1px solid #ad7547;
+  --footer-border: 0px solid red;
+  --footer-bg-color: #12202d;
+  --footer-links-bg-color: #1a3042;
+  --footer-links-icon-color: #d1ae91;
+  --footer-copyright-link-color: #d1ae91;
+  --footer-misc-text-color: #d1ae91;
+  --footer-misc-text-effect: none;
+  --footer-misc-color: #d1ae91;
+  --footer-misc-hover-color: #ad7547;
+	}
+}
 
 /* --- Basics --- */
 
@@ -10,12 +64,12 @@ body {
   font-family: 'Inter', Arial, sans-serif;
   font-size: 16px;
   font-weight: normal;
-  color: #404040;
+  color: var(--main-text-color);
   position: relative;
   display: flex; /* Sticky footer */
   flex-direction: column; /* Sticky footer */
   min-height:100vh; /* Sticky footer */
-  background-color: #fff;
+  background-color: var(--main-bg-color);
 }
 
 p {
@@ -46,7 +100,7 @@ h2,h3,h4,h5,h6 {
 }
 
 a {
-color: #555;
+color: var(--link-color);
 text-decoration: none;
 font-weight: bold;
 white-space: nowrap;
@@ -61,7 +115,7 @@ a.jhead {
   }
 
 a:hover,a:focus,a:active {
-  color: #555;
+  color: var(--link-active-color);
   text-decoration: none;
 }
 
@@ -172,8 +226,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: #F5F5F5;
-  border-bottom: 1px solid #EAEAEA;
+  background-color: var(--navbar-bg-color);
+  border-bottom: var(--navbar-border);
 }
 
 .navbar-custom .nav li a::before {
@@ -201,7 +255,7 @@ img {
   font-size: 16px;
   letter-spacing: 0px;
   text-decoration: none;
-  color: #404040;
+  color: var(--navbar-text-color);
 }
 
 .navbar-brand {
@@ -211,7 +265,7 @@ img {
   font-size: 16px;
   letter-spacing: 0px;
   text-decoration: none;
-  color: #404040;
+  color: var(--navbar-brand-color);
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -289,6 +343,10 @@ img {
   }
 }
 
+.navbar-default .navbar-collapse {
+  border-color: var(--navbar-collapse-border-color);
+}
+
 /* Multi-level nav links */
 .navbar-custom .nav .navlinks-container {
   position: relative;
@@ -351,10 +409,10 @@ img {
 
 footer {
   padding: 30px 0;
-  border-top: 1px #EAEAEA solid;
+  border-top: var(--footer-border);
   margin-top: auto; /* Sticky footer */
   font-size: 14px;
-  background-color: #F5F5F5;
+  background-color: var(--footer-bg-color);
 }
 
 footer p.text-muted {
@@ -369,50 +427,43 @@ footer a {
   font-family: 'Inter', Arial, sans-serif;
 }
 
-.copyright {
-  margin: 35px 0 60px 0;
-  font-weight: 300;
-  color: #555;
-}
-
 .name {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-style: italic;
   font-size: 110%;
 }
 
-.copyright a {
-  font-weight: 700;
-  color: #555;
+.copyright {
+  margin: 35px 0 60px 0;
+  font-weight: 300;
 }
 
-.copyright a:hover {
-  text-decoration: none;
-  color: #555;
+.copyright a, copyright a:hover {
+  font-weight: 700;
+  color: var(--footer-copyright-link-color);
+}
+
+.made-with, .license, .lastmod, .mw-buttons a, .cc-buttons a, .fa-hourglass-half {
+  color: var(--footer-misc-text-color);
+  text-shadow: var(--footer-misc-text-effect);
 }
 
 .made-with {
   margin: 60px 0 20px 0;
-  color: #888;
   text-align: center;
   font-weight: 300;
-  text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .license {
   margin: 45px 0 20px 0;
-  color: #888;
   text-align: center;
   font-weight: 300;
-  text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .lastmod {
   margin: 80px 0 10px 0;
-  color: #888;
   text-align: center;
   font-weight: 300;
-  text-shadow: 1px 1px rgba(255,255,255,0.8);
 }
 
 .mw-buttons {
@@ -425,13 +476,12 @@ footer a {
 }
 
 .mw-buttons a, .cc-buttons a {
-  color: #ccc;
-  text-shadow: 1px 1px rgba(255,255,255,0.8);
+  color: var(--footer-misc-color);
   transition: 0.5s ease;
 }
 
 .mw-buttons a:hover, .mw-buttons a:active, .mw-buttons a:focus, .cc-buttons a:hover, .cc-buttons a:active, .cc-buttons a:focus {
-  color: #aaa;
+  color: var(--footer-misc-hover-color);
 }
 
 footer .list-inline {
@@ -463,6 +513,14 @@ footer .theme-by {
 
 .footer-links li {
   padding-bottom: 15px;
+}
+
+.footer-links li a {
+  color: var(--footer-links-bg-color);
+}
+
+.footer-links li a .fa-inverse {
+  color: var(--footer-links-icon-color);
 }
 
 /* --- Post preview --- */
@@ -817,9 +875,10 @@ footer .theme-by {
   letter-spacing: 1px;
   padding: 20px 5px;
   margin: 50px 0 20px 0;
-  background-color: #FFF;
+  background-color: var(--pager-bg-color);
+  color: var(--pager-text-color);
+  border: var(--pager-border);
   border-radius: 0;
-  color: #404040;
 }
 
 @media only screen and (min-width: 900px) {
@@ -830,9 +889,9 @@ footer .theme-by {
 
 .pager li a:hover,
 .pager li a:focus {
-  color: #404040;
-  border: 1px solid #808080;
-  background-color: #FFF;
+  background-color: var(--pager-bg-hover-color);
+  color: var(--pager-text-hover-color);
+  border: var(--pager-border-hover);
   transition: 0.5s ease;
 }
 
@@ -1277,8 +1336,6 @@ pre {
 }
 
 .fa-hourglass-half {
-  color: #ccc;
-  text-shadow: 1px 1px rgba(255,255,255,0.8);
   padding-right: 6px;
 }
 
