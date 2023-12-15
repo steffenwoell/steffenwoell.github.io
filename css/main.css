@@ -10,6 +10,7 @@ html {
   --link-active-color: #555;
   --navbar-bg-color: #f5f5f5; /* - Navbar light - */
   --navbar-text-color: #404040;
+  --navbar-text-hover: #404040;
   --navbar-brand-color: #404040;
   --navbar-border: 1px solid #eaeaea;
   --navbar-collapse-border-color: #f5f5f5;
@@ -64,6 +65,9 @@ html {
   --box-warn-stripe: #f1c40f;
   --box-warn-text: #555;
   --box-warn-link: #555;
+  --pre-text: #555; /* - Preformatted text light - */
+  --pre-bg: rgba(255, 255, 255, 0.8);
+  --pre-border: 0px dashed #555;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -72,9 +76,10 @@ html {
   --main-bg-color: #1a3042;
   --main-text-color: #888;
   --link-color: #888;
-  --link-active-color: #ad7547;
+  --link-active-color: #c0c0c0;
   --navbar-bg-color: #12202d; /* - Navbar dark - */
   --navbar-text-color: #888;
+  --navbar-text-hover: #c0c0c0;
   --navbar-brand-color: #888;
   --navbar-border: 0px solid red;
   --navbar-collapse-border-color: #1a3042;
@@ -92,7 +97,7 @@ html {
   --footer-misc-text-color: #888;
   --footer-misc-text-effect: none;
   --footer-misc-color: #888;
-  --footer-misc-hover-color: #ad7547;
+  --footer-misc-hover-color: #c0c0c0;
   --journal-preview-divider: 1px solid #444; /* - Journal landing dark - */
   --journal-preview-link-color: #888;
   --journal-preview-meta-color: #666;
@@ -113,22 +118,25 @@ html {
   --box-toc-act-link: #003544;
   --box-toc-act-hover: #003544;
   --box-toc-act-li: #003544;
-  --box-err-bg: #; /* - Box Error dark - */
-  --box-err-stripe: #;
-  --box-err-text: #;
-  --box-err-link: #;
-  --box-success-bg: #588639; /* - Box Success dark - */
-  --box-success-stripe: #451e63;
-  --box-success-text: #451e63;
-  --box-success-link: #451e63;
+  --box-err-bg: #910e17; /* - Box Error dark - */
+  --box-err-stripe: #ee6aa1;
+  --box-err-text: #ee6aa1;
+  --box-err-link: #ee6aa1;
+  --box-success-bg: #e43f7b; /* - Box Success dark - */
+  --box-success-stripe: #002740;
+  --box-success-text: #002740;
+  --box-success-link: #002740;
   --box-res-bg: #2a6762; /* - Box Research dark - */
   --box-res-stripe: #230000;
   --box-res-text: #230000;
   --box-res-link: #230000;
-  --box-warn-bg: #; /* - Box Warning dark - */
-  --box-warn-stripe: #;
-  --box-warn-text: #;
-  --box-warn-link: #;
+  --box-warn-bg: #ddebaf; /* - Box Warning dark - */
+  --box-warn-stripe: #251653;
+  --box-warn-text: #251653;
+  --box-warn-link: #251653;
+  --pre-text: #555; /* - Preformatted text dark - */
+  --pre-bg: rgba(0, 0, 0, 0.1);
+  --pre-border: 0px dashed #555;
 	}
 }
 
@@ -310,6 +318,10 @@ img {
 
 .navbar-custom .nav li a:hover::before {
   transform: scaleX(1);
+}
+
+.navbar-custom .nav li a:hover {
+  color: var(--navbar-text-hover);
 }
 
 .navbar-custom,
@@ -1023,6 +1035,9 @@ table tr td :last-child {
 pre {
   font-size: 16px;
   line-height: 1.5em;
+  color: var(--pre-text-bg);
+  background-color: var(--pre-bg);
+  border: var(--pre-border);
 }
 
 .highlighter-rouge {
@@ -1143,6 +1158,7 @@ pre {
 .box-warning {
   background-color: var(--box-warn-bg);
   border-left-color: var(--box-warn-stripe);
+  color: var(--box-warn-text);
 }
 
 .box-warning a, .box-warning a:hover {
