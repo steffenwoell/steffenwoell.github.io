@@ -12,6 +12,7 @@ html {
   --navbar-text-color: #404040;
   --navbar-text-hover: #404040;
   --navbar-brand-color: #404040;
+  --navbar-brand-hover: #404040;
   --navbar-border: 1px solid #eaeaea;
   --navbar-collapse-border-color: #f5f5f5;
   --pager-bg-color: #fff; /* - Pager light - */
@@ -22,33 +23,33 @@ html {
   --pager-border-hover: 1px solid #808080;
   --footer-border: 1px #eaeaea solid; /* - Footer light - */
   --footer-bg-color: #f5f5f5;
-  --footer-links-bg-color: #404040;
-  --footer-links-icon-color: #f5f5f5;
-  --footer-copyright-link-color: #555;
-  --footer-misc-text-color: #888;
+  --footer-links-bg-color: #555;
+  --footer-links-icon-color: #fff;
+  --footer-copyright-link-color: #6f6f6f;
+  --footer-misc-text-color: #6f6f6f;
   --footer-misc-text-effect: 1px 1px rgba(255,255,255,0.8);
-  --footer-misc-color: #ccc;
-  --footer-misc-hover-color: #aaa;
+  --footer-misc-color: #6f6f6f;
+  --footer-misc-hover-color: #333;
   --journal-preview-divider: 1px solid #eee; /* - Journal landing light - */
   --journal-preview-link-color: #404040;
-  --journal-preview-meta-color: #808080;
+  --journal-preview-meta-color: #404040;
   --journal-preview-subtitle-color: #404040;
   --box-note-bg: #eee; /* - Box Note light - */
   --box-note-text: #555;
-  --box-note-stripe: #555;
+  --box-note-stripe: #2980b9;
   --box-note-link: #555;
-  --box-toc-pub-cont: #4c99c4; /* - Box Pub light - */
+  --box-toc-pub-cont: #285d79; /* - Box Pub light - */
   --box-toc-pub-bg: #d4f0ff;
-  --box-toc-pub-stripe: #5ab4e5;
-  --box-toc-pub-link: #4c99c4;
-  --box-toc-pub-hover: #4c99c4;
-  --box-toc-pub-li: #5ab4e5;
-  --box-toc-act-cont: #ac8d10; /* - Box Act light - */
+  --box-toc-pub-stripe: #285d79;
+  --box-toc-pub-link: #285d79;
+  --box-toc-pub-hover: #285d79;
+  --box-toc-pub-li: #3985ad;
+  --box-toc-act-cont: #79630b; /* - Box Act light - */
   --box-toc-act-bg: #fdf5d4;
-  --box-toc-act-stripe: #f1c40f;
-  --box-toc-act-link: #ac8d10;
-  --box-toc-act-hover: #ac8d10;
-  --box-toc-act-li: #d2ad15;
+  --box-toc-act-stripe: #79630b;
+  --box-toc-act-link: #79630b;
+  --box-toc-act-hover: #79630b;
+  --box-toc-act-li: #a88703;
   --box-err-bg: #f4dddb; /* - Box Error light - */
   --box-err-stripe: #c0392b;
   --box-err-text: #555;
@@ -68,44 +69,45 @@ html {
   --pre-text: #555; /* - Preformatted text light - */
   --pre-bg: rgba(255, 255, 255, 0.4);
   --pre-border: 0px dashed #555;
+  --title-subtitle-divider: #404040; /* - Misc light - */
 }
 
 @media (prefers-color-scheme: dark) {
 	html {  
-  --h1-color: #999; /* - Basics dark - */
+  --h1-color: #a0b1ba; /* - Basics dark - */
   --main-bg-color: #1a3042;
-  --main-text-color: #888;
-  --link-color: #888;
-  --link-active-color: #c0c0c0;
+  --main-text-color: #adadad;
+  --link-color: #adadad;
+  --link-active-color: #adadad;
   --navbar-bg-color: #12202d; /* - Navbar dark - */
-  --navbar-text-color: #888;
-  --navbar-text-hover: #c0c0c0;
-  --navbar-brand-color: #888;
-  --navbar-border: 0px solid red;
+  --navbar-text-color: #a0b1ba;
+  --navbar-text-hover: #bbcfdc;
+  --navbar-brand-color: #a0b1ba;
+  --navbar-border: 0px solid #0E1923;
   --navbar-collapse-border-color: #1a3042;
   --pager-bg-color: #12202d; /* - Pager dark - */
   --pager-bg-hover-color: #182a3b;
-  --pager-text-color: #777;
-  --pager-text-hover-color: #888;
-  --pager-border: 1px solid #777;
-  --pager-border-hover: 1px solid #888;
-  --footer-border: 0px solid red; /* - Footer dark - */
+  --pager-text-color: #adadad;
+  --pager-text-hover-color: #eee;
+  --pager-border: 0px solid #adadad;
+  --pager-border-hover: 0px solid #eee;
+  --footer-border: 0px solid #0E1923; /* - Footer dark - */
   --footer-bg-color: #12202d;
   --footer-links-bg-color: #1a3042;
-  --footer-links-icon-color: #888;
-  --footer-copyright-link-color: #888;
-  --footer-misc-text-color: #888;
+  --footer-links-icon-color: #adadad;
+  --footer-copyright-link-color: #adadad;
+  --footer-misc-text-color: #adadad;
   --footer-misc-text-effect: none;
-  --footer-misc-color: #888;
-  --footer-misc-hover-color: #c0c0c0;
-  --journal-preview-divider: 1px solid #444; /* - Journal landing dark - */
-  --journal-preview-link-color: #888;
-  --journal-preview-meta-color: #666;
-  --journal-preview-subtitle-color: #777;
-  --box-note-bg: #757685; /* - Box Note dark - */
-  --box-note-text: #302f23;
-  --box-note-stripe: #302f23;
-  --box-note-link: #302f23;
+  --footer-misc-color: #adadad;
+  --footer-misc-hover-color: #eee;
+  --journal-preview-divider: 1px solid #12202D; /* - Journal landing dark - */
+  --journal-preview-link-color: #a0b1ba;
+  --journal-preview-meta-color: #adadad;
+  --journal-preview-subtitle-color: #adadad;
+  --box-note-bg: #b8c1bc; /* - Box Note dark - */
+  --box-note-text: #4a4146;
+  --box-note-stripe: #4a4146;
+  --box-note-link: #4a4146;
   --box-toc-pub-cont: #ecbca4; /* - Box Pub dark - */
   --box-toc-pub-bg: #17465e;
   --box-toc-pub-stripe: #ecbca4;
@@ -137,6 +139,7 @@ html {
   --pre-text: #555; /* - Preformatted text dark - */
   --pre-bg: rgba(0, 0, 0, 0.1);
   --pre-border: 0px dashed #555;
+  --title-subtitle-divider: #adadad; /* - Misc dark - */
 	}
 }
 
@@ -258,6 +261,7 @@ hr.small {
   border-width: 1px;
   border-color: inherit;
   border-radius: 3px;
+  color: var(--title-subtitle-divider);
 }
 
 .main-content {
@@ -348,6 +352,7 @@ img {
 
 .navbar-brand a:hover {
   transition: color 0.3s ease-in-out;
+  color: var(--navbar-brand-hover);
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -642,7 +647,7 @@ footer .theme-by {
 }
 
 .post-subheading .post-meta {
-  color: #808080;
+  color: var(--journal-preview-meta-color);
   font-size: 18px;
   font-style: normal;
   margin: 10px 0 5px 0;
@@ -650,7 +655,7 @@ footer .theme-by {
 
 .post-meta {
   font-family: 'Playfair Display', 'Times New Roman', serif;
-  color: #808080;
+  color: var(--journal-preview-meta-color);
   font-size: 18px;
   font-style: normal;
 }
