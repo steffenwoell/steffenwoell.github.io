@@ -10,12 +10,12 @@ Address official correspondence to <pre><i class="far fa-envelope"></i>steffen.w
 </div>
 
 <div class="box-note cboxa">
-Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>.
+Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>
 </div>
 
 <h2>Your Data</h2>
 <div class="box-success cboxa">
-Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense against surveillance<i class="fas fa-external-link-alt"></i></a> are basic human rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers such as IP addresses, cookies, or browser fingerprints are collected, transmitted, or stored in any form. This includes:
+Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense<i class="fas fa-external-link-alt"></i></a> against surveillance are basic rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers (e.g., IP addresses, cookies, and browser fingerprints) are collected, transmitted, or stored. This policy includes:
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="fas fa-cookie-bite"></i></span><b>zero</b> cookies</li>
     <li><span class="fa-li"><i class="fas fa-thumbs-down"></i></span><b>zero</b> social media</li>

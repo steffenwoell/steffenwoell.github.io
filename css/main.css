@@ -35,7 +35,7 @@ html {
   --journal-preview-subtitle-color: #404040;
   --box-note-bg: #eee; /* - Box Note light - */
   --box-note-text: #555;
-  --box-note-stripe: #2980b9;
+  --box-note-stripe: #555;
   --box-note-link: #555;
   --box-toc-pub-cont: #4c99c4; /* - Box Pub light - */
   --box-toc-pub-bg: #d4f0ff;
