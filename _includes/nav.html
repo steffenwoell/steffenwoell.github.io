@@ -16,10 +16,27 @@
       <div id="darkModeToggle" class="toggle"><i class="fas fa-adjust fa-2x"></i><span class="sr-only">Dark mode toggle</span></div>
       
       <script>
+        // Dark mode toggle logic
         const darkModeToggle = document.getElementById('darkModeToggle');
         const htmlElement = document.documentElement;
+        const isDarkMode = localStorage.getItem('darkMode') === 'enabled';
+    
+        // Apply dark mode based on user preference from local storage
+        if (isDarkMode) {
+          htmlElement.classList.add('dark-mode');
+        }
+    
+        // Dark mode toggle event listener
         darkModeToggle.addEventListener('click', () => {
+          // Toggle dark mode class
           htmlElement.classList.toggle('dark-mode');
+    
+          // Update local storage
+          if (htmlElement.classList.contains('dark-mode')) {
+            localStorage.setItem('darkMode', 'enabled');
+          } else {
+            localStorage.setItem('darkMode', 'disabled');
+          }
         });
       </script>
 
