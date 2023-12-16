@@ -46,21 +46,32 @@
         <script>var date = document.lastModified; document.write("Last updated: "+date);</script>
       </div>
 
-      <div style="text-align:center;cursor:pointer;padding:10px" onclick="toggleMode()"><i class="fas fa-adjust"></i><span class="sr-only">Dark mode on/off</span></div>
-        <script>
-        function toggleMode() {
-            const body = document.body;
-            body.classList.toggle("dark-mode");
-            // Save preference to localStorage
-            const isDarkMode = body.classList.contains("dark-mode");
-            localStorage.setItem("darkMode", isDarkMode);
-        }
-        // Check if preference is stored and apply it
-        const isDarkMode = localStorage.getItem("darkMode") === "true";
+      <div style="width:50px;text-align:center;cursor:pointer;padding:10px" onclick="darkModeToggle()"><i class="fas fa-adjust"></i><span class="sr-only">Dark mode on/off</span></div>
+      
+      <script>
+        // Dark mode toggle logic
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const htmlElement = document.documentElement;
+        const isDarkMode = localStorage.getItem('darkMode') === 'enabled';
+    
+        // Apply dark mode based on user preference from local storage
         if (isDarkMode) {
-            document.body.classList.add("dark-mode");
+          htmlElement.classList.add('dark-mode');
         }
-        </script>
+    
+        // Dark mode toggle event listener
+        darkModeToggle.addEventListener('click', () => {
+          // Toggle dark mode class
+          htmlElement.classList.toggle('dark-mode');
+    
+          // Update local storage
+          if (htmlElement.classList.contains('dark-mode')) {
+            localStorage.setItem('darkMode', 'enabled');
+          } else {
+            localStorage.setItem('darkMode', 'disabled');
+          }
+        });
+      </script>
 
       </div>
     </div>
