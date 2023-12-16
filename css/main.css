@@ -1017,7 +1017,7 @@ strong {
   color: var(--highlighter-text);
 }
 
-strong a {
+strong a, strong a:hover {
   color: var(--highlighter-text);
 }
 
