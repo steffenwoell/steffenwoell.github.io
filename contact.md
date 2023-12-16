@@ -32,7 +32,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
 <h2>Copyrights & Licenses</h2>
 <div class="box-warning cboxa">
 <ul>
-<li>Unless stated otherwise, the contents of this personal, non-commercial website are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons license<i class="fas fa-external-link-alt"></i></a></li>
+<li>Unless stated otherwise, the contents of this personal, non-commercial website are made available under <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons BY-NC 4.0 License<i class="fas fa-external-link-alt"></i></a></li>
 <li>Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a></li>
 <li>If not marked differently, all other images are licensed through <a href="https://unsplash.com/license" target="_blank">Unsplash<i class="fas fa-external-link-alt"></i></a></li>
 <li>Self-hosted fonts "Inter" and "Playfair Display" are courtesy of Google and used as per <a href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file"></i></a></li>

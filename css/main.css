@@ -207,8 +207,7 @@ a {
 color: var(--link);
 text-decoration: none;
 font-weight: bold;
-white-space: nowrap;
-word-break: break-all;
+overflow-wrap: break-word;
 }
 
 a:hover,a:focus,a:active {
@@ -227,8 +226,7 @@ a:hover,a:focus,a:active {
 .gold a {
   color: var(--link);
   text-decoration: none;
-  white-space: nowrap;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .gold a:hover {
@@ -239,8 +237,7 @@ a:hover,a:focus,a:active {
 .blue a {
   color: var(--link);
   text-decoration: none;
-  white-space: nowrap;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .blue a:hover {
@@ -1002,7 +999,7 @@ footer .theme-by {
   color: var(--pre-inline-text);
   background-color: var(--pre-inline-bg);
   border: var(--pre-inline-border);
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 pre {
@@ -1028,8 +1025,8 @@ strong::before {
   background-color: var(--highlighter-bg);
   content: "";
   position: absolute;
-  width: calc(100% + 4px);
-  height: 60%;
+  width: calc(100% + 3px);
+  height: 100%;
   left: -2px;
   bottom: 0;
   z-index: -1;
@@ -1086,7 +1083,7 @@ strong::before {
 .box-res a, .box-res a:hover {
   color: var(--box-res-link);
   text-decoration: none;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .box-note {
@@ -1099,7 +1096,7 @@ strong::before {
   color: var(--box-note-link);
   text-decoration: none;
   font-weight: 600;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .box-warning {
@@ -1111,7 +1108,7 @@ strong::before {
 .box-warning a, .box-warning a:hover {
   color: var(--box-warn-link);
   text-decoration: none;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .box-toc-pub-cont {
@@ -1127,7 +1124,7 @@ strong::before {
 .box-toc-pub a {
   color: var(--box-toc-pub-link);
   font-weight: 600;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .box-toc-pub a:hover {
@@ -1154,7 +1151,7 @@ strong::before {
 .box-toc-act a {
   color: var(--box-toc-act-link);
   font-weight: 600;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .box-toc-act a:hover {
@@ -1176,7 +1173,7 @@ strong::before {
 .box-error a, .box-error a:hover {
   color: var(--box-err-link);
   text-decoration: none;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .box-success {
@@ -1188,7 +1185,7 @@ strong::before {
 .box-success a, .box-success a:hover {
   color: var(--box-success-link);
   text-decoration: none;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .cboxa {
