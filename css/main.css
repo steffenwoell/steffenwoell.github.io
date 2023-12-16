@@ -4,9 +4,11 @@
 
 .toggle {
   text-align: center;
+  cursor: pointer;
+  padding: 10px;
 }
 
-html { 
+html {
   --h1: #404040; /* - Basics light - */
   --body-bg: #fff;
   --body-text: #404040;
@@ -83,7 +85,7 @@ html {
 }
 
 @media (prefers-color-scheme: dark) {
-	html {  
+	html {
   --h1: #a0b1ba; /* - Basics dark - */
   --body-bg: #1a3042;
   --body-text: #adadad;

@@ -12,6 +12,17 @@
       {%- else -%}
         <a class="navbar-brand" href="{{ '' | absolute_url }}">Steffen Wöll</a>
       {%- endif -%}
+
+      <div id="darkModeToggle" class="toggle"><i class="fas fa-adjust fa-2x"></i><span class="sr-only">Dark mode toggle</span></div>
+      
+      <script>
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const htmlElement = document.documentElement;
+        darkModeToggle.addEventListener('click', () => {
+          htmlElement.classList.toggle('dark-mode');
+        });
+      </script>
+
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
