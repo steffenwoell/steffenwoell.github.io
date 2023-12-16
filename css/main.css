@@ -36,7 +36,7 @@ html {
   --journal-preview-subtitle: #404040;
   --box-note-bg: #eee; /* - Box Note light - */
   --box-note-text: #555;
-  --box-note-stripe: #2980b9;
+  --box-note-stripe: #555;
   --box-note-link: #555;
   --box-toc-pub-cont: #285d79; /* - Box Pub light - */
   --box-toc-pub-bg: #d4f0ff;
@@ -74,6 +74,7 @@ html {
   --pre-inline-border: none;
   --title-subtitle-divider: #404040; /* - Misc light - */
   --blockquote: #555;
+  --highlighter: #46b96c;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -149,6 +150,7 @@ html {
   --pre-inline-border: none;
   --title-subtitle-divider: #adadad; /* - Misc dark - */
   --blockquote: #adadad;
+  --highlighter: #46b96c;
 	}
 }
 
@@ -171,7 +173,7 @@ p {
   margin: 15px 0 15px 0;
 }
 
-p.bio {
+p.bio a {
   word-break: break-word;
 }
 
@@ -347,7 +349,7 @@ img {
   color: var(--navbar-brand);
 }
 
-.navbar-brand a:hover {
+.navbar-brand:hover {
   transition: color 0.3s ease-in-out;
   color: var(--navbar-brand-hover);
 }
@@ -1007,53 +1009,22 @@ pre {
   border: var(--pre-border);
 }
 
-.highlighter-rouge {
-  color: #000;
-  background: transparent;
+/* --- Highlighter --- */
+
+strong {
+  position: relative;
 }
 
-.highlight pre {
-  border: none;
-  background: none;
-  margin: 0;
-}
-
-.highlight > pre {
-  background-image: linear-gradient(
-    rgba(0,0,0,0.06), rgba(0,0,0,0.06) 1.5em, rgba(0,0,0,0.03) 1.5em, rgba(0,0,0,0.03) 3em);
-  background-size: auto 3em;
-  background-position-y: 10px;
-  border: 1px solid rgba(0,0,0,0.1);
-  border-left: 7px solid #444;
-}
-
-.highlight > pre:not([class~="highlight"]) { /* code block with line number */
-  padding: 0;
-}
-
-.highlight table, .highlight tr, .highlight td { /* remove after fixing table styles */
-  border: none;
-  background: none;
-  padding: 0;
-  margin: 0;
-}
-
-.highlight pre.lineno {
-  color: rgba(0,0,0,0.3);
-  border-radius: 0;
-  border-right: 2px solid #444;
-}
-
-/* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
-.lineno {
-  -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-}
-
-.lineno::selection, .lineno::-moz-selection {
-  background: none;
+strong::before {
+  background-color: var(--highlighter);
+  content: "";
+  position: absolute;
+  width: calc(100% + 4px);
+  height: 60%;
+  left: -2px;
+  bottom: 0;
+  z-index: -1;
+  transform: rotate(-2deg);
 }
 
 /* --- Sharing --- */
