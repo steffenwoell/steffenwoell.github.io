@@ -176,7 +176,8 @@ p {
 }
 
 p.bio a {
-  word-break: break-word;
+  overflow-wrap: anywhere;
+  word-break: normal;
 }
 
 h1 {
@@ -445,7 +446,8 @@ img {
 .navbar-custom .nav .navlinks-children {
   width: 100%;
   display: none;
-  word-break: break-word;
+  overflow-wrap: anywhere;
+  word-break: normal;
 }
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;

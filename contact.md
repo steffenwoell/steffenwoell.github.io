@@ -10,7 +10,7 @@ Please address all official or business correspondence to <pre><i class="far fa-
 </div>
 
 <div class="box-note cboxa">
-Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/sw_pgp_public_key.asc" target="_blank">public key</a>
+Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/sw_pgp_public_key.asc" target="_blank">public key</a>
 </div>
 
 <h2>Your Data</h2>
@@ -35,7 +35,8 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
 <li>Unless stated otherwise, the contents of this personal, non-commercial website are made available under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" title="Creative Commons" target="_blank">Creative Commons license<i class="fas fa-external-link-alt"></i></a></li>
 <li>Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a></li>
 <li>If not marked differently, all other images are licensed through <a href="https://unsplash.com/license" target="_blank">Unsplash<i class="fas fa-external-link-alt"></i></a></li>
-<li>Hosted fonts "Inter" and "Playfair Display" are used under <a href="/css/fonts/LICENSE-2.0.txt">Apache License 2.0<i class="far fa-file"></i></a></li>
+<li>Self-hosted fonts "Inter" and "Playfair Display" are courtesy of Google and used as per <a href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file"></i></a></li>
+<li>Bootstrap is used under <a href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file"></i></a></li>
 </ul>
 </div>
 
