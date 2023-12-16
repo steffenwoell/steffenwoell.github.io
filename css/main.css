@@ -1,39 +1,39 @@
 @import url("fonts.css");
 
-/* --- Theming --- */
+/* --- Light & Dark Themes --- */
 
 html { 
-  --h1-color: #404040; /* - Basics light - */
-  --main-bg-color: #fff;
-  --main-text-color: #404040;
-  --link-color: #555;
-  --link-active-color: #555;
-  --navbar-bg-color: #f5f5f5; /* - Navbar light - */
-  --navbar-text-color: #404040;
+  --h1: #404040; /* - Basics light - */
+  --body-bg: #fff;
+  --body-text: #404040;
+  --link: #555;
+  --link-active: #555;
+  --navbar-bg: #f5f5f5; /* - Navbar light - */
+  --navbar-text: #404040;
   --navbar-text-hover: #404040;
-  --navbar-brand-color: #404040;
+  --navbar-brand: #404040;
   --navbar-brand-hover: #404040;
   --navbar-border: 1px solid #eaeaea;
-  --navbar-collapse-border-color: #f5f5f5;
-  --pager-bg-color: #fff; /* - Pager light - */
-  --pager-bg-hover-color: #fff;
-  --pager-text-color: #404040;
-  --pager-text-hover-color: #404040;
+  --navbar-mobile-divider: #ddd;
+  --pager-bg: #fff; /* - Pager light - */
+  --pager-bg-hover: #fff;
+  --pager-text: #404040;
+  --pager-text-hover: #404040;
   --pager-border: 1px solid #ddd;
   --pager-border-hover: 1px solid #808080;
   --footer-border: 1px #eaeaea solid; /* - Footer light - */
-  --footer-bg-color: #f5f5f5;
-  --footer-links-bg-color: #555;
-  --footer-links-icon-color: #fff;
-  --footer-copyright-link-color: #6f6f6f;
-  --footer-misc-text-color: #6f6f6f;
-  --footer-misc-text-effect: 1px 1px rgba(255,255,255,0.8);
-  --footer-misc-color: #6f6f6f;
-  --footer-misc-hover-color: #333;
+  --footer-bg: #f5f5f5;
+  --footer-links-bg: #555;
+  --footer-links-icon: #fff;
+  --footer-copy-link: #6f6f6f;
+  --footer-misc: #6f6f6f;
+  --footer-misc-effect: 1px 1px rgba(255,255,255,0.8);
+  --footer-buttons: #6f6f6f;
+  --footer-buttons-hover: #333;
   --journal-preview-divider: 1px solid #eee; /* - Journal landing light - */
-  --journal-preview-link-color: #404040;
-  --journal-preview-meta-color: #404040;
-  --journal-preview-subtitle-color: #404040;
+  --journal-preview-link: #404040;
+  --journal-preview-meta: #404040;
+  --journal-preview-subtitle: #404040;
   --box-note-bg: #eee; /* - Box Note light - */
   --box-note-text: #555;
   --box-note-stripe: #2980b9;
@@ -66,44 +66,49 @@ html {
   --box-warn-stripe: #f1c40f;
   --box-warn-text: #555;
   --box-warn-link: #555;
-  --pre-text: #555; /* - Preformatted text light - */
+  --pre-text: inherit; /* - Preformatted text light - */
   --pre-bg: rgba(255, 255, 255, 0.4);
   --pre-border: 0px dashed #555;
+  --pre-inline-text: inherit;
+  --pre-inline-bg: transparent;
+  --pre-inline-border: none;
   --title-subtitle-divider: #404040; /* - Misc light - */
+  --blockquote: #555;
 }
 
 @media (prefers-color-scheme: dark) {
 	html {  
-  --h1-color: #a0b1ba; /* - Basics dark - */
-  --main-bg-color: #1a3042;
-  --main-text-color: #adadad;
-  --link-color: #adadad;
-  --link-active-color: #adadad;
-  --navbar-bg-color: #12202d; /* - Navbar dark - */
-  --navbar-text-color: #a0b1ba;
+  --h1: #a0b1ba; /* - Basics dark - */
+  --body-bg: #1a3042;
+  --body-text: #adadad;
+  --link: #adadad;
+  --link-active: #adadad;
+  --navbar-bg: #12202d; /* - Navbar dark - */
+  --navbar-text: #a0b1ba;
   --navbar-text-hover: #bbcfdc;
-  --navbar-brand-color: #a0b1ba;
+  --navbar-brand: #a0b1ba;
+  --navbar-brand-hover: #bbcfdc;
   --navbar-border: 0px solid #0E1923;
-  --navbar-collapse-border-color: #1a3042;
-  --pager-bg-color: #12202d; /* - Pager dark - */
-  --pager-bg-hover-color: #182a3b;
-  --pager-text-color: #adadad;
-  --pager-text-hover-color: #eee;
+  --navbar-mobile-divider: #1a3042;
+  --pager-bg: #12202d; /* - Pager dark - */
+  --pager-bg-hover: #182a3b;
+  --pager-text: #adadad;
+  --pager-text-hover: #eee;
   --pager-border: 0px solid #adadad;
   --pager-border-hover: 0px solid #eee;
   --footer-border: 0px solid #0E1923; /* - Footer dark - */
-  --footer-bg-color: #12202d;
-  --footer-links-bg-color: #1a3042;
-  --footer-links-icon-color: #adadad;
-  --footer-copyright-link-color: #adadad;
-  --footer-misc-text-color: #adadad;
-  --footer-misc-text-effect: none;
-  --footer-misc-color: #adadad;
-  --footer-misc-hover-color: #eee;
+  --footer-bg: #12202d;
+  --footer-links-bg: #1a3042;
+  --footer-links-icon: #adadad;
+  --footer-copy-link: #adadad;
+  --footer-misc: #adadad;
+  --footer-misc-effect: none;
+  --footer-buttons: #adadad;
+  --footer-buttons-hover: #eee;
   --journal-preview-divider: 1px solid #12202D; /* - Journal landing dark - */
-  --journal-preview-link-color: #a0b1ba;
-  --journal-preview-meta-color: #adadad;
-  --journal-preview-subtitle-color: #adadad;
+  --journal-preview-link: #a0b1ba;
+  --journal-preview-meta: #adadad;
+  --journal-preview-subtitle: #adadad;
   --box-note-bg: #b8c1bc; /* - Box Note dark - */
   --box-note-text: #4a4146;
   --box-note-stripe: #4a4146;
@@ -136,10 +141,14 @@ html {
   --box-warn-stripe: #251653;
   --box-warn-text: #251653;
   --box-warn-link: #251653;
-  --pre-text: #555; /* - Preformatted text dark - */
+  --pre-text: inherit; /* - Preformatted text dark - */
   --pre-bg: rgba(0, 0, 0, 0.1);
   --pre-border: 0px dashed #555;
+  --pre-inline-text: inherit;
+  --pre-inline-bg: transparent;
+  --pre-inline-border: none;
   --title-subtitle-divider: #adadad; /* - Misc dark - */
+  --blockquote: #adadad;
 	}
 }
 
@@ -149,12 +158,12 @@ body {
   font-family: 'Inter', Arial, sans-serif;
   font-size: 16px;
   font-weight: normal;
-  color: var(--main-text-color);
+  color: var(--body-text);
   position: relative;
   display: flex; /* Sticky footer */
   flex-direction: column; /* Sticky footer */
   min-height:100vh; /* Sticky footer */
-  background-color: var(--main-bg-color);
+  background-color: var(--body-bg);
 }
 
 p {
@@ -162,11 +171,15 @@ p {
   margin: 15px 0 15px 0;
 }
 
+p.bio {
+  word-break: break-word;
+}
+
 h1 {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 600;
   font-style: normal;
-  color: var(--h1-color);
+  color: var(--h1);
 }
 
 h2 {
@@ -186,22 +199,15 @@ h2,h3,h4,h5,h6 {
 }
 
 a {
-color: var(--link-color);
+color: var(--link);
 text-decoration: none;
 font-weight: bold;
 white-space: nowrap;
 word-break: break-all;
 }
 
-a.jhead {
-  color: #555;
-  text-decoration: none;
-  font-weight: bold;
-  white-space: normal;
-  }
-
 a:hover,a:focus,a:active {
-  color: var(--link-active-color);
+  color: var(--link-active);
   text-decoration: none;
 }
 
@@ -214,7 +220,7 @@ a:hover,a:focus,a:active {
 }
 
 .gold a {
-  color: var(--link-color);
+  color: var(--link);
   text-decoration: none;
   white-space: nowrap;
   word-break: break-all;
@@ -222,11 +228,11 @@ a:hover,a:focus,a:active {
 
 .gold a:hover {
   text-decoration: none;
-  color: var(--link-active-color);
+  color: var(--link-active);
 }
 
 .blue a {
-  color: var(--link-color);
+  color: var(--link);
   text-decoration: none;
   white-space: nowrap;
   word-break: break-all;
@@ -234,20 +240,15 @@ a:hover,a:focus,a:active {
 
 .blue a:hover {
   text-decoration: none;
-  color: var(--link-active-color);
+  color: var(--link-active);
 }
 
 .mbot {
   margin-bottom: 110px;
 }
 
-a.link-header {
-  font-weight: normal;
-  text-decoration: none;
-}
-
 blockquote {
-  color: #808080;
+  color: var(--blockquote);
   font-style: italic;
 }
 
@@ -278,10 +279,6 @@ hr.small {
   padding: 15px;
 }
 
-.hideme {
-  display: none;
-}
-
 img::selection {
   color: white;
   background: transparent;
@@ -303,7 +300,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: var(--navbar-bg-color);
+  background-color: var(--navbar-bg);
   border-bottom: var(--navbar-border);
 }
 
@@ -337,7 +334,7 @@ img {
   font-size: 16px;
   letter-spacing: 0px;
   text-decoration: none;
-  color: var(--navbar-text-color);
+  color: var(--navbar-text);
 }
 
 .navbar-brand {
@@ -347,7 +344,7 @@ img {
   font-size: 16px;
   letter-spacing: 0px;
   text-decoration: none;
-  color: var(--navbar-brand-color);
+  color: var(--navbar-brand);
 }
 
 .navbar-brand a:hover {
@@ -431,7 +428,7 @@ img {
 }
 
 .navbar-default .navbar-collapse {
-  border-color: var(--navbar-collapse-border-color);
+  border-color: var(--navbar-mobile-divider);
 }
 
 /* Multi-level nav links */
@@ -499,7 +496,7 @@ footer {
   border-top: var(--footer-border);
   margin-top: auto; /* Sticky footer */
   font-size: 14px;
-  background-color: var(--footer-bg-color);
+  background-color: var(--footer-bg);
 }
 
 footer p.text-muted {
@@ -527,12 +524,12 @@ footer a {
 
 .copyright a, copyright a:hover {
   font-weight: 700;
-  color: var(--footer-copyright-link-color);
+  color: var(--footer-copy-link);
 }
 
 .made-with, .license, .lastmod, .mw-buttons a, .cc-buttons a, .fa-hourglass-half {
-  color: var(--footer-misc-text-color);
-  text-shadow: var(--footer-misc-text-effect);
+  color: var(--footer-misc);
+  text-shadow: var(--footer-misc-effect);
 }
 
 .made-with {
@@ -563,12 +560,12 @@ footer a {
 }
 
 .mw-buttons a, .cc-buttons a {
-  color: var(--footer-misc-color);
+  color: var(--footer-buttons);
   transition: 0.5s ease;
 }
 
 .mw-buttons a:hover, .mw-buttons a:active, .mw-buttons a:focus, .cc-buttons a:hover, .cc-buttons a:active, .cc-buttons a:focus {
-  color: var(--footer-misc-hover-color);
+  color: var(--footer-buttons-hover);
 }
 
 footer .list-inline {
@@ -603,11 +600,11 @@ footer .theme-by {
 }
 
 .footer-links li a {
-  color: var(--footer-links-bg-color);
+  color: var(--footer-links-bg);
 }
 
 .footer-links li a .fa-inverse {
-  color: var(--footer-links-icon-color);
+  color: var(--footer-links-icon);
 }
 
 /* --- Post preview --- */
@@ -623,7 +620,7 @@ footer .theme-by {
 
 .post-preview a, .post-preview a:focus, .post-preview a:hover {
   text-decoration: none;
-  color: var(--journal-preview-link-color);
+  color: var(--journal-preview-link);
 }
 
 .post-preview .post-title {
@@ -635,11 +632,11 @@ footer .theme-by {
   margin: -10px 0 5px 0;
   font-weight: 300;
   font-size: 24px;
-  color: var(--journal-preview-subtitle-color);
+  color: var(--journal-preview-subtitle);
 }
 
 .post-preview .post-meta {
-  color: var(--journal-preview-meta-color);
+  color: var(--journal-preview-meta);
   font-size: 18px;
   font-style: normal;
   font-weight: 200;
@@ -647,7 +644,7 @@ footer .theme-by {
 }
 
 .post-subheading .post-meta {
-  color: var(--journal-preview-meta-color);
+  color: var(--journal-preview-meta);
   font-size: 18px;
   font-style: normal;
   margin: 10px 0 5px 0;
@@ -655,7 +652,7 @@ footer .theme-by {
 
 .post-meta {
   font-family: 'Playfair Display', 'Times New Roman', serif;
-  color: var(--journal-preview-meta-color);
+  color: var(--journal-preview-meta);
   font-size: 18px;
   font-style: normal;
 }
@@ -736,13 +733,13 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: var(--link-color);
+  color: var(--link);
   text-decoration: none;
   padding: 0px 5px;
 }
 
 .blog-tags a:hover {
-  color: var(--link-active-color);
+  color: var(--link-active);
   -webkit-transition: color .5s ease-in-out;
   -moz-transition: color .5s ease-in-out;
   transition: color .5s ease-in-out;
@@ -957,8 +954,8 @@ footer .theme-by {
   letter-spacing: 1px;
   padding: 20px 5px;
   margin: 50px 0 20px 0;
-  background-color: var(--pager-bg-color);
-  color: var(--pager-text-color);
+  background-color: var(--pager-bg);
+  color: var(--pager-text);
   border: var(--pager-border);
   border-radius: 0;
 }
@@ -971,8 +968,8 @@ footer .theme-by {
 
 .pager li a:hover,
 .pager li a:focus {
-  background-color: var(--pager-bg-hover-color);
-  color: var(--pager-text-hover-color);
+  background-color: var(--pager-bg-hover);
+  color: var(--pager-text-hover);
   border: var(--pager-border-hover);
   transition: 0.5s ease;
 }
@@ -991,61 +988,21 @@ footer .theme-by {
   }
 }
 
-/* --- Tables --- */
-
-table {
-  padding: 0;
-}
-
-table tr {
-  border-top: 1px solid #cccccc;
-  background-color: #ffffff;
-  margin: 0;
-  padding: 0;
-}
-
-table tr:nth-child(2n) {
-  background-color: #f8f8f8;
-}
-
-table tr th {
-  font-weight: bold;
-  border: 1px solid #cccccc;
-  text-align: left;
-  margin: 0;
-  padding: 6px 13px;
-}
-
-table tr td {
-  border: 1px solid #cccccc;
-  text-align: left;
-  margin: 0;
-  padding: 6px 13px;
-}
-
-table tr th :first-child,
-table tr td :first-child {
-  margin-top: 0;
-}
-
-table tr th :last-child,
-table tr td :last-child {
-  margin-bottom: 0;
-}
-
 /* --- Code blocks --- */
 
-.pref {
+.pre-inline {
   font-family: monospace;
   white-space: pre;
-  color: #333;
+  color: var(--pre-inline-text);
+  background-color: var(--pre-inline-bg);
+  border: var(--pre-inline-border);
   word-break: break-all;
 }
 
 pre {
   font-size: 16px;
   line-height: 1.5em;
-  color: var(--pre-text-bg);
+  color: var(--pre-text);
   background-color: var(--pre-bg);
   border: var(--pre-border);
 }

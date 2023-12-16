@@ -8,7 +8,7 @@ image: /img/swa.webp
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-    <a class="jhead" href="{{ post.url | relative_url }}">
+    <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
 
 	  {% if post.subtitle %}
