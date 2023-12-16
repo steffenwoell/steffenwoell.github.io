@@ -11,15 +11,15 @@ My panel presentation at the [Society of Early Americanists](https://www.society
 
 ### "Horrendous Hybridity: Spatial and Linguistic Representations of the Occult Orientalist Other in H.P. Lovecraft's 'The Shadow Over Innsmouth'"
 
-> Facing west from California's shores,<br/>
-Inquiring, tireless, seeking what is yet unfound,<br/>
-I, a child, very old, over waves, towards the house of maternity, the land<br/>
-of migrations, look afar,<br/>
-Look off the shores of my Western sea, the circle almost circled;<br/>
-For starting westward from Hindustan, from the vales of Kashmere, From Asia, from the north, from the God, the sage, and the hero,<br/>
-From the south, from the ﬂowery peninsulas and the spice islands,<br/>
-Long having wander'd since, round the earth having wander'd,<br/>
-Now I face home again, very pleas'd and joyous,<br/>
+> Facing west from California's shores,<br>
+Inquiring, tireless, seeking what is yet unfound,<br>
+I, a child, very old, over waves, towards the house of maternity, the land<br>
+of migrations, look afar,<br>
+Look off the shores of my Western sea, the circle almost circled;<br>
+For starting westward from Hindustan, from the vales of Kashmere, From Asia, from the north, from the God, the sage, and the hero,<br>
+From the south, from the ﬂowery peninsulas and the spice islands,<br>
+Long having wander'd since, round the earth having wander'd,<br>
+Now I face home again, very pleas'd and joyous,<br>
 (But where is what I started for so long ago? And why is it yet unfound?)
 
 {: .box-note}

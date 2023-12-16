@@ -3,7 +3,7 @@ layout: post
 title: The Swan Asunder, Pt. II
 subtitle: Leipzig, Germany
 image: /img/swb.webp
-excerpt: Repress these thoughts -- a tearing asunder, milky lens and foggy bottom ...
+excerpt: Repress these thoughts, a tearing asunder, milky lens and foggy bottom ...
 permalink: /journal/:title/
 tags: [Journal, Leipzig, Germany]
 ---
