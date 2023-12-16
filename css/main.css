@@ -83,7 +83,7 @@ html {
 }
 
 @media (prefers-color-scheme: dark) {
-	html, html.dark-mode {  
+	html {  
   --h1: #a0b1ba; /* - Basics dark - */
   --body-bg: #1a3042;
   --body-text: #adadad;
@@ -159,6 +159,82 @@ html {
   --highlighter-text: #adadad;
 	}
 }
+
+html.dark-mode {  
+  --h1: #a0b1ba; /* - Basics dark - */
+  --body-bg: #1a3042;
+  --body-text: #adadad;
+  --link: #adadad;
+  --link-active: #adadad;
+  --navbar-bg: #12202d; /* - Navbar dark - */
+  --navbar-text: #a0b1ba;
+  --navbar-text-hover: #bbcfdc;
+  --navbar-brand: #a0b1ba;
+  --navbar-brand-hover: #bbcfdc;
+  --navbar-border: 0px solid #0E1923;
+  --navbar-mobile-divider: #1a3042;
+  --pager-bg: #12202d; /* - Pager dark - */
+  --pager-bg-hover: #182a3b;
+  --pager-text: #adadad;
+  --pager-text-hover: #eee;
+  --pager-border: 0px solid #adadad;
+  --pager-border-hover: 0px solid #eee;
+  --footer-border: 0px solid #0E1923; /* - Footer dark - */
+  --footer-bg: #12202d;
+  --footer-links-bg: #1a3042;
+  --footer-links-icon: #adadad;
+  --footer-copy-link: #adadad;
+  --footer-misc: #adadad;
+  --footer-misc-effect: none;
+  --footer-buttons: #adadad;
+  --footer-buttons-hover: #eee;
+  --journal-preview-divider: 1px solid #12202D; /* - Journal landing dark - */
+  --journal-preview-link: #a0b1ba;
+  --journal-preview-meta: #adadad;
+  --journal-preview-subtitle: #adadad;
+  --box-note-bg: #11202b; /* - Box Note dark - */
+  --box-note-text: #aaa;
+  --box-note-stripe: #aaa;
+  --box-note-link: #aaa;
+  --box-toc-pub-cont: #ecbca4; /* - Box Pub dark - */
+  --box-toc-pub-bg: #17465e;
+  --box-toc-pub-stripe: #ecbca4;
+  --box-toc-pub-link: #ecbca4;
+  --box-toc-pub-hover: #ecbca4;
+  --box-toc-pub-li: #dfa385;
+  --box-toc-act-cont: #001617; /* - Box Act dark - */
+  --box-toc-act-bg: #9b4845;
+  --box-toc-act-stripe: #001617;
+  --box-toc-act-link: #001617;
+  --box-toc-act-hover: #001617;
+  --box-toc-act-li: #192f30;
+  --box-err-bg: #910e17; /* - Box Error dark - */
+  --box-err-stripe: #ee6aa1;
+  --box-err-text: #ee6aa1;
+  --box-err-link: #ee6aa1;
+  --box-success-bg: #0b655e; /* - Box Success dark - */
+  --box-success-stripe: #97f0e5;
+  --box-success-text: #97f0e5;
+  --box-success-link: #97f0e5;
+  --box-res-bg: #3f2d83; /* - Box Research dark - */
+  --box-res-stripe: #caa0f3;
+  --box-res-text: #caa0f3;
+  --box-res-link: #caa0f3;
+  --box-warn-bg: #ddebaf; /* - Box Warning dark - */
+  --box-warn-stripe: #251653;
+  --box-warn-text: #251653;
+  --box-warn-link: #251653;
+  --pre-text: inherit; /* - Preformatted text dark - */
+  --pre-bg: rgba(0,0,0,0.1);
+  --pre-border: 0px dashed #555;
+  --pre-inline-text: inherit;
+  --pre-inline-bg: transparent;
+  --pre-inline-border: none;
+  --title-subtitle-divider: #adadad; /* - Misc dark - */
+  --blockquote: #adadad;
+  --highlighter-bg: #512b74;
+  --highlighter-text: #adadad;
+	}
 
 /* --- Basics --- */
 
