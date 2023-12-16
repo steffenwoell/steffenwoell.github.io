@@ -6,7 +6,7 @@ image: /img/con.webp
 
 <h2>Email</h2>
 <div class="box-success">
-Please address all official or business correspondence to <pre><i class="far fa-envelope"></i>steffen.woell@uni-leipzig.de</pre><br>Personal messages should be directed to <pre><i class="far fa-envelope"></i>steffen.woell@gmail.com</pre>
+Please address all official or business correspondence to <pre><i class="fas fa-paper-plane"></i>steffen.woell@uni-leipzig.de</pre><br>Personal messages should be directed to <pre><i class="fas fa-paper-plane"></i>steffen.woell@gmail.com</pre>
 </div>
 
 <div class="box-note cboxa">
@@ -14,7 +14,7 @@ Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class=
 </div>
 
 <h2>Your Data</h2>
-<div class="box-note cboxa">
+<div class="box-success cboxa">
 Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense<i class="fas fa-external-link-alt"></i></a> against surveillance are basic rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers (e.g., IP addresses, cookies, and browser fingerprints) are collected, transmitted, or stored. This policy includes:
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="fas fa-cookie-bite"></i></span><b>Zero</b> cookies</li>

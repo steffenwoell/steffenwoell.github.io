@@ -45,6 +45,23 @@
       <div class="lastmod"><i class="fa fa-hourglass-half"></i>
         <script>var date = document.lastModified; document.write("Last updated: "+date);</script>
       </div>
+
+      <div class="toggle-btn" onclick="toggleMode()">Toggle Mode</div>
+        <script>
+        function toggleMode() {
+            const body = document.body;
+            body.classList.toggle("dark-mode");
+            // Save the mode preference to localStorage
+            const isDarkMode = body.classList.contains("dark-mode");
+            localStorage.setItem("darkMode", isDarkMode);
+        }
+        // Check if dark mode preference is stored and apply it
+        const isDarkMode = localStorage.getItem("darkMode") === "true";
+        if (isDarkMode) {
+            document.body.classList.add("dark-mode");
+        }
+        </script>
+
       </div>
     </div>
   </div>
