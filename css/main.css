@@ -74,7 +74,8 @@ html {
   --pre-inline-border: none;
   --title-subtitle-divider: #404040; /* - Misc light - */
   --blockquote: #555;
-  --highlighter: #46b96c;
+  --highlighter-bg: #d8e85c;
+  --highlighter-text: inherit;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -150,7 +151,8 @@ html {
   --pre-inline-border: none;
   --title-subtitle-divider: #adadad; /* - Misc dark - */
   --blockquote: #adadad;
-  --highlighter: #46b96c;
+  --highlighter-bg: #46b96c;
+  --highlighter-text: inherit;
 	}
 }
 
@@ -1013,10 +1015,11 @@ pre {
 
 strong {
   position: relative;
+  color: var(--highlighter-text);
 }
 
 strong::before {
-  background-color: var(--highlighter);
+  background-color: var(--highlighter-bg);
   content: "";
   position: absolute;
   width: calc(100% + 4px);
