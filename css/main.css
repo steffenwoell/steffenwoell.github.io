@@ -8,6 +8,13 @@
   padding-left: 25px;
 }
 
+@media only screen and (max-width: 500px) {
+  .toggle {
+    position: absolute;
+    right: 80px;
+  }
+}
+
 /* --- Light Theme --- */
 
 html {
@@ -84,9 +91,10 @@ html {
   --blockquote: #555;
   --highlighter-bg: rgba(216,232,92,0.4);
   --highlighter-text: inherit;
+  --vegburger-menu: #404040;
 }
 
-/* --- Dark Theme Auto (follows system, no manual toggle) --- */
+/* --- Auto Dark Theme (follows system, precludes light toggle) --- */
 
 /*@media (prefers-color-scheme: dark) {
 	html {
@@ -163,6 +171,7 @@ html {
   --blockquote: #adadad;
   --highlighter-bg: #512b74;
   --highlighter-text: #adadad;
+  --vegburger-menu: #a0b2ba;
 	}
 }*/
 
@@ -242,6 +251,7 @@ html.dark-mode {
   --blockquote: #adadad;
   --highlighter-bg: #512b74;
   --highlighter-text: #adadad;
+  --vegburger-menu: #a0b2ba;
 	}
 
 /* --- Basics --- */
@@ -578,6 +588,10 @@ img {
     border: 1px solid #eaeaea;
     border-width: 0 1px 1px;
   }
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: var(--vegburger-menu);
 }
 
 /* --- Footer --- */
