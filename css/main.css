@@ -1287,8 +1287,12 @@ strong::before {
   padding-right: 5px;
 }
 
-.fa-database, .fa-landmark, .fa-orcid, .fa-clock, .fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc {
+.fa-database, .fa-landmark, .fa-orcid, .fa-clock {
   padding-right: 10px;
+}
+
+.fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc {
+  padding-right: 5px;
 }
 
 .fa-hourglass-half {
