@@ -92,6 +92,8 @@ html {
   --highlighter-bg: rgba(216,232,92,.4);
   --highlighter-text: inherit;
   --vegburger-menu: #404040;
+  --btn-home-hover: #ccc;
+  --btn-email-hover: #ccc;
 }
 
 /* --- Dark Theme --- */
@@ -123,7 +125,7 @@ html.dark-mode {
   --footer-misc: #adadad;
   --footer-misc-effect: none;
   --footer-buttons: #adadad;
-  --footer-buttons-hover: #eee;
+  --footer-buttons-hover: #bbcfdc;
   --journal-preview-divider: 1px solid #12202D; /* - Journal landing dark - */
   --journal-preview-link: #a0b1ba;
   --journal-preview-meta: #adadad;
@@ -171,6 +173,8 @@ html.dark-mode {
   --highlighter-bg: #512b74;
   --highlighter-text: #adadad;
   --vegburger-menu: #a0b2ba;
+  --btn-home-hover: #bbcfdc;
+  --btn-email-hover: #bbcfdc;
 	}
 
 /* --- Auto Dark Theme (follows system, precludes light toggle) --- */
@@ -251,6 +255,8 @@ html.dark-mode {
   --highlighter-bg: #512b74;
   --highlighter-text: #adadad;
   --vegburger-menu: #a0b2ba;
+  --btn-home-hover: #ccc;
+  --btn-email-hover: #ccc;
 	}
 }*/
 
@@ -1406,10 +1412,10 @@ strong::before {
 .fa.fa-font.fa-stack-1x.fa-inverse:hover {color: #f1c40e;}
 
 .fas.fa-compass.fa-stack-1x.fa-inverse {transition: .5s;}
-.fas.fa-compass.fa-stack-1x.fa-inverse:hover {color: #eee;}
+.fas.fa-compass.fa-stack-1x.fa-inverse:hover {color: var(--btn-home-hover);}
 
 .fas.fa-at.fa-stack-1x.fa-inverse {transition: .5s;}
-.fas.fa-at.fa-stack-1x.fa-inverse:hover {color: #eee;}
+.fas.fa-at.fa-stack-1x.fa-inverse:hover {color: var(--btn-email-hover);}
 
 .fas.fa-rss.fa-stack-1x.fa-inverse {transition: .5s;}
 .fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
