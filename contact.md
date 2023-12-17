@@ -10,7 +10,7 @@ Please address all official or business correspondence to <pre><i class="far fa-
 </div>
 
 <div class="box-note cboxa">
-Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/sw_pgp_public_key.asc" target="_blank">public key</a>
+Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a class="pre-inline" href="/doc/keys/sw_pgp_public_key.asc" target="_blank">public key</a>
 </div>
 
 <h2>Your Data</h2>
