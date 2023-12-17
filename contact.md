@@ -13,7 +13,7 @@ Please address any official and business correspondences to <pre><i class="far f
 Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a class="pre-inline" href="/doc/keys/sw_pgp_public_key.asc" target="_blank">public key</a>
 </div>
 
-<h2>Your Data</h2>
+<h2>Data Privacy</h2>
 <div class="box-success cboxa">
 Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_blank">self-defense<i class="fas fa-external-link-alt"></i></a> against surveillance are basic rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers (e.g., IP addresses, cookies, and browser fingerprints) are collected, transmitted, or stored. This policy includes:
   <ul class="fa-ul">
@@ -33,15 +33,15 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
 <div class="box-note cboxa">
 <ul class="list-copy" role="list">
 <li>Unless stated otherwise, all contents of this personal, non-commercial website are made available under <a class="pre-inline" rel="license" href="/doc/legal/CC-LICENSE.txt">Creative Commons BY-NC-ND 4.0 License<i class="far fa-file"></i></a></li>
-<li>Self-hosted fonts "Inter" and "Playfair Display" are courtesy of Google and used under <a class="pre-inline" rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file"></i></a></li>
-<li>Bootstrap CSS is utilized under <a class="pre-inline" rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file"></i></a></li>
-<li>Self-hosted icons from Font Awesome 5.15.4 are implemented as per <a class="pre-inline" rel="license" href="doc/legal/FA-LICENSE.txt">free license<i class="far fa-file"></i></a></li>
-<li>Profile picture and favicon courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a></li>
-<li>If not marked otherwise, all other images are courtesy of Unsplash <a rel="license" href="https://unsplash.com/license" target="_blank">free licensing<i class="fas fa-external-link-alt"></i></a></li>
+<li>Self-hosted fonts <em>Inter</em> and <em>Playfair Display</em> are used under <a class="pre-inline" rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file"></i></a></li>
+<li>Bootstrap CSS is implemented as per <a class="pre-inline" rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file"></i></a></li>
+<li>Self-hosted Font Awesome icons are used under the corresponding <a class="pre-inline" rel="license" href="doc/legal/FA-LICENSE.txt">free license<i class="far fa-file"></i></a></li>
+<li>Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a></li>
+<li>If not marked otherwise, all other images are used under Unsplash <a rel="license" href="https://unsplash.com/license" target="_blank">free license<i class="fas fa-external-link-alt"></i></a></li>
 </ul>
 </div>
 
-<h2>Links</h2>
+<h2>External Links</h2>
 <div class="box-note cboxa">
 Links to external websites are provided as a convenience and for informational purposes only. Links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of a link please get in contact via email.
 </div>

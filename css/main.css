@@ -328,7 +328,11 @@ a:hover,a:focus,a:active {
 }
 
 .list-copy {
-  list-style: none;
+  line-height: 1.8;
+}
+
+.fa-ul {
+  line-height: 1.8;
 }
 
 .gold a {
