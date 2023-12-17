@@ -491,7 +491,7 @@ img {
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
-  }
+  } /*Causes white flash in navbar on dark mode switch*/
 
   .navbar-custom.top-nav-short {
     padding: 0;
