@@ -31,7 +31,14 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/" target="_bla
 
 <h2>Copyrights & Licenses</h2>
 <div class="box-note cboxa">
-Unless stated otherwise, all contents of this personal, non-commercial website are made available under <a class="pre-inline" rel="license" href="/doc/legal/CC-LICENSE.txt">Creative Commons BY-NC-ND 4.0 License<i class="far fa-file"></i></a> Self-hosted fonts "Inter" and "Playfair Display" are courtesy of Google and used as per <a class="pre-inline" rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file"></i></a> Bootstrap CSS is used under <a class="pre-inline" rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file"></i></a> Self-hosted icons from Font Awesome 5.15.4 are implemented as per <a class="pre-inline" rel="license" href="doc/legal/FA-LICENSE.txt">free license<i class="far fa-file"></i></a> Profile picture and favicon courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a> If not marked otherwise, all other images are courtesy of Unsplash <a rel="license" href="https://unsplash.com/license" target="_blank">free licensing<i class="fas fa-external-link-alt"></i></a>
+<ul class="list-copy" role="list">
+<li>Unless stated otherwise, all contents of this personal, non-commercial website are made available under <a class="pre-inline" rel="license" href="/doc/legal/CC-LICENSE.txt">Creative Commons BY-NC-ND 4.0 License<i class="far fa-file"></i></a></li>
+<li>Self-hosted fonts "Inter" and "Playfair Display" are courtesy of Google and used under <a class="pre-inline" rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file"></i></a></li>
+<li>Bootstrap CSS is utilized under <a class="pre-inline" rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file"></i></a></li>
+<li>Self-hosted icons from Font Awesome 5.15.4 are implemented as per <a class="pre-inline" rel="license" href="doc/legal/FA-LICENSE.txt">free license<i class="far fa-file"></i></a></li>
+<li>Profile picture and favicon courtesy of <a href="https://www.ronmarzok.de/ueber" target="_blank">Ron Marzok<i class="fas fa-external-link-alt"></i></a></li>
+<li>If not marked otherwise, all other images are courtesy of Unsplash <a rel="license" href="https://unsplash.com/license" target="_blank">free licensing<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
 </div>
 
 <h2>Links</h2>

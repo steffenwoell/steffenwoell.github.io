@@ -1,6 +1,6 @@
 @import "fonts.css";
 
-/* --- Theming --- */
+/* --- Dark/Light Themes --- */
 
 .toggle {
   text-align: center;
@@ -177,7 +177,7 @@ html.dark-mode {
   --btn-email-hover: #bbcfdc;
 	}
 
-/* --- Auto Dark Theme (follows system, precludes light toggle) --- */
+/* --- Auto Dark Theme (follows OS, disables manual toggle if sys is dark) --- */
 
 /*@media (prefers-color-scheme: dark) {
 	html {
@@ -325,6 +325,10 @@ a:hover,a:focus,a:active {
 
 .padded {
   padding: 15px 0;
+}
+
+.list-copy {
+  list-style: none;
 }
 
 .gold a {
@@ -537,7 +541,8 @@ img {
   border-color: var(--navbar-mobile-divider);
 }
 
-/* Multi-level nav links */
+/* --- Multi-level nav links --- */
+
 .navbar-custom .nav .navlinks-container {
   position: relative;
 }
@@ -893,7 +898,7 @@ footer .theme-by {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-top: 51px; /* The small navbar is 50px tall + 1px border */
+  margin-top: 51px; /* Small navbar is 50px tall + 1px border */
   margin-bottom: 35px;
 }
 
@@ -1054,7 +1059,7 @@ footer .theme-by {
   }
 }
 
-/* --- Pager --- */
+/* --- Post pager --- */
 
 .pager li a {
   font-family: 'Playfair Display', 'Times New Roman', serif;
@@ -1098,7 +1103,7 @@ footer .theme-by {
   }
 }
 
-/* --- Code blocks --- */
+/* --- Code --- */
 
 .pre-inline {
   font-family: monospace;
@@ -1150,7 +1155,7 @@ strong::before {
   top: 5px;
 }
 
-/* --- Notification boxes --- */
+/* --- Boxes --- */
 
 .toc {
   list-style: upper-roman;
@@ -1303,18 +1308,16 @@ strong::before {
   margin-bottom: 100px;
 }
 
-/* Fix .navbar-toggle */
-
 .navbar-default button.navbar-toggle:focus,
 .navbar-default button.navbar-toggle:hover {
-  background-color: initial;
+  background-color: initial; /* Fix .navbar-toggle */
 }
 
 .navbar-default button.navbar-toggle[aria-expanded="true"] {
-  background-color: rgba(0, 0, 0, .2);
+  background-color: rgba(0, 0, 0, .2); /* Fix .navbar-toggle */
 }
 
-/* Tags page */
+/* --- Tags --- */
 
 .tag-btn {
   margin: 5px;
@@ -1339,7 +1342,7 @@ strong::before {
   font-size: 16px;
 }
 
-/* Font Awesome */ 
+/* --- Font Awesome --- */ 
 
 .fa-fade {
   opacity: 1;
