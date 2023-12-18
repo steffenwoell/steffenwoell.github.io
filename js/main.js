@@ -132,3 +132,10 @@ var main = {
 };
 
 document.addEventListener('DOMContentLoaded', main.init);
+
+jQuery( document ).on( "keypress", ".clickable", function(e) {
+  if (e.which == 13) 
+    { 
+    jQuery( this ).click();
+    }
+});
