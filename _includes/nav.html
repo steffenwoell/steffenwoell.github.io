@@ -16,28 +16,6 @@
 
       <div id="darkModeToggle" class="navbar-brand toggle" title="Switch Theme"><i class="fas fa-adjust fa-lg"></i><span class="sr-only">Toggle light / dark mode</span></div>
       
-      <script>
-        // Dark mode toggle logic
-        const darkModeToggle = document.getElementById('darkModeToggle');
-        const htmlElement = document.documentElement;
-        const isDarkMode = localStorage.getItem('darkMode') === 'enabled';
-        // Apply dark mode based on user choice from local storage
-        if (isDarkMode) {
-          htmlElement.classList.add('dark-mode');
-        }
-        // Dark mode toggle event listener
-        darkModeToggle.addEventListener('click', () => {
-          // Toggle dark mode class
-          htmlElement.classList.toggle('dark-mode');
-          // Update local storage
-          if (htmlElement.classList.contains('dark-mode')) {
-            localStorage.setItem('darkMode', 'enabled');
-          } else {
-            localStorage.setItem('darkMode', 'disabled');
-          }
-        });
-      </script>
-
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
