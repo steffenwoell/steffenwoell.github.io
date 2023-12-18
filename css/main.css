@@ -272,7 +272,7 @@ body {
   flex-direction: column; /* Sticky footer */
   min-height:100vh; /* Sticky footer */
   background-color: var(--body-bg);
-  /*transition: background-color .5s ease;*/ /* Theme toggle transition, causes flash on page change */
+  /*transition: background-color .3s ease;*/ /* Theme toggle transition, causes flash on page change */
 }
 
 p {
@@ -574,9 +574,9 @@ img {
 
 .navbar-custom .nav .navlinks-container .navlinks-children a:hover {
   background-color: #ebebeb;
-  -webkit-transition: background .2s ease-in-out;
-  -moz-transition: background .2s ease-in-out;
-  transition: background .2s ease-in-out;
+  -webkit-transition: background .3s ease-in-out;
+  -moz-transition: background .3s ease-in-out;
+  transition: background .3s ease-in-out;
 }
 
 @media only screen and (max-width: 899px) {
@@ -684,7 +684,7 @@ footer a {
 
 .mw-buttons a, .cc-buttons a {
   color: var(--footer-buttons);
-  transition: .5s ease;
+  transition: .3s ease;
 }
 
 .mw-buttons a:hover, .mw-buttons a:active, .mw-buttons a:focus, .cc-buttons a:hover, .cc-buttons a:active, .cc-buttons a:focus {
@@ -863,9 +863,9 @@ footer .theme-by {
 
 .blog-tags a:hover {
   color: var(--link-active);
-  -webkit-transition: color .5s ease-in-out;
-  -moz-transition: color .5s ease-in-out;
-  transition: color .5s ease-in-out;
+  -webkit-transition: color .3s ease-in-out;
+  -moz-transition: color .3s ease-in-out;
+  transition: color .3s ease-in-out;
 }
 
 .post-preview .blog-tags {
@@ -1095,7 +1095,7 @@ footer .theme-by {
   background-color: var(--pager-bg-hover);
   color: var(--pager-text-hover);
   border: var(--pager-border-hover);
-  transition: .5s ease;
+  transition: .3s ease;
 }
 
 .pager {
