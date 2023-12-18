@@ -45,6 +45,7 @@ html {
   --footer-misc-effect: 1px 1px rgba(255,255,255,.0);
   --footer-buttons: #6f6f6f;
   --footer-buttons-hover: #333;
+  --footer-lastmod: #6f6f6f;
   --journal-preview-divider: 1px solid #eee; /* - Journal landing light - */
   --journal-preview-link: #404040;
   --journal-preview-meta: #404040;
@@ -126,6 +127,7 @@ html.dark-mode {
   --footer-misc-effect: 1px 1px rgba(39,72,101,.0);
   --footer-buttons: #adadad;
   --footer-buttons-hover: #bbcfdc;
+  --footer-lastmod: #adadad;
   --journal-preview-divider: 1px solid #12202D; /* - Journal landing dark - */
   --journal-preview-link: #a0b1ba;
   --journal-preview-meta: #adadad;
@@ -176,89 +178,6 @@ html.dark-mode {
   --btn-home-hover: #bbcfdc;
   --btn-email-hover: #bbcfdc;
 	}
-
-/* --- Auto Dark Theme (follows OS, disables manual toggle if sys is dark) --- */
-
-/*@media (prefers-color-scheme: dark) {
-	html {
-  --h1: #a0b1ba;
-  --body-bg: #1a3042;
-  --body-text: #adadad;
-  --link: #adadad;
-  --link-active: #adadad;
-  --navbar-bg: #12202d;
-  --navbar-text: #a0b1ba;
-  --navbar-text-hover: #bbcfdc;
-  --navbar-brand: #a0b1ba;
-  --navbar-brand-hover: #bbcfdc;
-  --navbar-border: 0 solid #0E1923;
-  --navbar-mobile-divider: #1a3042;
-  --pager-bg: #12202d;
-  --pager-bg-hover: #182a3b;
-  --pager-text: #adadad;
-  --pager-text-hover: #eee;
-  --pager-border: 0 solid #adadad;
-  --pager-border-hover: 0 solid #eee;
-  --footer-border: 0 solid #0E1923;
-  --footer-bg: #12202d;
-  --footer-links-bg: #1a3042;
-  --footer-links-icon: #adadad;
-  --footer-copy-link: #adadad;
-  --footer-misc: #adadad;
-  --footer-misc-effect: 1px 1px rgba(39,72,101,.0);
-  --footer-buttons: #adadad;
-  --footer-buttons-hover: #eee;
-  --journal-preview-divider: 1px solid #12202D;
-  --journal-preview-link: #a0b1ba;
-  --journal-preview-meta: #adadad;
-  --journal-preview-subtitle: #adadad;
-  --box-note-bg: #11202b;
-  --box-note-text: #aaa;
-  --box-note-stripe: #aaa;
-  --box-note-link: #aaa;
-  --box-toc-pub-cont: #ecbca4;
-  --box-toc-pub-bg: #17465e;
-  --box-toc-pub-stripe: #ecbca4;
-  --box-toc-pub-link: #ecbca4;
-  --box-toc-pub-hover: #ecbca4;
-  --box-toc-pub-li: #dfa385;
-  --box-toc-act-cont: #001617;
-  --box-toc-act-bg: #9b4845;
-  --box-toc-act-stripe: #001617;
-  --box-toc-act-link: #001617;
-  --box-toc-act-hover: #001617;
-  --box-toc-act-li: #192f30;
-  --box-err-bg: #910e17;
-  --box-err-stripe: #ee6aa1;
-  --box-err-text: #ee6aa1;
-  --box-err-link: #ee6aa1;
-  --box-success-bg: #0b655e;
-  --box-success-stripe: #97f0e5;
-  --box-success-text: #97f0e5;
-  --box-success-link: #97f0e5;
-  --box-res-bg: #3f2d83;
-  --box-res-stripe: #caa0f3;
-  --box-res-text: #caa0f3;
-  --box-res-link: #caa0f3;
-  --box-warn-bg: #ddebaf;
-  --box-warn-stripe: #251653;
-  --box-warn-text: #251653;
-  --box-warn-link: #251653;
-  --pre-text: inherit;
-  --pre-bg: rgba(0,0,0,.1);
-  --pre-border: 0 dashed #555;
-  --pre-inline-text: inherit;
-  --pre-inline-bg: transparent;
-  --pre-inline-border: none;
-  --title-subtitle-divider: #adadad;
-  --blockquote: #adadad;
-  --highlighter-bg: #512b74;
-  --highlighter-text: #adadad;
-  --vegburger-menu: #a0b2ba;
-  --btn-home-hover: #ccc;
-  --btn-email-hover: #ccc;
-	}
-}*/
 
 /* --- Basics --- */
 
@@ -671,6 +590,10 @@ footer a {
   margin: 120px 0 0;
   text-align: center;
   font-weight: 300;
+  font-family: monospace;
+  white-space: pre;
+  overflow-wrap: break-word;
+  color: var(--footer-lastmod);
 }
 
 .mw-buttons {
