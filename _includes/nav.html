@@ -14,7 +14,28 @@
         <a class="navbar-brand" href="{{ '' | absolute_url }}">Steffen Wöll</a>
       {%- endif -%}
 
-      <div id="darkModeToggle" class="navbar-brand toggle clickable" title="Change Theme" tabindex="0"><i class="fas fa-adjust fa-lg"></i><span class="sr-only">Toggle for light or dark mode</span></div>
+      <script>
+        // Function to handle key press events
+        function handleKeyPress(event) {
+          // Check if the pressed key is Enter (key code 13)
+          if (event.key === 'Enter') {
+            // Toggle the 'highlight' class on the focused element
+            event.target.classList.toggle('highlight');
+          }
+        }
+    
+        // Get all elements with the 'clickable' class
+        var clickableDivs = document.querySelectorAll('.clickable');
+    
+        // Attach the key press event listener to each clickable div
+        clickableDivs.forEach(function(div) {
+          div.addEventListener('keypress', handleKeyPress);
+          // Make divs focusable
+          div.tabIndex = 0;
+        });
+      </script>
+
+      <div id="darkModeToggle" class="navbar-brand toggle clickable" title="Switch Theme"><i class="fas fa-adjust fa-lg"></i><span class="sr-only">Toggle for light or dark mode</span></div>
       
       <script>
         // Dark mode toggle logic
