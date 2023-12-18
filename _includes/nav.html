@@ -10,27 +10,24 @@
       {%- if site.title-img -%}
         <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}"/></a>
       {%- else -%}
-        <a class="navbar-brand" href="{{ '' | absolute_url }}">Steffen Wöll</a>
+        <a class="navbar-brand" href="{{ '' | absolute_url }}" tabindex="0">Steffen Wöll</a>
       {%- endif -%}
 
-      <div id="darkModeToggle" class="navbar-brand toggle" title="Toggle light/dark mode" tabindex="0"><i class="fas fa-adjust fa-lg"></i><span class="sr-only">Toggle for light or dark mode</span></div>
+      <div id="darkModeToggle" class="navbar-brand toggle" title="Toggle light/dark mode"><i class="fas fa-adjust fa-lg" tabindex="0"></i><span class="sr-only">Toggle for light or dark mode</span></div>
       
       <script>
         // Dark mode toggle logic
         const darkModeToggle = document.getElementById('darkModeToggle');
         const htmlElement = document.documentElement;
         const isDarkMode = localStorage.getItem('darkMode') === 'enabled';
-    
-        // Apply dark mode based on user preference from local storage
+        // Apply dark mode based on user choice from local storage
         if (isDarkMode) {
           htmlElement.classList.add('dark-mode');
         }
-    
         // Dark mode toggle event listener
         darkModeToggle.addEventListener('click', () => {
           // Toggle dark mode class
           htmlElement.classList.toggle('dark-mode');
-    
           // Update local storage
           if (htmlElement.classList.contains('dark-mode')) {
             localStorage.setItem('darkMode', 'enabled');
@@ -42,11 +39,11 @@
 
     </div>
 
-    <div class="collapse navbar-collapse" id="main-navbar" tabindex="0">
+    <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
         {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
-        <li class="navlinks-container">
+        <li class="navlinks-container" tabindex="0">
           <a class="navlinks-parent" href="javascript:void(0)" role="button" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
           <div class="navlinks-children">
             {%- for childlink in link[1] -%}
@@ -57,7 +54,7 @@
           </div>
         </li>
         {% else %}
-        <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+        <li tabindex="0"><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
         {%- endif -%}
         {%- endfor -%}
       </ul>
