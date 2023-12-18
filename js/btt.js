@@ -8,7 +8,7 @@ function addBackToTop() {
   void 0 !== arguments[0] ? arguments[0] : {
   },
   r = i.backgroundColor,
-  d = void 0 === r ? 'var(--btt-arrow);' : r,
+  d = void 0 === r ? '#000' : r,
   a = i.cornerOffset,
   c = void 0 === a ? 20 : a,
   s = i.diameter,
@@ -21,7 +21,7 @@ function addBackToTop() {
   m = i.id,
   h = void 0 === m ? 'back-to-top' : m,
   b = i.innerHTML,
-  v = void 0 === b ? '<svg viewBox="0 0 24 24" alt="Scroll to start of page"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>' : b,
+  v = void 0 === b ? '<svg viewBox="0 0 24 24" title="Scroll to top of page"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>' : b,
   f = i.onClickScrollTo,
   x = void 0 === f ? 0 : f,
   w = i.scrollContainer,
@@ -41,7 +41,7 @@ function addBackToTop() {
   document.documentElement;
   o = Math.round(0.43 * E),
   t = Math.round(0.29 * E),
-  e = '#' + h + '{background-color:rgb(255 255 255 / 0.3);backdrop-filter:blur(7px);-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;bottom:' + c + 'px;-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.26);-moz-box-shadow:0 2px 5px 0 rgba(0,0,0,.26);box-shadow:0 2px 5px 0 rgba(0,0,0,.26);color:' + L + ';cursor:pointer;display:block;height:' + E + 'px;opacity:1;outline:0;position:fixed;right:' + c + 'px;-webkit-tap-highlight-color:transparent;-webkit-touch-callout:none;-webkit-transition:bottom .2s,opacity .2s;-o-transition:bottom .2s,opacity .2s;-moz-transition:bottom .2s,opacity .2s;transition:bottom .2s,opacity .2s;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:' + E + 'px;z-index:' + I + '}#' + h + ' svg{display:block;height:' + o + 'px;margin:' + t + 'px auto 0;width:' + o + 'px}#' + h + '.hidden{bottom:-' + E + 'px;opacity:0}',
+  e = '#' + h + '{background-color:rgb(255 255 255 / 0.3);backdrop-filter:blur(7px);-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;bottom:' + c + 'px;-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.26);-moz-box-shadow:0 2px 5px 0 rgba(0,0,0,.26);box-shadow:0 2px 5px 0 rgba(0,0,0,.26);color:var(--btt-arrow);cursor:pointer;display:block;height:' + E + 'px;opacity:1;outline:0;position:fixed;right:' + c + 'px;-webkit-tap-highlight-color:transparent;-webkit-touch-callout:none;-webkit-transition:bottom .2s,opacity .2s;-o-transition:bottom .2s,opacity .2s;-moz-transition:bottom .2s,opacity .2s;transition:bottom .2s,opacity .2s;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:' + E + 'px;z-index:' + I + '}#' + h + ' svg{display:block;height:' + o + 'px;margin:' + t + 'px auto 0;width:' + o + 'px}#' + h + '.hidden{bottom:-' + E + 'px;opacity:0}',
   (n = document.createElement('style')).appendChild(document.createTextNode(e)),
   document.head.insertAdjacentElement('afterbegin', n);
   var D = function () {
