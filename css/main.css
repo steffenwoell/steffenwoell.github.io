@@ -42,7 +42,7 @@ html {
   --footer-links-icon: #fff;
   --footer-copy-link: #555;
   --footer-misc: #6f6f6f;
-  --footer-misc-effect: 1px 1px rgba(255,255,255,.8);
+  --footer-misc-effect: 1px 1px rgba(255,255,255,.0);
   --footer-buttons: #6f6f6f;
   --footer-buttons-hover: #333;
   --journal-preview-divider: 1px solid #eee; /* - Journal landing light - */
@@ -94,6 +94,7 @@ html {
   --vegburger-menu: #404040;
   --btn-home-hover: #ccc;
   --btn-email-hover: #ccc;
+  --btt-arrow: red;
 }
 
 /* --- Dark Theme --- */
@@ -123,7 +124,7 @@ html.dark-mode {
   --footer-links-icon: #adadad;
   --footer-copy-link: #adadad;
   --footer-misc: #adadad;
-  --footer-misc-effect: none;
+  --footer-misc-effect: 1px 1px rgba(39,72,101,.0);
   --footer-buttons: #adadad;
   --footer-buttons-hover: #bbcfdc;
   --journal-preview-divider: 1px solid #12202D; /* - Journal landing dark - */
@@ -205,7 +206,7 @@ html.dark-mode {
   --footer-links-icon: #adadad;
   --footer-copy-link: #adadad;
   --footer-misc: #adadad;
-  --footer-misc-effect: none;
+  --footer-misc-effect: 1px 1px rgba(39,72,101,.0);
   --footer-buttons: #adadad;
   --footer-buttons-hover: #eee;
   --journal-preview-divider: 1px solid #12202D;
