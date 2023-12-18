@@ -9,7 +9,12 @@
       </button>
 
 <script>
-function onKeyUp(e){if (e.key === "Enter") clickfocus();}
+jQuery( document ).on( "keypress", ".clickable", function(e) {
+  if (e.which == 13) 
+    { 
+    jQuery( this ).click();
+    }
+});
 </script>
 
       {%- if site.title-img -%}
@@ -18,7 +23,7 @@ function onKeyUp(e){if (e.key === "Enter") clickfocus();}
         <a class="navbar-brand" href="{{ '' | absolute_url }}">Steffen Wöll</a>
       {%- endif -%}
 
-      <div id="darkModeToggle" class="navbar-brand toggle" title="Toggle light/dark mode" tabindex="0" onclick="clickfocus"><i class="fas fa-adjust fa-lg"></i><span class="sr-only">Toggle for light or dark mode</span></div>
+      <div id="darkModeToggle" class="navbar-brand toggle clickable" title="Toggle light/dark mode" tabindex="0"><i class="fas fa-adjust fa-lg"></i><span class="sr-only">Toggle for light or dark mode</span></div>
       
       <script>
         // Dark mode toggle logic
