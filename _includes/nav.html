@@ -11,28 +11,28 @@
       <script>
         // Function to handle key press events
         function handleKeyPress(event) {
-          // Check if the pressed key is Enter (key code 13) or Spacebar (key code 32)
-          if (event.key === 'Enter' || event.key === ' ') {
+          // Check if the pressed key is Enter (key code 13)
+          if (event.key === 'Enter') {
             // Toggle the 'highlight' class on the focused element
             event.target.classList.toggle('highlight');
           }
         }
     
-        // Get all elements with the specified classes
-        var clickableElements = document.querySelectorAll('.clickable');
+        // Get all elements with the 'clickable' class
+        var clickableDivs = document.querySelectorAll('.clickable');
     
-        // Attach the key press event listener to each clickable element
-        clickableElements.forEach(function(element) {
-          element.addEventListener('keydown', handleKeyPress);
-          // Make elements focusable
-          element.tabIndex = 0;
+        // Attach the key press event listener to each clickable div
+        clickableDivs.forEach(function(div) {
+          div.addEventListener('keypress', handleKeyPress);
+          // Make divs focusable
+          div.tabIndex = 0;
         });
       </script>
 
       {%- if site.title-img -%}
         <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}"/></a>
       {%- else -%}
-        <a class="navbar-brand clickable" href="{{ '' | absolute_url }}">Steffen Wöll</a>
+        <a class="navbar-brand" href="{{ '' | absolute_url }}">Steffen Wöll</a>
       {%- endif -%}
 
       <div id="darkModeToggle" class="navbar-brand toggle clickable" title="Switch Theme"><i class="fas fa-adjust fa-lg"></i><span class="sr-only">Toggle for light or dark mode</span></div>
@@ -65,9 +65,9 @@
       <ul class="nav navbar-nav navbar-right">
         {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
-        <li class="navlinks-container clickable">
+        <li class="navlinks-container">
           <a class="navlinks-parent" href="javascript:void(0)" role="button" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-          <div class="navlinks-children">
+          <div class="navlinks-children clickable">
             {%- for childlink in link[1] -%}
             {%- for linkparts in childlink %}
             <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
@@ -76,7 +76,7 @@
           </div>
         </li>
         {% else %}
-        <li class="clickable"><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+        <li><div class="clickable"><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></div></li>
         {%- endif -%}
         {%- endfor -%}
       </ul>
