@@ -45,7 +45,8 @@ html {
   --footer-misc-effect: 1px 1px rgba(255,255,255,.0);
   --footer-buttons: #6f6f6f;
   --footer-buttons-hover: #333;
-  --footer-lastmod: #6f6f6f;
+  --footer-lastmod-text: #6f6f6f;
+  --footer-lastmod-bg: rgba(255, 255, 255, .2);
   --journal-preview-divider: 1px solid #eee; /* - Journal landing light - */
   --journal-preview-link: #404040;
   --journal-preview-meta: #404040;
@@ -127,7 +128,8 @@ html.dark-mode {
   --footer-misc-effect: 1px 1px rgba(39,72,101,.0);
   --footer-buttons: #adadad;
   --footer-buttons-hover: #bbcfdc;
-  --footer-lastmod: #adadad;
+  --footer-lastmod-text: #adadad;
+  --footer-lastmod-bg: rgba(0, 0, 0, .2);
   --journal-preview-divider: 1px solid #12202D; /* - Journal landing dark - */
   --journal-preview-link: #a0b1ba;
   --journal-preview-meta: #adadad;
@@ -593,7 +595,13 @@ footer a {
   font-family: monospace;
   white-space: pre;
   overflow-wrap: break-word;
-  color: var(--footer-lastmod);
+  color: var(--footer-lastmod-text);
+}
+
+.lastmod span {
+  background-color: var(--footer-lastmod-bg);
+  padding: 6px;
+  border-radius: 5px 3px 3px 5px;
 }
 
 .mw-buttons {
