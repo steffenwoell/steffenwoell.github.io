@@ -272,7 +272,7 @@ body {
   flex-direction: column; /* Sticky footer */
   min-height:100vh; /* Sticky footer */
   background-color: var(--body-bg);
-  transition: background-color .5s ease; /* Theme toggle transition */
+  /*transition: background-color .5s ease;*/ /* Theme toggle transition, causes flash on page change */
 }
 
 p {
@@ -668,7 +668,7 @@ footer a {
 }
 
 .lastmod {
-  margin: 140px 0 0;
+  margin: 120px 0 0;
   text-align: center;
   font-weight: 300;
 }
@@ -1081,6 +1081,7 @@ footer .theme-by {
   color: var(--pager-text);
   border: var(--pager-border);
   border-radius: 0;
+  transition: color .3s ease-in-out;
 }
 
 @media only screen and (min-width: 900px) {
