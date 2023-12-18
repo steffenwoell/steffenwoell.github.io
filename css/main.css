@@ -46,7 +46,7 @@ html {
   --footer-buttons: #6f6f6f;
   --footer-buttons-hover: #333;
   --footer-lastmod-text: #6f6f6f;
-  --footer-lastmod-bg: rgba(255, 255, 255, .2);
+  --footer-lastmod-bg: none;
   --journal-preview-divider: 1px solid #eee; /* - Journal landing light - */
   --journal-preview-link: #404040;
   --journal-preview-meta: #404040;
@@ -129,7 +129,7 @@ html.dark-mode {
   --footer-buttons: #adadad;
   --footer-buttons-hover: #bbcfdc;
   --footer-lastmod-text: #adadad;
-  --footer-lastmod-bg: rgba(0, 0, 0, .2);
+  --footer-lastmod-bg: rgba(0,0,0,.2);
   --journal-preview-divider: 1px solid #12202D; /* - Journal landing dark - */
   --journal-preview-link: #a0b1ba;
   --journal-preview-meta: #adadad;
@@ -434,9 +434,9 @@ img {
   border-radius: 50%;
   margin-left: -50%;
   display: inline-block;
-  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
-  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  box-shadow: 0 0 8px rgba(0,0,0,.8);
+  -webkit-box-shadow: 0 0 5px rgba(0,0,0,.8);
+  -moz-box-shadow: 0 0 8px rgba(0,0,0,.8);
 }
 .navbar-custom .avatar-container .avatar-img {
   width: 100%;
@@ -456,9 +456,9 @@ img {
 
   .navbar-custom .avatar-container .avatar-img-border {
     width: 100%;
-    box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
+    box-shadow: 1px 1px 2px rgba(0,0,0,.8);
+    -webkit-box-shadow: 1px 1px 2px rgba(0,0,0,.8);
+    -moz-box-shadow: 1px 1px 2px rgba(0,0,0,.8);
   }
 
   .navbar-custom .avatar-container .avatar-img {
@@ -502,7 +502,7 @@ img {
 
 @media only screen and (max-width: 899px) {
   .navbar-custom .nav .navlinks-container.show-children {
-    background: rgba(0, 0, 0, .2);
+    background: rgba(0,0,0,.2);
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
@@ -514,7 +514,7 @@ img {
     text-align: center;
   }
   .navbar-custom .nav .navlinks-container:hover {
-    background: rgba(0, 0, 0, .1);
+    background: rgba(0,0,0,.1);
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;
@@ -908,7 +908,7 @@ footer .theme-by {
 }
 
 .intro-header.big-img .img-desc {
-  background: rgba(30, 30, 30, .6);
+  background: rgba(30,30,30,.6);
   position: absolute;
   padding: 5px 10px;
   font-size: 11px;
@@ -1254,7 +1254,7 @@ strong::before {
 }
 
 .navbar-default button.navbar-toggle[aria-expanded="true"] {
-  background-color: rgba(0, 0, 0, .2); /* Fix .navbar-toggle */
+  background-color: rgba(0,0,0,.2); /* Fix .navbar-toggle */
 }
 
 /* --- Tags --- */
