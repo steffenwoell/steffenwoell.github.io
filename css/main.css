@@ -94,7 +94,6 @@ html {
   --vegburger-menu: #404040;
   --btn-home-hover: #ccc;
   --btn-email-hover: #ccc;
-  --btt-arrow: red;
 }
 
 /* --- Dark Theme --- */
@@ -651,7 +650,7 @@ footer a {
   color: var(--footer-copy-link);
 }
 
-.made-with, .license, .lastmod, .mw-buttons a, .cc-buttons a, .fa-hourglass-half {
+.made-with, .license, .mw-buttons a, .cc-buttons a {
   color: var(--footer-misc);
   text-shadow: var(--footer-misc-effect);
 }
@@ -1409,10 +1408,6 @@ strong::before {
 
 .fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc {
   padding-right: 5px;
-}
-
-.fa-hourglass-half {
-  padding-right: 6px;
 }
 
 .fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {
