@@ -272,7 +272,7 @@ body {
   flex-direction: column; /* Sticky footer */
   min-height:100vh; /* Sticky footer */
   background-color: var(--body-bg);
-  transition: background-color 0.3s ease; /* Theme toggle transition */
+  transition: background-color .5s ease; /* Theme toggle transition */
 }
 
 p {
@@ -432,13 +432,16 @@ img {
   transition: transform .7s ease;
 }
 
+.navbar-custom .nav li a {
+  transition: color .3s ease-in-out;
+}
+
 .navbar-custom .nav li a:hover::before {
   transform: scaleX(1);
 }
 
 .navbar-custom .nav li a:hover {
   color: var(--navbar-text-hover);
-  transition: color .3s ease-in-out;
 }
 
 .navbar-custom,
@@ -460,10 +463,10 @@ img {
   letter-spacing: 0;
   text-decoration: none;
   color: var(--navbar-brand);
+  transition: color .3s ease-in-out;
 }
 
 .navbar-brand:hover {
-  transition: color .3s ease-in-out;
   color: var(--navbar-brand-hover);
 }
 
