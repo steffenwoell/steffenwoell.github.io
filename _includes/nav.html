@@ -10,10 +10,10 @@
       {%- if site.title-img -%}
         <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}"/></a>
       {%- else -%}
-        <a class="navbar-brand" href="{{ '' | absolute_url }}" tabindex="0">Steffen Wöll</a>
+        <span tabindex="0"><a class="navbar-brand" href="{{ '' | absolute_url }}">Steffen Wöll</a></span>
       {%- endif -%}
 
-      <div id="darkModeToggle" class="navbar-brand toggle" title="Toggle light/dark mode"><i class="fas fa-adjust fa-lg" tabindex="0"></i><span class="sr-only">Toggle for light or dark mode</span></div>
+      <div id="darkModeToggle" class="navbar-brand toggle" title="Toggle light/dark mode" tabindex="0"><i class="fas fa-adjust fa-lg"></i><span class="sr-only">Toggle for light or dark mode</span></div>
       
       <script>
         // Dark mode toggle logic
@@ -39,7 +39,7 @@
 
     </div>
 
-    <div class="collapse navbar-collapse" id="main-navbar">
+    <div class="collapse navbar-collapse" id="main-navbar" tabindex="0">
       <ul class="nav navbar-nav navbar-right">
         {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
