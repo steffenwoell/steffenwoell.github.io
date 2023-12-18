@@ -272,6 +272,7 @@ body {
   flex-direction: column; /* Sticky footer */
   min-height:100vh; /* Sticky footer */
   background-color: var(--body-bg);
+  transition: background-color 0.3s ease; /* Theme toggle transition */
 }
 
 p {
@@ -488,7 +489,9 @@ img {
 @media only screen and (min-width: 900px) {
   .navbar-custom {
     padding: 20px 0;
-    transition: padding .5s ease-in-out; /*Causes white flash in navbar on dark mode switch*/
+    -webkit-transition: padding .5s ease-in-out;
+    -moz-transition: padding .5s ease-in-out;
+    transition: padding .5s ease-in-out;
   }
 
   .navbar-custom.top-nav-short {
