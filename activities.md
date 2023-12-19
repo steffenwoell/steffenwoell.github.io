@@ -104,7 +104,7 @@ image: /img/act.webp
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1">Guest Lecture<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="thesis-supervision role="button" aria-label="Thesis Supervision">&nbsp;</a></div>
+<div><a id="thesis-supervision" role="button" aria-label="Thesis Supervision">&nbsp;</a></div>
 
 ## IV.&nbsp;Thesis Supervision
 <div class="gold">
