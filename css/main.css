@@ -1325,7 +1325,7 @@ strong::before {
   }
 }
 
-.fa-external-link-alt, .fa-file-pdf, .fa-file-image, .fa-file, .fa-youtube, .fa-lock-open {
+.fa-link, .fa-external-link-alt, .fa-file, .fa-file-pdf, .fa-file-image, .fa-youtube, .fa-lock-open {
   padding-left: 5px;
 }
 

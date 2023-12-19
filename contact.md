@@ -10,7 +10,7 @@ Please address any official and business correspondences to <pre><i class="far f
 </div>
 
 <div class="box-note cboxa">
-Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a class="pre-inline" href="/doc/keys/sw_pgp_public_key.asc">public key</a>
+Feel free to send me encrypted messages using GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a class="pre-inline" href="/doc/keys/sw_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
 </div>
 
 <h2>Data Privacy</h2>
@@ -43,7 +43,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 
 <h2>External Links</h2>
 <div class="box-note cboxa">
-Links to external websites (as indicated with the <i class="fas fa-external-link-alt" role="presentation"></i> symbol) are provided as a convenience and for informational purposes only. Links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of a link please get in contact via email.
+Links to external websites (indicated with the<i class="fas fa-external-link-alt" role="presentation"></i> symbol) are provided as a convenience and for informational purposes only. Links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of a link please get in contact via email.
 </div>
 
 <h2>Mailing Address</h2>

@@ -50,11 +50,6 @@ soundcloud:
   baseURL: "https://soundcloud.com/"
   icon: "fab fa-soundcloud"
 
-tumblr:
-  name: "Tumblr"
-  baseURL: "https://www.tumblr.com/"
-  icon: "fab fa-tumblr"
-
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
@@ -74,16 +69,6 @@ xing:
   name: "Xing"
   baseURL: "https://www.xing.com/profile/"
   icon: "fab fa-xing"
-
-stackoverflow:
-  name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/"
-  icon: "fab fa-stack-overflow"
-
-youtube:
-  name: "YouTube"
-  baseURL: "https://www.youtube.com/"
-  icon: "fab fa-youtube"
 
 spotify:
   name: "Spotify"
