@@ -12,7 +12,7 @@
                 {%- elsif curkey == 'home' -%}
                   <a href="{{ '' | absolute_url }}" title="{{ element.name }}" aria-label="Home">
             {%- else -%}
-              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}" =aria-label"Social network link">
+              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}" aria-label="{{ element.name }}">
             {%- endif -%}
                 <span class="fa-stack fa-lg" aria-hidden="true">
                   <i class="fas fa-circle fa-stack-2x"></i>

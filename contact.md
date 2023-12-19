@@ -36,14 +36,14 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 <li>Self-hosted fonts <em>Inter</em> and <em>Playfair Display</em> are used under <a class="pre-inline" rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file" role="presentation"></i></a></li>
 <li>Bootstrap CSS is implemented as per <a class="pre-inline" rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file" role="presentation"></i></a></li>
 <li>Self-hosted Font Awesome icons are used under the corresponding <a class="pre-inline" rel="license" href="doc/legal/FA-LICENSE.txt">free license<i class="far fa-file" role="presentation"></i></a></li>
-<li>Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber">Ron Marzok<i class="fas fa-external-link-alt" role="presentation" role="presentation"></i></a></li>
-<li>If not marked otherwise, all other images are used under Unsplash <a rel="license" href="https://unsplash.com/license">free license<i class="fas fa-external-link-alt" role="presentation" role="presentation"></i></a></li>
+<li>Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber">Ron Marzok<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+<li>If not marked otherwise, all other images are used under Unsplash <a rel="license" href="https://unsplash.com/license">free license<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
 </ul>
 </div>
 
 <h2>External Links</h2>
 <div class="box-note cboxa">
-Links to external websites are provided as a convenience and for informational purposes only. Links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of a link please get in contact via email.
+Links to external websites (as indicated with the <i class="fas fa-external-link-alt" role="presentation"></i> symbol) are provided as a convenience and for informational purposes only. Links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of a link please get in contact via email.
 </div>
 
 <h2>Mailing Address</h2>
