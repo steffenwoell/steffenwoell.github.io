@@ -151,9 +151,9 @@ html.dark-mode {
   --box-toc-act-hover: #001617;
   --box-toc-act-li: #192f30;
   --box-err-bg: #910e17; /* - Box Error dark - */
-  --box-err-stripe: #ee6aa1;
-  --box-err-text: #ee6aa1;
-  --box-err-link: #ee6aa1;
+  --box-err-stripe: #f49ec2;
+  --box-err-text: #f49ec2;
+  --box-err-link: #f49ec2;
   --box-success-bg: #0b655e; /* - Box Success dark - */
   --box-success-stripe: #97f0e5;
   --box-success-text: #97f0e5;
