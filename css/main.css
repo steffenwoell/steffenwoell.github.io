@@ -1012,7 +1012,7 @@ footer .theme-by {
   color: var(--pager-text);
   border: var(--pager-border);
   border-radius: 0;
-  transition: color .3s ease-in-out;
+  transition: .3s ease-in-out;
 }
 
 @media only screen and (min-width: 900px) {
