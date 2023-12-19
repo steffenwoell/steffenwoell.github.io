@@ -46,7 +46,7 @@
         {%- if link[1].first %}
         <li class="navlinks-container">
           <a class="navlinks-parent" href="javascript:void(0)" role="button" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-          <div class="navlinks-children">
+          <div class="navlinks-children" tabindex="0">
             {%- for childlink in link[1] -%}
             {%- for linkparts in childlink %}
             <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
@@ -55,7 +55,7 @@
           </div>
         </li>
         {% else %}
-        <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+        <li tabindex="0"><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
         {%- endif -%}
         {%- endfor -%}
       </ul>
