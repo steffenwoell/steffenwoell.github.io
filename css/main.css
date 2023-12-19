@@ -144,12 +144,12 @@ html.dark-mode {
   --box-toc-pub-link: #ecbca4;
   --box-toc-pub-hover: #ecbca4;
   --box-toc-pub-li: #dfa385;
-  --box-toc-act-cont: #001617; /* - Box Act dark - */
-  --box-toc-act-bg: #9b4845;
-  --box-toc-act-stripe: #001617;
-  --box-toc-act-link: #001617;
-  --box-toc-act-hover: #001617;
-  --box-toc-act-li: #192f30;
+  --box-toc-act-cont: #111; /* - Box Act dark - */
+  --box-toc-act-bg: #d2a972;
+  --box-toc-act-stripe: #111;
+  --box-toc-act-link: #111;
+  --box-toc-act-hover: #111;
+  --box-toc-act-li: #343434;
   --box-err-bg: #910e17; /* - Box Error dark - */
   --box-err-stripe: #f49ec2;
   --box-err-text: #f49ec2;
