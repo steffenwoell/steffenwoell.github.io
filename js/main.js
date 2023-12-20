@@ -1,11 +1,9 @@
 // MIT License
-// Navbar / avatar image logics
+// Navbar & Avatar logics
 
 var main = {
-
   bigImgEl : null,
   numImgs : null,
-
   init : function() {
     // Shorten navbar after scrolling a little bit down
     $(window).scroll(function() {
@@ -17,7 +15,6 @@ var main = {
             $(".navbar-custom .avatar-container").fadeIn(500);
         }
     });
-
     // On mobile, hide avatar when expanding navbar menu
     $('#main-navbar').on('show.bs.collapse', function () {
       $(".navbar").addClass("top-nav-expanded");
@@ -25,7 +22,6 @@ var main = {
     $('#main-navbar').on('hidden.bs.collapse', function () {
       $(".navbar").removeClass("top-nav-expanded");
     });
-
     // On mobile, when clicking on multi-level navbar menu, show child links
     $('#main-navbar').on("click", ".navlinks-parent", function(e) {
       var target = e.target;
@@ -37,7 +33,6 @@ var main = {
         }
       });
     });
-
     // Ensure nested navbar menus are not longer than menu header
     var menus = $(".navlinks-container");
     if (menus.length > 0) {
@@ -45,7 +40,6 @@ var main = {
       var fakeMenuHtml = "<li class='fake-menu' style='display:none;'><a></a></li>";
       navbar.append(fakeMenuHtml);
       var fakeMenu = $(".fake-menu");
-
       $.each(menus, function(i) {
         var parent = $(menus[i]).find(".navlinks-parent");
         var children = $(menus[i]).find(".navlinks-children a");
@@ -61,40 +55,32 @@ var main = {
         });
         $(menus[i]).css('min-width', maxwidth + 'px')
       });
-
       fakeMenu.remove();
     }
-
     // Show big header image
     main.initImgs();
   },
-
   initImgs : function() {
     // If page has large images to randomly select from, choose one
     if ($("#header-big-imgs").length > 0) {
       main.bigImgEl = $("#header-big-imgs");
       main.numImgs = main.bigImgEl.attr("data-num-img");
-
 	  // set initial image
 	  var imgInfo = main.getImgInfo();
 	  var src = imgInfo.src;
 	  var desc = imgInfo.desc;
   	  main.setImg(src, desc);
-
 	  // For better UX, prefetch next image
   	  var getNextImg = function() {
 	    var imgInfo = main.getImgInfo();
 	    var src = imgInfo.src;
 	    var desc = imgInfo.desc;
-
 		var prefetchImg = new Image();
   		prefetchImg.src = src;
-
   		setTimeout(function(){
                   var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
   		  $(".intro-header.big-img").prepend(img);
   		  setTimeout(function(){ img.css("opacity", "1"); }, 50);
-
 		  setTimeout(function() {
 		    main.setImg(src, desc);
 			img.remove();
@@ -102,25 +88,21 @@ var main = {
 		  }, 1000);
   		}, 6000);
   	  };
-
 	  // If multiple images, cycle through
 	  if (main.numImgs > 1) {
   	    getNextImg();
 	  }
     }
   },
-
   getImgInfo : function() {
   	var randNum = Math.floor((Math.random() * main.numImgs) + 1);
     var src = main.bigImgEl.attr("data-img-src-" + randNum);
 	var desc = main.bigImgEl.attr("data-img-desc-" + randNum);
-
 	return {
 	  src : src,
 	  desc : desc
 	}
   },
-
   setImg : function(src, desc) {
 	$(".intro-header.big-img").css("background-image", 'url(' + src + ')');
 	if (typeof desc !== typeof undefined && desc !== false) {
@@ -130,5 +112,4 @@ var main = {
 	}
   }
 };
-
 document.addEventListener('DOMContentLoaded', main.init);
