@@ -8,6 +8,9 @@ permalink: /journal/:title/
 tags: [Music, experimental, electronic, Discovery, space shuttle]
 ---
 
+<div class="box-warning"><b>Cookie Notice:</b> By clicking play on the embedded content below, you agree to third-party cookies being loaded. For more information refer to SoundCloud's <a href="https://soundcloud.com/pages/privacy">privacy policy<i class="fab fa-soundcloud" role="presentation"><i class="fas fa-external-link-alt" role="presentation"></a>
+</div>
+
 <div class="padded">
 <iframe width="75%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/707176921&color=%23d47b3d&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </div>
