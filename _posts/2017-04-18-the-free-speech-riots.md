@@ -11,12 +11,12 @@ tags: [Journal, Berkeley, USA, Video, Music]
 {: .box-error}
 <b>Original Footage:</b> Violence and graphic images, viewer discretion is advised.
 
-*Berkeley, CA* Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally in the vicinity of Civic Center Park.
+<em>Berkeley, CA</em> Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally in the vicinity of Civic Center Park.
 
 <a href="https://www.youtube.com/embed/3cSBrE1ETDg">Watch the video on YouTube</a>
 
 {: .box-note}
-**Soundtrack:** S.O.D. - "United Forces" (1986)
+<b>Soundtrack:</b> S.O.D. - "United Forces" (1986)
 
 > It doesn't matters how you wear your hair<br>
 It's what inside your head<br>
