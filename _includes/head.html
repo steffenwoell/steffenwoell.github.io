@@ -34,11 +34,16 @@
       <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
-
-  <link rel="preload" href="{{ '/img/swp.webp' | absolute_url }}" as="image" type="image/webp" crossorigin/>
-  <link rel="preload" href="{{ '/img/pub.webp' | absolute_url }}" as="image" type="image/webp" crossorigin/>
-  <link rel="preload" href="{{ '/img/act.webp' | absolute_url }}" as="image" type="image/webp" crossorigin/>
-  <link rel="preload" href="{{ '/img/jou.webp' | absolute_url }}" as="image" type="image/webp" crossorigin/>
-  <link rel="preload" href="{{ '/img/con.webp' | absolute_url }}" as="image" type="image/webp" crossorigin/>
-
+<script>
+  window.onload = function() {
+    setTimeout(function() {
+      // preload image
+      new Image().src = "https://steffenwoell.github.io/img/swp.webp";
+      new Image().src = "https://steffenwoell.github.io/img/pub.webp";
+      new Image().src = "https://steffenwoell.github.io/img/act.webp";
+      new Image().src = "https://steffenwoell.github.io/img/jou.webp";
+      new Image().src = "https://steffenwoell.github.io/img/con.webp";
+    }, 1000);
+  };
+</script>
 </head>
