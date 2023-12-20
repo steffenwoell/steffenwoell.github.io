@@ -18,7 +18,7 @@ image: /img/act.webp
 </ol>
 </div>
 
-<div><a id="presentations" role="button" aria-label="Presentations">&nbsp;</a></div>
+<div><a id="presentations" role="button" aria-label="Presentations" tabindex="0">&nbsp;</a></div>
 
 ## I.&nbsp;Presentations
 <div class="gold">
@@ -72,7 +72,7 @@ image: /img/act.webp
 <p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place</em>. American Studies Leipzig Graduate Conference. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016">Keynote Address<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="conference-panels-workshops" role="button" aria-label="Conference Panels & Workshops">&nbsp;</a></div>
+<div><a id="conference-panels-workshops" role="button" aria-label="Conference Panels & Workshops" tabindex="0">&nbsp;</a></div>
 
 ## II.&nbsp;Conference Panels & Workshops
 <div class="gold">
@@ -85,7 +85,7 @@ image: /img/act.webp
 <p>&#8220;Urban America: Mediating City Space as Place.&#8220; <em>American Studies Leipzig Graduate Conference</em>. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="teaching" role="button" aria-label="Teaching">&nbsp;</a></div>
+<div><a id="teaching" role="button" aria-label="Teaching" tabindex="0">&nbsp;</a></div>
 
 ## III.&nbsp;Teaching
 <div class="gold">
@@ -104,14 +104,14 @@ image: /img/act.webp
 <p>&#8220;Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;&#8221; <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1">Guest Lecture<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="thesis-supervision" role="button" aria-label="Thesis Supervision">&nbsp;</a></div>
+<div><a id="thesis-supervision" role="button" aria-label="Thesis Supervision" tabindex="0">&nbsp;</a></div>
 
 ## IV.&nbsp;Thesis Supervision
 <div class="gold">
 <p>&#8220;Filmic Representations of American Domesticity in the 1970s.&#8221; <em>MA Thesis</em>. Leipzig University. Winter Term 2023/24.</p>
 </div>
 
-<div><a id="field-work-archival-studies" role="button" aria-label="Field Work & Archival Studies">&nbsp;</a></div>
+<div><a id="field-work-archival-studies" role="button" aria-label="Field Work & Archival Studies" tabindex="0">&nbsp;</a></div>
 
 ## V.&nbsp;Field Work & Archival Studies
 <div class="gold">
@@ -125,7 +125,7 @@ image: /img/act.webp
 <p><em>Religion in American Society</em>. 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Funded by VolkswagenStiftung. With Hartmut Keil. <a href="https://studytour2015.wordpress.com">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="memberships" role="button" aria-label="Memberships">&nbsp;</a></div>
+<div><a id="memberships" role="button" aria-label="Memberships" tabindex="0">&nbsp;</a></div>
 
 ## VI.&nbsp;Memberships
 <div class="gold">
@@ -139,7 +139,7 @@ image: /img/act.webp
 <p><a href="https://www.societyofearlyamericanists.org">SEA<i class="fas fa-external-link-alt" role="presentation"></i></a> (Society of Early Americanists)</p>
 </div>
 
-<div><a id="grants-awards" role="button" aria-label="Grants & Awards">&nbsp;</a></div>
+<div><a id="grants-awards" role="button" aria-label="Grants & Awards" tabindex="0">&nbsp;</a></div>
 
 ## VII.&nbsp;Grants & Awards
 <div class="gold">
@@ -147,7 +147,7 @@ image: /img/act.webp
 <p>DAAD Travel Stipend. 2017</p>
 </div>
 
-<div><a id="volunteering" role="button" aria-label="Volunteering">&nbsp;</a></div>
+<div><a id="volunteering" role="button" aria-label="Volunteering" tabindex="0">&nbsp;</a></div>
 
 ## VIII.&nbsp;Volunteering
 <div class="gold mbot">
