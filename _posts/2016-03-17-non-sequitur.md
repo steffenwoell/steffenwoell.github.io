@@ -8,7 +8,7 @@ permalink: /journal/:title/
 tags: [Music, experimental, electronic]
 ---
 
-<div class="box-note"><b>Third-party cookies:</b> By interacting with embedded media you consent to the use of third-party cookies. For more information see SoundCloud's <a href="https://soundcloud.com/pages/privacy">privacy policy<i class="fas fa-external-link-alt" role="presentation"></i></a>
+<div class="box-cookies"><b>Third-party cookies:</b> By interacting with embedded media you consent to the use of third-party cookies. For more information see SoundCloud's <a href="https://soundcloud.com/pages/privacy">privacy policy<i class="fas fa-external-link-alt" role="presentation"></i></a>
 </div>
 
 <div class="padded">

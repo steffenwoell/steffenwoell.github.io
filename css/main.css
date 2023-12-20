@@ -83,6 +83,10 @@ html {
   --box-warn-stripe: #f1c40f;
   --box-warn-text: #555;
   --box-warn-link: #555;
+  --box-cookies-bg: #eee; /* - Box Cookies light - */
+  --box-cookies-stripe: #555;
+  --box-cookies-text: #555;
+  --box-cookies-link: #555;
   --pre-text: inherit; /* - Preformatted text light - */
   --pre-bg: rgba(255,255,255,.4);
   --pre-border: 0 dashed #555;
@@ -166,6 +170,10 @@ html.dark-mode {
   --box-warn-stripe: #251653;
   --box-warn-text: #251653;
   --box-warn-link: #251653;
+  --box-cookies-bg: #11202b; /* - Box Cookies dark - */
+  --box-cookies-stripe: #aaa;
+  --box-cookies-text: #aaa;
+  --box-cookies-link: #aaa;
   --pre-text: inherit; /* - Preformatted text dark - */
   --pre-bg: rgba(0,0,0,.1);
   --pre-border: 0 dashed #555;
@@ -1106,7 +1114,7 @@ strong::before {
   padding-right: 30px;
 }
 
-.box-res, .box-note, .box-warning, .box-error, .box-success, .box-toc-act, .box-toc-pub {
+.box-res, .box-note, .box-warning, .box-error, .box-success, .box-cookies, .box-toc-act, .box-toc-pub {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 25px 0;
   border: 0 solid #eee;
@@ -1146,6 +1154,20 @@ strong::before {
 
 .box-note a, .box-note a:hover {
   color: var(--box-note-link);
+  text-decoration: none;
+  font-weight: 600;
+  overflow-wrap: break-word;
+}
+
+.box-cookies {
+  background-color: var(--box-cookies-bg);
+  border-left-color: var(--box-cookies-stripe);
+  color: var(--box-cookies-text);
+  width: 75%;
+}
+
+.box-cookies a, .box-cookies a:hover {
+  color: var(--box-cookies-link);
   text-decoration: none;
   font-weight: 600;
   overflow-wrap: break-word;
