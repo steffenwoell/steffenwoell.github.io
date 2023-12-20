@@ -18,7 +18,7 @@ A preliminary structure might work alongside genres and focus on particular them
 
 <img src="/img/ncr.webp" alt="Flag of the New California Republic in Fallout 2" width="500">
 
-**Figure:** Flag of the New California Republic in *Fallout* (1997) ([Source](https://fallout.fandom.com/wiki/New_California_Republic)<i class="fas fa-external-link-alt" role="presentation"></i>).
+**Figure:** Flag of the New California Republic in *Fallout* (1997) ([Source<i class="fas fa-external-link-alt" role="presentation"></i>](https://fallout.fandom.com/wiki/New_California_Republic)).
 
 Central research questions include but are not limited to examining:
 * Which key themes and narrative tropes concerning the American West can be found in a cross-selection of video games?
@@ -32,7 +32,7 @@ The European Network for Minor Mobilities in the Americas (ENMMA) situates itsel
 
 <img src="/img/enl.webp" alt="ENMMA research network logo" width="250">
 
-**Figure:** ENMMA research network logo ([Source](https://enmma.org/)<i class="fas fa-external-link-alt" role="presentation"></i>).
+**Figure:** ENMMA research network logo ([Source<i class="fas fa-external-link-alt" role="presentation"></i>](https://enmma.org/)).
 
 In <a href="https://enmma.org/about/projects">our research</a>, we use the concept of minor mobilities as a heuristic tool for examining mobility regimes and knowledge productions in regional, national, and globally implicated settings. Unfolding in four <a href="https://enmma.org/about/research-clusters">research clusters<i class="fas fa-external-link-alt" role="presentation"></i></a>, our projects take up different scenarios which enact mobility regimes:
 

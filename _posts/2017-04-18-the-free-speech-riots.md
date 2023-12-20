@@ -9,11 +9,16 @@ tags: [Journal, Berkeley, USA, Video, Music]
 ---
 
 {: .box-error}
-**Original Footage:** Fight scenes and graphic images, viewer discretion is advised.
+**Original Footage:** Violence and graphic images, viewer discretion is advised.
 
 *Berkeley, CA*: Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally in the vicinity of Civic Center Park.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3cSBrE1ETDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe
+    data-cookieblock-src="https://www.youtube.com/embed/3cSBrE1ETDg"
+    data-cookieconsent="marketing"
+    frameborder="0"
+    allowfullscreen
+></iframe>
 
 {: .box-note}
 **Soundtrack:** S.O.D. - "United Forces" (1986)
