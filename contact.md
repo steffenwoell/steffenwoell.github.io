@@ -32,19 +32,19 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
     <li><span class="fa-li"><i class="fab fa-css3-alt" role="presentation"></i></span><a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsteffenwoell.github.io">Valid <span class="pre-inline">CSS3</span><i class="fas fa-external-link-alt" role="presentation"></i></a></li>
     <li><span class="fa-li"><i class="fas fa-rss" role="presentation"></i></span><a href="https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fsteffenwoell.github.io%2Ffeed.xml">Valid <span class="pre-inline">RSS 2.0</span><i class="fas fa-external-link-alt" role="presentation"></i></a></li>
     <li><span class="fa-li"><i class="fas fa-universal-access" role="presentation"></i></span><a href="https://wave.webaim.org/report#/https://steffenwoell.github.io/">Accessible design<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
-    <li><span class="fa-li"><i class="fas fa-info-circle" role="presentation"></i></span>To improve accessibility, user choices regarding color schemes are saved by the <span class="pre-inline">localStorage</span> property. This function toggles the <span class="pre-inline">darkMode</span> parameter between <span class="pre-inline">enabled</span> and <span class="pre-inline">disabled</span> and does not store any other data. For more information refer to the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">MDN documentation<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+    <li><span class="fa-li"><i class="fas fa-info-circle" role="presentation"></i></span>To improve accessibility, user choices regarding color schemes are saved by the <span class="pre-inline">localStorage</span> property. This toggles the <span class="pre-inline">darkMode</span> parameter between <span class="pre-inline">enabled</span> and <span class="pre-inline">disabled</span> and stores no other data. For more information refer to the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">MDN documentation<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
   </ul>
 </div>
 
 <h2>Copyrights & Licenses</h2>
 <div class="box-note cboxa">
 <ul class="list-copy" role="list">
-<li>Unless stated otherwise, all contents of this personal, non-commercial website are licensed under Creative Commons <a class="pre-inline" rel="license" href="/doc/legal/CC-LICENSE.txt">BY-NC-ND 4.0<i class="far fa-file" role="presentation"></i></a></li>
-<li>Self-hosted fonts <span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> are used under <a class="pre-inline" rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file" role="presentation"></i></a></li>
-<li>Bootstrap CSS is implemented as per <a class="pre-inline" rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file" role="presentation"></i></a></li>
-<li>Self-hosted icons are licensed under <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="far fa-file" role="presentation"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
-<li>Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber">Ron Marzok<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
-<li>Unless marked otherwise, all other images are freely licensed through <a rel="license" href="https://unsplash.com/license">Unsplash<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+<li>Unless stated otherwise, all contents of this personal, non-commercial website are licensed under Creative Commons <a rel="license" href="/doc/legal/CC-LICENSE.txt">BY-NC-ND 4.0<i class="far fa-file" role="presentation"></i></a></li>
+<li>Self-hosted fonts <span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> are used under <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file" role="presentation"></i></a></li>
+<li>Bootstrap CSS is implemented as per <a rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file" role="presentation"></i></a></li>
+<li>Self-hosted icons are licensed by <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="far fa-file" role="presentation"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+<li>Profile picture and favicons are courtesy of <a href="https://www.ronmarzok.de/ueber">Ron Marzok<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+<li>Unless marked otherwise, all other images are courtesy of <a rel="license" href="https://unsplash.com/license">Unsplash<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
 </ul>
 </div>
 
@@ -56,10 +56,11 @@ Links to external websites (indicated by the<i class="fas fa-external-link-alt" 
 <h2>Mailing Address</h2>
 <div class="box-note cboxb">
 <pre>
-Dr. Steffen Wöll (V.i.S.d.P.)
+Dr. Steffen Wöll
 Nikolaistr. 6-10
 Raum 5.07
 04109 Leipzig
+Saxony
 Germany
 </pre>
 </div>
