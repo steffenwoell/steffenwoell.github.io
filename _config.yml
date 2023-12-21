@@ -114,4 +114,4 @@ exclude:
 
 # Include plugins on production site
 plugins:
-  - jekyll-paginate
+ # - jekyll-paginate
