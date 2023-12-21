@@ -120,9 +120,9 @@ html.dark-mode {
   --pager-bg: #12202d; /* - Pager dark - */
   --pager-bg-hover: #182a3b;
   --pager-text: #adadad;
-  --pager-text-hover: #eee;
-  --pager-border: 0 solid #adadad;
-  --pager-border-hover: 0 solid #eee;
+  --pager-text-hover: #bbcfdc;
+  --pager-border: 1px solid #2b4864;
+  --pager-border-hover: 1px solid #bbcfdc;
   --footer-border: 0 solid #0E1923; /* - Footer dark - */
   --footer-bg: #12202d;
   --footer-links-bg: #1a3042;
@@ -1030,6 +1030,12 @@ footer .theme-by {
 @media only screen and (min-width: 900px) {
   .pager li a {
     padding: 15px 25px;
+  }
+}
+
+@media only screen and (max-width: 899px) {
+  .pager li a {
+    padding: 15px 10px;
   }
 }
 
