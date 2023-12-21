@@ -6,7 +6,7 @@ gem 'jekyll-paginate'
 
 # gem 'jekyll-sitemap', '~> 1.4'
 
-gem 'jekyll-seo-tag', '~> 2.8'
+# gem 'jekyll-seo-tag', '~> 2.8'
 
 # gem 'jekyll-webp', '~> 1.0'
 
