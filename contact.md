@@ -39,18 +39,18 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 <h2>Copyrights & Licenses</h2>
 <div class="box-note cboxa">
 <ul class="list-copy" role="list">
-<li>Unless stated otherwise, all contents of this personal, non-commercial website are made available under <a class="pre-inline" rel="license" href="/doc/legal/CC-LICENSE.txt">Creative Commons BY-NC-ND 4.0 License<i class="far fa-file" role="presentation"></i></a></li>
-<li>Self-hosted fonts <em>Inter</em> and <em>Playfair Display</em> are used under <a class="pre-inline" rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file" role="presentation"></i></a></li>
+<li>Unless stated otherwise, all contents of this personal, non-commercial website are licensed under Creative Commons <a class="pre-inline" rel="license" href="/doc/legal/CC-LICENSE.txt">BY-NC-ND 4.0<i class="far fa-file" role="presentation"></i></a></li>
+<li>Self-hosted fonts <span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> are used under <a class="pre-inline" rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file" role="presentation"></i></a></li>
 <li>Bootstrap CSS is implemented as per <a class="pre-inline" rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file" role="presentation"></i></a></li>
-<li>Self-hosted Font Awesome icons are used under the corresponding <a class="pre-inline" rel="license" href="doc/legal/FA-LICENSE.txt">free license<i class="far fa-file" role="presentation"></i></a></li>
+<li>Self-hosted icons are licensed via <a class="pre-inline" rel="license" href="doc/legal/FA-LICENSE.txt">Font Awesome<i class="far fa-file" role="presentation"></i></a></li>
 <li>Profile picture and favicon are courtesy of <a href="https://www.ronmarzok.de/ueber">Ron Marzok<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
-<li>If not marked otherwise, all other images are used under Unsplash <a rel="license" href="https://unsplash.com/license">free license<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+<li>Unless marked otherwise, all other images are freely licensed through <a rel="license" href="https://unsplash.com/license">Unsplash<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
 </ul>
 </div>
 
 <h2>External Links</h2>
 <div class="box-note cboxa">
-Links to external websites, indicated by the<i class="fas fa-external-link-alt" role="presentation"></i> symbol, are provided as a convenience and for informational purposes only. Links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of a link please get in contact via email.
+Links to external websites (indicated by the<i class="fas fa-external-link-alt" role="presentation"></i> symbol) are provided as a convenience and for informational purposes only. External links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of a link please get in touch via email.
 </div>
 
 <h2>Mailing Address</h2>

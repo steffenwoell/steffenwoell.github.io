@@ -615,6 +615,7 @@ footer a {
 .mw-buttons {
   text-align: center;
   padding-right: 20px;
+  font-size: 12px;
 }
 
 .cc-buttons {
@@ -654,6 +655,9 @@ footer .theme-by {
   }
   footer .copyright {
     font-size: 16px;
+  }
+  .mw-buttons {
+    font-size: 14px;
   }
 }
 
