@@ -97,7 +97,7 @@ defaults:
       show-avatar: true
 
 # Use tags on index page & make tags on blog posts clickable
-link-tags: false
+link-tags: true
 
 # Exclude files from production site
 exclude:
@@ -110,7 +110,6 @@ exclude:
   - README.md
   - Vagrantfile
   - projects.md
-  - tags.html
 
 # Include plugins on production site
 plugins:
