@@ -30,6 +30,7 @@ html {
   --navbar-brand-hover: #404040;
   --navbar-border: 1px solid #eaeaea;
   --navbar-mobile-divider: #ddd;
+  --linked-section: inherit; /* - Anchor light - */
   --pager-bg: #fff; /* - Pager light - */
   --pager-bg-hover: #fff;
   --pager-text: #404040;
@@ -42,6 +43,8 @@ html {
   --tag-text-hover: #404040;
   --tag-border: 1px solid #ddd;
   --tag-border-hover: 1px solid #808080;
+  --tag-list-heading: inherit;
+  --tag-list-date: inherit;
   --footer-border: 1px #eaeaea solid; /* - Footer light - */
   --footer-bg: #f5f5f5;
   --footer-links-bg: #555;
@@ -123,6 +126,7 @@ html.dark-mode {
   --navbar-brand-hover: #bbcfdc;
   --navbar-border: 0 solid #0E1923;
   --navbar-mobile-divider: #1a3042;
+  --linked-section: #bbcfdc; /* - Anchor dark - */
   --pager-bg: #12202d; /* - Pager dark - */
   --pager-bg-hover: #182a3b;
   --pager-text: #adadad;
@@ -353,6 +357,7 @@ img {
 .linked-section {
   padding-top: 60px;
   margin-top: -25px;
+  color: var(--linked-section);
 }
 
 /* --- Navbar --- */
