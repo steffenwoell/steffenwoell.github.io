@@ -1337,6 +1337,7 @@ strong::before {
 
 #full-tags-list {
   font-family: 'Playfair Display', 'Times New Roman', serif;
+  margin-bottom: 100px;
 }
 
 #full-tags-list .tag-entry {
