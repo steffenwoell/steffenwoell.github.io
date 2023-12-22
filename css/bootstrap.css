@@ -3165,9 +3165,9 @@
   .btn-primary:focus,
   .btn-primary:hover,
   .open>.dropdown-toggle.btn-primary {
-    color:#fff;
-    background-color:#286090;
-    border-color:#204d74
+    color:inherit;
+    background-color:inherit;
+    border-color:inherit
   }
   .btn-primary.active,
   .btn-primary:active,

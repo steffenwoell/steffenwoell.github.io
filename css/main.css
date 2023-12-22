@@ -133,8 +133,10 @@ html.dark-mode {
   --tag-bg-hover: #182a3b;
   --tag-text: #adadad;
   --tag-text-hover: #bbcfdc;
-  --tag-border: 1px solid #bbcfdc;
-  --tag-border-hover: 1px solid #808080;
+  --tag-border: 1px solid #12202d;
+  --tag-border-hover: 1px solid #12202d;
+  --tag-list-heading: #adadad;
+  --tag-list-date: #adadad;
   --footer-border: 0 solid #0E1923; /* - Footer dark - */
   --footer-bg: #12202d;
   --footer-links-bg: #1a3042;
@@ -1307,8 +1309,9 @@ strong::before {
   color: var(--tag-text);
   border: var(--tag-border);
   border-radius: 5px;
-  padding: 5px 10px;
+  padding: 6px 12px;
   font-weight: 400;
+  transition: .2s ease-in-out;
 }
 
 .tag-btn:hover {
@@ -1327,11 +1330,11 @@ strong::before {
 
 #full-tags-list .tag-entry a {
   font-size: 22px;
-  color: #404040;
+  color: var(--tag-list-heading);
 }
 
 #full-tags-list .tag-entry .entry-date {
-  color: #808080;
+  color: var(--tag-list-date);
   font-style: italic;
   font-size: 16px;
 }
@@ -1391,7 +1394,7 @@ strong::before {
   padding-right: 10px;
 }
 
-.fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc {
+.fa fa-tag, .fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc {
   padding-right: 5px;
 }
 
