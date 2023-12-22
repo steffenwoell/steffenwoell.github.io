@@ -5,7 +5,7 @@ subtitle: Uppsala, Sweden
 image: /img/sou.webp
 excerpt: Aquarian homestead, Breathing through roots, Arrested by, A longer embrace ...
 permalink: /journal/:title/
-tags: [Journal, Uppsala, Sweden]
+tags: [Uppsala, Sweden]
 ---
 
 Aquarian homestead  

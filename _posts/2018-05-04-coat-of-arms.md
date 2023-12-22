@@ -5,7 +5,7 @@ subtitle: Vienna, Austria
 excerpt: In a dusty corner inside my room / Behind some silken cover / I found a coat of arms / For me to wear / In a city of the ancient rites / Imperial alcoves and ornate groves / I came here and it's hard to bear / For some of us it's tough to swallow
 image: /img/vie.webp
 permalink: /journal/:title/
-tags: [Journal, Vienna, Austria]
+tags: [Vienna, Austria]
 ---
 
 In a dusty corner inside my room

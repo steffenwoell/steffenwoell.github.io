@@ -5,7 +5,7 @@ subtitle: Münster, North Rhine-Westphalia
 image: /img/zit.webp
 excerpt: Im Rhythmus der Wagen und den Rändern zugewandt, in lichten Bogen wird gewogen was dort blüht, am Wegesrand, die weite Stadt, das große Land ...
 permalink: /journal/:title/
-tags: [Journal, Münster, North Rhine-Westphalia, Germany]
+tags: [Münster, North Rhine-Westphalia, Germany]
 ---
 
 Im Rhythmus  

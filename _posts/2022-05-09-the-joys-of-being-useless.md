@@ -5,7 +5,7 @@ subtitle: One of Many
 image: /img/joy.webp
 excerpt: It seems a lot of time has passed, pursuing life at breakneck paces, we crane our necks and look, down at crowded streets, and all those vacant spaces ...
 permalink: /journal/:title/
-tags: [Journal, Leipzig, Germany]
+tags: [Leipzig, Germany]
 ---
 It seems a lot of time has passed  
 pursuing life at breakneck paces  

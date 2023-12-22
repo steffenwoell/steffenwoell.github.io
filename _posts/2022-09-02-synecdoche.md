@@ -5,7 +5,7 @@ subtitle: Austin, Texas
 image: /img/syn.webp
 excerpt: Night out, light out Silken air, cycling sweat, Streets distorted, blood-red lane, Holler, call, bass line, No stopping, bottom line, Eyes unblinking, Pulsating heart, Announcing from afar ...
 permalink: /journal/:title/
-tags: [Journal, Austin, Texas, USA]
+tags: [Austin, Texas, USA]
 ---
 
 Night out, light out  

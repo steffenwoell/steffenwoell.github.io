@@ -5,7 +5,7 @@ subtitle: Saxony, Germany
 image: /img/iko.webp
 excerpt: Verzweigt, Rufe des Tiers, Irdene Sprirale, Nagel der Zeit, Locke aus Raum ...
 permalink: /journal/:title/
-tags: [Journal, Saxony, Germany]
+tags: [Saxony, Germany]
 ---
 
 Verzweigt  

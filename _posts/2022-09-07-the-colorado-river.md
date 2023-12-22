@@ -5,7 +5,7 @@ subtitle: San Antonio, Texas
 image: /img/col.webp
 excerpt: Waiting, moving, Missing you, I do, I do  ...
 permalink: /journal/:title/
-tags: [Journal, San Antonio, Texas, USA]
+tags: [San Antonio, Texas, USA]
 ---
 
 Waiting, moving  

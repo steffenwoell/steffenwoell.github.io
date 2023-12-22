@@ -5,7 +5,7 @@ subtitle: A Vagary
 image: /img/wor.webp
 excerpt: Sound of the future, Crawling slowly, Through ravines, Nearby echo ...
 permalink: /journal/:title/
-tags: [Journal, Leipzig, Germany]
+tags: [Leipzig, Germany]
 ---
 
 Sound of the future  

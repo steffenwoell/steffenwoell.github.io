@@ -5,7 +5,7 @@ subtitle: Cairo, Egypt
 image: /img/swa.webp
 excerpt: A liquid sense of self in mirror, My dreams, Are they a part of what really happened ...
 permalink: /journal/:title/
-tags: [Journal, Cairo, Egypt]
+tags: [Cairo, Egypt]
 ---
 
 A liquid sense of  

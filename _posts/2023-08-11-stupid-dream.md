@@ -5,7 +5,7 @@ subtitle: Among the Sleepers
 image: /img/stu.webp
 excerpt: Vapor trail & stupid dream ...
 permalink: /journal/:title/
-tags: [Journal, dream]
+tags: [Dream]
 ---
 
 Vapor trail &  

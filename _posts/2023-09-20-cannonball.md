@@ -5,7 +5,7 @@ subtitle: Rome, Italy
 image: /img/can.webp
 excerpt: Heavy, we'll be, and roughly round, a Forepaugh's daughter ...
 permalink: /journal/:title/
-tags: [Journal, Rome, Italy]
+tags: [Rome, Italy]
 ---
 
 Heavy, we'll be  

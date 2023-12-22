@@ -5,7 +5,7 @@ subtitle: It's Nice to Be in Orbit
 excerpt: Discovery became the third operational orbiter to enter service, preceded by Columbia and Challenger ...
 image: /img/dis.webp
 permalink: /journal/:title/
-tags: [Music, experimental, electronic, Discovery, space shuttle]
+tags: [Music, Experimental, Electronic, Discovery, Space Shuttle]
 ---
 
 <div class="box-cookies"><b>Third-party cookies:</b> By interacting with embedded media you consent to the use of third-party cookies. For more information see SoundCloud's <a href="https://soundcloud.com/pages/privacy">privacy policy<i class="fas fa-external-link-alt" role="presentation"></i></a>

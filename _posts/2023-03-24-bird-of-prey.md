@@ -5,7 +5,7 @@ subtitle: Udine, Italy
 image: /img/bir.webp
 excerpt: Circles and colors, A brittle abode, Come round to my Dwelling ...
 permalink: /journal/:title/
-tags: [Journal, Udine, Italy]
+tags: [Udine, Italy]
 ---
 
 Circles and colors  

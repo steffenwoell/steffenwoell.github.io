@@ -5,7 +5,7 @@ subtitle: Frankfurt, Germany
 image: /img/isz.webp
 excerpt: Fire that burns with invisible flame, Thumping and churning ...
 permalink: /journal/:title/
-tags: [Journal, Frankfurt, Germany]
+tags: [Frankfurt, Germany]
 ---
 
 Fire that burns with  

@@ -5,7 +5,7 @@ subtitle: Berlin, Germany
 image: /img/don.webp
 excerpt: Moving faster, A neon moon is growing nearer to me, Life is taking longer than I expected it to be ...
 permalink: /journal/:title/
-tags: [Journal, Berlin, Germany]
+tags: [Berlin, Germany]
 ---
 
 Moving faster  

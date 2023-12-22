@@ -5,7 +5,7 @@ subtitle: New Orleans, Louisiana
 image: /img/cru.webp
 excerpt: Vast horizon, fall in place, ain’t no tunnels under those teeth, none of em are fake ...
 permalink: /journal/:title/
-tags: [Journal, New Orleans, Louisiana, USA]
+tags: [New Orleans, Louisiana, USA]
 ---
 
 Vast horizon  

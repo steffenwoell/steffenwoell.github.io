@@ -5,7 +5,7 @@ subtitle: Los Angeles, California
 image: /img/bea.webp
 excerpt: I lost it in my sleep, the center of myself, collapsed ...
 permalink: /journal/:title/
-tags: [Journal, LA, California, USA]
+tags: [Los Angeles, California, USA]
 ---
 
 I lost it in my sleep  

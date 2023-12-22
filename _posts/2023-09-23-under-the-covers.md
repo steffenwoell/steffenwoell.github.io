@@ -5,7 +5,7 @@ subtitle: FRA/LEJ
 image: /img/cov.webp
 excerpt: Metallic body, Subtle skin, Yours is the only color  ...
 permalink: /journal/:title/
-tags: [Journal, FRA/LEJ, Germany]
+tags: [FRA/LEJ, Germany]
 ---
 
 Metallic body  

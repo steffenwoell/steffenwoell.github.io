@@ -5,7 +5,7 @@ subtitle: Leipzig, Germany
 image: /img/swb.webp
 excerpt: Repress these thoughts, a tearing asunder, milky lens and foggy bottom ...
 permalink: /journal/:title/
-tags: [Journal, Leipzig, Germany]
+tags: [Leipzig, Germany]
 ---
 
 Repress these thoughts  

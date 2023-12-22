@@ -5,7 +5,7 @@ subtitle: Berkeley, California
 excerpt: Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally at Berkeley's Civic Center Park ...
 image: /img/rio.webp
 permalink: /journal/:title/
-tags: [Journal, Berkeley, USA, Video, Music]
+tags: [Berkeley, California, USA, Video, Music]
 ---
 
 {: .box-error}

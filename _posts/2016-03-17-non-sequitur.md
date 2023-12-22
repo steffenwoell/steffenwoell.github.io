@@ -5,7 +5,7 @@ subtitle: Nothing Follows
 excerpt: All is real but nothing follows ...
 image: /img/nsq.webp
 permalink: /journal/:title/
-tags: [Music, experimental, electronic]
+tags: [Music, Experimental, Electronic]
 ---
 
 <div class="box-cookies"><b>Third-party cookies:</b> By interacting with embedded media you consent to the use of third-party cookies. For more information see SoundCloud's <a href="https://soundcloud.com/pages/privacy">privacy policy<i class="fas fa-external-link-alt" role="presentation"></i></a>
