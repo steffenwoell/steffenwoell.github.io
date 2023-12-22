@@ -1402,8 +1402,8 @@ strong::before {
   padding-right: 7px;
 }
 
-.fa-tag tag-heading {
-  padding-left: 10px;
+.tag-heading {
+  padding-right: 10px;
 }
 
 .fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {
