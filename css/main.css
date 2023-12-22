@@ -1277,6 +1277,10 @@ strong::before {
 
 /* --- Tags --- */
 
+.tag-cloud {
+  padding: 20px 0;
+}
+
 .blog-tags {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   color: var(--body-text);
@@ -1287,7 +1291,7 @@ strong::before {
 .blog-tags a {
   color: var(--link);
   text-decoration: none;
-  padding: 0 7px;
+  padding-right: 20px;
   font-style: italic;
   font-weight: 300;
 }
