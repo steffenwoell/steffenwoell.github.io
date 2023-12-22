@@ -1,438 +1,610 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-	<loc>https://steffenwoell.github.io/</loc>
-	<lastmod>2023-12-13T18:27:38+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/publications/</loc>
-	<lastmod>2023-12-13T18:27:38+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/activities/</loc>
-	<lastmod>2023-12-13T18:27:38+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/</loc>
-	<lastmod>2023-12-13T18:27:38+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/contact/</loc>
-	<lastmod>2023-12-13T18:27:38+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/Violence%2C%20Representation%2C%20and%20Ecocide%20in%20the%20American%20West%20%28Steffen%20W%C3%B6ll%29.pdf</loc>
-	<lastmod>2023-12-13T18:27:38+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/Conspicuous-Spatializations_Visual-Samples-Steffen-W%C3%B6ll.pdf</loc>
-	<lastmod>2023-12-13T18:27:38+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-W%C3%B6ll.pdf</loc>
-	<lastmod>2023-12-13T18:27:38+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/ASL-Conference-Poster-2016-Steffen-W%C3%B6ll.pdf</loc>
-	<lastmod>2023-12-13T18:27:38+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/E&amp;D-Seminar-Syllabus-WS-23-24.pdf</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/MaS-Seminar-Summer-2023-Syllabus.pdf</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/E&amp;D-Guest-Lecture-WS-22-23.pdf</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/E&amp;D-Seminar-Syllabus-WS-22-23.pdf</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/LC-II-Seminar-Summer-2022-Syllabus.pdf</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/E&amp;D-Seminar-Syllabus-WS-21-22.pdf</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/E&amp;D-Seminar-Syllabus-WS-20-21.pdf</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/Research-Bash-Summer-2019.pdf</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/doc/E&amp;D-Seminar-Syllabus-WS-17-18.pdf</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/%28no%29-shadow/</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/again/</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-swan-asunder-pt-II/</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-swan-asunder-copy/</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/felt/</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/schwarzweisz/</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/under-the-covers/</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/page2/</loc>
-	<lastmod>2023-12-13T18:27:40+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/css/fonts/LICENSE-2.0.txt</loc>
-	<lastmod>2023-12-13T18:27:41+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/O/</loc>
-	<lastmod>2023-12-13T18:27:54+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/cannonball/</loc>
-	<lastmod>2023-12-13T18:27:54+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/burning/</loc>
-	<lastmod>2023-12-13T18:27:54+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/stupid-dream/</loc>
-	<lastmod>2023-12-13T18:27:54+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/tiger/</loc>
-	<lastmod>2023-12-13T18:27:54+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/black-fly/</loc>
-	<lastmod>2023-12-13T18:27:54+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/run-away/</loc>
-	<lastmod>2023-12-13T18:27:54+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/page3/</loc>
-	<lastmod>2023-12-13T18:27:54+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/dont-turn-your-back-on-the-city/</loc>
-	<lastmod>2023-12-13T18:27:55+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/feathers/</loc>
-	<lastmod>2023-12-13T18:27:56+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/sound-of-moon/</loc>
-	<lastmod>2023-12-13T18:27:56+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/ikone-fragment/</loc>
-	<lastmod>2023-12-13T18:27:56+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/wei%C3%9Fe-h%C3%A4nde/</loc>
-	<lastmod>2023-12-13T18:27:56+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/bird-of-prey/</loc>
-	<lastmod>2023-12-13T18:27:56+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/art-brut/</loc>
-	<lastmod>2023-12-13T18:27:56+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/page4/</loc>
-	<lastmod>2023-12-13T18:27:56+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/eaten-by-worms/</loc>
-	<lastmod>2023-12-13T18:27:57+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/r%C3%AAverie/</loc>
-	<lastmod>2023-12-13T18:27:57+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/s%C3%B8n/</loc>
-	<lastmod>2023-12-13T18:27:57+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/zitadelle/</loc>
-	<lastmod>2023-12-13T18:27:57+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/crush-depth/</loc>
-	<lastmod>2023-12-13T18:27:57+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-colorado-river/</loc>
-	<lastmod>2023-12-13T18:27:57+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/synecdoche/</loc>
-	<lastmod>2023-12-13T18:27:57+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/page5/</loc>
-	<lastmod>2023-12-13T18:27:57+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/idol/</loc>
-	<lastmod>2023-12-13T18:27:58+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/nowhere/</loc>
-	<lastmod>2023-12-13T18:27:58+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/rabbit-run/</loc>
-	<lastmod>2023-12-13T18:27:58+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-joys-of-being-useless/</loc>
-	<lastmod>2023-12-13T18:27:58+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/NME/</loc>
-	<lastmod>2023-12-13T18:27:58+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/io/</loc>
-	<lastmod>2023-12-13T18:27:58+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/primal-scream/</loc>
-	<lastmod>2023-12-13T18:27:58+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/page6/</loc>
-	<lastmod>2023-12-13T18:27:58+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/shipwreck-of-self/</loc>
-	<lastmod>2023-12-13T18:27:59+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/dark-star/</loc>
-	<lastmod>2023-12-13T18:27:59+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/altered-beast/</loc>
-	<lastmod>2023-12-13T18:27:59+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/circles/</loc>
-	<lastmod>2023-12-13T18:27:59+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/lookout/</loc>
-	<lastmod>2023-12-13T18:27:59+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/discovery/</loc>
-	<lastmod>2023-12-13T18:27:59+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/monument/</loc>
-	<lastmod>2023-12-13T18:27:59+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/page7/</loc>
-	<lastmod>2023-12-13T18:27:59+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-fold/</loc>
-	<lastmod>2023-12-13T18:28:00+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/eurasia-3000/</loc>
-	<lastmod>2023-12-13T18:28:01+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/mapping-discourse/</loc>
-	<lastmod>2023-12-13T18:28:01+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/coat-of-arms/</loc>
-	<lastmod>2023-12-13T18:28:01+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/unsinkable/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/how-to-escape-a-train/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/deep-time/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/page8/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-odyssey/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-adlershof-look/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/imaginary-places/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/in-n-out/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/a-happy-death/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-rabbit-hole/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-free-speech-riots/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/page9/</loc>
-	<lastmod>2023-12-13T18:28:02+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/whats-wrong-with-the-united-states/</loc>
-	<lastmod>2023-12-13T18:28:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/lovecraft-in-tulsa/</loc>
-	<lastmod>2023-12-13T18:28:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/the-midwest-appears-to-be-underrated/</loc>
-	<lastmod>2023-12-13T18:28:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://steffenwoell.github.io/journal/non-sequitur/</loc>
-	<lastmod>2023-12-13T18:28:05+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://steffenwoell.github.io</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/publications</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/activities</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/again</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/%28no%29-shadow</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-swan-asunder-pt-II</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-swan-asunder-copy</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/felt</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/schwarzweisz</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/under-the-covers</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/page2</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/O</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/cannonball</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/burning</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/stupid-dream</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/tiger</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/black-fly</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/run-away</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/page3</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/dont-turn-your-back-on-the-city</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/feathers</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/sound-of-moon</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/ikone-fragment</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/wei%C3%9Fe-h%C3%A4nde</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/bird-of-prey</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/art-brut</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/page4</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/synecdoche</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/idol</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/coat-of-arms</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-free-speech-riots</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-adlershof-look</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/unser-bild</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/monument</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-fold</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/altered-beast</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/whats-wrong-with-the-united-states</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/discovery</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/unsinkable</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/eurasia-3000</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/non-sequitur</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/lookout</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/fieber</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/nowhere</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-rabbit-hole</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/eaten-by-worms</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/r%C3%AAverie</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/s%C3%B8n</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/zitadelle</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/mass</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/rabbit-run</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-joys-of-being-useless</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/NME</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/horizont-2</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/niemandsland</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/im-kessel</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/horizont</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/io</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/primal-scream</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/shipwreck-of-self</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/die-speiche</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/dark-star</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/imaginary-places</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/deep-time</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-odyssey</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/how-to-escape-a-train</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/mapping-discourse</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/crush-depth</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/lovecraft-in-tulsa</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/in-n-out</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/a-happy-death</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-midwest-appears-to-be-underrated</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/circles</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/the-colorado-river</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/page5</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/page6</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/page7</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/page8</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/page9</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/journal/page10</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/contact</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/Violence,%20Representation,%20and%20Ecocide%20in%20the%20American%20West%20%28Steffen%20W%C3%B6ll%29.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/Conspicuous-Spatializations_Visual-Samples-Steffen-W%C3%B6ll.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-W%C3%B6ll.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/ED-Seminar-Syllabus-WS-23-24.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/ASL-Conference-Poster-2016-Steffen-W%C3%B6ll.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/MaS-Seminar-Summer-2023-Syllabus.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/ED-Seminar-Syllabus-WS-22-23.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/LC-II-Seminar-Summer-2022-Syllabus.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/ED-Seminar-Syllabus-WS-21-22.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/ED-Seminar-Syllabus-WS-20-21.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/Research-Bash-Summer-2019.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/ED-Seminar-Syllabus-WS-17-18.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/ED-Guest-Lecture-WS-22-23.pdf</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/keys/sw_pgp_public_key.asc</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/legal/CC-LICENSE.txt</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/legal/APACHE-LICENSE.txt</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/legal/MIT-LICENSE.txt</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/doc/legal/FA-LICENSE.txt</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://steffenwoell.github.io/tags</loc>
+        <lastmod>2023-12-22</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
