@@ -1287,7 +1287,9 @@ strong::before {
 .blog-tags a {
   color: var(--link);
   text-decoration: none;
-  padding: 0 5px;
+  padding: 0 7px;
+  font-style: italic;
+  font-weight: 300;
 }
 
 .blog-tags a:hover {
@@ -1295,6 +1297,10 @@ strong::before {
   -webkit-transition: color .3s ease-in-out;
   -moz-transition: color .3s ease-in-out;
   transition: color .3s ease-in-out;
+}
+
+.blog-tags-desc {
+  font-weight: 700;
 }
 
 .post-preview .blog-tags {
@@ -1334,7 +1340,7 @@ strong::before {
 }
 
 #full-tags-list .tag-entry a {
-  font-size: 22px;
+  font-size: 26px;
   color: var(--tag-list-heading);
 }
 
