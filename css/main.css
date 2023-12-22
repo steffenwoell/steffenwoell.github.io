@@ -1394,8 +1394,16 @@ strong::before {
   padding-right: 10px;
 }
 
-.fa fa-tag, .fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc {
+.fa-tag, .fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc {
   padding-right: 5px;
+}
+
+.fa-tag {
+  padding-right: 7px;
+}
+
+.fa-tag tag-heading {
+  padding-left: 10px;
 }
 
 .fa-github, .fa-fort-awesome, .fa-code-branch, .fa-heart, .fa-unsplash, .fa-cubes, .fa-seedling {
