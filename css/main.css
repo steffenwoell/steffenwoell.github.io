@@ -1281,7 +1281,7 @@ strong::before {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   color: var(--body-text);
   font-size: 15px;
-  margin: 50px 0 -10px 0;
+  margin: 60px 0 -10px 0;
 }
 
 .blog-tags a {
@@ -1300,7 +1300,7 @@ strong::before {
 }
 
 .blog-tags-desc {
-  font-weight: 700;
+  font-weight: normal;
 }
 
 .post-preview .blog-tags {
