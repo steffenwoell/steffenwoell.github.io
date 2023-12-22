@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Zitadelle
-subtitle: Münster, North Rhine-Westphalia
+subtitle: Münster, Germany
 image: /img/zit.webp
 excerpt: Im Rhythmus der Wagen und den Rändern zugewandt, in lichten Bogen wird gewogen was dort blüht, am Wegesrand, die weite Stadt, das große Land ...
 permalink: /journal/:title/
-tags: [Münster, North Rhine-Westphalia, Germany]
+tags: [Münster, Germany]
 ---
 
 Im Rhythmus  
