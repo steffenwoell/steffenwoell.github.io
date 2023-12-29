@@ -1427,8 +1427,8 @@ strong::before {
 .fa.fa-font.fa-stack-1x.fa-inverse {transition: .5s;}
 .fa.fa-font.fa-stack-1x.fa-inverse:hover {color: #f1c40e;}
 
-.fas.fa-compass.fa-stack-1x.fa-inverse {transition: .5s;}
-.fas.fa-compass.fa-stack-1x.fa-inverse:hover {color: var(--btn-home-hover);}
+.fas.fa-home.fa-stack-1x.fa-inverse {transition: .5s;}
+.fas.fa-home.fa-stack-1x.fa-inverse:hover {color: var(--btn-home-hover);}
 
 .fas.fa-at.fa-stack-1x.fa-inverse {transition: .5s;}
 .fas.fa-at.fa-stack-1x.fa-inverse:hover {color: var(--btn-email-hover);}
