@@ -621,6 +621,12 @@ footer a {
   font-weight: 300;
 }
 
+.nowplaying a {
+  color: inherit;
+  text-decoration: none;
+  font-weight: 600;
+}
+
 .lastmod {
   margin: 120px 0 0;
   text-align: center;
