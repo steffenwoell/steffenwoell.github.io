@@ -615,6 +615,12 @@ footer a {
   font-weight: 300;
 }
 
+.nowplaying {
+  margin: 60px 0;
+  text-align: center;
+  font-weight: 300;
+}
+
 .lastmod {
   margin: 120px 0 0;
   text-align: center;
@@ -1410,7 +1416,7 @@ strong::before {
   padding-right: 10px;
 }
 
-.fa-tag, .fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc {
+.fa-tag, .fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc, .fa-spotify {
   padding-right: 5px;
 }
 
