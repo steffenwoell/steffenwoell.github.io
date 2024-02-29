@@ -45,7 +45,7 @@
         {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
         <li class="navlinks-container">
-          <a class="navlinks-parent" href="javascript:void(0)" role="button" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+          <a class="navlinks-parent" href="javascript:void(0)" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
           <div class="navlinks-children" tabindex="0">
             {%- for childlink in link[1] -%}
             {%- for linkparts in childlink %}
