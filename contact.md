@@ -19,9 +19,9 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="fas fa-cookie-bite" role="presentation"></i></span><b>Zero</b> cookies</li>
     <li><span class="fa-li"><i class="fas fa-thumbs-down" role="presentation"></i></span><b>Zero</b> social media</li>
-    <!--<li><span class="fa-li"><i class="fas fa-ghost" role="presentation"></i></span><b>Zero</b> analytics</li> //temp susp for sitemap sub// -->
+    <li><span class="fa-li"><i class="fas fa-ghost" role="presentation"></i></span><b>Zero</b> analytics</li>
     <li><span class="fa-li"><i class="fas fa-dumpster-fire" role="presentation"></i></span><b>Zero</b> log files</li>
-    <li><span class="fa-li"><i class="fas fa-info-circle" role="presentation"></i></span>GitHub privacy policies <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">may differ<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+    <li><span class="fa-li"><i class="fas fa-info-circle" role="presentation"></i></span>GitHub  policies <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">may differ<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
   </ul>
 </div>
 
