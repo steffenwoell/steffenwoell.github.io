@@ -17,7 +17,7 @@ liegt wartend im Tal
 und bricht im  
 Lichte dieser Blicke  
 
-Du tanzendender Zweig  
+Du tanzender Zweig  
 du unstetes Bein  
 ich will stets das  
 andere haben
