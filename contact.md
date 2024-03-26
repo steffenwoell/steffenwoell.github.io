@@ -43,7 +43,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 <li>Self-hosted fonts <span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> are used under <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file" role="presentation"></i></a></li>
 <li>Bootstrap CSS is implemented as per <a rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file" role="presentation"></i></a></li>
 <li>Self-hosted icons are licensed by <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="far fa-file" role="presentation"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
-<li>Profile picture and favicons are courtesy of <a href="https://www.ronmarzok.de/ueber">Ron Marzok<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+<li>Profile picture and favicon are courtesy of <a href="https://savee.it/vulcano/">Stefano Assom / Vulcano<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
 <li>Unless marked otherwise, all other images are courtesy of <a rel="license" href="https://unsplash.com/license">Unsplash<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
 </ul>
 </div>
