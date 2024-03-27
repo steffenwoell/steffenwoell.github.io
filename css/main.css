@@ -84,9 +84,9 @@ html {
   --box-success-stripe: #4d944d;
   --box-success-text: #555;
   --box-success-link: #555;
-  --box-res-bg: #ddffe7; /* - Box Research light - */
-  --box-res-stripe: #167d7f;
-  --box-res-text: #167d7f;
+  --box-res-bg: #e4f0f7; /* - Box Research light - */
+  --box-res-stripe: #2a546f;
+  --box-res-text: #2a546f;
   --box-res-link: #555;
   --box-warn-bg: #fdf5d4; /* - Box Warning light - */
   --box-warn-stripe: #f1c40f;
