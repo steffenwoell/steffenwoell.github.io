@@ -25,7 +25,7 @@ navbar-links:
 
 # Navbar image, must be square
 # Remove for no image
-avatar: "/img/swt.webp"
+avatar: "/img/pro.webp"
 
 # Logo in top-left corner instead of title text
 # title-img: /path/to/image
