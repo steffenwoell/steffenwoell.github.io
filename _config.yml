@@ -101,15 +101,13 @@ link-tags: true
 
 # Exclude files from production site
 exclude:
-  - CHANGELOG.md
   - CNAME
   - Dockerfile
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - README.md
   - Vagrantfile
   - projects.md
+  - _posts/markdown-examples.md
 
 # Include plugins on production site
 plugins:
