@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-image: /img/act.webp
+image: /img/ac2.webp
 ---
 
 <div class="box-toc-act">
