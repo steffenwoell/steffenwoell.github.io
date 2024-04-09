@@ -7,8 +7,8 @@ image: /img/pub_av.webp
 <div class="box-note">
 <span class="pub-head"><i class="fab fa-orcid" role="presentation"></i><a href="https://orcid.org/0000-0003-1582-6078">ORCID</a></span>
 <span class="pub-head"><i class="fab fa-researchgate" role="presentation"></i><a href="https://www.researchgate.net/profile/Steffen-Woell">ResearchGate</a></span>
-<span class="pub-head"><i class="fas fa-landmark" role="presentation"></i><a href="https://d-nb.info/gnd/1225944139">DNB</a></span>
-<span class="pub-head"><i class="fas fa-landmark" role="presentation"></i><a href="https://catalog.loc.gov/vwebv/search?searchArg=Wo%CC%88ll,%20Steffen&searchCode=NAME%2B&searchType=1&recCount=25">LoC</a></span>
+<span class="pub-head"><i class="fas fa-landmark" role="presentation"></i><a href="https://d-nb.info/gnd/1225944139">Deutsche Nationalbibliothek</a></span>
+<span class="pub-head"><i class="fas fa-landmark" role="presentation"></i><a href="https://catalog.loc.gov/vwebv/search?searchArg=Wo%CC%88ll,%20Steffen&searchCode=NAME%2B&searchType=1&recCount=25">Library of Congress</a></span>
 </div>
 
 <div class="box-toc-pub">
