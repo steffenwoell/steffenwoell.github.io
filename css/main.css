@@ -1414,7 +1414,7 @@ strong::before {
   padding-right: 7px;
 }
 
-.fa-database, .fa-landmark, .fa-orcid, .fa-clock {
+.fa-database, .fa-landmark, .fa-orcid, .fa-clock, #pub-head .fa-researchgate {
   padding-right: 10px;
 }
 
