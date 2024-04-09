@@ -4,6 +4,10 @@ title: Activities
 image: /img/act_av.webp
 ---
 
+<div class="box-note">
+  Download my CV in <span class="pre-inline"><a href="/doc/CV_Steffen_Woell_en_04_24.pdf">English<i class="far fa-file-pdf" role="presentation"></i></a></span> or in <span class="pre-inline"><a href="/doc/CV_Steffen_Woell_de_04_24.pdf">German<i class="far fa-file-pdf" role="presentation"></i></a></span>
+</div>
+
 <div class="box-toc-act">
 <div class="box-toc-act-cont"><i class="fas fa-database" role="presentation"></i><b>Contents</b></div>
 <ol class="toc">
