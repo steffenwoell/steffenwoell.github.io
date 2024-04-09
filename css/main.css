@@ -1135,10 +1135,6 @@ strong::before {
   font-weight: 700;
 }
 
-.fa-flask {
-  padding-right: 7px;
-}
-
 .box-res {
   background-color: var(--box-res-bg);
   border-left-color: var(--box-res-stripe);
@@ -1414,7 +1410,7 @@ strong::before {
   padding-left: 5px;
 }
 
-.fa-fingerprint, .fa-envelope {
+.fa-flask, .fa-fingerprint, .fa-envelope, .fa-info-circle {
   padding-right: 7px;
 }
 
