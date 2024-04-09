@@ -1414,8 +1414,8 @@ strong::before {
   padding-right: 7px;
 }
 
-.fa-database, .fa-landmark, .fa-orcid, .fa-clock, .pub-head fa-researchgate {
-  padding-right: 10px;
+.fa-database, .fa-landmark, .fa-orcid, .fa-clock, .box-note .fa-researchgate  {
+  padding-right: 7px;
 }
 
 .fa-tag, .fa-creative-commons, .fa-creative-commons-by, .fa-creative-commons-nc, .fa-spotify {
