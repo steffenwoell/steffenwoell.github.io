@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: /img/con.webp
+image: /img/con_av.webp
 ---
 
 <h2>Email</h2>
@@ -21,7 +21,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
     <li><span class="fa-li"><i class="fas fa-thumbs-down" role="presentation"></i></span><b>Zero</b> social media</li>
     <li><span class="fa-li"><i class="fas fa-ghost" role="presentation"></i></span><b>Zero</b> analytics</li>
     <li><span class="fa-li"><i class="fas fa-dumpster-fire" role="presentation"></i></span><b>Zero</b> log files</li>
-    <li><span class="fa-li"><i class="fas fa-info-circle" role="presentation"></i></span>GitHub  policies <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">may differ<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+    <li><span class="fa-li"><i class="fas fa-info-circle" role="presentation"></i></span>GitHub  privacy policies <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">may differ<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
   </ul>
 </div>
 
@@ -31,8 +31,8 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
     <li><span class="fa-li"><i class="fab fa-html5" role="presentation"></i></span><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsteffenwoell.github.io%2F">Valid <span class="pre-inline">HTML5</span><i class="fas fa-external-link-alt" role="presentation"></i></a></li>
     <li><span class="fa-li"><i class="fab fa-css3-alt" role="presentation"></i></span><a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsteffenwoell.github.io">Valid <span class="pre-inline">CSS3</span><i class="fas fa-external-link-alt" role="presentation"></i></a></li>
     <li><span class="fa-li"><i class="fas fa-rss-square" role="presentation"></i></span><a href="http://www.rssboard.org/rss-validator/check.cgi?url=https%3A//steffenwoell.github.io/feed.xml">Valid <span class="pre-inline">RSS 2.0</span><i class="fas fa-external-link-alt" role="presentation"></i></a></li>
-    <li><span class="fa-li"><i class="fas fa-universal-access" role="presentation"></i></span><a href="https://wave.webaim.org/report#/https://steffenwoell.github.io/">Accessible design<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
-    <li><span class="fa-li"><i class="fas fa-info-circle" role="presentation"></i></span>User choices regarding color schemes are saved by the <span class="pre-inline">localStorage</span> property. This toggles the <span class="pre-inline">darkMode</span> parameter between <span class="pre-inline">enabled</span> and <span class="pre-inline">disabled</span> and stores no other data. For more information refer to the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">MDN documentation<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+    <li><span class="fa-li"><i class="fas fa-universal-access" role="presentation"></i></span><a href="https://wave.webaim.org/report#/https://steffenwoell.github.io/"><span class="pre-inline">WCAG 3</span> compliant design<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+    <!--<li><span class="fa-li"><i class="fas fa-info-circle" role="presentation"></i></span>User choices regarding color schemes are saved by the <span class="pre-inline">localStorage</span> property. This toggles the <span class="pre-inline">darkMode</span> parameter between <span class="pre-inline">enabled</span> and <span class="pre-inline">disabled</span> and stores no other data. For more information refer to the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">MDN documentation<i class="fas fa-external-link-alt" role="presentation"></i></a></li>-->
   </ul>
 </div>
 

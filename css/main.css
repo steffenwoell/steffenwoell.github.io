@@ -180,10 +180,10 @@ html.dark-mode {
   --box-success-stripe: #97f0e5;
   --box-success-text: #97f0e5;
   --box-success-link: #97f0e5;
-  --box-res-bg: #3f2d83; /* - Box Research dark - */
-  --box-res-stripe: #caa0f3;
-  --box-res-text: #caa0f3;
-  --box-res-link: #caa0f3;
+  --box-res-bg: #165580; /* - Box Research dark - */
+  --box-res-stripe: #b9dcd3;
+  --box-res-text: #b9dcd3;
+  --box-res-link: #b9dcd3;
   --box-warn-bg: #ddebaf; /* - Box Warning dark - */
   --box-warn-stripe: #251653;
   --box-warn-text: #251653;

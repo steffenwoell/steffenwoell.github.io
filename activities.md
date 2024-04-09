@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-image: /img/ac2.webp
+image: /img/act_av.webp
 ---
 
 <div class="box-toc-act">
@@ -142,7 +142,7 @@ image: /img/ac2.webp
 <p><a href="https://enmma.carrd.co/">ENMMA<i class="fas fa-external-link-alt" role="presentation"></i></a> (European Network for the Study of Minor Mobilities in the Americas)</p>
 <p><a href="https://lasaweb.org/en/">LASA<i class="fas fa-external-link-alt" role="presentation"></i></a> (Latin American Studies Association)</p>
 <p><a href="https://mapaca.net">MAPACA<i class="fas fa-external-link-alt" role="presentation"></i></a> (Mid-Atlantic Popular & American Culture Association)</p>
-<p><a href="https://www.societyofearlyamericanists.org">SEA<i class="fas fa-external-link-alt" role="presentation"></i></a> (Society of Early Americanists)</p>
+<!--<p><a href="https://www.societyofearlyamericanists.org">SEA<i class="fas fa-external-link-alt" role="presentation"></i></a> (Society of Early Americanists)</p>-->
 </div>
 
 <div><a id="grants-awards" role="button" aria-label="Grants & Awards" tabindex="0">&nbsp;</a></div>
