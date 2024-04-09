@@ -6,7 +6,7 @@ image: /img/con_av.webp
 
 <h2>Email</h2>
 <div class="box-success">
-Address any official and business correspondences to <pre><i class="far fa-envelope" role="presentation"></i>steffen.woell@uni-leipzig.de</pre><br>Personal messages should be directed to <pre><i class="far fa-envelope" role="presentation"></i>steffen.woell@gmail.com</pre>
+Address any official or business correspondences to <pre><i class="far fa-envelope" role="presentation"></i>steffen.woell@uni-leipzig.de</pre><br>Personal messages may be directed to <pre><i class="far fa-envelope" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
 </div>
 
 <div class="box-note cboxa">
