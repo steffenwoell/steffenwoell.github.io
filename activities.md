@@ -5,7 +5,7 @@ image: /img/act_av.webp
 ---
 
 <div class="box-note">
-  CV in <span class="pre-inline"><a href="/doc/CV_Steffen_Woell_en_04_24.pdf">English<i class="far fa-file-pdf" role="presentation"></i></a></span> or <span class="pre-inline"><a href="/doc/CV_Steffen_Woell_de_04_24.pdf">German<i class="far fa-file-pdf" role="presentation"></i></a></span>
+  <i class="fas fa-portrait"></i>Download my resume in <a href="/doc/CV_Steffen_Woell_en_04_24.pdf">English<i class="far fa-file-pdf" role="presentation"></i></a> or <a href="/doc/CV_Steffen_Woell_de_04_24.pdf">German<i class="far fa-file-pdf" role="presentation"></i></a>
 </div>
 
 <div class="box-toc-act">
