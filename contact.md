@@ -40,7 +40,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 <div class="box-note cboxa">
 <ul class="list-copy" role="list">
 <li>Unless stated otherwise, all contents of this personal, non-commercial website are licensed under Creative Commons <a rel="license" href="/doc/legal/CC-LICENSE.txt">BY-NC-ND 4.0<i class="far fa-file" role="presentation"></i></a></li>
-<li>Fonts <span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> are self-hosted and used under <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file" role="presentation"></i></a></li>
+<li><span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> fonts are self-hosted under <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file" role="presentation"></i></a></li>
 <li><span class="pre-inline">Bootstrap CSS</span> is implemented under <a rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file" role="presentation"></i></a></li>
 <li>Icons are self-hosted and licensed with <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="far fa-file" role="presentation"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
 <li>Profile picture and favicon are courtesy of <a href="https://savee.it/vulcano/">Stefano Assom | Vulcano<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
