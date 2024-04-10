@@ -184,10 +184,10 @@ html.dark-mode {
   --box-res-stripe: #b9dcd3;
   --box-res-text: #b9dcd3;
   --box-res-link: #b9dcd3;
-  --box-warn-bg: #d0b743; /* - Box Warning dark - */
-  --box-warn-stripe: #444;
-  --box-warn-text: #433703;
-  --box-warn-link: #433703;
+  --box-warn-bg: #b3985d; /* - Box Warning dark - */
+  --box-warn-stripe: #c5b99f;
+  --box-warn-text: #1f335a;
+  --box-warn-link: #1f335a;
   --box-cookies-bg: #11202b; /* - Box Cookies dark - */
   --box-cookies-stripe: #aaa;
   --box-cookies-text: #aaa;
