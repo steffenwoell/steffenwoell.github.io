@@ -1410,7 +1410,7 @@ strong::before {
   padding-left: 5px;
 }
 
-.fa-flask, .fa-fingerprint, .fa-envelope, .fa-info-circle, .fa-portrait, .fa-bullhorn, .fa-network-wired, .fa-database, .fa-landmark, .fa-orcid, .fa-clock, .box-note .fa-researchgate, .fa-exclamation-triangle {
+.fa-flask, .fa-fingerprint, .fa-envelope, .fa-info-circle, .fa-portrait, .fa-address-card, .fa-bullhorn, .fa-network-wired, .fa-database, .fa-landmark, .fa-orcid, .fa-clock, .box-note .fa-researchgate, .fa-exclamation-triangle {
   padding-right: 7px;
 }
 
