@@ -4,6 +4,11 @@ title: Contact
 image: /img/con_av.webp
 ---
 
+<h2>Announcements</h2>
+<div class="box-warning">
+<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently looking for a postdoctoral research and/or teaching position in Germany or abroad, beginning in 2025 or earlier. Please feel free to get in touch.</a>
+</div>
+
 <h2>Email</h2>
 <div class="box-success">
 Address any official or business correspondences to <pre><i class="far fa-envelope" role="presentation"></i>steffen.woell@uni-leipzig.de</pre><br>Personal messages may be directed to <pre><i class="far fa-envelope" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
