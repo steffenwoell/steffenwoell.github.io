@@ -6,7 +6,7 @@ image: /img/con_av.webp
 
 <h2>Announcements</h2>
 <div class="box-warning">
-<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently looking for a postdoctoral research and/or teaching position in Germany or abroad, beginning in 2025 or earlier. Please feel free to get in touch.</a>
+<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently looking for a postdoctoral research and/or teaching position in Germany or abroad, beginning in 2025 or earlier. Please feel free to get in touch.
 </div>
 
 <h2>Email</h2>
