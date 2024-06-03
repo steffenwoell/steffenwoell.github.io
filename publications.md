@@ -27,7 +27,7 @@ image: /img/pub_av.webp
 </ol>
 </div>
 
-<div><a id="books" role="button" aria-label="Books" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="books" role="button" aria-label="Books" tabindex="0">&nbsp;</a></div>
 
 ## I.&nbsp;Books
 <div class="blue">
@@ -36,7 +36,7 @@ image: /img/pub_av.webp
 <p><em>Periphere Räume in der Amerikanistik</em>. With Gabriele Pisarz-Ramirez. Dialektik des Globalen. Kernbegriffe. De Gruyter, 2019. <a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html">Print & Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="journals" role="button" aria-label="Journals (Peer-Reviewed)" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="journals" role="button" aria-label="Journals (Peer-Reviewed)" tabindex="0">&nbsp;</a></div>
 
 ## II.&nbsp;Journals (Peer-Reviewed)
 <div class="blue">
@@ -56,7 +56,7 @@ image: /img/pub_av.webp
 <p>&#8220;American Health.&#8221; <em>aspeers: emerging voices in american studies</em> 8 (2015): v-viii. Introduction. <a href="http://www.aspeers.com/2015/introduction">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="book-chapters" role="button" aria-label="Book Chapters (Peer-Reviewed)" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="book-chapters" role="button" aria-label="Book Chapters (Peer-Reviewed)" tabindex="0">&nbsp;</a></div>
 
 ## III.&nbsp;Book Chapters (Peer-Reviewed)
 <div class="blue">
@@ -71,7 +71,7 @@ image: /img/pub_av.webp
 <p>&#8220;Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States.&#8221; <em>Collaborative Research Centre 1199</em>. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. Leipziger Universitätsverlag, 2018. <a href="https://research.uni-leipzig.de/~sfb1199/publications/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/">Print<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="reviews" role="button" aria-label="Reviews" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="reviews" role="button" aria-label="Reviews" tabindex="0">&nbsp;</a></div>
 
 ## IV.&nbsp;Reviews
 <div class="blue">
@@ -85,7 +85,7 @@ image: /img/pub_av.webp
 <p>Peer reviewer for <em><a href="https://angl.winter-verlag.de">Anglistik<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
 </div>
 
-<div><a id="editing" role="button" aria-label="Editing" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="editing" role="button" aria-label="Editing" tabindex="0">&nbsp;</a></div>
 
 ## V.&nbsp;Editing
 <div class="blue">
@@ -93,7 +93,7 @@ image: /img/pub_av.webp
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="https://doi.org/10.54465/aspeers.08">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="media-blogs" role="button" aria-label="Internet" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="media-blogs" role="button" aria-label="Media / Blogs" tabindex="0">&nbsp;</a></div>
 
 ## VI.&nbsp;Media / Blogs
 <div class="blue">
@@ -106,7 +106,7 @@ image: /img/pub_av.webp
 <p>&#8220;The Second Cold War. The US Might Come Out on the Losing Side...&#8221; <em>Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation</em>. 8 December 2015. <a href="https://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412">Web<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="digital-humanities" role="button" aria-label="Digital Humanities" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="digital-humanities" role="button" aria-label="Digital Humanities" tabindex="0">&nbsp;</a></div>
 
 ## VII.&nbsp;Digital Humanities
 <div class="blue">
@@ -115,7 +115,7 @@ image: /img/pub_av.webp
 <p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018/2022. <a href="https://doi.org/10.48736/GD1RJN6HK">Map<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="open-access" role="button" aria-label="Moderated Open Access" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="open-access" role="button" aria-label="Moderated Open Access" tabindex="0">&nbsp;</a></div>
 
 ## VIII.&nbsp;Moderated Open Access
 <div class="blue">
@@ -127,7 +127,7 @@ image: /img/pub_av.webp
 <p>&#8220;&#8216;I Thought of Carthage&#8217;: Disentangling Moral and Military Aspects of the Hiroshima and Nagasaki Bombings.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlobach). <a href="https://osf.io/preprints/socarxiv/m3pj4">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="posters" role="button" aria-label="Posters" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="posters" role="button" aria-label="Posters" tabindex="0">&nbsp;</a></div>
 
 ## IX.&nbsp;Posters
 <div class="blue">
@@ -135,7 +135,7 @@ image: /img/pub_av.webp
 <p>&#8220;Urban America: Mediating City Space as Place.&#8221; 2 April 2016. Deutsches Literaturinstitut Leipzig. <a href="/doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf">Conference Poster<i class="far fa-file-pdf" role="presentation"></i></a></p>
 </div>
 
-<div><a id="websites" role="button" aria-label="Websites" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="websites" role="button" aria-label="Websites" tabindex="0">&nbsp;</a></div>
 
 ## X.&nbsp;Websites
 <div class="blue mbot">

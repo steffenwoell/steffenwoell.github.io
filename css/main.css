@@ -267,6 +267,11 @@ a:hover,a:focus,a:active {
   text-decoration: none;
 }
 
+.anchor {
+  visibility:hidden;
+  width:0px;
+}
+
 .hidden {
   display: none;
 }
