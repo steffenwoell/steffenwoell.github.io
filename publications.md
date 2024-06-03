@@ -110,7 +110,8 @@ image: /img/pub_av.webp
 
 ## VII.&nbsp;Digital Humanities
 <div class="blue">
-<p>&#8220;Conspicuous Spatializations: Visualizing (Anti-)Imperial Spatial Imaginations of Transhemispheric America through Corpus-based Data.&#8221; 2022. <a href="/doc/Conspicuous-Spatializations_Visual-Samples-Steffen-Wöll.pdf">Interactive Visualizations<i class="far fa-file-pdf" role="presentation"></i></a> [Samples]</p>
+<p>&#8220;Imperial Spatializations and Archipelagic Counter-Geographies, a Selected Corpus of Works, 1880-1940.&#8221; 2024. GlobeData. <a href="https://doi.org/10.48736/GD1JYNUEZ">Corpus (machine-readable XML)<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p>&#8220;Conspicuous Spatializations: Visualizing (Anti-)Imperial Spatial Imaginations of Transhemispheric America through Corpus-based Data.&#8221; 2022. <a href="/doc/Conspicuous-Spatializations_Visual-Samples-Steffen-Wöll.pdf">Interactive Visualizations<i class="far fa-file-pdf" role="presentation"></i></a></p>
 <p>&#8220;Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana&#8217;s <em>Two Years Before the Mast</em> (1840).&#8221; 2018/2022. <a href="https://doi.org/10.48736/GD1RJN6HK">Map<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
