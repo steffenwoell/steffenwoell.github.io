@@ -19,9 +19,9 @@ image: /img/pub_av.webp
 <li><a href="#book-chapters">Book Chapters (Peer-Reviewed)</a></li>
 <li><a href="#reviews">Reviews</a></li>
 <li><a href="#editing">Editing</a></li>
-<li><a href="#internet">Internet</a></li>
+<li><a href="#media-blogs">Media / Blogs</a></li>
 <li><a href="#digital-humanities">Digital Humanities</a></li>
-<li><a href="#open-access">Open Access (Moderated)</a></li>
+<li><a href="#open-access">Moderated Open Access</a></li>
 <li><a href="#posters">Posters</a></li>
 <li><a href="#websites">Websites</a></li>
 </ol>
@@ -93,9 +93,9 @@ image: /img/pub_av.webp
 <p><em>aspeers: emerging voices in american studies</em> 8 (2015). Co-editor. <a href="https://doi.org/10.54465/aspeers.08">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a id="internet" role="button" aria-label="Internet" tabindex="0">&nbsp;</a></div>
+<div><a id="media-blogs" role="button" aria-label="Internet" tabindex="0">&nbsp;</a></div>
 
-## VI.&nbsp;Internet
+## VI.&nbsp;Media / Blogs
 <div class="blue">
 <p>&#8220;Violence, Representation, and Ecocide in the American West.&#8221; 2021. For <em>Academia Letters</em>. <a href="/doc/Violence,%20Representation,%20and%20Ecocide%20in%20the%20American%20West%20(Steffen%20W&#246;ll).pdf">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="far fa-file-pdf" role="presentation"></i></a></p>
 <p>&#8220;The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.&#8221; <em>TRAFO - Blog for Transregional Research</em>. New Books. 28 January 2021. <a href="https://trafo.hypotheses.org/26361">Web<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
@@ -117,7 +117,7 @@ image: /img/pub_av.webp
 
 <div><a id="open-access" role="button" aria-label="Moderated Open Access" tabindex="0">&nbsp;</a></div>
 
-## VIII.&nbsp;Open Access (Moderated)
+## VIII.&nbsp;Moderated Open Access
 <div class="blue">
 <p>&#8220;Kennedicide in the &#8216;Heartland of the Real&#8217;: Conspiracy, Coincidence, and Narrative Instability in Don DeLillo&#8217;s <em>Libra</em>.&#8221; <em>New Academia</em> XI (Jan. 2022). <a href="https://interactionsforum.com/about-us">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Hartmut Keil). <a href="https://osf.io/preprints/socarxiv/smq6n/">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
