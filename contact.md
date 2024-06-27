@@ -27,7 +27,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
     <li><span class="fa-li"><i class="fas fa-ghost" role="presentation"></i></span><b>Zero</b> analytics</li>
     <li><span class="fa-li"><i class="fas fa-burn" role="presentation"></i></span><b>Zero</b> log files</li>
     <li><span class="fa-li"><i class="fab fa-github-alt" role="presentation"></i></span>GitHub  privacy policies <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">may differ<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
-    <li><span class="fa-li"><i class="fas fa-user-shield" role="presentation"></i></span>For security concerns please refer to <a href="/.well-known/security.txt"><pre>security.txt</pre></a></li>
+    <li><span class="fa-li"><i class="fas fa-user-shield" role="presentation"></i></span>For security concerns please refer to <a href="/well-known/security.txt">security.txt</a><i class="fas fa-link" role="presentation"></i></li>
   </ul>
 </div>
 
