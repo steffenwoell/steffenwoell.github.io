@@ -6,7 +6,7 @@ image: /img/con_av.webp
 
 <h2>Announcements</h2>
 <div class="box-warning">
-<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently looking for a postdoctoral research and/or teaching position in Germany or abroad, beginning in 2025 or earlier. Please feel free to get in touch.
+<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently looking for a postdoctoral research and/or teaching position in Germany or abroad, beginning in 2025. Feel free to get in touch.
 </div>
 
 <h2>Email</h2>
@@ -15,7 +15,7 @@ Address any official or business correspondences to <pre><i class="far fa-envelo
 </div>
 
 <div class="box-note cboxa">
-Send me encrypted messages using the GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/sw_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
+Send me encrypted messages using the GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/steffenwoell_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
 </div>
 
 <h2>Data Privacy</h2>
@@ -27,6 +27,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
     <li><span class="fa-li"><i class="fas fa-ghost" role="presentation"></i></span><b>Zero</b> analytics</li>
     <li><span class="fa-li"><i class="fas fa-burn" role="presentation"></i></span><b>Zero</b> log files</li>
     <li><span class="fa-li"><i class="fab fa-github-alt" role="presentation"></i></span>GitHub  privacy policies <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">may differ<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+    <li><span class="fa-li"><i class="fas fa-user-shield" role="presentation"></i></span>For security concerns please refer to <a href="/.well-known/security.txt"><pre>security.txt</pre></a></li>
   </ul>
 </div>
 
