@@ -83,7 +83,7 @@ image: /img/pub_av.webp
 <p>Peer reviewer for <em><a href="https://www.tandfonline.com/journals/vanq20">ANQ: A Quarterly Journal of Short Articles, Notes, and Reviews<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
 <p>Peer reviewer for <em><a href="https://islandstudiesjournal.org/">Island Studies Journal<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
 <p>Peer reviewer for <em><a href="https://www.pfw.edu/clio/">Clio: A Journal of Literature, History, and the Philosophy of History<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
-<p>Peer reviewer for <em><a href="https://angl.winter-verlag.de">Anglistik<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
+<p>Peer reviewer for <em><a href="https://angl.winter-verlag.de">Anglistik: International Journal of English Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
 </div>
 
 <div><a class="anchor" id="editing" role="button" aria-label="Editing" tabindex="0">&nbsp;</a></div>
