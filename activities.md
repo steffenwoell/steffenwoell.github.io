@@ -126,7 +126,8 @@ image: /img/act_av.webp
 
 ## IV.&nbsp;Thesis Supervision
 <div class="gold">
-<p>&#8220;Filmic Representations of American Domesticity in the 1970s.&#8221; <em>MA Thesis</em>. Leipzig University. Winter Term 2023/24.</p>
+<p>&#8220;Visual Depictions of Black Motherhood in the Antebellum vs. Reconstruction Era.&#8221; BA Thesis. American Studies Leipzig. Summer Term 2024.</p>
+<p>&#8220;Filmic Representations of American Domesticity in the 1970s.&#8221; MA Thesis. American Studies Leipzig. Winter Term 2023/24.</p>
 </div>
 
 <div><a class="anchor" id="field-work-archival-studies" role="button" aria-label="Field Work & Archival Studies" tabindex="0">&nbsp;</a></div>
