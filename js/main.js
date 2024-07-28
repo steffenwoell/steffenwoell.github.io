@@ -1,5 +1,4 @@
 // MIT License
-// Navbar & Avatar logics
 
 var main = {
   bigImgEl : null,
