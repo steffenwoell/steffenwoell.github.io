@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Age of Self: Expédition Punitive
+title: "The Age of Self: Expédition Punitive"
 subtitle: Leipzig, Germany
 image: /img/exp.webp
 excerpt: Drifting further down this stream, Fractal inflection, Incorruptible wire  ...
