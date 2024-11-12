@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Age of Self: La Folie d'un"
+title: "The Age of Self: Folie d'un"
 subtitle: Frankfurt, Germany
-image: /img/lfu.webp
+image: /img/fdu.webp
 excerpt: Mein Haus, dein Haus, Geschält aus roten Nebeln raus ...
 permalink: /journal/:title/
 tags: [Frankfurt, Germany]
