@@ -1,8 +1,8 @@
 ---
 layout: post
-title: American Empire
+title: Rats of the Capital
 subtitle: Washington, D.C.
-image: /img/ame.webp
+image: /img/rat.webp
 excerpt: Never knowing where to stand, I lay my hide between these pillars ...
 permalink: /journal/:title/
 tags: [Washington, District of Columbia]
@@ -39,5 +39,5 @@ We can't abide
 
 My lioness  
 You must confess  
-The empire stays  
+This empire is  
 Powerless.  
