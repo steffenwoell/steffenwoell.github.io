@@ -63,10 +63,9 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 <div class="box-note cboxb">
 <pre>
 Dr. Steffen Wöll
-Nikolaistr. 6-10
-Raum 5.07
-04109 Leipzig
-Saxony
+Geisteswissenschaftliches Zentrum
+Beethovenstraße 15
+04107 Leipzig
 Germany
 </pre>
 </div>
