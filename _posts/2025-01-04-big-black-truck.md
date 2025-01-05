@@ -30,4 +30,4 @@ and open bed
 Lights up  
 lights out  
 I'd rather be  
-Dead.  
+dead.  
