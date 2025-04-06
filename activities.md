@@ -128,7 +128,7 @@ image: /img/act_av.webp
 
 <div><a class="anchor" id="thesis-supervision" role="button" aria-label="Thesis Supervision" tabindex="0">&nbsp;</a></div>
 
-## IV.&nbsp;Thesis Supervision
+## IV.&nbsp;Thesis Supervision (recent)
 <div class="gold">
 <p>&#8220;Visual Depictions of Black Motherhood in the Antebellum vs. Reconstruction Era.&#8221; BA Thesis. American Studies Leipzig. Summer Term 2024.</p>
 <p>&#8220;Filmic Representations of American Domesticity in the 1970s.&#8221; MA Thesis. American Studies Leipzig. Winter Term 2023/24.</p>
