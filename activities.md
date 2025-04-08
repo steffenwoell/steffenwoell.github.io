@@ -11,8 +11,8 @@ image: /img/act_av.webp
 <div class="box-toc-act">
 <div class="box-toc-act-cont"><i class="fas fa-database" role="presentation"></i><b>Contents</b></div>
 <ol class="toc">
-<li><a href="#presentations">Presentations</a></li>
-<li><a href="#conference-panels-workshops">Conference Panels & Workshops</a></li>
+<li><a href="#conferences">Conferences</a></li>
+<li><a href="#panels-workshops">Panels & Workshops</a></li>
 <li><a href="#teaching">Teaching</a></li>
 <li><a href="#thesis-supervision">Thesis Supervision</a></li>
 <li><a href="#field-work-archival-studies">Field Work & Archival Studies</a></li>
@@ -22,14 +22,15 @@ image: /img/act_av.webp
 </ol>
 </div>
 
-<div><a class="anchor" id="presentations" role="button" aria-label="Presentations" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="conferences" role="button" aria-label="Conferences" tabindex="0">&nbsp;</a></div>
 
-## I.&nbsp;Presentations
+## I.&nbsp;Conferences / Presentations
 <div class="gold">
 <p>&#8220;Democratic Frontiers, Nazi Natives, and Postwar Masculinities: Western Novels and German Identities.&#8221; <em>Facing West: Thinking, Living, Outliving the American West</em>. AISNA XXVIII Biennial Conference. Bergamo. 11-13 September 2025. <a href="https://www.aisna.net/conference-bergamo/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><em>Archiving America / American Archives</em>. 71st Annual Meeting of the German Association for American Studies. Siegen, Germany. 12-14 June, 2025. <a href="https://www.uni-siegen.de/phil/anglistik/dgfa2025/">Attendee<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><em>Archiving America / American Archives</em>. 71st Annual Meeting of the German Association for American Studies. Siegen, Germany. 12-14 June 2025. <a href="https://www.uni-siegen.de/phil/anglistik/dgfa2025/">Attendee<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p>&#8220;Waves of Conquest, Currents of Dissent: Liquifying America&#8217;s Transoceanic Empire.&#8221; <em>A Water&#8217;s History of the United States</em>. Roosevelt Institute for American Studies. Middelburg, The Netherlands. 21-23 May 2025. <a href="https://www.roosevelt.nl/en/nieuws/conference-a-waters-history-of-the-united-states/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p>&#8220;Overflowing Continental Frames: The Liquid Visual Vocabularies of American Empire.&#8221; <em>Visual Americas: Image, Text, Performance</em>. 12th IASA World Congress. Ankara. 14-16 May 2025. <a href="https://iasa-world.org/12th-iasa-world-congress-2025/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><em>American Studies Regional Colloquium</em>. Martin-Luther-University Halle-Wittenberg. 25 April 2025. Attendee</p>
 <p>&#8220;From Canvas to Cartography: Visual Regimes of Colonialism and Resistance in the Industrial Age.&#8221; American Historical Association Annual Meeting. New York City. 4 January 2025. <a href="https://www.historians.org/annual-meeting/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p>&#8220;Engaging (in) Visions of Belonging: Communal Placemaking through Maps and Material Culture.&#8221; <em>Grounded Engagements in American Studies</em>. American Studies Association Annual Meeting. Baltimore. 14 November 2024. <a href="https://www.theasa.net/node/293">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p>&#8220;From Narrowcasts to Deepfakes: Media Consumption and Social Transformation in David Cronenberg&#8217;s <em>Videodrome</em>.&#8221; Northeast Popular Culture Association Annual Conference. Dudley, Massachusetts / online. 3-5 October 2024. <a href="https://nepca.blog/2024-conference-page/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
@@ -93,9 +94,9 @@ image: /img/act_av.webp
 <p>&#8220;Space and Place in American Studies.&#8221; <em>Urban America: Mediating City Space as Place</em>. American Studies Leipzig Graduate Conference. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016">Keynote Address<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a class="anchor" id="conference-panels-workshops" role="button" aria-label="Conference Panels & Workshops" tabindex="0">&nbsp;</a></div>
+<div><a class="anchor" id="panels-workshops" role="button" aria-label="Panels & Workshops" tabindex="0">&nbsp;</a></div>
 
-## II.&nbsp;Conference Panels & Workshops
+## II.&nbsp;Panels & Workshops
 <div class="gold">
 <p>&#8220;Global Coalitions Endgame.&#8221; <em>American Studies Association Annual Meeting</em>. New Orleans. 4 November 2022. <a href="https://asa.press.jhu.edu/program22/program.pdf">Panel Chair<i class="far fa-file-pdf" role="presentation"></i></a></p>
 <p>&#8220;Archipelagic Imperial Spaces and Mobilities.&#8221; Leipzig / online. 30 March-1 April 2022. <em>Second International Workshop</em>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
