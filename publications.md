@@ -132,7 +132,7 @@ image: /img/pub_av.webp
 <div><a class="anchor" id="web-projects" role="button" aria-label="Web Projects / Outreach" tabindex="0">&nbsp;</a></div>
 
 ## IX.&nbsp;Web Projects / Outreach
-<div class="blue mbot">
+<div class="blue">
 <p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.carrd.co/">Programming / Design<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><em>steffenwoell.github.io</em>. 2019—. Programming / Design</p>
 </div>
@@ -140,11 +140,11 @@ image: /img/pub_av.webp
 <div><a class="anchor" id="early-work" role="button" aria-label="Open Access (Unrefereed)" tabindex="0">&nbsp;</a></div>
 
 ## X.&nbsp;Early Work (Unrefereed)
-<div class="blue">
-<p>&#8220;Kennedicide in the &#8216;Heartland of the Real&#8217;: Conspiracy, Coincidence, and Narrative Instability in Don DeLillo&#8217;s <em>Libra</em>.&#8221; <em>New Academia</em> XI (Jan. 2022). <a href="https://interactionsforum.com/about-us">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<div class="blue mbot">
 <p>&#8220;Allah&#8217;s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.&#8221; 2015. Seminar Paper. <em>Religion in American Society</em> (Hartmut Keil). <a href="https://osf.io/preprints/socarxiv/smq6n/">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p>&#8220;States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations.&#8221; 2015. Seminar Paper. <em>Graduate Colloquium</em> (Crister S. Garrett &#10013;). <a href="https://osf.io/preprints/socarxiv/qrjuk/">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p>&#8220;Still Very Excite: A Retrospective of Ethnic Humor, Political Correctness, and Hate Speech in Sacha Baron Cohen&#8217;s <em>Borat</em>.&#8221; 2014. Seminar Paper. <em>ASL Project Module</em> (Gabriele Pisarz-Ramirez). <a href="https://osf.io/preprints/socarxiv/5du7c/">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p>&#8220;Kennedicide in the &#8216;Heartland of the Real&#8217;: Conspiracy, Coincidence, and Narrative Instability in Don DeLillo&#8217;s <em>Libra</em>.&#8221; 2013. Seminar Paper. <em>Casting a Bullet: Political Assassination Narratives in American Culture</em> (Sebastian M. Herrmann). <a href="https://www.researchgate.net/publication/331284714_Kennedicide_in_the_'Heartland_of_the_Real'_Conspiracy_Coincidence_and_Narrative_Instability_in_Don_DeLillo's_Libra">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p>&#8220;Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren Ichs.&#8221; 2013. Seminar Paper. <em>Geschichte der Philosophie: Zu einer kleinen Geschichte des Positivismus im 19. und 20. Jahrhundert</em> (Thomas Wendt). <a href="https://osf.io/preprints/socarxiv/96ysz">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p>&#8220;&#8216;I Thought of Carthage&#8217;: Disentangling Moral and Military Aspects of the Hiroshima and Nagasaki Bombings.&#8221; 2013. Seminar Paper. <em>Society, History, and Politics II</em> (Tobias Schlobach). <a href="https://osf.io/preprints/socarxiv/m3pj4">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
