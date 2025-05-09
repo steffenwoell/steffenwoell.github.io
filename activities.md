@@ -111,6 +111,7 @@ image: /img/act_av.webp
 
 ## III.&nbsp;Teaching
 <div class="gold">
+<p>&#8220;Oceans as Boundaries & Connections.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2025/26. Seminar</p>
 <p>&#8220;Captivity - Enslavement - Incarceration - Liberation.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2024/25. <a href="/doc/ED-Seminar-Syllabus-WS-24-25.pdf">Seminar<i class="far fa-file-pdf" role="presentation"></i></a></p>
 <p>&#8220;Race & Consumption.&#8221; <em>Ethnicity and Diversity in US Culture II</em>. Leipzig University. Summer Term 2024. <a href="/doc/EDII-Seminar-Syllabus-SoSe-2024.pdf">Seminar<i class="far fa-file-pdf" role="presentation"></i></a></p>
 <p>&#8220;Visual Discourses of Race and Ethnicity.&#8221; <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2023/24. <a href="/doc/ED-Seminar-Syllabus-WS-23-24.pdf">Seminar<i class="far fa-file-pdf" role="presentation"></i></a></p>
