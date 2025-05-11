@@ -104,10 +104,12 @@ html {
   --pre-inline-border: none;
   --title-subtitle-divider: #404040; /* - Misc light - */
   --blockquote: #555;
-  --highlighter-act-bg: #fdf5d4;
+  --highlighter-act-bg: #fef9e4;
   --highlighter-act-text: inherit;
-  --highlighter-pub-bg: #c8f2ce;
+  --highlighter-pub-bg: #dcfadc;
   --highlighter-pub-text: inherit;
+  --highlighter-idx-bg: #f6fbfd;
+  --highlighter-idx-text: inherit;
   --vegburger-menu: #404040;
   --btn-home-hover: #ccc;
   --btn-email-hover: #ccc;
@@ -206,6 +208,8 @@ html.dark-mode {
   --highlighter-act-text: inherit;
   --highlighter-pub-bg: #004438;
   --highlighter-pub-text: inherit;
+  --highlighter-idx-bg: #a7c3d9;
+  --highlighter-idx-text: inherit;
   --vegburger-menu: #a0b2ba;
   --btn-home-hover: #bbcfdc;
   --btn-email-hover: #bbcfdc;
@@ -1123,6 +1127,29 @@ strong.hl-pub a {
 
 strong.hl-pub::before {
   background-color: var(--highlighter-pub-bg);
+  content: "";
+  position: absolute;
+  width: calc(100% + 3px);
+  height: 100%;
+  left: -2px;
+  bottom: 0;
+  z-index: -1;
+  transform: rotate(-2deg);
+}
+
+/* --- Highlighter Blue--- */
+
+strong.hl-idx {
+  position: relative;
+  color: var(--highlighter-idx-text);
+}
+
+strong.hl-idx a {
+  color: var(--highlighter-idx-text);
+}
+
+strong.hl-idx::before {
+  background-color: var(--highlighter-idx-bg);
   content: "";
   position: absolute;
   width: calc(100% + 3px);
