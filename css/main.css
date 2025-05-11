@@ -104,12 +104,12 @@ html {
   --pre-inline-border: none;
   --title-subtitle-divider: #404040; /* - Misc light - */
   --blockquote: #555;
-  --highlighter-act-bg: #fef9e4;
-  --highlighter-act-text: inherit;
-  --highlighter-pub-bg: #dcfadc;
-  --highlighter-pub-text: inherit;
-  --highlighter-idx-bg: #e4f0f7;
-  --highlighter-idx-text: inherit;
+  --highlighter-yel-bg: #fef9e4;
+  --highlighter-yel-text: inherit;
+  --highlighter-gre-bg: #dcfadc;
+  --highlighter-gre-text: inherit;
+  --highlighter-blu-bg: #e4f0f7;
+  --highlighter-blu-text: inherit;
   --vegburger-menu: #404040;
   --btn-home-hover: #ccc;
   --btn-email-hover: #ccc;
@@ -1091,74 +1091,50 @@ pre {
   border: var(--pre-border);
 }
 
-/* --- Highlighter Yellow --- */
-
-strong.hl-yel {
+/* --- Base Highlighter Style --- */
+strong.hl {
   position: relative;
-  color: var(--highlighter-act-text);
 }
 
-strong.hl-yel a {
-  color: var(--highlighter-act-text);
+strong.hl::before {
+  content: "";
+  position: absolute;
+  width: calc(100% + 3px);
+  height: 100%;
+  left: -2px;
+  bottom: 0;
+  z-index: -1;
+  transform: rotate(-2deg);
 }
 
+/* Ensure links inside highlights match text color */
+strong.hl a {
+  color: inherit;
+}
+
+/* --- Yellow --- */
+strong.hl-yel {
+  color: var(--highlighter-act-text);
+}
 strong.hl-yel::before {
   background-color: var(--highlighter-act-bg);
-  content: "";
-  position: absolute;
-  width: calc(100% + 3px);
-  height: 100%;
-  left: -2px;
-  bottom: 0;
-  z-index: -1;
-  transform: rotate(-2deg);
 }
 
-/* --- Highlighter Green --- */
-
+/* --- Green --- */
 strong.hl-gre {
-  position: relative;
   color: var(--highlighter-pub-text);
 }
-
-strong.hl-gre a {
-  color: var(--highlighter-pub-text);
-}
-
 strong.hl-gre::before {
   background-color: var(--highlighter-pub-bg);
-  content: "";
-  position: absolute;
-  width: calc(100% + 3px);
-  height: 100%;
-  left: -2px;
-  bottom: 0;
-  z-index: -1;
-  transform: rotate(-2deg);
 }
 
-/* --- Highlighter Blue --- */
-
-strong.hl-blue {
-  position: relative;
+/* --- Blue (special case: not bold) --- */
+strong.hl-blu {
   color: var(--highlighter-idx-text);
   font-weight: normal;
 }
-
-strong.hl-blue a {
-  color: var(--highlighter-idx-text);
-}
-
-strong.hl-blue::before {
+strong.hl-blu::before {
   background-color: var(--highlighter-idx-bg);
-  content: "";
-  position: absolute;
-  width: calc(100% + 3px);
-  height: 100%;
-  left: -2px;
-  bottom: 0;
-  z-index: -1;
-  transform: rotate(-2deg);
 }
 
 /* --- Sharing --- */
