@@ -1093,16 +1093,16 @@ pre {
 
 /* --- Highlighter Yellow --- */
 
-strong.hl-act {
+strong.hl-yel {
   position: relative;
   color: var(--highlighter-act-text);
 }
 
-strong.hl-act a {
+strong.hl-yel a {
   color: var(--highlighter-act-text);
 }
 
-strong.hl-act::before {
+strong.hl-yel::before {
   background-color: var(--highlighter-act-bg);
   content: "";
   position: absolute;
@@ -1116,16 +1116,16 @@ strong.hl-act::before {
 
 /* --- Highlighter Green --- */
 
-strong.hl-pub {
+strong.hl-gre {
   position: relative;
   color: var(--highlighter-pub-text);
 }
 
-strong.hl-pub a {
+strong.hl-gre a {
   color: var(--highlighter-pub-text);
 }
 
-strong.hl-pub::before {
+strong.hl-gre::before {
   background-color: var(--highlighter-pub-bg);
   content: "";
   position: absolute;
@@ -1139,17 +1139,17 @@ strong.hl-pub::before {
 
 /* --- Highlighter Blue --- */
 
-strong.hl-idx {
+strong.hl-blue {
   position: relative;
   color: var(--highlighter-idx-text);
   font-weight: normal;
 }
 
-strong.hl-idx a {
+strong.hl-blue a {
   color: var(--highlighter-idx-text);
 }
 
-strong.hl-idx::before {
+strong.hl-blue::before {
   background-color: var(--highlighter-idx-bg);
   content: "";
   position: absolute;

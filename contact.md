@@ -5,7 +5,7 @@ image: /img/con_av.webp
 ---
 
 <div>
-<strong class="hl-pub">
+<strong class="hl-yel">
 <i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently seeking a postdoctoral position in research or teaching (or both). Feel free to get in touch!
 </strong>
 </div>
