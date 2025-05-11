@@ -202,9 +202,9 @@ html.dark-mode {
   --pre-inline-border: none;
   --title-subtitle-divider: #adadad; /* - Misc dark - */
   --blockquote: #adadad;
-  --highlighter-act-bg: #d2a972;
+  --highlighter-act-bg: #7c6935;
   --highlighter-act-text: inherit;
-  --highlighter-pub-bg: #00694e;
+  --highlighter-pub-bg: #004438;
   --highlighter-pub-text: inherit;
   --vegburger-menu: #a0b2ba;
   --btn-home-hover: #bbcfdc;
