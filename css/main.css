@@ -65,13 +65,13 @@ html {
   --box-note-stripe: #555;
   --box-note-link: #555;
   --box-toc-pub-cont: #0a290e; /* - Box Pub light - */
-  --box-toc-pub-bg: #c8f2ce;
+  --box-toc-gre-bg: #c8f2ce;
   --box-toc-pub-stripe: #0a290e;
   --box-toc-pub-link: #0a290e;
   --box-toc-pub-hover: #0a290e;
   --box-toc-pub-li: #1e6528;
   --box-toc-act-cont: #79630b; /* - Box Act light - */
-  --box-toc-act-bg: #fdf5d4;
+  --box-toc-yel-bg: #fdf5d4;
   --box-toc-act-stripe: #79630b;
   --box-toc-act-link: #79630b;
   --box-toc-act-hover: #79630b;
@@ -165,13 +165,13 @@ html.dark-mode {
   --box-note-stripe: #aaa;
   --box-note-link: #aaa;
   --box-toc-pub-cont: #c7ecdc; /* - Box Pub dark - */
-  --box-toc-pub-bg: #00694e;
+  --box-toc-gre-bg: #00694e;
   --box-toc-pub-stripe: #c7ecdc;
   --box-toc-pub-link: #c7ecdc;
   --box-toc-pub-hover: #c7ecdc;
   --box-toc-pub-li: #b6e7dc;
   --box-toc-act-cont: #111; /* - Box Act dark - */
-  --box-toc-act-bg: #d2a972;
+  --box-toc-yel-bg: #d2a972;
   --box-toc-act-stripe: #111;
   --box-toc-act-link: #111;
   --box-toc-act-hover: #111;
@@ -204,11 +204,11 @@ html.dark-mode {
   --pre-inline-border: none;
   --title-subtitle-divider: #adadad; /* - Misc dark - */
   --blockquote: #adadad;
-  --highlighter-act-bg: #7c6935;
+  --highlighter-yel-bg: #7c6935;
   --highlighter-act-text: inherit;
-  --highlighter-pub-bg: #004438;
+  --highlighter-gre-bg: #004438;
   --highlighter-pub-text: inherit;
-  --highlighter-idx-bg: #485764;
+  --highlighter-blu-bg: #485764;
   --highlighter-idx-text: inherit;
   --vegburger-menu: #a0b2ba;
   --btn-home-hover: #bbcfdc;
@@ -1117,7 +1117,7 @@ strong.hl-yel {
   color: var(--highlighter-act-text);
 }
 strong.hl-yel::before {
-  background-color: var(--highlighter-act-bg);
+  background-color: var(--highlighter-yel-bg);
 }
 
 /* --- Green --- */
@@ -1125,7 +1125,7 @@ strong.hl-gre {
   color: var(--highlighter-pub-text);
 }
 strong.hl-gre::before {
-  background-color: var(--highlighter-pub-bg);
+  background-color: var(--highlighter-gre-bg);
 }
 
 /* --- Blue (special case: not bold) --- */
@@ -1134,7 +1134,7 @@ strong.hl-blu {
   font-weight: normal;
 }
 strong.hl-blu::before {
-  background-color: var(--highlighter-idx-bg);
+  background-color: var(--highlighter-blu-bg);
 }
 
 /* --- Sharing --- */
@@ -1231,7 +1231,7 @@ strong.hl-blu::before {
 }
 
 .box-toc-pub {
-  background-color: var(--box-toc-pub-bg);
+  background-color: var(--box-toc-gre-bg);
   border-left-color: var(--box-toc-pub-stripe);
 }
 
@@ -1258,7 +1258,7 @@ strong.hl-blu::before {
 }
 
 .box-toc-act {
-  background-color: var(--box-toc-act-bg);
+  background-color: var(--box-toc-yel-bg);
   border-left-color: var(--box-toc-act-stripe);
 }
 
