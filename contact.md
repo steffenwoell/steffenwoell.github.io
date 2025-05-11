@@ -4,9 +4,10 @@ title: Contact
 image: /img/con_av.webp
 ---
 
-<h2>Announcements</h2>
-<div class="box-warning">
-<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently seeking a postdoctoral position in research or teaching (or both). Feel free to get in touch.
+<div>
+<strong class="hl-pub">
+<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently seeking a postdoctoral position in research or teaching (or both). Feel free to get in touch!
+</strong>
 </div>
 
 <h2>Email</h2>
