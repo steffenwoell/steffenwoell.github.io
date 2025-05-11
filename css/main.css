@@ -1112,16 +1112,16 @@ strong.hl-act::before {
 
 /* --- Highlighter Green--- */
 
-strong.hl-act {
+strong.hl-pub {
   position: relative;
   color: var(--highlighter-pub-text);
 }
 
-strong.hl-act a {
+strong.hl-pub a {
   color: var(--highlighter-pub-text);
 }
 
-strong.hl-act::before {
+strong.hl-pub::before {
   background-color: var(--highlighter-pub-bg);
   content: "";
   position: absolute;
