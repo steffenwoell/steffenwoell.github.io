@@ -159,7 +159,7 @@ image: /img/act_av.webp
 <p><a href="https://theasa.net">ASA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong>American Studies Association</strong></p>
 <p><a href="https://dgfa.de">DGfA / GAAS<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong>Deutsche Gesellschaft für Amerikastudien / German Association for American Studies</strong></p>
 <p><a href="https://enmma.carrd.co/">ENMMA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong>European Network for the Study of Minor Mobilities in the Americas</strong></p>
-<p><a href="https://lasaweb.org/en/">LASA<i class="fas fa-external-link-alt" role="presentation"></i></a> (Latin American Studies Association</strong></p>
+<p><a href="https://lasaweb.org/en/">LASA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong>Latin American Studies Association</strong></p>
 <p><a href="https://mapaca.net">MAPACA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong>Mid-Atlantic Popular & American Culture Association</strong></p>
 <p><a href="https://nepca.blog/">NEPCA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong>Northeast Popular & American Culture Association</strong></p>
 <p><a href="https://www.societyofearlyamericanists.org">SEA<i class="fas fa-external-link-alt" role="presentation"></i></a> (Society of Early Americanists)</p>

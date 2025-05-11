@@ -104,8 +104,10 @@ html {
   --pre-inline-border: none;
   --title-subtitle-divider: #404040; /* - Misc light - */
   --blockquote: #555;
-  --highlighter-bg: rgba(216,232,92,.4);
-  --highlighter-text: inherit;
+  --highlighter-act-bg: #fdf5d4;
+  --highlighter-act-text: inherit;
+  --highlighter-pub-bg: #c8f2ce;
+  --highlighter-pub-text: inherit;
   --vegburger-menu: #404040;
   --btn-home-hover: #ccc;
   --btn-email-hover: #ccc;
@@ -200,8 +202,10 @@ html.dark-mode {
   --pre-inline-border: none;
   --title-subtitle-divider: #adadad; /* - Misc dark - */
   --blockquote: #adadad;
-  --highlighter-bg: #512b74;
-  --highlighter-text: #adadad;
+  --highlighter-act-bg: #d2a972;
+  --highlighter-act-text: inherit;
+  --highlighter-pub-bg: #00694e;
+  --highlighter-pub-text: inherit;
   --vegburger-menu: #a0b2ba;
   --btn-home-hover: #bbcfdc;
   --btn-email-hover: #bbcfdc;
@@ -1083,19 +1087,42 @@ pre {
   border: var(--pre-border);
 }
 
-/* --- Highlighter --- */
+/* --- Highlighter Yellow--- */
 
-strong {
+strong.hl-act {
   position: relative;
-  color: var(--highlighter-text);
+  color: var(--highlighter-act-text);
 }
 
-strong a, strong a:hover {
-  color: var(--highlighter-text);
+strong.hl-act a {
+  color: var(--highlighter-act-text);
 }
 
-strong::before {
-  background-color: var(--highlighter-bg);
+strong.hl-act::before {
+  background-color: var(--highlighter-act-bg);
+  content: "";
+  position: absolute;
+  width: calc(100% + 3px);
+  height: 100%;
+  left: -2px;
+  bottom: 0;
+  z-index: -1;
+  transform: rotate(-2deg);
+}
+
+/* --- Highlighter Green--- */
+
+strong.hl-act {
+  position: relative;
+  color: var(--highlighter-pub-text);
+}
+
+strong.hl-act a {
+  color: var(--highlighter-pub-text);
+}
+
+strong.hl-act::before {
+  background-color: var(--highlighter-pub-bg);
   content: "";
   position: absolute;
   width: calc(100% + 3px);
