@@ -86,16 +86,16 @@ image: /img/pub_av.webp
 
 ## V.&nbsp;Reviews
 <div class="blue">
-<p>Review of <em>Colonial Ports, Global Trade, and the Roots of the American Revolution</em> by Jeremy Land. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 2025. In Print</p>
-<p>Review of <em>The Creole Archipelago: Race and Borders in the Colonial Caribbean</em> by Tessa Murphy. <em>Connections. A Journal for Historians and Area Specialists</em>. 1 September 2023. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-128689">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p>Review of <em>Writing History in America&#8217;s Shadow: Japan, the Philippines, and the Question of Pan-Asianism</em> by Takamichi Serizawa. <em>Connections. A Journal for Historians and Area Specialists</em>. 27 May 2022. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-96786">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham. <em>Connections. A Journal for Historians and Area Specialists</em>. 8 January 2021. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-95016">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880-1930</em> by Dominic Davies. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 5: 102-103. <a href="https://www.comparativ.net/v2/issue/view/158">Print<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige. <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 1: 105-107. <a href="https://www.comparativ.net/v2/issue/view/154">Print<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p>Peer reviewer for <em><a href="https://www.tandfonline.com/journals/vanq20">ANQ: A Quarterly Journal of Short Articles, Notes, and Reviews<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
-<p>Peer reviewer for <em><a href="https://islandstudiesjournal.org/">Island Studies Journal<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
-<p>Peer reviewer for <em><a href="https://www.pfw.edu/clio/">Clio: A Journal of Literature, History, and the Philosophy of History<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
-<p>Peer reviewer for <em><a href="https://angl.winter-verlag.de">Anglistik: International Journal of English Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
+<p><strong>Review of <em>Colonial Ports, Global Trade, and the Roots of the American Revolution</em> by Jeremy Land.</strong> <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 2025. In Print</p>
+<p><strong>Review of <em>The Creole Archipelago: Race and Borders in the Colonial Caribbean</em> by Tessa Murphy.</strong> <em>Connections. A Journal for Historians and Area Specialists</em>. 1 September 2023. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-128689">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong>Review of <em>Writing History in America&#8217;s Shadow: Japan, the Philippines, and the Question of Pan-Asianism</em> by Takamichi Serizawa.</strong> <em>Connections. A Journal for Historians and Area Specialists</em>. 27 May 2022. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-96786">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong>Review of <em>Transoceanic America: Risk, Writing, and Revolution in the Global Pacific</em> by Michelle Burnham.</strong> <em>Connections. A Journal for Historians and Area Specialists</em>. 8 January 2021. <a href="https://www.connections.clio-online.net/publicationreview/id/reb-95016">Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong>Review of <em>Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880-1930</em> by Dominic Davies.</strong> <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 5: 102-103. <a href="https://www.comparativ.net/v2/issue/view/158">Print<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong>Review of <em>Pacific America: Histories of Transoceanic Crossings</em> by Lon Kurashige.</strong> <em>Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung</em> 29 (2019) 1: 105-107. <a href="https://www.comparativ.net/v2/issue/view/154">Print<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong>Peer reviewer</strong> for <em><a href="https://www.tandfonline.com/journals/vanq20">ANQ: A Quarterly Journal of Short Articles, Notes, and Reviews<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
+<p><strong>Peer reviewer</strong> for <em><a href="https://islandstudiesjournal.org/">Island Studies Journal<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
+<p><strong>Peer reviewer</strong> for <em><a href="https://www.pfw.edu/clio/">Clio: A Journal of Literature, History, and the Philosophy of History<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
+<p><strong>Peer reviewer</strong> for <em><a href="https://angl.winter-verlag.de">Anglistik: International Journal of English Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></em></p>
 </div>
 
 
@@ -133,8 +133,8 @@ image: /img/pub_av.webp
 
 ## IX.&nbsp;Web Projects / Outreach
 <div class="blue">
-<p><em>ENMMA: European Network for Minor Mobilities in the Americas</em>. 2018—. <a href="https://enmma.carrd.co/">Programming / Design<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><em>steffenwoell.github.io</em>. 2019—. Programming / Design</p>
+<p><strong>ENMMA: European Network for Minor Mobilities in the Americas</strong>. 2018—. <a href="https://enmma.carrd.co/">Programming / Design<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong>steffenwoell.github.io</strong>. 2019—. Programming / Design</p>
 </div>
 
 <div><a class="anchor" id="early-work" role="button" aria-label="Open Access (Unrefereed)" tabindex="0">&nbsp;</a></div>
