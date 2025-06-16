@@ -19,7 +19,7 @@ Send me encrypted messages using the GPG/PGP fingerprint <pre><i class="fas fa-f
 
 <h2>Personal Messaging</h2>
 <div class="box-note cboxa">
-<pre><i class="fas fa-comment-dots" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
+<pre><i class="fas fa-comment-dots" role="presentation"></i>signal.me/#u/steffenwoell</pre>
 <pre><i class="fab fa-telegram-plane" role="presentation"></i>t.me/steffenwoell</pre>
 </div>
 
