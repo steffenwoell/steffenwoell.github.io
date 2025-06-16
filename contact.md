@@ -5,9 +5,7 @@ image: /img/con_av.webp
 ---
 
 <div>
-<strong class="hl hl-yel">
 <i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently seeking a postdoctoral position in research or teaching (or both). Feel free to get in touch!
-</strong>
 </div>
 
 <h2>Email</h2>
@@ -17,6 +15,11 @@ Address any official or business correspondences to <pre><i class="far fa-envelo
 
 <div class="box-note cboxa">
 Send me encrypted messages using the GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/steffenwoell_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
+</div>
+
+<h2>Personal Messaging</h2>
+<div class="box-note cboxa">
+Telegram <pre><i class="fab fa-telegram" role="presentation"></i><a href="https://t.me/steffenwoell">t.me/steffenwoell</a>
 </div>
 
 <h2>Data Privacy</h2>
