@@ -5,22 +5,22 @@ image: /img/con_av.webp
 ---
 
 <div>
-<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat" role="presentation"></i>I am currently seeking a postdoctoral position in research or teaching (or both). Feel free to get in touch!
+<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat icon-inline" role="presentation"></i>I am currently seeking a postdoctoral position in research or teaching (or both). Feel free to get in touch!
 </div>
 
 <h2>Email</h2>
 <div class="box-success">
-Address any official or business correspondences to <pre><i class="far fa-envelope" role="presentation"></i>steffen.woell@uni-leipzig.de</pre><br>Personal messages may be directed to <pre><i class="far fa-envelope" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
+Address any official or business correspondences to <pre><i class="far fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre><br>Personal messages may be directed to <pre><i class="far fa-envelope icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
 </div>
 
 <div class="box-note cboxa">
-Send me encrypted messages using the GPG/PGP fingerprint <pre><i class="fas fa-fingerprint" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/steffenwoell_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
+Send me encrypted messages using the GPG/PGP fingerprint <pre><i class="fas fa-fingerprint icon-inline" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/steffenwoell_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
 </div>
 
 <h2>Private Message</h2>
 <div class="box-note cboxa">
-<pre><i class="fas fa-comment-dots" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
-<pre><i class="fab fa-telegram-plane" role="presentation"></i>t.me/steffenwoell</pre>
+<pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
+<pre><i class="fab fa-telegram-plane icon-inline" role="presentation"></i>t.me/steffenwoell</pre>
 </div>
 
 <h2>Data Privacy</h2>
@@ -61,7 +61,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 
 <h2>External Links</h2>
 <div class="box-note cboxa">
-<i class="fas fa-network-wired" role="presentation"></i>Links to external websites (indicated by the<i class="fas fa-external-link-alt" role="presentation"></i> symbol) are provided as a convenience and for informational purposes only. External links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of an offending link, please get in touch via email.
+<i class="fas fa-network-wired icon-inline" role="presentation"></i>Links to external websites (indicated by the<i class="fas fa-external-link-alt" role="presentation"></i> symbol) are provided as a convenience and for informational purposes only. External links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of an offending link, please get in touch via email.
 </div>
 
 <h2>Mailing Address</h2>

@@ -5,11 +5,11 @@ image: /img/act_av.webp
 ---
 
 <div class="box-note">
-<i class="fas fa-portrait" role="presentation"></i>Resume in <span class="tag-heading"><a href="/doc/CV_Steffen_Woell_en_05_24.pdf">English<i class="far fa-file-pdf" role="presentation"></i></a></span><a href="/doc/CV_Steffen_Woell_de_05_24.pdf">German<i class="far fa-file-pdf" role="presentation"></i></a>
+<i class="fas fa-portrait icon-inline" role="presentation"></i>Resume in <span class="tag-heading"><a href="/doc/CV_Steffen_Woell_en_05_24.pdf">English<i class="far fa-file-pdf" role="presentation"></i></a></span><a href="/doc/CV_Steffen_Woell_de_05_24.pdf">German<i class="far fa-file-pdf" role="presentation"></i></a>
 </div>
 
 <div class="box-toc-act">
-<div class="box-toc-act-cont"><i class="fas fa-database" role="presentation"></i><b>Contents</b></div>
+<div class="box-toc-act-cont"><i class="fas fa-database icon-inline" role="presentation"></i><b>Contents</b></div>
 <ol class="toc">
 <li><a href="#conferences">Conferences</a></li>
 <li><a href="#panels-workshops">Panels & Workshops</a></li>

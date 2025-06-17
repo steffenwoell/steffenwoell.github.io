@@ -5,14 +5,14 @@ image: /img/pub_av.webp
 ---
 
 <div class="box-note">
-<span class="pub-head"><i class="fab fa-researchgate" role="presentation"></i><a href="https://www.researchgate.net/profile/Steffen-Woell">ResearchGate</a></span>
-<span class="pub-head"><i class="fab fa-orcid" role="presentation"></i><a href="https://orcid.org/0000-0003-1582-6078">ORCID</a></span>
-<span class="pub-head"><i class="fas fa-landmark" role="presentation"></i><a href="https://catalog.loc.gov/vwebv/search?searchArg=Wo%CC%88ll,%20Steffen&searchCode=NAME%2B&searchType=1&recCount=25">Library of Congress</a></span>
-<span class="pub-head"><i class="fas fa-landmark" role="presentation"></i><a href="https://d-nb.info/gnd/1225944139">DNB</a></span>
+<span class="pub-head"><i class="fab fa-researchgate icon-inline" role="presentation"></i><a href="https://www.researchgate.net/profile/Steffen-Woell">ResearchGate</a></span>
+<span class="pub-head"><i class="fab fa-orcid icon-inline" role="presentation"></i><a href="https://orcid.org/0000-0003-1582-6078">ORCID</a></span>
+<span class="pub-head"><i class="fas fa-landmark icon-inline" role="presentation"></i><a href="https://catalog.loc.gov/vwebv/search?searchArg=Wo%CC%88ll,%20Steffen&searchCode=NAME%2B&searchType=1&recCount=25">Library of Congress</a></span>
+<span class="pub-head"><i class="fas fa-landmark icon-inline" role="presentation"></i><a href="https://d-nb.info/gnd/1225944139">DNB</a></span>
 </div>
 
 <div class="box-toc-pub">
-<div class="box-toc-pub-cont"><i class="fas fa-database" role="presentation"></i><b>Contents</b></div>
+<div class="box-toc-pub-cont"><i class="fas fa-database icon-inline" role="presentation"></i><b>Contents</b></div>
 <ol class="toc">
 <li><a href="#books">Books</a></li>
 <li><a href="#editing">Edited Volumes (Peer-Reviewed)</a></li>

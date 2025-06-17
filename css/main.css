@@ -1447,7 +1447,7 @@ strong.hl-blu::before {
   padding-left: 5px;
 }
 
-.fa-flask, .fa-fingerprint, .fa-envelope, .fa-info-circle, .fa-portrait, .fa-address-card, .fa-bullhorn, .fa-network-wired, .fa-database, .fa-landmark, .fa-orcid, .fa-clock, .box-note .fa-researchgate, .fa-exclamation-triangle, .fa-telegram-plane, .fa-comment-dots {
+.box-note {
   padding-right: 7px;
 }
 
@@ -1483,11 +1483,18 @@ strong.hl-blu::before {
 .fab.fa-orcid.fa-stack-1x.fa-inverse {transition: .5s;}
 .fab.fa-orcid.fa-stack-1x.fa-inverse:hover {color: #a1c837;}
 
-.fab.fa-mastodon.fa-stack-1x.fa-inverse {transition: .5s;}
-.fab.fa-mastodon.fa-stack-1x.fa-inverse:hover {color: #2b90d9;}
+.fas fa-comment-dots.fa-stack-1x.fa-inverse {transition: .5s;}
+.fas fa-comment-dots.fa-stack-1x.fa-inverse:hover {color: #8187f7;}
+
+.fab fa-telegram-plane.fa-stack-1x.fa-inverse {transition: .5s;}
+.fab fa-telegram-plane.fa-stack-1x.fa-inverse:hover {color: #7ec4ea;}
 
 .fab.fa-instagram.fa-stack-1x.fa-inverse {transition: .5s;}
 .fab.fa-instagram.fa-stack-1x.fa-inverse:hover {color: #bb00af;}
 
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: .5s;}
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
+
+.icon-inline {
+  padding-right: 7px;
+}
