@@ -8,15 +8,15 @@ email:
   baseURL: "mailto:"
   icon: "fas fa-at"
 
+telephone:
+  name: "Phone"
+  baseURL: "tel:"
+  icon: "fas fa-phone"
+
 rss:
   name: "RSS Feed"
   baseURL: "{{ '/feed.xml' | relative_url }}"
   icon: "fas fa-rss"
-
-blog:
-  name: "Write.as"
-  baseURL: "https://write.as/"
-  icon: "fa fa-font"
 
 researchgate:
   name: "ResearchGate"
@@ -28,10 +28,15 @@ orcid:
   baseURL: "https://orcid.org/"
   icon: "fab fa-orcid"
 
-mastodon:
-  name: "Mastodon"
-  baseURL: "https://mastodon.social/"
-  icon: "fab fa-mastodon"
+signal:
+  name: "Signal"
+  baseURL: "https://signal.me/#u/"
+  icon: "fas fa-comment-dots"
+
+telegram:
+  name: "telegram"
+  baseURL: "https://t.me/"
+  icon: "fab fa-telegram-plane"
 
 instagram:
   name: "Instagram"
@@ -42,33 +47,3 @@ soundcloud:
   name: "SoundCloud"
   baseURL: "https://soundcloud.com/"
   icon: "fab fa-soundcloud"
-
-github:
-  name: "GitHub"
-  baseURL: "https://github.com/"
-  icon: "fab fa-github"
-
-twitter:
-  name: "X"
-  baseURL: "https://x.com/"
-  icon: "fab fa-x-twitter"
-
-linkedin:
-  name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
-  icon: "fab fa-linkedin-in"
-
-xing:
-  name: "Xing"
-  baseURL: "https://www.xing.com/profile/"
-  icon: "fab fa-xing"
-
-spotify:
-  name: "Spotify"
-  baseURL: "https://open.spotify.com/user/"
-  icon: "fab fa-spotify"
-
-telephone:
-  name: "Phone"
-  baseURL: "tel:"
-  icon: "fas fa-phone"
