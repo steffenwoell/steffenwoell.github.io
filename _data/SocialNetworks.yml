@@ -34,7 +34,7 @@ signal:
   icon: "fas fa-comment-dots"
 
 telegram:
-  name: "telegram"
+  name: "Telegram"
   baseURL: "https://t.me/"
   icon: "fab fa-telegram-plane"
 
