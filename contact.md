@@ -6,7 +6,7 @@ image: /img/con_av.webp
 
 <h2>Notice</h2>
 <div class="box-note cboxa">
-<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat icon-inline" role="presentation"></i>I'm currently exploring postdoctoral opportunities in research, teaching, or both. Get in touch anytime.
+<i class="fas fa-thumbtack icon-inline" role="presentation"></i>I'm currently exploring postdoctoral opportunities in research, teaching, or both. Get in touch anytime.
 </div>
 
 <h2>Email</h2>
