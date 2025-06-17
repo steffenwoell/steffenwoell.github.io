@@ -4,8 +4,9 @@ title: Contact
 image: /img/con_av.webp
 ---
 
-<div>
-<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat icon-inline" role="presentation"></i>I am currently seeking a postdoctoral position in research or teaching (or both). Feel free to get in touch!
+<h2>Notice</h2>
+<div class="box-note cboxa">
+<i class="fas fa-info-circle fa-2x fa-pull-left fa-beat icon-inline" role="presentation"></i>I'm currently exploring postdoctoral opportunities in research, teaching, or both. Get in touch anytime.
 </div>
 
 <h2>Email</h2>
@@ -14,12 +15,12 @@ Address any official or business correspondences to <pre><i class="far fa-envelo
 </div>
 
 <div class="box-note cboxa">
-Send me encrypted messages using the GPG/PGP fingerprint <pre><i class="fas fa-fingerprint icon-inline" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/steffenwoell_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
+If you prefer encrypted communication, you can use the GPG/PGP key <pre><i class="fas fa-fingerprint icon-inline" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/steffenwoell_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
 </div>
 
 <h2>Private Message</h2>
 <div class="box-note cboxa">
-<pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
+For quick or informal messages, feel free to reach out via Signal or Telegram <pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
 <pre><i class="fab fa-telegram-plane icon-inline" role="presentation"></i>t.me/steffenwoell</pre>
 </div>
 
@@ -61,7 +62,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 
 <h2>External Links</h2>
 <div class="box-note cboxa">
-<i class="fas fa-network-wired icon-inline" role="presentation"></i>Links to external websites (indicated by the<i class="fas fa-external-link-alt" role="presentation"></i> symbol) are provided as a convenience and for informational purposes only. External links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of an offending link, please get in touch via email.
+<i class="fas fa-network-wired icon-inline" role="presentation"></i>Links to external websites (indicated by the<i class="fas fa-external-link-alt" role="presentation"></i> symbol) are provided for convenience and do not imply endorsement. External links do neither constitute an endorsement nor approval of any products, services or opinions of the corporation, organization or individual responsible for the linked website. The author of this website does not assume any responsibility for the accuracy, legality, or content of external sites or subsequent links on these sites. To request the removal of an offending link, please get in touch via email.
 </div>
 
 <h2>Mailing Address</h2>
