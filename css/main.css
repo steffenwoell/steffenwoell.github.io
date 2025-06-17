@@ -1447,6 +1447,10 @@ strong.hl-blu::before {
   padding-left: 5px;
 }
 
+.icon-inline {
+  padding-right: 7px;
+}
+
 .box-note {
   padding-right: 7px;
 }
@@ -1483,18 +1487,14 @@ strong.hl-blu::before {
 .fab.fa-orcid.fa-stack-1x.fa-inverse {transition: .5s;}
 .fab.fa-orcid.fa-stack-1x.fa-inverse:hover {color: #a1c837;}
 
-.fas fa-comment-dots.fa-stack-1x.fa-inverse {transition: .5s;}
-.fas fa-comment-dots.fa-stack-1x.fa-inverse:hover {color: #8187f7;}
+.fas.fa-comment-dots.fa-stack-1x.fa-inverse {transition: .5s;}
+.fas.fa-comment-dots.fa-stack-1x.fa-inverse:hover {color: #8187f7;}
 
-.fab fa-telegram-plane.fa-stack-1x.fa-inverse {transition: .5s;}
-.fab fa-telegram-plane.fa-stack-1x.fa-inverse:hover {color: #7ec4ea;}
+.fab.fa-telegram-plane.fa-stack-1x.fa-inverse {transition: .5s;}
+.fab.fa-telegram-plane.fa-stack-1x.fa-inverse:hover {color: #7ec4ea;}
 
 .fab.fa-instagram.fa-stack-1x.fa-inverse {transition: .5s;}
 .fab.fa-instagram.fa-stack-1x.fa-inverse:hover {color: #bb00af;}
 
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: .5s;}
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
-
-.icon-inline {
-  padding-right: 7px;
-}
