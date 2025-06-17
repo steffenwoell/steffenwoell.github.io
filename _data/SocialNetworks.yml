@@ -30,7 +30,7 @@ orcid:
 
 signal:
   name: "Signal"
-  baseURL: "https://signal.me/#u/"
+  baseURL: "https://signal.me/#eu/"
   icon: "fas fa-comment-dots"
 
 telegram:
