@@ -113,6 +113,7 @@ html {
   --vegburger-menu: #404040;
   --btn-home-hover: #ccc;
   --btn-email-hover: #ccc;
+  --icn-accent: #cc5500;
 }
 
 /* --- Dark Theme --- */
@@ -213,6 +214,7 @@ html.dark-mode {
   --vegburger-menu: #a0b2ba;
   --btn-home-hover: #bbcfdc;
   --btn-email-hover: #bbcfdc;
+  --icn-accent: #ffb347;
 	}
 
 /* --- Basics --- */
@@ -1401,6 +1403,10 @@ strong.hl-blu::before {
 }
 
 /* --- Font Awesome --- */ 
+
+.icon-accent {
+  color: var(--icn-accent);
+}
 
 .fa-fade {
   opacity: 1;
