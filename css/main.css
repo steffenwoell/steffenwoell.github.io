@@ -1073,6 +1073,21 @@ footer .theme-by {
 
 /* --- Code --- */
 
+.copy-btn {
+  position: absolute;
+  right: 0.5em;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: #666;
+  font-size: 1em;
+  padding: 0.3em;
+}
+
+.copy-btn:hover {
+  color: #000;
+}
+
 .pre-inline {
   font-family: monospace;
   white-space: pre;
@@ -1302,11 +1317,11 @@ strong.hl-blu::before {
   overflow-wrap: break-word;
 }
 
-.cboxa {
+.m60 {
   margin-bottom: 60px;
 }
 
-.cboxb {
+.m100 {
   margin-bottom: 100px;
 }
 
