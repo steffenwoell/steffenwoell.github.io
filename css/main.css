@@ -1109,7 +1109,7 @@ footer .theme-by {
 
 /* Morph icon to checkmark when copied */
 .copy-btn.copied i::before {
-  content: "\f00c"; /* Unicode for Font Awesome checkmark */
+  content: "\f058"; /* Unicode checkmark */
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   color: limegreen;
