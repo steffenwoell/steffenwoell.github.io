@@ -1357,6 +1357,10 @@ strong.hl-blu::before {
   padding-top: 5px;
 }
 
+.pb-5 {
+  padding-bottom: 5px;
+}
+
 .mb-60 {
   margin-bottom: 60px;
 }

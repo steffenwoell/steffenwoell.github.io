@@ -12,7 +12,7 @@ image: /img/cat/con.webp
 <h2>Email</h2>
 
 <div class="box-success">
-Address any official or business correspondences to
+<p class="pb-5">Address any official or business correspondences to</p>
 <div class="copy-container">
   <pre><i class="fas fa-university icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
   <button class="copy-btn" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard">
