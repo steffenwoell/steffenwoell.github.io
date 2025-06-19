@@ -112,6 +112,7 @@ html {
   --btn-home-hover: #ccc;
   --btn-email-hover: #ccc;
   --icn-accent: #404040;
+  --copy-btn: rgba(0, 0, 0, 0.5);
 }
 
 /* --- Dark Theme --- */
@@ -213,6 +214,7 @@ html.dark-mode {
   --btn-home-hover: #bbcfdc;
   --btn-email-hover: #bbcfdc;
   --icn-accent: #a0b1ba;
+  --copy-btn: rgba(255, 255, 255, 0.8);
 	}
 
 /* --- Basics --- */
@@ -1111,7 +1113,7 @@ footer .theme-by {
   background: transparent;
   border: none;
   cursor: pointer;
-  color: rgba(0, 0, 0, 0.3);
+  color: var(--copy-btn);
   padding: 0.4em;
 }
 
@@ -1472,35 +1474,40 @@ strong.hl-blu::before {
   100% { opacity: 1 }
 }
 
+.fa-seedling {
+  color: rgba(34, 139, 34, 0.85);
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.fa-seedling:hover {
+  animation: seedling-breathe 1.2s ease-in-out infinite;
+}
+
+@keyframes seedling-breathe {
+  0% {transform: scale(1) translateY(0); }
+  50% {transform: scale(1.3) translateY(-4px); }
+  100% {transform: scale(1) translateY(0); }
+}
+
+.fa-heart {
+  transition: .3s ease-in-out;
+}
+
+.fa-heart:hover {
+  color: rgba(220, 20, 60, 0.85);
+}
+
 .fa-beat {
-  animation:fa-beat 5s ease infinite;
+  animation: fa-beat 1.6s ease-in-out infinite;
 }
 
 @keyframes fa-beat {
-  0% {
-    transform:scale(1);
-  }
-  5% {
-    transform:scale(1.25);
-  }
-  20% {
-    transform:scale(1);
-  }
-  30% {
-    transform:scale(1);
-  }
-  35% {
-    transform:scale(1.25);
-  }
-  50% {
-    transform:scale(1);
-  }
-  55% {
-    transform:scale(1.25);
-  }
-  70% {
-    transform:scale(1);
-  }
+  0%   { transform: scale(1); }
+  10%  { transform: scale(1.3); }
+  20%  { transform: scale(1); }
+  30%  { transform: scale(1.2); }
+  40%  { transform: scale(1); }
+  100% { transform: scale(1); }
 }
 
 .fa-link, .fa-external-link-alt, .fa-file, .fa-file-pdf, .fa-file-image, .fa-lock-open, .fa-youtube {
