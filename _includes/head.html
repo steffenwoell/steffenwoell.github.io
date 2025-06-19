@@ -55,4 +55,25 @@
     }, 1000);
   };
 </script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const buttons = document.querySelectorAll('.copy-button');
+
+    buttons.forEach(button => {
+      button.addEventListener('click', function () {
+        const textToCopy = this.getAttribute('data-code');
+        if (!textToCopy) return;
+
+        navigator.clipboard.writeText(textToCopy).then(() => {
+          this.classList.add('copied');
+          setTimeout(() => {
+            this.classList.remove('copied');
+          }, 1200);
+        }).catch(err => {
+          console.error('Copy failed', err);
+        });
+      });
+    });
+  });
+</script>
 </head>
