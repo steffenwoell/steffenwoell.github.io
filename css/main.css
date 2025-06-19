@@ -1,15 +1,4 @@
-body {
-  visibility: hidden;
-  animation: showBody 0s ease-in-out 0.1s forwards;
-}
-
-@keyframes showBody {
-  to {
-    visibility: visible;
-  }
-}
-
-/* --- Dark/Light Themes --- */
+/* --- Themes --- */
 
 .toggle {
   text-align: center;
