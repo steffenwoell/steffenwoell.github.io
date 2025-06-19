@@ -1112,11 +1112,11 @@ footer .theme-by {
   color: rgba(0, 0, 0, 0.7);
 }
 
-.copy-button.copied {
+.copy-btn.copied {
   color: limegreen !important;
 }
 
-.copy-button.copied::before {
+.copy-btn.copied::before {
   content: "\f00c"; /* fa-check */
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
