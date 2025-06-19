@@ -1085,13 +1085,14 @@ footer .theme-by {
   padding-right: 2em;
   overflow-x: auto;
 }
-.copy-btn i.fa-clone {
+/* --- Copy Button Icon --- */
+.copy-btn i {
   font-size: 1.2em;
   opacity: 0.7;
-  transition: opacity 0.2s, transform 0.2s;
+  transition: all 0.3s ease;
 }
 
-.copy-btn:hover i.fa-clone {
+.copy-btn:hover i {
   opacity: 0.9;
   transform: scale(1.1);
 }
@@ -1106,11 +1107,15 @@ footer .theme-by {
   padding: 0.4em;
 }
 
-.copy-btn.copied::before {
-  content: "\f00c"; /* fa-check */
+/* Morph icon to checkmark when copied */
+.copy-btn.copied i::before {
+  content: "\f00c"; /* Unicode for Font Awesome checkmark */
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
+  color: limegreen;
 }
+
+/* Remove direct content styling on .copy-btn i to allow morph effect */
 
 .pre-inline {
   font-family: monospace;

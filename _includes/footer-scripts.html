@@ -49,13 +49,26 @@
 
     buttons.forEach(button => {
       button.addEventListener('click', function () {
+        const icon = this.querySelector('i');
+        const originalClass = 'fa-clone';
+        const successClass = 'fa-check';
+
         const textToCopy = this.getAttribute('data-code');
         if (!textToCopy) return;
 
         navigator.clipboard.writeText(textToCopy).then(() => {
-          this.classList.add('copied');
+          if (icon) {
+            icon.classList.remove(originalClass);
+            icon.classList.add(successClass);
+            icon.classList.add('copied');
+          }
+
           setTimeout(() => {
-            this.classList.remove('copied');
+            if (icon) {
+              icon.classList.remove(successClass);
+              icon.classList.add(originalClass);
+              icon.classList.remove('copied');
+            }
           }, 1200);
         }).catch(err => {
           console.error('Copy failed', err);
