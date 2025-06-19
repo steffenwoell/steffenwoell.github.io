@@ -1492,7 +1492,7 @@ strong.hl-blu::before {
 
 .fa-seedling:hover {
   color: rgba(34, 139, 34, 0.85);
-  animation: seedling-breathe 2.22s ease-in-out infinite;
+  animation: seedling-breathe 1.8s ease-in-out;
 }
 
 @keyframes seedling-breathe {
@@ -1507,7 +1507,7 @@ strong.hl-blu::before {
 
 .fa-heart:hover {
   color: rgba(220, 20, 60, 0.85);
-  animation: fa-beat 1.6s ease-in-out infinite;
+  animation: fa-beat 2.6s ease-in-out;
 }
 
 @keyframes fa-beat {
