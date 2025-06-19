@@ -42,18 +42,18 @@ Personal messages may be directed to
 <h2>Secure Messaging</h2>
 <div class="box-note m60">
   For quick and informal messages, feel free to reach out via Signal or Telegram
-</div>
-<div class="box-note m60 copy-container">
-  <pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
-  <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard">
-    <i class="far fa-clone"></i>
-  </button>
-</div>
-<div class="box-note m60 copy-container">
-  <pre><i class="fab fa-telegram-plane icon-inline" role="presentation"></i>t.me/steffenwoell</pre>
-  <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard">
-    <i class="far fa-clone"></i>
-  </button>
+  <div class="copy-container" style="margin-top: 1em;">
+    <pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
+    <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard">
+      <i class="far fa-clone"></i>
+    </button>
+  </div>
+  <div class="copy-container" style="margin-top: 1em;">
+    <pre><i class="fab fa-telegram-plane icon-inline" role="presentation"></i>t.me/steffenwoell</pre>
+    <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard">
+      <i class="far fa-clone"></i>
+    </button>
+  </div>
 </div>
 
 <h2>Data Privacy</h2>
