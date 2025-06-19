@@ -4796,7 +4796,8 @@
   }
   .pager .next>a,
   .pager .next>span {
-    float:right
+    float:left;
+    margin-left: 20px
   }
   .pager .previous>a,
   .pager .previous>span {
