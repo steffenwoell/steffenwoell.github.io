@@ -14,14 +14,14 @@ image: /img/cat/con.webp
 <div class="box-success">
 Address any official or business correspondences to 
 <div class="copy-container">
-  <pre><i class="fas fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
+  <pre><i class="fas fa-university icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
   <button class="copy-btn" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard">
     <i class="fas fa-copy"></i>
   </button>
 </div>
 Personal messages may be directed to 
 <div class="copy-container">
-  <pre><i class="fas fa-envelope icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
+  <pre><i class="fas fa-mail-bulk icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
   <button class="copy-btn" data-code="c7xlxa1b5@mozmail.com" title="Copy to clipboard">
     <i class="fas fa-copy"></i>
   </button>
