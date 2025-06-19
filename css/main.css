@@ -1353,11 +1353,15 @@ strong.hl-blu::before {
   overflow-wrap: break-word;
 }
 
-.m60 {
+.mt-5 {
+  margin-top: 5px;
+}
+
+.mb-60 {
   margin-bottom: 60px;
 }
 
-.m100 {
+.mb-100 {
   margin-bottom: 100px;
 }
 
@@ -1475,12 +1479,12 @@ strong.hl-blu::before {
 }
 
 .fa-seedling {
-  color: rgba(34, 139, 34, 0.85);
   transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
 .fa-seedling:hover {
-  animation: seedling-breathe 1.2s ease-in-out infinite;
+  color: rgba(34, 139, 34, 0.85);
+  animation: seedling-breathe 2.22s ease-in-out infinite;
 }
 
 @keyframes seedling-breathe {
