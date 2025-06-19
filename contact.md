@@ -19,9 +19,17 @@ Personal messages may be directed to <pre><i class="far fa-envelope icon-inline"
 </div>-->
 
 <div class="box-success">
+Address any official or business correspondences to 
 <div class="copy-container">
-  <pre id="email"><i class="far fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
-  <button class="copy-btn" data-target="email" title="Copy to clipboard">
+  <pre><i class="far fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
+  <button class="copy-btn" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard">
+    <i class="fas fa-copy"></i>
+  </button>
+</div>
+Personal messages may be directed to 
+<div class="copy-container">
+  <pre><i class="far fa-envelope icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
+  <button class="copy-btn" data-code="c7xlxa1b5@mozmail.com" title="Copy to clipboard">
     <i class="fas fa-copy"></i>
   </button>
 </div>
