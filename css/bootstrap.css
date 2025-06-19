@@ -1,4 +1,4 @@
-/*Bootstrap 3.3.2 (https://getbootstrap.com)*/
+/*Bootstrap 3.3.2 / Licensed under MIT*/
 
  html {
     font-family:sans-serif;
@@ -4796,8 +4796,7 @@
   }
   .pager .next>a,
   .pager .next>span {
-    float:left;
-    margin-left: 20px
+    float:right
   }
   .pager .previous>a,
   .pager .previous>span {
