@@ -16,14 +16,14 @@ Address any official or business correspondences to
 <div class="copy-container">
   <pre><i class="far fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
   <button class="copy-btn" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard">
-    <i></i>
+    <i class="fas fa-clone"></i>
   </button>
 </div>
 Personal messages may be directed to 
 <div class="copy-container">
   <pre><i class="far fa-envelope icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
   <button class="copy-btn" data-code="c7xlxa1b5@mozmail.com" title="Copy to clipboard">
-    <i class="far fa-clone"></i>
+    <i class="fas fa-clone"></i>
   </button>
 </div>
 </div>
@@ -33,7 +33,7 @@ Personal messages may be directed to
   <div class="copy-container">
     <pre><i class="fas fa-fingerprint icon-inline" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>
     <button class="copy-btn" data-code="8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B" title="Copy to clipboard">
-      <i class="far fa-clone"></i>
+      <i class="fas fa-clone"></i>
     </button>
   </div>
   and the corresponding <a href="/doc/keys/steffenwoell_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
@@ -45,13 +45,13 @@ Personal messages may be directed to
   <div class="copy-container" style="margin-top: 1em;">
     <pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
     <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard">
-      <i class="far fa-clone"></i>
+      <i class="fas fa-clone"></i>
     </button>
   </div>
   <div class="copy-container" style="margin-top: 1em;">
     <pre><i class="fab fa-telegram-plane icon-inline" role="presentation"></i>t.me/steffenwoell</pre>
     <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard">
-      <i class="far fa-clone"></i>
+      <i class="fas fa-clone"></i>
     </button>
   </div>
 </div>
@@ -108,6 +108,6 @@ Geisteswissenschaftliches Zentrum
 Beethovenstraße 15
 04107 Leipzig
 Germany" title="Copy to clipboard">
-    <i class="far fa-clone"></i>
+    <i class="fas fa-clone"></i>
   </button>
 </div>
