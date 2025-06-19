@@ -1073,6 +1073,19 @@ footer .theme-by {
 
 /* --- Code --- */
 
+.copy-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.copy-container pre {
+  flex: 1;
+  margin: 0;
+  padding-right: 2em;
+  overflow-x: auto;
+}
+
 .copy-btn {
   position: absolute;
   right: 0.5em;

@@ -10,20 +10,22 @@ image: /img/cat/con.webp
 </div>
 
 <h2>Email</h2>
-<div class="box-success">
+
+
+<!--<div class="box-success">
 Address any official or business correspondences to 
 <pre id="emailul"><i class="far fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre><button class="copy-btn" data-target="emailul" title="Copy to Clipboard"><i class="fas fa-copy"></i></button>
 Personal messages may be directed to <pre><i class="far fa-envelope icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
-</div>
+</div>-->
 
-
+<div class="box-success">
 <div class="copy-container">
   <pre id="email"><i class="far fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
   <button class="copy-btn" data-target="email" title="Copy to clipboard">
     <i class="fas fa-copy"></i>
   </button>
 </div>
-
+</div>
 
 
 
