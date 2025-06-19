@@ -41,19 +41,19 @@ Personal messages may be directed to
 
 <h2>Secure Messaging</h2>
 <div class="box-note m60">
-  For quick and informal messages, feel free to reach out via Signal or Telegram 
-  <div class="copy-container">
-    <pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
-    <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard">
-      <i class="far fa-clone"></i>
-    </button>
-  </div>
-  <div class="copy-container">
-    <pre><i class="fab fa-telegram-plane icon-inline" role="presentation"></i>t.me/steffenwoell</pre>
-    <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard">
-      <i class="far fa-clone"></i>
-    </button>
-  </div>
+  For quick and informal messages, feel free to reach out via Signal or Telegram
+</div>
+<div class="box-note m60 copy-container">
+  <pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
+  <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard">
+    <i class="far fa-clone"></i>
+  </button>
+</div>
+<div class="box-note m60 copy-container">
+  <pre><i class="fab fa-telegram-plane icon-inline" role="presentation"></i>t.me/steffenwoell</pre>
+  <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard">
+    <i class="far fa-clone"></i>
+  </button>
 </div>
 
 <h2>Data Privacy</h2>
@@ -98,8 +98,7 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 
 <h2>Mailing Address</h2>
 <div class="box-note m100 copy-container">
-  <pre><i class="fas fa-home icon-inline" role="presentation"></i>
-Dr. Steffen Wöll
+<pre>Dr. Steffen Wöll
 Geisteswissenschaftliches Zentrum
 Beethovenstraße 15
 04107 Leipzig
