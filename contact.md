@@ -58,7 +58,7 @@ image: /img/cat/con.webp
 
 <h2>Data Privacy</h2>
 <div class="box-success mb-60">
-Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense<i class="fas fa-external-link-alt" role="presentation"></i></a> against surveillance are basic rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers (IP addresses, cookies, browser fingerprints etc.) are collected, stored, or transmitted. This policy includes:
+Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense<i class="fas fa-external-link-alt" role="presentation"></i></a> against surveillance are basic rights. This website is designed with a focus on data protection, data privacy, and data economy. No personal identifiers (IP addresses, cookies, browser fingerprints etc.) are collected, stored, or transmitted. This policy includes
   <ul class="fa-ul">
     <li><span class="fa-li"><i class="fas fa-cookie-bite" role="presentation"></i></span><b>Zero</b> cookies</li>
     <li><span class="fa-li"><i class="fas fa-thumbs-down" role="presentation"></i></span><b>Zero</b> social media</li>

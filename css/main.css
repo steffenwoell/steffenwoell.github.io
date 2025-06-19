@@ -1507,9 +1507,6 @@ strong.hl-blu::before {
 
 .fa-heart:hover {
   color: rgba(220, 20, 60, 0.85);
-}
-
-.fa-beat {
   animation: fa-beat 1.6s ease-in-out infinite;
 }
 
