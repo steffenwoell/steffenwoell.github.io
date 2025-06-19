@@ -12,14 +12,14 @@ image: /img/cat/con.webp
 <h2>Email</h2>
 
 <div class="box-success">
-<p>Address any official or business correspondences to</p>
+Address any official or business correspondences to
 <div class="copy-container">
   <pre><i class="fas fa-university icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
   <button class="copy-btn" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard">
     <i class="fas fa-copy"></i>
   </button>
 </div>
-<p class="mt-5">Personal messages may be directed to</p>
+<p class="pt-5">Personal messages may be directed to</p>
 <div class="copy-container">
   <pre><i class="fas fa-mail-bulk icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
   <button class="copy-btn" data-code="c7xlxa1b5@mozmail.com" title="Copy to clipboard">

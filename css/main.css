@@ -1353,8 +1353,8 @@ strong.hl-blu::before {
   overflow-wrap: break-word;
 }
 
-.mt-5 {
-  margin-top: 5px;
+.pt-5 {
+  padding-top: 5px;
 }
 
 .mb-60 {
