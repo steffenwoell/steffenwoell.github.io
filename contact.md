@@ -16,7 +16,7 @@ Address any official or business correspondences to
 <div class="copy-container">
   <pre><i class="far fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
   <button class="copy-btn" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard">
-    <i class="fas fa-copy"></i>
+    <i class="far fa-copy"></i>
   </button>
 </div>
 Personal messages may be directed to 
