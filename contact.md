@@ -11,13 +11,6 @@ image: /img/cat/con.webp
 
 <h2>Email</h2>
 
-
-<!--<div class="box-success">
-Address any official or business correspondences to 
-<pre id="emailul"><i class="far fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre><button class="copy-btn" data-target="emailul" title="Copy to Clipboard"><i class="fas fa-copy"></i></button>
-Personal messages may be directed to <pre><i class="far fa-envelope icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
-</div>-->
-
 <div class="box-success">
 Address any official or business correspondences to 
 <div class="copy-container">
@@ -35,16 +28,32 @@ Personal messages may be directed to
 </div>
 </div>
 
-
-
 <div class="box-note m60">
-If you prefer encrypted communication, you can use the GPG/PGP key <pre><i class="fas fa-fingerprint icon-inline" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>and the corresponding <a href="/doc/keys/steffenwoell_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
+  If you prefer encrypted communication, you can use the GPG/PGP key 
+  <div class="copy-container">
+    <pre><i class="fas fa-fingerprint icon-inline" role="presentation"></i>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</pre>
+    <button class="copy-btn" data-code="8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B" title="Copy to clipboard">
+      <i class="far fa-clone"></i>
+    </button>
+  </div>
+  and the corresponding <a href="/doc/keys/steffenwoell_pgp_public_key.asc">public key<i class="fas fa-link" role="presentation"></i></a>
 </div>
 
 <h2>Secure Messaging</h2>
 <div class="box-note m60">
-For quick and informal messages, feel free to reach out via Signal or Telegram <pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
-<pre><i class="fab fa-telegram-plane icon-inline" role="presentation"></i>t.me/steffenwoell</pre>
+  For quick and informal messages, feel free to reach out via Signal or Telegram 
+  <div class="copy-container">
+    <pre><i class="fas fa-comment-dots icon-inline" role="presentation"></i>signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF</pre>
+    <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard">
+      <i class="far fa-clone"></i>
+    </button>
+  </div>
+  <div class="copy-container">
+    <pre><i class="fab fa-telegram-plane icon-inline" role="presentation"></i>t.me/steffenwoell</pre>
+    <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard">
+      <i class="far fa-clone"></i>
+    </button>
+  </div>
 </div>
 
 <h2>Data Privacy</h2>
@@ -88,12 +97,18 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 </div>
 
 <h2>Mailing Address</h2>
-<div class="box-note m100">
-<pre>
+<div class="box-note m100 copy-container">
+  <pre><i class="fas fa-home icon-inline" role="presentation"></i>
 Dr. Steffen Wöll
 Geisteswissenschaftliches Zentrum
 Beethovenstraße 15
 04107 Leipzig
-Germany
-</pre>
+Germany</pre>
+  <button class="copy-btn" data-code="Dr. Steffen Wöll
+Geisteswissenschaftliches Zentrum
+Beethovenstraße 15
+04107 Leipzig
+Germany" title="Copy to clipboard">
+    <i class="far fa-clone"></i>
+  </button>
 </div>
