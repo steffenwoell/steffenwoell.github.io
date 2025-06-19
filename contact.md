@@ -14,14 +14,14 @@ image: /img/cat/con.webp
 <div class="box-success">
 Address any official or business correspondences to 
 <div class="copy-container">
-  <pre><i class="far fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
+  <pre><i class="fas fa-envelope icon-inline" role="presentation"></i>steffen.woell@uni-leipzig.de</pre>
   <button class="copy-btn" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard">
-    <i class="far fa-copy"></i>
+    <i class="fas fa-copy"></i>
   </button>
 </div>
 Personal messages may be directed to 
 <div class="copy-container">
-  <pre><i class="far fa-envelope icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
+  <pre><i class="fas fa-envelope icon-inline" role="presentation"></i>c7xlxa1b5@mozmail.com</pre>
   <button class="copy-btn" data-code="c7xlxa1b5@mozmail.com" title="Copy to clipboard">
     <i class="fas fa-copy"></i>
   </button>
@@ -82,10 +82,10 @@ Both online and offline, privacy and <a href="https://ssd.eff.org/">self-defense
 <h2>Licenses & Copyrights</h2>
 <div class="box-note m60">
 <ul class="list-copy" role="list">
-<li>Unless stated otherwise, all contents of this personal, non-commercial website are licensed under Creative Commons <a rel="license" href="/doc/legal/CC-LICENSE.txt">BY-NC-ND 4.0<i class="far fa-file" role="presentation"></i></a></li>
-<li><span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> fonts are self-hosted under <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="far fa-file" role="presentation"></i></a></li>
-<li><span class="pre-inline">Bootstrap CSS</span> is implemented under <a rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="far fa-file" role="presentation"></i></a></li>
-<li>Icons are self-hosted and licensed with <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="far fa-file" role="presentation"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
+<li>Unless stated otherwise, all contents of this personal, non-commercial website are licensed under Creative Commons <a rel="license" href="/doc/legal/CC-LICENSE.txt">BY-NC-ND 4.0<i class="fas fa-file" role="presentation"></i></a></li>
+<li><span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> fonts are self-hosted under <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache 2.0 License<i class="fas fa-file" role="presentation"></i></a></li>
+<li><span class="pre-inline">Bootstrap CSS</span> is implemented under <a rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="fas fa-file" role="presentation"></i></a></li>
+<li>Icons are self-hosted and licensed with <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="fas fa-file" role="presentation"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
 <li>Profile picture and favicon are courtesy of <a href="https://savee.it/vulcano/">Stefano Assom | Vulcano<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
 <li>Unless marked otherwise, all other images are courtesy of <a rel="license" href="https://unsplash.com/license">Unsplash<i class="fas fa-external-link-alt" role="presentation"></i></a></li>
 </ul>
