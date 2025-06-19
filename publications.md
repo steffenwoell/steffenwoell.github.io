@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-image: /img/pub_av.webp
+image: /img/cat/pub.webp
 ---
 
 <div class="box-note">

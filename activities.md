@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-image: /img/act_av.webp
+image: /img/cat/act.webp
 ---
 
 <div class="box-note">

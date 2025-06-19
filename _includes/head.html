@@ -45,13 +45,13 @@
   window.onload = function() {
     setTimeout(function() {
       // preload image
-      new Image().src = "https://steffenwoell.github.io/img/pro_av.webp";
-      new Image().src = "https://steffenwoell.github.io/img/pub_av.webp";
-      new Image().src = "https://steffenwoell.github.io/img/act_av.webp";
-      new Image().src = "https://steffenwoell.github.io/img/jou_av.webp";
-      new Image().src = "https://steffenwoell.github.io/img/con_av.webp";
-      new Image().src = "https://steffenwoell.github.io/img/tag_av.webp";
-      new Image().src = "https://steffenwoell.github.io/img/404_av.webp";
+      new Image().src = "{{ '/img/cat/pro.webp' | relative_url }}";
+      new Image().src = "{{ '/img/cat/pub.webp' | relative_url }}";
+      new Image().src = "{{ '/img/cat/act.webp' | relative_url }}";
+      new Image().src = "{{ '/img/cat/jou.webp' | relative_url }}";
+      new Image().src = "{{ '/img/cat/con.webp' | relative_url }}";
+      new Image().src = "{{ '/img/cat/tag.webp' | relative_url }}";
+      new Image().src = "{{ '/img/cat/404.webp' | relative_url }}";
     }, 1000);
   };
 </script>

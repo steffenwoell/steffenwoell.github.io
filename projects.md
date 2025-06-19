@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-image: /img/pro.webp
+image: /img/cat/pro.webp
 ---
 
 <!--{: .box-updated}
