@@ -1085,37 +1085,54 @@ footer .theme-by {
   padding-right: 2em;
   overflow-x: auto;
 }
-/* --- Copy Button Icon --- */
+
+/* --- Copy Button Container --- */
+.copy-container {
+  position: relative;
+  display: block;
+}
+
+/* --- Button Styling --- */
+.copy-btn {
+  position: absolute;
+  right: 1em;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0.4em;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+/* --- Default Icon Style --- */
 .copy-btn i {
   font-size: 1.2em;
   opacity: 0.7;
   transition: all 0.3s ease;
 }
 
+/* --- Hover Effect --- */
 .copy-btn:hover i {
   opacity: 0.9;
   transform: scale(1.1);
 }
 
-.copy-btn {
-  position: absolute;
-  right: 1em;
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  color: rgba(0, 0, 0, 0.4);
-  padding: 0.4em;
+/* --- Default Icon: fa-clone --- */
+.copy-btn i::before {
+  content: "\f24d"; /* Unicode für fa-clone */
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  transition: all 0.3s ease;
 }
 
-/* Morph icon to checkmark when copied */
+/* --- When Copied: Morph to fa-check-circle --- */
 .copy-btn.copied i::before {
-  content: "\f328"; /* Unicode checkmark */
+  content: "\f058"; /* Unicode für fa-check-circle */
   font-family: "Font Awesome 5 Free";
-  font-weight: 900;
+  font-weight: 400;
   color: limegreen;
 }
-
-/* Remove direct content styling on .copy-btn i to allow morph effect */
 
 .pre-inline {
   font-family: monospace;
