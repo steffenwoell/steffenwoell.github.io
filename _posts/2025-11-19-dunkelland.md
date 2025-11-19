@@ -27,7 +27,7 @@ Drehzahl
 Splitter  
 
 Abgebaut  
-Weggeschaut  
+*Weggeschaut*  
 
 Spähne  
 Zähne  
