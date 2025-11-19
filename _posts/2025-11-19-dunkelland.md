@@ -30,7 +30,7 @@ Abgebaut
 *Weggeschaut*  
 
 Spähne  
-Zähne  
+*Zähne*  
 
 Frischer Schweiß  
 Schwemmt deine Brau'n  
