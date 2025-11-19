@@ -3,7 +3,7 @@ layout: post
 title: Weißer Porsche
 subtitle: Leipzig, Germany
 image: /img/por.webp
-excerpt:  Digital ~ Signal, Gefäße der Nacht, Der Körper der Macht...
+excerpt: Digital ~ Signal, Gefäße der Nacht, Der Körper der Macht...
 permalink: /journal/:title/
 tags: [Leipzig, Germany]
 ---
