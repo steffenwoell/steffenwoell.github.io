@@ -12,7 +12,7 @@ Remembered
 embodied  
 a bloodied  
 
-speck
+speck  
 &nbsp;&nbsp;&nbsp;&nbsp;inked  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my finger  
@@ -35,7 +35,7 @@ emptied sky
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My body-works  
 &nbsp;&nbsp;&nbsp;&nbsp;α cypher  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— dye  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— dye  
 
 Shaded gaze  
 sloughed off  
