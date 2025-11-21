@@ -13,9 +13,9 @@ embodied
 a bloodied  
 
 speck
-    inked  
-        on  
-            my finger  
+&nbsp;&nbsp;&nbsp;&nbsp;inked  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my finger  
 
 Marked by birth  
 needle-pricked  
@@ -33,9 +33,9 @@ Onyx-tinted
 jaded  
 emptied sky  
 
-        My body-works  
-    α cypher  
-            — dye  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My body-works  
+&nbsp;&nbsp;&nbsp;&nbsp;α cypher  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— dye  
 
 Shaded gaze  
 sloughed off  
