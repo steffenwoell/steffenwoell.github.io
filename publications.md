@@ -32,7 +32,7 @@ image: /img/cat/pub.webp
 ## I.&nbsp;Books
 <div class="blue">
 <p><strong class="hl hl-gre">A Place Between Oceans: Imagining American Empire, 1880&#8211;1940</strong>. Habilitation project</p>
-<p><strong class="hl hl-gre">The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</strong>. De Gruyter, 2020. <a href="https://doi.org/10.1515/9783110690132">Print & Open Access<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-gre">The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</strong>. De Gruyter, 2020. <a href="https://doi.org/10.1515/9783110690132">Print & Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-gre">Periphere Räume in der Amerikanistik</strong>. With Gabriele Pisarz-Ramirez. Dialektik des Globalen. Kernbegriffe. De Gruyter, 2019. <a href="https://www.degruyter.com/document/doi/10.1515/9783110655476/html">Print & Open Access<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
