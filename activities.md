@@ -114,6 +114,8 @@ image: /img/cat/act.webp
 
 ## III.&nbsp;Teaching
 <div class="gold">
+<p><strong class="hl hl-yel">Killer Content: Crime as Spectacle in American Media.</strong> <em>Media, Society, and Culture</em>. Leipzig University. Summer Term 2026. Seminar</p>
+<p><strong class="hl hl-yel">Utopian Futures in American Literature.</strong> <em>Literature and Culture II</em>. Leipzig University. Summer Term 2026. Seminar</p>
 <p><strong class="hl hl-yel">Oceans as Boundaries & Connections.</strong> <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2025/26. <a href="/doc/ED-Seminar-Syllabus-WS-25-26.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Captivity - Enslavement - Incarceration - Liberation.</strong> <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2024/25. <a href="/doc/ED-Seminar-Syllabus-WS-24-25.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Race & Consumption.</strong> <em>Ethnicity and Diversity in US Culture II</em>. Leipzig University. Summer Term 2024. <a href="/doc/EDII-Seminar-Syllabus-SoSe-2024.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
