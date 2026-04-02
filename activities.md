@@ -134,10 +134,11 @@ image: /img/cat/act.webp
 
 <div><a class="anchor" id="thesis-supervision" role="button" aria-label="Thesis Supervision" tabindex="0">&nbsp;</a></div>
 
-## IV.&nbsp;Thesis Supervision (recent)
+## IV.&nbsp;Thesis Supervision (Selection)
 <div class="gold">
-<p><strong class="hl hl-yel">Visual Depictions of Black Motherhood in the Antebellum vs. Reconstruction Era.</strong> BA Thesis. American Studies Leipzig. Summer Term 2024.</p>
-<p><strong class="hl hl-yel">Filmic Representations of American Domesticity in the 1970s.</strong> MA Thesis. American Studies Leipzig. Winter Term 2023/24.</p>
+<p><strong class="hl hl-yel">Race, Environment, and (Eco-)Cosmic Horror in Lovecraft and
+<em>Annihilation</em>.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
+<p><strong class="hl hl-yel"><em>Subversive Fucking</em>: Disrupting Beliefs About Black and White Male Bodies in Contemporary Porn.</strong> BA Thesis. American Studies Leipzig. 2025.</p>
 </div>
 
 <div><a class="anchor" id="field-work-archival-studies" role="button" aria-label="Field Work & Archival Studies" tabindex="0">&nbsp;</a></div>
