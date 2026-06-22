@@ -136,9 +136,12 @@ image: /img/cat/act.webp
 
 ## IV.&nbsp;Thesis Supervision (Selection)
 <div class="gold">
+<p><strong class="hl hl-yel">Beautiful Violence: The Aestheticization and Commodification of
+Violence in American Media.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
 <p><strong class="hl hl-yel">Race, Environment, and (Eco-)Cosmic Horror in Lovecraft and
 <em>Annihilation</em>.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
-<p><strong class="hl hl-yel"><em>Subversive Fucking</em>: Disrupting Beliefs About Black and White Male Bodies in Contemporary Porn.</strong> BA Thesis. American Studies Leipzig. 2025.</p>
+<p><strong class="hl hl-yel">Environmental Racism and its Health Effects in Chicago’s African-American Community
+in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
 </div>
 
 <div><a class="anchor" id="field-work-archival-studies" role="button" aria-label="Field Work & Archival Studies" tabindex="0">&nbsp;</a></div>
