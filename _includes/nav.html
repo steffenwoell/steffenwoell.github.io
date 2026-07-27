@@ -9,31 +9,39 @@
       </button>
 
       {%- if site.title-img -%}
-        <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}"/></a>
+        <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}" alt="{{ site.title }}"></a>
       {%- else -%}
         <a class="navbar-brand" href="{{ '' | absolute_url }}">Steffen Wöll</a>
       {%- endif -%}
 
-      <div id="darkModeToggle" class="navbar-brand toggle" title="Switch Theme" role="button" tabindex="0"><i class="fas fa-adjust fa-lg" role="presentation"></i><span class="sr-only">Toggle light / dark mode</span></div>
+      <button id="darkModeToggle" class="navbar-brand toggle" type="button" title="Switch theme" aria-pressed="false"><i class="fas fa-adjust fa-lg" aria-hidden="true"></i><span class="sr-only">Toggle light / dark mode</span></button>
       
       <script>
         // Dark mode toggle logic
         const darkModeToggle = document.getElementById('darkModeToggle');
         const htmlElement = document.documentElement;
-        const isDarkMode = localStorage.getItem('darkMode') === 'enabled';
+        let isDarkMode = false;
+        try {
+          isDarkMode = localStorage.getItem('darkMode') === 'enabled';
+        } catch (error) {
+          // Continue with the default theme when storage is unavailable.
+        }
         // Apply dark mode based on user choice from local storage
         if (isDarkMode) {
           htmlElement.classList.add('dark-mode');
         }
+        darkModeToggle.setAttribute('aria-pressed', String(isDarkMode));
         // Dark mode toggle event listener
         darkModeToggle.addEventListener('click', () => {
           // Toggle dark mode class
           htmlElement.classList.toggle('dark-mode');
+          const darkModeEnabled = htmlElement.classList.contains('dark-mode');
+          darkModeToggle.setAttribute('aria-pressed', String(darkModeEnabled));
           // Update local storage
-          if (htmlElement.classList.contains('dark-mode')) {
-            localStorage.setItem('darkMode', 'enabled');
-          } else {
-            localStorage.setItem('darkMode', 'disabled');
+          try {
+            localStorage.setItem('darkMode', darkModeEnabled ? 'enabled' : 'disabled');
+          } catch (error) {
+            // The selected theme still applies for the current page.
           }
         });
       </script>
@@ -45,8 +53,8 @@
         {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
         <li class="navlinks-container">
-          <a class="navlinks-parent" href="javascript:void(0)" role="button" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-          <div class="navlinks-children" tabindex="0">
+          <button class="navlinks-parent" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="navlinks-{{ forloop.index }}">{{ link[0] }}</button>
+          <div id="navlinks-{{ forloop.index }}" class="navlinks-children">
             {%- for childlink in link[1] -%}
             {%- for linkparts in childlink %}
             <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
@@ -55,7 +63,7 @@
           </div>
         </li>
         {% else %}
-        <li tabindex="0"><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+        <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
         {%- endif -%}
         {%- endfor -%}
       </ul>
@@ -64,16 +72,16 @@
     {% if page.image and (layout.show-avatar or page.show-avatar) %}
     <div class="avatar-container">
       <div class="avatar-img-border">
-        <a href="{{ '' | absolute_url }}">
-          <img class="avatar-img" src="{{ page.image | relative_url }}" alt="avatar-img">
+        <a href="{{ '' | absolute_url }}" aria-label="Home">
+          <img class="avatar-img" src="{{ page.image | relative_url }}" alt="">
         </a>
       </div>
     </div>
     {% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
     <div class="avatar-container">
       <div class="avatar-img-border">
-        <a href="{{ '' | absolute_url }}">
-          <img class="avatar-img" src="{{ site.avatar | relative_url }}" alt="avatar-img">
+        <a href="{{ '' | absolute_url }}" aria-label="Home">
+          <img class="avatar-img" src="{{ site.avatar | relative_url }}" alt="">
         </a>
       </div>
     </div>

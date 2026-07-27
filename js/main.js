@@ -23,12 +23,14 @@ var main = {
     });
     // On mobile, when clicking on multi-level navbar menu, show child links
     $('#main-navbar').on("click", ".navlinks-parent", function(e) {
-      var target = e.target;
+      var target = this;
       $.each($(".navlinks-parent"), function(key, value) {
         if (value == target) {
-          $(value).parent().toggleClass("show-children");
+          var isExpanded = $(value).parent().toggleClass("show-children").hasClass("show-children");
+          $(value).attr("aria-expanded", isExpanded);
         } else {
           $(value).parent().removeClass("show-children");
+          $(value).attr("aria-expanded", "false");
         }
       });
     });

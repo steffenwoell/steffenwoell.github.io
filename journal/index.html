@@ -26,7 +26,7 @@ image: /img/swj.webp
       {% if post.image %}
       <div class="post-image">
         <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}" alt="post-image">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
         </a>
       </div>
       {% endif %}

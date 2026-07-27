@@ -2,6 +2,8 @@
 
 title: Dr. Steffen Wöll
 description: Postdoctoral Researcher at Leipzig University
+url: "https://steffenwoell.github.io"
+baseurl: ""
 
 # --- Local development options ---
 # If hosted locally set url and baseurl (Danger!)

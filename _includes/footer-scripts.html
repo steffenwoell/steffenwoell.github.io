@@ -6,15 +6,7 @@
 
 {% if layout.common-js %}
   {% for js in layout.common-js %}
-    {% if js contains 'jquery' %}
-      <script>
-      	if (typeof jQuery == 'undefined') {
-          document.write('<script src="{{ js | relative_url }}"></scr' + 'ipt>');
-      	}
-      </script>
-    {% else %}
-      <script src="{{ js | relative_url }}"></script>
-    {% endif %}
+    <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
 
@@ -45,32 +37,53 @@
 </script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
+    const lastModified = document.getElementById('last-modified');
+    if (lastModified) {
+      lastModified.textContent = `Last modified: ${document.lastModified}`;
+    }
+  });
+</script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
     const buttons = document.querySelectorAll('.copy-btn');
+    const copyStatus = document.getElementById('copy-status');
 
     buttons.forEach(button => {
       button.addEventListener('click', function () {
         const icon = this.querySelector('i');
         const originalClass = 'fa-copy';
         const successClass = 'fa-check';
+        const originalLabel = this.getAttribute('aria-label');
 
         const textToCopy = this.getAttribute('data-code');
         if (!textToCopy) return;
 
         navigator.clipboard.writeText(textToCopy).then(() => {
+          this.classList.add('copied');
+          this.setAttribute('aria-label', 'Copied to clipboard');
+          if (copyStatus) {
+            copyStatus.textContent = 'Copied to clipboard';
+          }
+
           if (icon) {
             icon.classList.remove(originalClass);
             icon.classList.add(successClass);
-            icon.classList.add('copied');
           }
 
           setTimeout(() => {
+            this.classList.remove('copied');
+            if (originalLabel) {
+              this.setAttribute('aria-label', originalLabel);
+            }
             if (icon) {
               icon.classList.remove(successClass);
               icon.classList.add(originalClass);
-              icon.classList.remove('copied');
             }
           }, 1200);
         }).catch(err => {
+          if (copyStatus) {
+            copyStatus.textContent = 'Copy failed';
+          }
           console.error('Copy failed', err);
         });
       });
