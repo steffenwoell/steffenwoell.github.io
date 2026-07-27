@@ -4,10 +4,6 @@ title: Activities
 image: /img/cat/act.webp
 ---
 
-<div class="box-note">
-<i class="fas fa-portrait icon-inline" role="presentation"></i>Resume in <span class="tag-heading"><a href="/doc/CV_Steffen_Woell_en_05_24.pdf">English<i class="fas fa-file-pdf" role="presentation"></i></a></span><a href="/doc/CV_Steffen_Woell_de_05_24.pdf">German<i class="fas fa-file-pdf" role="presentation"></i></a>
-</div>
-
 <div class="box-toc-act">
 <div class="box-toc-act-cont"><i class="fas fa-database icon-inline" role="presentation"></i><b>Contents</b></div>
 <ol class="toc">
@@ -15,20 +11,20 @@ image: /img/cat/act.webp
 <li><a href="#panels-workshops">Panels & Workshops</a></li>
 <li><a href="#teaching">Teaching</a></li>
 <li><a href="#thesis-supervision">Thesis Supervision</a></li>
-<li><a href="#field-work-archival-studies">Field Work & Archival Studies</a></li>
+<li><a href="#fieldwork-archives">Fieldwork & Archival Research</a></li>
 <li><a href="#memberships">Memberships</a></li>
 <li><a href="#grants-awards">Grants & Awards</a></li>
 <li><a href="#volunteering">Volunteering</a></li>
 </ol>
 </div>
 
-<div><a class="anchor" id="conferences" role="button" aria-label="Conferences" tabindex="0">&nbsp;</a></div>
+<div class="anchor" id="conferences" aria-hidden="true"></div>
 
 ## I.&nbsp;Conferences / Presentations
 <div class="gold">
 <p><strong class="hl hl-yel">Archipelagic Dissent: Counter-Geographies of America’s Oceanic Empire.</strong> <em>NASA Annual Conference: American Protest Cultures</em>. Radboud University Nijmegen. 4-6 November 2026. <a href="https://www.netherlands-america.nl/2026-annual-conference-4-6-november-2026-nijmegen/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">Travel, Trade, and Transformation: Cartographic Coordinates and Digital Legacies of R.H. Dana&#8217;s <em>Two Years Before the Mast</em>.</strong> <em>Maps in American Literature, 15th-21st century</em>. École normale supérieure de Lyon. 1-3 April 2026. <a href="https://maps2026.sciencesconf.org/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">The Graveyard Shift: Labor and the Horrors of Colonial Extraction.</strong> <em>Playing the Field VI: Video Games and Labour</em>. University of Bucharest. 19-21 March, 2026. <a href="https://anglistik.kuwi.tu-dortmund.de/gamestudies/playing-the-field/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-yel">Travel, Trade, and Transformation: Cartographic Coordinates and Digital Legacies of R.H. Dana&#8217;s <em>Two Years Before the Mast</em>.</strong> <em>Maps in American Literature, 15th–21st Century</em>. École normale supérieure de Lyon. 1-3 April 2026. <a href="https://maps2026.sciencesconf.org/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-yel">The Graveyard Shift: Labor and the Horrors of Colonial Extraction.</strong> <em>Playing the Field VI: Video Games and Labour</em>. University of Bucharest. 19-21 March 2026. <a href="https://anglistik.kuwi.tu-dortmund.de/gamestudies/playing-the-field/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Seeing, Speaking, Touching, Dying: Transforming the Body through (Visual) Language in David Cronenberg&#8217;s <em>Videodrome</em>.</strong> <em>Expressivity, Bodies and Language in the Twenty-First Century</em>. Université Paul-Valéry Montpellier. 20-21 November 2025. <a href="https://expressivity.sciencesconf.org/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Democratic Frontiers, Nazi Natives, and Postwar Masculinities: Western Novels and German Identities.</strong> <em>Facing West: Thinking, Living, Outliving the American West</em>. AISNA XXVIII Biennial Conference. Bergamo. 11-13 September 2025. <a href="https://www.aisna.net/conference-bergamo/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Archiving America / American Archives</strong>. 71st Annual Meeting of the German Association for American Studies. Siegen, Germany. 12-14 June 2025. <a href="https://www.uni-siegen.de/phil/anglistik/dgfa2025/">Attendee<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
@@ -47,7 +43,7 @@ image: /img/cat/act.webp
 <p><strong class="hl hl-yel">Facing Time: Mugshots, Social Discipline, and Popular Culture.</strong> <em>Guilty Pleasures: Examining Crime in Popular Culture</em>. Popular Culture Research Network (PopCRN) Symposium. Sydney / online. 3 May 2024. <a href="https://www.popcrn.org/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">The Ocean at Home: Philip Henry Gosse and the Victorian Aquarium Frenzy.</strong> Home/Bodies: 6th Biennial NEXUS Interdisciplinary Conference. Knoxville / online. 7 April 2024. <a href="https://nexus.utk.edu/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Mapping Migrant Bodies: Surveillance, Algocracy, and Cartographic Resistance.</strong> <em>1924–2024: The American Immigrant Narrative Revisited</em>. European Association of American Studies Biennial Conference. Munich. 6 April 2024. <a href="https://www.eaas.eu/conferences/eaas-biennial-conferences/770-2022-eaas-conference-munich">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">Imperial Torrents and Literary Undertows: Liquifying America&#8217;s Transoceanic Empire.</strong> Narratives of Water: Flows, Routes, Crises in the Atlantic World. Turin. 22 March 2024. <a href="https://islk.kuwi.tu-dortmund.de/ptf4/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-yel">Imperial Torrents and Literary Undertows: Liquifying America&#8217;s Transoceanic Empire.</strong> <em>Narratives of Water: Flows, Routes, Crises in the Atlantic World</em>. Turin. 22 March 2024. Presentation</p>
 <p><strong class="hl hl-yel">Revolutionary Geographies: Identity, Algocracy, and Resistance in the Age of AI.</strong> <em>2nd International Humanities - Society - Identity Congress (HSIC): Evolution/Revolution</em>. University of Warsaw. 6 December 2023. <a href="https://hsic.wn.uw.edu.pl/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Remapping Human Geographies: Spatial Imaginations and the Social Agency of Mapmaking.</strong> <em>Comparative Literature: The Imaginaire and (Re)Shaping the World</em>. Department of English Language and Literature. Cairo. 15 November 2023. <a href="https://www.academia.edu/88401985/CFP_The_15th_International_Symposium_on_Comparative_Literature_The_Imaginaire_and_Re_Shaping_the_World_14_16_November_2023">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Making Space for Solidarity: Maps as Agents of Affective Reterritorialization and Social Change.</strong> <em>Crises and Turns: Continuities and Discontinuities in American Culture</em>. American Studies Association Annual Meeting. Montreal. 3 November 2023. <a href="https://www.theasa.net/node/293">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
@@ -59,7 +55,7 @@ image: /img/cat/act.webp
 <p><strong class="hl hl-yel">From Daguerreotype to DNA: Mugshots as Cultural Expressions of Discipline, Bias, and Protest.</strong> <em>Mid-Atlantic Popular & American Culture Association Annual Conference</em>. Online. 12 November 2022. <a href="https://mapaca.net/conference/2022">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">The Young Republic and Young Germany: Charles Sealsfield&#8217;s Transatlantic Narrative Politics.</strong> <em>Master of the World? Charles Sealsfield&#8217;s America between Emancipation, Exceptionalism and Globalization</em>. Dortmund. 23 September 2022. <a href="https://islk.kuwi.tu-dortmund.de/institut/veranstaltungen/details/charles-sealsfield-symposium-12237/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">&#8220;The whitest God makes &#8217;em&#8221;: Postbellum Racial Politics and the White Elephant War of 1884.</strong> <em>Animals in the US Popular Imagination</em>. PopMeC / Austrian Association for Cultural Studies, Cultural History, and Popular Culture. Online. 15 September 2022. <a href="https://popular-animals.com/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">Imperial Spatializations and Archipelagic Counter-Geographies.</strong> <em>American Comparative Literature Association Annual Conference</em> | <em>Comparative Archipelagoes</em>. Taipeh. 16 June 2022. With Gabriele Pisarz-Ramirez. <a href="https://www.acla.org/sites/default/files/files/ACLA_Program.pdf">Presentation<i class="fas fa-file-pdf" role="presentation"></i></a></p>
+<p><strong class="hl hl-yel">Imperial Spatializations and Archipelagic Counter-Geographies.</strong> <em>American Comparative Literature Association Annual Conference</em> | <em>Comparative Archipelagoes</em>. Taipei. 16 June 2022. With Gabriele Pisarz-Ramirez. <a href="https://www.acla.org/sites/default/files/files/ACLA_Program.pdf">Presentation<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Approaching Zero-Point: Radical Environmentalism, Eco-Apocalypticism, and Anti-Capitalist Disaster Culture in the United States.</strong> <em>Disaster Discourse: Representations of Catastrophe</em>. Bucharest / online. 2 June 2022. <a href="https://engleza.lls.unibuc.ro/aiced2022l2/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Region, Nation, and Empire: Scaling Spatial Semantics in American Literature.</strong> <em>Collaborative Research Centre 1199 Colloquium</em>. Leipzig. 11 May 2022. <a href="https://research.uni-leipzig.de/~sfb1199/app/uploads/2022/04/SFB_Colloquium_SS2022_Druckversion-1.pdf">Presentation<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Archipelagic Thinking and the Transcultural Space of Mapping.</strong> <em>Transferts Culturels - Kulturtransfers - Intercultural Transfers</em>. Online. 11 February 2022. <a href="https://research.uni-leipzig.de/transfertsculturels/de/programm/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
@@ -97,7 +93,7 @@ image: /img/cat/act.webp
 <p><strong class="hl hl-yel">Space and Place in American Studies.</strong> <em>Urban America: Mediating City Space as Place</em>. American Studies Leipzig Graduate Conference. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016">Keynote Address<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a class="anchor" id="panels-workshops" role="button" aria-label="Panels & Workshops" tabindex="0">&nbsp;</a></div>
+<div class="anchor" id="panels-workshops" aria-hidden="true"></div>
 
 ## II.&nbsp;Panels & Workshops
 <div class="gold">
@@ -106,11 +102,11 @@ image: /img/cat/act.webp
 <p><strong class="hl hl-yel">The Seeds and Seeding of Empire.</strong> <em>American Studies Association Annual Conference</em>. San Juan / online. 14 October 2021. <a href="https://asa.press.jhu.edu/program21/program.pdf">Panel Chair<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Archipelagic Imperial Spaces and Mobilities.</strong> Leipzig / online. 15-17 July 2021. <em>First International Workshop</em>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. <a href="https://enmma.carrd.co/#events">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Spatial Narratives of Resistance and Dissension at US Peripheries During the Nineteenth Century.</strong> <em>Reinventing the Social: Movements and Narratives of Resistance, Dissension, and Reconciliation in the Americas (International Association of Inter-American Studies)</em>. Coimbra. 24 March 2018. With Gabriele Pisarz-Ramirez and Deniz Bozkurt. <a href="https://www.interamericanstudies.net/?page_id=6447">Panel Co-Chair<i class="fas fa-lock-open" role="presentation"></i><i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">Regional Colloquium for American Studies.</strong> Leipzig. 13 January 2017. Co-Organizer</p>
+<p><strong class="hl hl-yel">Regional Colloquium for American Studies.</strong> Leipzig. 13 January 2017. Co-Organizer.</p>
 <p><strong class="hl hl-yel">Urban America: Mediating City Space as Place.</strong> <em>American Studies Leipzig Graduate Conference</em>. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a class="anchor" id="teaching" role="button" aria-label="Teaching" tabindex="0">&nbsp;</a></div>
+<div class="anchor" id="teaching" aria-hidden="true"></div>
 
 ## III.&nbsp;Teaching
 <div class="gold">
@@ -127,13 +123,13 @@ image: /img/cat/act.webp
 <p><strong class="hl hl-yel">The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.</strong> <em>Literature and Culture II</em>. Leipzig University. Summer Term 2022. <a href="/doc/LC-II-Seminar-Syllabus-SoSe-2022.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">&#8220;A technical white elephant&#8221;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.</strong> <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2021/22. <a href="/doc/ED-Seminar-Syllabus-WS-21-22.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Reading the Transpacific: Asian American Cultures and Identities.</strong> <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2020/21. <a href="/doc/ED-Seminar-Syllabus-WS-20-21.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel"><a href="/doc/Research-Bash-Summer-2019.pdf">ASL Research Bash<i class="fas fa-file-pdf" role="presentation"></i></a></strong> <em>American Studies Leipzig</em>. 25 June 2019</p>
+<p><strong class="hl hl-yel"><a href="/doc/Research-Bash-Summer-2019.pdf">ASL Research Bash<i class="fas fa-file-pdf" role="presentation"></i></a></strong> <em>American Studies Leipzig</em>. 25 June 2019.</p>
 <p><strong class="hl hl-yel">Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8220;The Shadow over Innsmouth.&#8221;</strong> <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 13 June 2018. <a href="https://americanstudies.uni-leipzig.de/content/courses-summer-2018-0?tab_id=5457#lasipp-tab-1">Guest Lecture<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.</strong> <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2017/18. <a href="/doc/ED-Seminar-Syllabus-WS-17-18.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;</strong> <em>Mixed Race America in U.S. Literature</em>. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1">Guest Lecture<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a class="anchor" id="thesis-supervision" role="button" aria-label="Thesis Supervision" tabindex="0">&nbsp;</a></div>
+<div class="anchor" id="thesis-supervision" aria-hidden="true"></div>
 
 ## IV.&nbsp;Thesis Supervision (Selection)
 <div class="gold">
@@ -145,21 +141,21 @@ Violence in American Media.</strong> BA Thesis. American Studies Leipzig. 2026.<
 in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
 </div>
 
-<div><a class="anchor" id="field-work-archival-studies" role="button" aria-label="Field Work & Archival Studies" tabindex="0">&nbsp;</a></div>
+<div class="anchor" id="fieldwork-archives" aria-hidden="true"></div>
 
-## V.&nbsp;Field Work & Archival Studies
+## V.&nbsp;Fieldwork & Archival Research
 <div class="gold">
-<p><strong class="hl hl-yel">Tulane University Libraries.</strong> <em>Tulane University, New Orleans</em>. 2022. Funded by Deutsche Forschungsgemeinschaft</p>
-<p><strong class="hl hl-yel">Nettie Lee Benson Latin American Studies Collection.</strong> <em>University of Texas at Austin</em>. 2022. Funded by Deutsche Forschungsgemeinschaft</p> 
-<p><strong class="hl hl-yel">Otto G. Richter Library.</strong> <em>University of Miami</em>. 2022. Funded by Deutsche Forschungsgemeinschaft</p>
-<p><strong class="hl hl-yel">The Huntington Library.</strong> <em>The Huntington, San Marino</em>. 2020. Funded by Deutsche Forschungsgemeinschaft</p>
-<p><strong class="hl hl-yel">Dornsife College of Letters, Arts and Sciences.</strong> <em>University of South California, Los Angeles</em>. 2020. Funded by Deutsche Forschungsgemeinschaft</p>
-<p><strong class="hl hl-yel">Special Collections Library.</strong> <em>University of Oregon, Eugene</em>. 2020. Funded by Deutsche Forschungsgemeinschaft</p>
-<p><strong class="hl hl-yel">Bancroft Library Western Americana Collection.</strong> <em>University of California, Berkeley</em>. 2017. Funded by Deutsche Forschungsgemeinschaft</p>
+<p><strong class="hl hl-yel">Tulane University Libraries.</strong> <em>Tulane University, New Orleans</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p><strong class="hl hl-yel">Nettie Lee Benson Latin American Studies Collection.</strong> <em>University of Texas at Austin</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p><strong class="hl hl-yel">Otto G. Richter Library.</strong> <em>University of Miami</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p><strong class="hl hl-yel">The Huntington Library.</strong> <em>The Huntington, San Marino</em>. 2020. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p><strong class="hl hl-yel">Dornsife College of Letters, Arts and Sciences.</strong> <em>University of Southern California, Los Angeles</em>. 2020. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p><strong class="hl hl-yel">Special Collections Library.</strong> <em>University of Oregon, Eugene</em>. 2020. Funded by Deutsche Forschungsgemeinschaft.</p>
+<p><strong class="hl hl-yel">Bancroft Library Western Americana Collection.</strong> <em>University of California, Berkeley</em>. 2017. Funded by Deutsche Forschungsgemeinschaft.</p>
 <p><strong class="hl hl-yel">Religion in American Society.</strong> 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Funded by VolkswagenStiftung. With Hartmut Keil. <a href="https://studytour2015.wordpress.com">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div><a class="anchor" id="memberships" role="button" aria-label="Memberships" tabindex="0">&nbsp;</a></div>
+<div class="anchor" id="memberships" aria-hidden="true"></div>
 
 ## VI.&nbsp;Memberships
 <div class="gold">
@@ -171,18 +167,18 @@ in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 202
 <p><a href="https://lasaweb.org/en/">LASA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-yel">Latin American Studies Association</strong></p>
 <p><a href="https://mapaca.net">MAPACA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-yel">Mid-Atlantic Popular & American Culture Association</strong></p>
 <p><a href="https://nepca.blog/">NEPCA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-yel">Northeast Popular & American Culture Association</strong></p>
-<p><a href="https://www.societyofearlyamericanists.org">SEA<i class="fas fa-external-link-alt" role="presentation"></i></a> (Society of Early Americanists)</p>
+<p><a href="https://www.societyofearlyamericanists.org">SEA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-yel">Society of Early Americanists</strong></p>
 </div>
 
-<div><a class="anchor" id="grants-awards" role="button" aria-label="Grants & Awards" tabindex="0">&nbsp;</a></div>
+<div class="anchor" id="grants-awards" aria-hidden="true"></div>
 
 ## VII.&nbsp;Grants & Awards
 <div class="gold">
-<p><strong class="hl hl-yel">Scottish Association for the Study of America. Annual Conference Essay Prize.</strong> 2018</p>
-<p><strong class="hl hl-yel">DAAD Travel Stipend.</strong> 2017</p>
+<p><strong class="hl hl-yel">Scottish Association for the Study of America. Annual Conference Essay Prize.</strong> 2018.</p>
+<p><strong class="hl hl-yel">DAAD Travel Stipend.</strong> 2017.</p>
 </div>
 
-<div><a class="anchor" id="volunteering" role="button" aria-label="Volunteering" tabindex="0">&nbsp;</a></div>
+<div class="anchor" id="volunteering" aria-hidden="true"></div>
 
 ## VIII.&nbsp;Volunteering
 <div class="gold mbot">
