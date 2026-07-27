@@ -5,7 +5,7 @@ image: /img/cat/act.webp
 ---
 
 <div class="box-toc-act">
-<div class="box-toc-act-cont"><i class="fas fa-database icon-inline" role="presentation"></i><b>Contents</b></div>
+<div class="box-toc-act-cont"><i class="fas fa-list-ul icon-inline" role="presentation"></i><b>Contents</b></div>
 <ol class="toc">
 <li><a href="#conferences">Conferences</a></li>
 <li><a href="#panels-workshops">Panels & Workshops</a></li>

@@ -12,7 +12,7 @@ image: /img/cat/pub.webp
 </div>
 
 <div class="box-toc-pub">
-<div class="box-toc-pub-cont"><i class="fas fa-database icon-inline" role="presentation"></i><b>Contents</b></div>
+<div class="box-toc-pub-cont"><i class="fas fa-list-ul icon-inline" role="presentation"></i><b>Contents</b></div>
 <ol class="toc">
 <li><a href="#books">Books & Book Projects</a></li>
 <li><a href="#editing">Edited Volumes (Peer-Reviewed)</a></li>

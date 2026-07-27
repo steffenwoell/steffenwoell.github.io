@@ -620,7 +620,7 @@ footer a {
   color: var(--footer-copy-link);
 }
 
-.made-with, .license, .mw-buttons a, .cc-buttons a {
+.made-with, .license, .mw-buttons a, .mw-buttons > span, .cc-buttons a {
   color: var(--footer-misc);
   text-shadow: var(--footer-misc-effect);
 }
@@ -675,7 +675,7 @@ footer a {
   text-align: center;
 }
 
-.mw-buttons a, .cc-buttons a {
+.mw-buttons a, .mw-buttons > span, .cc-buttons a {
   color: var(--footer-buttons);
   transition: .3s ease;
 }
