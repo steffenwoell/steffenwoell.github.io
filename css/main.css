@@ -28,6 +28,9 @@ html {
   --navbar-text-hover: #404040;
   --navbar-brand: #404040;
   --navbar-brand-hover: #404040;
+  --theme-toggle: #303030;
+  --theme-toggle-hover: #111;
+  --navbar-focus: #404040;
   --navbar-border: 1px solid #eaeaea;
   --navbar-mobile-divider: #ddd;
   --linked-section: inherit; /* - Anchor light - */
@@ -126,10 +129,13 @@ html.dark-mode {
   --link: #adadad;
   --link-active: #adadad;
   --navbar-bg: #12202d; /* - Navbar dark - */
-  --navbar-text: #a0b1ba;
-  --navbar-text-hover: #bbcfdc;
-  --navbar-brand: #a0b1ba;
-  --navbar-brand-hover: #bbcfdc;
+  --navbar-text: #d5e2e8;
+  --navbar-text-hover: #fff;
+  --navbar-brand: #d5e2e8;
+  --navbar-brand-hover: #fff;
+  --theme-toggle: #bbcfdc;
+  --theme-toggle-hover: #fff;
+  --navbar-focus: #bbcfdc;
   --navbar-border: 0 solid #0E1923;
   --navbar-mobile-divider: #1a3042;
   --linked-section: #bbcfdc; /* - Anchor dark - */
@@ -465,7 +471,7 @@ img {
   border: 0;
 }
 
-.navbar-brand {
+.navbar-custom .navbar-brand {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 500;
   font-style: normal;
@@ -476,9 +482,28 @@ img {
   transition: color .3s ease-in-out, transform .3s ease-in-out;
 }
 
-.navbar-brand:hover {
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
   color: var(--navbar-brand-hover);
+  background-color: transparent;
+}
+
+.navbar-custom .navbar-brand:hover {
   transform: scale(1.05);
+}
+
+.navbar-custom .toggle {
+  color: var(--theme-toggle);
+}
+
+.navbar-custom .toggle:hover,
+.navbar-custom .toggle:focus {
+  color: var(--theme-toggle-hover);
+}
+
+.navbar-custom .navbar-brand:focus-visible {
+  outline: 2px solid var(--navbar-focus);
+  outline-offset: -4px;
 }
 
 .navbar-custom .navbar-brand-logo {
