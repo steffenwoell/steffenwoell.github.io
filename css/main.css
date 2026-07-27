@@ -1143,19 +1143,11 @@ pre {
 
 /* --- Base Highlighter Style --- */
 strong.hl {
-  position: relative;
-}
-
-strong.hl::before {
-  content: "";
-  position: absolute;
-  width: calc(100% + 3px);
-  height: 100%;
-  left: -2px;
-  bottom: 0;
-  z-index: -1;
-  transform: rotate(-1deg);
+  background-color: var(--highlight-bg);
+  padding: 0 2px;
   box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 
 /* Ensure links inside highlights match text color */
@@ -1167,16 +1159,16 @@ strong.hl a {
 strong.hl-yel {
   color: var(--highlighter-act-text);
 }
-strong.hl-yel::before {
-  background-color: var(--highlighter-yel-bg);
+strong.hl-yel {
+  --highlight-bg: var(--highlighter-yel-bg);
 }
 
 /* --- Green --- */
 strong.hl-gre {
   color: var(--highlighter-pub-text);
 }
-strong.hl-gre::before {
-  background-color: var(--highlighter-gre-bg);
+strong.hl-gre {
+  --highlight-bg: var(--highlighter-gre-bg);
 }
 
 /* --- Blue (special case: not bold) --- */
@@ -1184,8 +1176,8 @@ strong.hl-blu {
   color: var(--highlighter-idx-text);
   font-weight: normal;
 }
-strong.hl-blu::before {
-  background-color: var(--highlighter-blu-bg);
+strong.hl-blu {
+  --highlight-bg: var(--highlighter-blu-bg);
 }
 
 /* --- Sharing --- */
