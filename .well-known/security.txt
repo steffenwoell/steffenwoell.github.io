@@ -3,5 +3,5 @@ Expires: 2034-07-01T12:00:00.000Z
 Encryption: https://steffenwoell.github.io/doc/keys/steffenwoell_pgp_public_key.asc
 Encryption: https://steffenwoell.github.io/doc/keys/steffenwoell_pgp_public_key.txt
 Preferred-Languages: en, de
-Canonical: https://steffenwoell.github.io/doc/security.txt
+Canonical: https://steffenwoell.github.io/.well-known/security.txt
 Policy: https://steffenwoell.github.io/contact/

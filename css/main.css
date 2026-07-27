@@ -53,7 +53,7 @@ html {
   --footer-buttons: #6f6f6f;
   --footer-buttons-hover: #333;
   --footer-lastmod-text: #6f6f6f;
-  --footer-lastmod-bg: none;
+  --footer-lastmod-bg: transparent;
   --journal-preview-divider: 1px solid #eee; /* - Journal landing light - */
   --journal-preview-link: #404040;
   --journal-preview-meta: #404040;
@@ -615,7 +615,7 @@ footer a {
   font-weight: 300;
 }
 
-.copyright a, copyright a:hover {
+.copyright a, .copyright a:hover {
   font-weight: 700;
   color: var(--footer-copy-link);
 }
@@ -1566,3 +1566,18 @@ strong.hl-blu {
 
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: .5s;}
 .fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
