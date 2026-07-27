@@ -99,6 +99,10 @@ defaults:
 # Use tags on index page & make tags on blog posts clickable
 link-tags: true
 
+# Include dot-directories required in the published site
+include:
+  - .well-known
+
 # Exclude files from production site
 exclude:
   - CNAME
