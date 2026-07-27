@@ -4,10 +4,10 @@ title: Contact
 image: /img/cat/con.webp
 ---
 
-<h2>Notice</h2>
+<!--<h2>Notice</h2>
 <div class="box-note mb-60">
 <i class="fas fa-thumbtack icon-inline icon-accent" role="presentation"></i>I'm currently exploring postdoctoral opportunities in research, teaching, or both. Get in touch anytime.
-</div>
+</div>-->
 
 <h2>Email</h2>
 
