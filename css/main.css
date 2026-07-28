@@ -2472,7 +2472,7 @@ footer a {
   min-height: 178px;
   padding: 28px 210px 30px 32px;
   overflow: hidden;
-  background: var(--journal-header-bg);
+  background: linear-gradient(135deg, var(--journal-header-bg), var(--home-card-bg));
   border-left: 5px solid var(--journal-accent);
   border-radius: 5px;
 }
@@ -2485,7 +2485,7 @@ footer a {
   bottom: -75px;
   width: 190px;
   height: 190px;
-  border: 1px solid var(--home-card-border);
+  border: 0px solid var(--home-card-border);
   border-radius: 50%;
   opacity: .65;
 }
@@ -2718,12 +2718,7 @@ footer a {
 }
 
 .journal-preview-copy > p {
-  display: -webkit-box;
-  overflow: hidden;
   margin: 13px 0 12px;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-  line-clamp: 3;
   line-height: 1.65;
 }
 
@@ -2853,7 +2848,7 @@ html.dark-mode .journal-preview:focus-within .journal-preview-image img {
   overflow: hidden;
   padding: 22px 26px;
   margin: 0 auto 0 37px;
-  background: var(--journal-header-bg);
+  background: linear-gradient(135deg, var(--journal-header-bg), var(--home-card-bg));
   border-left: 4px solid var(--journal-accent);
   border-radius: 5px;
 }
@@ -2912,13 +2907,13 @@ html.dark-mode .journal-preview:focus-within .journal-preview-image img {
   object-fit: cover;
   border-radius: 50%;
   filter: saturate(.65) contrast(.9);
-  opacity: .13;
+  opacity: .17;
   pointer-events: none;
 }
 
 html.dark-mode .journal-post-image {
   filter: saturate(.5) brightness(.8);
-  opacity: .11;
+  opacity: .20;
 }
 
 .journal-post-body {
@@ -3213,6 +3208,7 @@ pre {
 strong.hl {
   background-color: var(--highlight-bg);
   padding: 0 2px;
+  margin-left: -6px;
   box-shadow: 0 1px 2px rgba(0,0,0,0.1);
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
@@ -3224,13 +3220,13 @@ strong.hl a {
 }
 
 /* --- Activity highlights --- */
-strong.hl-yel {
+strong.hl-act {
   color: var(--activity-highlight-text);
   --highlight-bg: var(--activity-highlight-bg);
 }
 
 /* --- Publication highlights --- */
-strong.hl-gre {
+strong.hl-pub {
   color: var(--h1);
   background-color: transparent;
   padding: 0;
@@ -3491,7 +3487,7 @@ strong.hl-blu {
   bottom: -75px;
   width: 190px;
   height: 190px;
-  border: 1px solid var(--home-card-border);
+  border: 0px solid var(--home-card-border);
   border-radius: 50%;
   opacity: .65;
 }

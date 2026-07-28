@@ -2,7 +2,7 @@
 layout: page
 title: Journal
 subtitle: Semper verum dico, etiam si mentior
-description: Poetry, fragments, music, and other creative work by Steffen Wöll.
+description: Poetry, fragments, music, and other creative endeavors by Steffen Wöll.
 image: /img/cat/jou.webp
 integrated_header: true
 hide_avatar: true
@@ -12,7 +12,7 @@ hide_avatar: true
   <header class="journal-header">
     <div class="journal-statement">
       <h1 class="journal-section-label"><i class="fas fa-pen" aria-hidden="true"></i> Journal</h1>
-      <p>Poetry, fragments, music, and other creative work.</p>
+      <p>Poetry, fragments, music, and other creative endeavors.</p>
       <div class="journal-motto">{{ page.subtitle }}</div>
     </div>
     <nav class="journal-tools" aria-label="Journal tools">
@@ -39,7 +39,7 @@ hide_avatar: true
           {% endif %}
 
           {% if post.excerpt %}
-            <p style="-webkit-line-clamp: unset; line-clamp: unset;">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 24, ' …' }}</p>
+            <p>{{ post.excerpt | strip_html | strip_newlines | truncatewords: 24, ' …' }}</p>
           {% else %}
             <p>{{ post.content | strip_html | strip_newlines | truncatewords: 28 }}</p>
           {% endif %}
@@ -77,13 +77,19 @@ hide_avatar: true
   {% endif %}
 </div>
 
+<div id="journalEntryUrls" hidden>
+  {% for post in site.posts %}
+    <a href="{{ post.url | relative_url }}"></a>
+  {% endfor %}
+</div>
+
 <script>
   (() => {
     const randomEntryButton = document.getElementById('randomJournalEntry');
-    const journalEntries = [
-      {% for post in site.posts %}{{ post.url | relative_url | jsonify }}{% unless forloop.last %},{% endunless %}
-      {% endfor %}
-    ];
+    const journalEntries = Array.from(
+      document.querySelectorAll('#journalEntryUrls a'),
+      entry => entry.getAttribute('href')
+    );
 
     if (!randomEntryButton || journalEntries.length === 0) {
       return;

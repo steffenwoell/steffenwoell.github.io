@@ -11,7 +11,7 @@ hide_avatar: true
 <div class="contact-page">
 <div class="contact-statement">
 <h1 class="contact-section-label"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</h1>
-<p>For research inquiries, professional correspondence, or an informal message, choose the channel that suits you best.</p>
+<p>For research inquiries or an informal message, choose the channel that suits you best.</p>
 <img class="contact-header-image" src="{{ page.image | relative_url }}" alt="">
 </div>
 
