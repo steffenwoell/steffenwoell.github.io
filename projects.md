@@ -5,11 +5,11 @@ image: /img/cat/pro.webp
 ---
 
 ## A History of Digital Violence: The American West in (Early) Video Game Culture
-Currently in the conceptional phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
+Currently in the conceptual phase, this project aims to retrace and scrutinize themes and tropes of the American West as part of (early) video game culture. The goal is to historicize the development of spatial formats and narratives like the frontier and manifest destiny as they were and still are represented and interactively performed in electronic media.
 
 A preliminary structure might work alongside genres and focus on particular themes such as:
 1. <b>Exploration and manifest destiny</b> in *The Oregon Trail* \[1971, `Apple II`\]
-2. <b>Violence and exploitation</b>in *Custer's Revenge* \[1982, `Atari 2600`\]
+2. <b>Violence and exploitation</b> in *Custer's Revenge* \[1982, `Atari 2600`\]
 3. <b>Law and order</b> in *Law of the West* \[1984, `Commodore 64`\]
 4. <b>Environmental and nuclear apocalypse</b> in *Fallout: New Vegas* \[2010, `PC`\]
 
@@ -21,7 +21,7 @@ Central research questions include but are not limited to examining:
 * Which key themes and narrative tropes concerning the American West can be found in a cross-selection of video games?
 * How do these themes relate to those traditionally identified in literary and cultural discourses?
 * In what ways do interactivity, player input, and gameplay elements modify or expand traditional dimensions of "westernness"?
-* Can existing toolsets of the Digital Humanities be made productive to visualize the discursive landscapes of video games?
+* Can existing Digital Humanities toolsets be used productively to visualize the discursive landscapes of video games?
 
 ## ENMMA: European Network for the Study of Minor Mobilities in the Americas
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: de
 title: Für die Ertrunkenen
 subtitle: Mannheim, Germany
 image: /img/ert.webp

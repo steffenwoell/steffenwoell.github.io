@@ -1,0 +1,29 @@
+# Add new conference entries here. Dates must use the ISO format YYYY-MM-DD
+# so Jekyll can automatically separate upcoming and past events.
+
+- title: "The Graveyard Shift: Labor and the Horrors of Colonial Extraction."
+  event: "Playing the Field VI: Video Games and Labour"
+  location: "University of Bucharest"
+  start: "2026-03-19"
+  end: "2026-03-21"
+  date_text: "19–21 March 2026"
+  url: "https://anglistik.kuwi.tu-dortmund.de/gamestudies/playing-the-field/"
+  role: "Presentation"
+
+- title: "Travel, Trade, and Transformation: Cartographic Coordinates and Digital Legacies of R.H. Dana’s <em>Two Years Before the Mast</em>."
+  event: "Maps in American Literature, 15th–21st Century"
+  location: "École normale supérieure de Lyon"
+  start: "2026-04-01"
+  end: "2026-04-03"
+  date_text: "1–3 April 2026"
+  url: "https://maps2026.sciencesconf.org/"
+  role: "Presentation"
+
+- title: "Archipelagic Dissent: Counter-Geographies of America’s Oceanic Empire."
+  event: "NASA Annual Conference: American Protest Cultures"
+  location: "Radboud University Nijmegen"
+  start: "2026-11-04"
+  end: "2026-11-06"
+  date_text: "4–6 November 2026"
+  url: "https://www.netherlands-america.nl/2026-annual-conference-4-6-november-2026-nijmegen/"
+  role: "Presentation"

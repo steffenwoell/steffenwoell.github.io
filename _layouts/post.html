@@ -2,42 +2,54 @@
 layout: base
 ---
 
-{% include header.html type="post" %}
-
 <script src="/js/topscroll.min.js"></script>
 <script>addBackToTop({
   diameter: 56,
   scrollDuration: 200
 })</script>
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-      <article role="main" class="blog-post">
-        {{ content }}
-      </article>
-
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          {% for tag in page.tags %}
-            <a href="{{ '/tags' | relative_url }}#{{- tag -}}"><i class="fas fa-tag" aria-hidden="true"></i>{{- tag -}}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
-
-      <ul class="pager blog-pager">
-        {% if page.previous.url %}
-        <li class="previous">
-          <a href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Prev Post</a>
-        </li>
-        {% endif %}
-        {% if page.next.url %}
-        <li class="next">
-          <a href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-        </li>
-        {% endif %}
-      </ul>
+<main class="journal-post">
+  <header class="journal-post-header">
+    <div class="journal-post-heading">
+      <a class="journal-post-label" href="{{ '/journal/' | relative_url }}"><i class="fas fa-pen" aria-hidden="true"></i> Journal</a>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}<p class="journal-post-subtitle">{{ page.subtitle }}</p>{% endif %}
+      <div class="journal-post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
+      </div>
     </div>
-  </div>
-</div>
+    {% if page.image %}
+      <img class="journal-post-image" src="{{ page.image | relative_url }}" alt="">
+    {% endif %}
+  </header>
+
+  <article class="journal-post-body">
+    {{ content }}
+  </article>
+
+  {% if page.tags.size > 0 %}
+  <nav class="journal-post-tags" aria-label="Tags">
+    {% for tag in page.tags %}
+      {% assign tag_id = tag | slugify %}
+      <a href="{{ '/tags' | relative_url }}#{{- tag_id -}}">{{- tag -}}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
+
+  {% if page.previous.url or page.next.url %}
+  <nav class="journal-post-navigation" aria-label="Adjacent journal entries">
+    {% if page.previous.url %}
+    <a class="journal-post-previous" href="{{ page.previous.url | relative_url }}">
+      <span class="journal-nav-label"><span aria-hidden="true">&larr;</span> Previous</span>
+      <span>{{ page.previous.title }}</span>
+    </a>
+    {% endif %}
+    {% if page.next.url %}
+    <a class="journal-post-next" href="{{ page.next.url | relative_url }}">
+      <span class="journal-nav-label">Next <span aria-hidden="true">&rarr;</span></span>
+      <span>{{ page.next.title }}</span>
+    </a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</main>

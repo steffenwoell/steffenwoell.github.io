@@ -1,12 +1,37 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, viewport-fit=cover">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+
+  <script>
+    (function () {
+      const htmlElement = document.documentElement;
+      const systemTheme = window.matchMedia
+        ? window.matchMedia('(prefers-color-scheme: dark)')
+        : null;
+      let storedTheme = null;
+
+      try {
+        storedTheme = localStorage.getItem('darkMode');
+      } catch (error) {
+        // Fall back to the system preference when storage is unavailable.
+      }
+
+      const hasStoredTheme = storedTheme === 'enabled' || storedTheme === 'disabled';
+      const darkModeEnabled = hasStoredTheme
+        ? storedTheme === 'enabled'
+        : Boolean(systemTheme && systemTheme.matches);
+
+      htmlElement.classList.toggle('dark-mode', darkModeEnabled);
+      htmlElement.dataset.themePreference = hasStoredTheme ? 'user' : 'system';
+    }());
+  </script>
 
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }} | Steffen Wöll{% else %}{{ site.title }}{% endif %}</title>
 
   {%- assign meta_title = page.title | default: site.title -%}
-  {%- assign meta_description = page.subtitle | default: site.description -%}
+  {%- assign meta_description = page.description | default: page.excerpt | default: page.subtitle | default: site.description -%}
   {%- assign meta_image = page.image | default: site.avatar -%}
   <meta name="description" content="{{ meta_description | strip_html | escape }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">

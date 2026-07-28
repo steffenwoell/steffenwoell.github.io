@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: de
 title: Widerhall
 subtitle: RE2, Germany
 image: /img/wid.webp

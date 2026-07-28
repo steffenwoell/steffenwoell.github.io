@@ -1,33 +1,67 @@
 ---
 layout: page
 title: Activities
+description: Conferences, teaching, fieldwork, collaboration, service, and other academic activities by Steffen Wöll.
 image: /img/cat/act.webp
+header_class: activities-header
+integrated_header: true
+hide_avatar: true
 ---
 
-<div class="box-toc-act">
-<div class="box-toc-act-cont"><i class="fas fa-list-ul icon-inline" role="presentation"></i><b>Contents</b></div>
-<ol class="toc">
-<li><a href="#conferences">Conferences</a></li>
-<li><a href="#panels-workshops">Panels & Workshops</a></li>
-<li><a href="#teaching">Teaching</a></li>
-<li><a href="#thesis-supervision">Thesis Supervision</a></li>
-<li><a href="#fieldwork-archives">Fieldwork & Archival Research</a></li>
-<li><a href="#memberships">Memberships</a></li>
-<li><a href="#grants-awards">Grants & Awards</a></li>
-<li><a href="#volunteering">Volunteering</a></li>
-</ol>
+{% assign today = site.time | date: "%Y-%m-%d" %}
+{% assign conferences_by_date = site.data.conferences | sort: "start" %}
+{% assign has_upcoming_conferences = false %}
+{% for conference in conferences_by_date %}
+  {% if conference.end >= today %}
+    {% assign has_upcoming_conferences = true %}
+  {% endif %}
+{% endfor %}
+
+<div class="activity-header">
+<div class="activity-statement">
+<h1 class="activity-section-label"><i class="fas fa-calendar-alt" aria-hidden="true"></i> Activities</h1>
+<p>Academic work beyond publication: conferences, teaching, fieldwork, collaboration, and service.</p>
+<img class="activity-header-image" src="{{ page.image | relative_url }}" alt="">
 </div>
 
-<div class="anchor" id="conferences" aria-hidden="true"></div>
+<nav class="activity-contents" aria-labelledby="activity-contents-title">
+<div id="activity-contents-title" class="activity-section-label"><i class="fas fa-list-ul" aria-hidden="true"></i> Browse by Type</div>
+<ul>
+{% if has_upcoming_conferences %}<li><a href="#upcoming"><span class="category-label-full">Upcoming</span><span class="category-label-short" aria-hidden="true">Upcoming</span></a></li>{% endif %}
+<li><a href="#conferences"><span class="category-label-full">Conferences</span><span class="category-label-short" aria-hidden="true">Conferences</span></a></li>
+<li><a href="#panels-workshops" aria-label="Panels and Workshops"><span class="category-label-full">Panels & Workshops</span><span class="category-label-short" aria-hidden="true">Panels</span></a></li>
+<li><a href="#teaching"><span class="category-label-full">Teaching</span><span class="category-label-short" aria-hidden="true">Teaching</span></a></li>
+<li><a href="#thesis-supervision"><span class="category-label-full">Thesis Supervision</span><span class="category-label-short" aria-hidden="true">Supervision</span></a></li>
+<li><a href="#fieldwork-archives" aria-label="Fieldwork and Archival Research"><span class="category-label-full">Fieldwork & Archival Research</span><span class="category-label-short" aria-hidden="true">Fieldwork</span></a></li>
+<li><a href="#memberships"><span class="category-label-full">Memberships</span><span class="category-label-short" aria-hidden="true">Memberships</span></a></li>
+<li><a href="#grants-awards" aria-label="Grants and Awards"><span class="category-label-full">Grants & Awards</span><span class="category-label-short" aria-hidden="true">Grants</span></a></li>
+<li><a href="#volunteering"><span class="category-label-full">Volunteering</span><span class="category-label-short" aria-hidden="true">Volunteering</span></a></li>
+</ul>
+</nav>
+</div>
 
-## I.&nbsp;Conferences / Presentations
+{% if has_upcoming_conferences %}
+## Upcoming
 <div class="gold">
-<p><strong class="hl hl-yel">Archipelagic Dissent: Counter-Geographies of America’s Oceanic Empire.</strong> <em>NASA Annual Conference: American Protest Cultures</em>. Radboud University Nijmegen. 4-6 November 2026. <a href="https://www.netherlands-america.nl/2026-annual-conference-4-6-november-2026-nijmegen/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">Travel, Trade, and Transformation: Cartographic Coordinates and Digital Legacies of R.H. Dana&#8217;s <em>Two Years Before the Mast</em>.</strong> <em>Maps in American Literature, 15th–21st Century</em>. École normale supérieure de Lyon. 1-3 April 2026. <a href="https://maps2026.sciencesconf.org/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">The Graveyard Shift: Labor and the Horrors of Colonial Extraction.</strong> <em>Playing the Field VI: Video Games and Labour</em>. University of Bucharest. 19-21 March 2026. <a href="https://anglistik.kuwi.tu-dortmund.de/gamestudies/playing-the-field/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+{% for conference in conferences_by_date %}
+{% if conference.end >= today %}
+<p><strong class="hl hl-yel">{{ conference.title }}</strong> <em>{{ conference.event }}</em>. {{ conference.location }}. {{ conference.date_text }}. <a href="{{ conference.url }}">{{ conference.role }}<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+{% endif %}
+{% endfor %}
+</div>
+{% endif %}
+
+## Conferences
+<div class="gold">
+{% assign past_conferences = conferences_by_date | reverse %}
+{% for conference in past_conferences %}
+{% if conference.end < today %}
+<p><strong class="hl hl-yel">{{ conference.title }}</strong> <em>{{ conference.event }}</em>. {{ conference.location }}. {{ conference.date_text }}. <a href="{{ conference.url }}">{{ conference.role }}<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+{% endif %}
+{% endfor %}
 <p><strong class="hl hl-yel">Seeing, Speaking, Touching, Dying: Transforming the Body through (Visual) Language in David Cronenberg&#8217;s <em>Videodrome</em>.</strong> <em>Expressivity, Bodies and Language in the Twenty-First Century</em>. Université Paul-Valéry Montpellier. 20-21 November 2025. <a href="https://expressivity.sciencesconf.org/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Democratic Frontiers, Nazi Natives, and Postwar Masculinities: Western Novels and German Identities.</strong> <em>Facing West: Thinking, Living, Outliving the American West</em>. AISNA XXVIII Biennial Conference. Bergamo. 11-13 September 2025. <a href="https://www.aisna.net/conference-bergamo/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">Archiving America / American Archives</strong>. 71st Annual Meeting of the German Association for American Studies. Siegen, Germany. 12-14 June 2025. <a href="https://www.uni-siegen.de/phil/anglistik/dgfa2025/">Attendee<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-yel">Archiving America / American Archives.</strong> 71st Annual Meeting of the German Association for American Studies. Siegen, Germany. 12-14 June 2025. <a href="https://www.uni-siegen.de/phil/anglistik/dgfa2025/">Attendee<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Waves of Conquest, Currents of Dissent: Liquifying America&#8217;s Transoceanic Empire.</strong> <em>A Water&#8217;s History of the United States</em>. Roosevelt Institute for American Studies. Middelburg, The Netherlands. 21-23 May 2025. <a href="https://www.roosevelt.nl/en/nieuws/conference-a-waters-history-of-the-united-states/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Overflowing Continental Frames: The Liquid Visual Vocabularies of American Empire.</strong> <em>Visual Americas: Image, Text, Performance</em>. 12th IASA World Congress. Ankara. 14-16 May 2025. <a href="https://iasa-world.org/12th-iasa-world-congress-2025/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">From Canvas to Cartography: Visual Regimes of Colonialism and Resistance in the Industrial Age.</strong> American Historical Association Annual Meeting. New York. 4 January 2025. <a href="https://www.historians.org/annual-meeting/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
@@ -48,7 +82,7 @@ image: /img/cat/act.webp
 <p><strong class="hl hl-yel">Remapping Human Geographies: Spatial Imaginations and the Social Agency of Mapmaking.</strong> <em>Comparative Literature: The Imaginaire and (Re)Shaping the World</em>. Department of English Language and Literature. Cairo. 15 November 2023. <a href="https://www.academia.edu/88401985/CFP_The_15th_International_Symposium_on_Comparative_Literature_The_Imaginaire_and_Re_Shaping_the_World_14_16_November_2023">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Making Space for Solidarity: Maps as Agents of Affective Reterritorialization and Social Change.</strong> <em>Crises and Turns: Continuities and Discontinuities in American Culture</em>. American Studies Association Annual Meeting. Montreal. 3 November 2023. <a href="https://www.theasa.net/node/293">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Visualizing Vulnerabilities in R.H. Dana&#8217;s Californian Travel Literature.</strong> <em>Vulnerabilities: Weaknesses, Threats, Resilience in the U.S.A. and in Global Perspective</em>. AISNA XXVII Biennial Conference. Narni, Italy. 21 September 2023. <a href="https://www.aisna.net/conference-narni/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">America and Ownership: Territory, Slavery, Jubilee</strong>. 69th Annual Meeting of the German Association for American Studies. Rostock, Germany. 1-3 June 2023. <a href="https://www.iaa.uni-rostock.de/dgfa-conference/dgfa-conference/">Attendee<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-yel">America and Ownership: Territory, Slavery, Jubilee.</strong> 69th Annual Meeting of the German Association for American Studies. Rostock, Germany. 1-3 June 2023. <a href="https://www.iaa.uni-rostock.de/dgfa-conference/dgfa-conference/">Attendee<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Cannibalizing Continuities: Narrative Crises and the Undead.</strong> <em>Crises and Turns: Continuities and Discontinuities in American Culture</em>. 27th Biennial NAAS Conference. Uppsala. 26 May 2023. Presentation</p>
 <p><strong class="hl hl-yel">You Can&#8217;t Beat Cthulhu: Lovecraftian Ludic Labyrinths in the <em>Arkham Horror</em> TTRPG.</strong> <em>Faites vos jeux: Game and space</em> in <em>texts and</em> of <em>texts</em>. PhD Course in Language and Literary Studies, XXXVI cycle. Udine, Italy. 23 March 2023. <a href="https://sites.google.com/view/giocoudine2023">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">&#8220;Der Held ist das ganze Volk&#8221;: Revolution, Demokratie und deutsch-amerikanische Bildungspolitik in Charles Sealsfields frühen Wildwestromanen.</strong> <em>»Go West!« Die Idee des »Westens« in bildungshistorischer Perspektive</em>. Münster, Germany. 23 November 2022. <a href="https://www.hsozkult.de/event/id/event-129827">Lecture Series<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
@@ -95,7 +129,7 @@ image: /img/cat/act.webp
 
 <div class="anchor" id="panels-workshops" aria-hidden="true"></div>
 
-## II.&nbsp;Panels & Workshops
+## Panels & Workshops
 <div class="gold">
 <p><strong class="hl hl-yel">Global Coalitions Endgame.</strong> <em>American Studies Association Annual Meeting</em>. New Orleans. 4 November 2022. <a href="https://asa.press.jhu.edu/program22/program.pdf">Panel Chair<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Archipelagic Imperial Spaces and Mobilities.</strong> Leipzig / online. 30 March-1 April 2022. <em>Second International Workshop</em>. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
@@ -106,15 +140,13 @@ image: /img/cat/act.webp
 <p><strong class="hl hl-yel">Urban America: Mediating City Space as Place.</strong> <em>American Studies Leipzig Graduate Conference</em>. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div class="anchor" id="teaching" aria-hidden="true"></div>
-
-## III.&nbsp;Teaching
+## Teaching
 <div class="gold">
 <p><strong class="hl hl-yel">Killer Content: Crime as Spectacle in American Media.</strong> <em>Media, Society, and Culture</em>. Leipzig University. Summer Term 2026. <a href="/doc/MSC-Seminar-Syllabus-SoSe-2026.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Utopian Futures in American Literature.</strong> <em>Literature and Culture II</em>. Leipzig University. Summer Term 2026. <a href="/doc/LC-II-Seminar-Syllabus-SoSe-2026.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Oceans as Boundaries & Connections.</strong> <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2025/26. <a href="/doc/ED-Seminar-Syllabus-WS-25-26.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Captivity - Enslavement - Incarceration - Liberation.</strong> <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2024/25. <a href="/doc/ED-Seminar-Syllabus-WS-24-25.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
-<p><strong class="hl hl-yel">Race & Consumption.</strong> <em>Ethnicity and Diversity in US Culture II</em>. Leipzig University. Summer Term 2024. <a href="/doc/EDII-Seminar-Syllabus-SoSe-2024.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
+<p><strong class="hl hl-yel">Race & Consumption.</strong> <em>Ethnicity and Diversity in US Culture II</em>. Leipzig University. Summer Term 2024. <a href="/doc/ED-II-Seminar-Syllabus-SoSe-2024.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Visual Discourses of Race and Ethnicity.</strong> <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. Winter Term 2023/24. <a href="/doc/ED-Seminar-Syllabus-WS-23-24.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Unfilmable / Unwatchable: Cinematic Depictions of Identity, Conformity, and Neurodiversity.</strong> <em>Media and Society</em>. Leipzig University. Summer Term 2023. <a href="/doc/MaS-Seminar-Syllabus-SoSe-2023.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">African American History, Culture, and Literature until the Civil War.</strong> <em>Ethnicity and Diversity in US Culture</em>. Leipzig University. 24 October 2022. <a href="/doc/ED-Guest-Lecture-WS-22-23.pdf">Guest Lecture<i class="fas fa-file-pdf" role="presentation"></i></a></p>
@@ -131,7 +163,7 @@ image: /img/cat/act.webp
 
 <div class="anchor" id="thesis-supervision" aria-hidden="true"></div>
 
-## IV.&nbsp;Thesis Supervision (Selection)
+## Thesis Supervision (Selection)
 <div class="gold">
 <p><strong class="hl hl-yel">Beautiful Violence: The Aestheticization and Commodification of
 Violence in American Media.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
@@ -143,7 +175,7 @@ in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 202
 
 <div class="anchor" id="fieldwork-archives" aria-hidden="true"></div>
 
-## V.&nbsp;Fieldwork & Archival Research
+## Fieldwork & Archival Research
 <div class="gold">
 <p><strong class="hl hl-yel">Tulane University Libraries.</strong> <em>Tulane University, New Orleans</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
 <p><strong class="hl hl-yel">Nettie Lee Benson Latin American Studies Collection.</strong> <em>University of Texas at Austin</em>. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
@@ -155,9 +187,7 @@ in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 202
 <p><strong class="hl hl-yel">Religion in American Society.</strong> 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Funded by VolkswagenStiftung. With Hartmut Keil. <a href="https://studytour2015.wordpress.com">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
-<div class="anchor" id="memberships" aria-hidden="true"></div>
-
-## VI.&nbsp;Memberships
+## Memberships
 <div class="gold">
 <p><a href="https://www.acla.org">ACLA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-yel">American Comparative Literature Association</strong></p>
 <p><a href="https://historians.org">AHA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-yel">American Historical Association</strong></p>
@@ -172,15 +202,13 @@ in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 202
 
 <div class="anchor" id="grants-awards" aria-hidden="true"></div>
 
-## VII.&nbsp;Grants & Awards
+## Grants & Awards
 <div class="gold">
 <p><strong class="hl hl-yel">Scottish Association for the Study of America. Annual Conference Essay Prize.</strong> 2018.</p>
 <p><strong class="hl hl-yel">DAAD Travel Stipend.</strong> 2017.</p>
 </div>
 
-<div class="anchor" id="volunteering" aria-hidden="true"></div>
-
-## VIII.&nbsp;Volunteering
+## Volunteering
 <div class="gold mbot">
 <p><strong class="hl hl-yel">Mentoring</strong> for Leipzig University&#8217;s <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award">Pre-Doc Award<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-yel">Kurzfilmwanderung Leipzig.</strong> <a href="https://kurzfilmwanderung.de/">Supported by the Cultural Foundation of the Free State of Saxony<i class="fas fa-external-link-alt" role="presentation"></i></a></p>

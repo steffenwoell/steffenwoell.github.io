@@ -2,6 +2,7 @@
 
 title: Dr. Steffen Wöll
 description: Postdoctoral Researcher
+lang: en
 url: "https://steffenwoell.github.io"
 baseurl: ""
 
@@ -71,7 +72,7 @@ title-separator: "-"
 date_format: "%B %-d, %Y"
 
 # Output options
-timezone: "Europe/Germany"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
@@ -91,6 +92,7 @@ defaults:
       layout: "post"
       comments: false
       social-share: false # add social buttons to blog posts
+      hide_avatar: true
   -
     scope:
       path: "" # all files
@@ -108,10 +110,8 @@ include:
 # Exclude files from production site
 exclude:
   - CNAME
-  - Dockerfile
   - Gemfile
   - Gemfile.lock
-  - Vagrantfile
   - projects.md
   - _posts/markdown-examples.md
 

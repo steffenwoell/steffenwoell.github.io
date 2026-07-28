@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: de
 title: Zitadelle
 subtitle: Münster, Germany
 image: /img/zit.webp

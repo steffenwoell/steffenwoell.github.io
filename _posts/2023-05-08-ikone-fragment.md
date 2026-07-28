@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: de
 title: Ikone / Fragment
 subtitle: Saxony, Germany
 image: /img/iko.webp

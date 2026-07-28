@@ -1,4 +1,5 @@
 
+{% unless page.integrated_header %}
 {% if page.bigimg or page.title %}
 
 {% if page.bigimg %}
@@ -17,7 +18,7 @@
   ></div>
 {% endif %}
 
-<header class="header-section {% if page.bigimg %}has-img{% endif %}">
+<header class="header-section{% if page.bigimg %} has-img{% endif %}{% if page.header_class %} {{ page.header_class }}{% endif %}">
 {% if page.bigimg %}
 <div class="big-img intro-header">
   <div class="container">
@@ -72,3 +73,4 @@
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
+{% endunless %}

@@ -1,48 +1,48 @@
-<footer>
+<footer class="site-footer">
   <div class="container beautiful-jekyll-footer">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <ul class="list-inline text-center footer-links">
-          {%- for link in site.social-network-links -%}
-            {%- assign curkey = link[0] -%}
-            {%- assign element = site.data.SocialNetworks[curkey] -%}
-            <li>
-            {%- if curkey == 'rss' -%}
-              <a href="{{ '/feed.xml' | relative_url }}" title="{{ element.name }}" aria-label="RSS Feed">
-                {%- elsif curkey == 'home' -%}
-                  <a href="{{ '' | absolute_url }}" title="{{ element.name }}" aria-label="Home">
-            {%- else -%}
-              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}" aria-label="{{ element.name }}">
-            {%- endif -%}
-                <span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="fas fa-circle fa-stack-2x"></i>
-                  <i class="{{ element.icon }} fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {%- endfor -%}
-        </ul>
-      <div class="copyright"><span class="name">Steffen Wöll&nbsp;{{ site.time | date: '%Y' }}</span>
-      {% if site.url-pretty %}
-      &nbsp;&mdash;&nbsp;
-      <a href="{{ '' | absolute_url }}">{{ site.url-pretty }}</a>
-      {% endif %}
+    <div class="site-footer-inner">
+      <div class="site-footer-main">
+        <div class="site-footer-identity">
+          <a class="site-footer-name" href="{{ '/' | relative_url }}">Steffen Wöll</a>
+          <p>American Studies <span aria-hidden="true">·</span> Cultural Geography <span aria-hidden="true">·</span> Digital Humanities</p>
+        </div>
+
+        <nav class="site-footer-profiles" aria-label="Profiles and contact">
+          <a href="mailto:{{ site.social-network-links.email }}">
+            <i class="fas fa-envelope" aria-hidden="true"></i><span>Email</span>
+          </a>
+          <a href="https://orcid.org/{{ site.social-network-links.orcid }}">
+            <i class="fab fa-orcid" aria-hidden="true"></i><span>ORCID</span>
+          </a>
+          <a href="https://www.researchgate.net/profile/{{ site.social-network-links.researchgate }}">
+            <i class="fab fa-researchgate" aria-hidden="true"></i><span>ResearchGate</span>
+          </a>
+          <a href="{{ '/feed.xml' | relative_url }}">
+            <i class="fas fa-rss" aria-hidden="true"></i><span>RSS</span>
+          </a>
+        </nav>
       </div>
-      <div class="made-with">Made with</div>
-      <div class="mw-buttons">
-        <a href="https://github.com/" title="GitHub"><i class="fab fa-github fa-2x" role="presentation"></i><span class="sr-only">Made with GitHub</span></a>
-        <a href="https://code.visualstudio.com/" title="Visual Studio Code"><i class="fas fa-code-branch fa-2x" role="presentation"></i><span class="sr-only">Made with Visual Studio Code</span></a>
-        <a href="https://beautifuljekyll.com/" title="Beautiful Jekyll"><i class="fas fa-cubes fa-2x" role="presentation"></i><span class="sr-only">Made with Beautiful Jekyll</span></a>
-        <span title="Love"><i class="fas fa-heart fa-2x" role="presentation"></i><span class="sr-only">Made with Love</span></span>
-        <a href="https://unsplash.com/" title="Unsplash"><i class="fab fa-unsplash fa-2x" role="presentation"></i><span class="sr-only">Made with Unsplash</span></a>
-        <a href="https://fontawesome.com/" title="Font Awesome"><i class="fab fa-fort-awesome fa-2x" role="presentation"></i><span class="sr-only">Made with Font Awesome</span></a>
-        <span title="Vegan Power"><i class="fas fa-seedling fa-2x" role="presentation"></i><span class="sr-only">Made with Vegan Power</span></span>
+
+      <div class="site-footer-meta">
+        <div class="site-footer-copyright">
+          <span>&copy; {{ site.time | date: '%Y' }} Steffen Wöll</span>
+          {% if site.url-pretty %}
+            <a href="{{ '/' | absolute_url }}">{{ site.url-pretty }}</a>
+          {% endif %}
+        </div>
+
+        <nav class="site-footer-legal" aria-label="Site information">
+          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+          <a href="{{ '/contact/#privacy' | relative_url }}">Privacy</a>
+          <a href="{{ '/contact/#accessibility' | relative_url }}">Accessibility</a>
+          <a href="{{ '/contact/#licenses' | relative_url }}">Licenses</a>
+        </nav>
       </div>
-      <div class="license">Licensed under Creative Commons</div>
-      <div class="cc-buttons"><a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0" title="Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License (CC BY-NC-ND 4.0)"><i class="fab fa-creative-commons fa-2x" role="presentation"></i><i class="fab fa-creative-commons-by fa-2x" role="presentation"></i><i class="fab fa-creative-commons-nc fa-2x" role="presentation"></i><i class="fab fa-creative-commons-nd fa-2x" role="presentation"></i><span class="sr-only">Creative Commons BY-NC-ND 4.0 License</span></a></div>
-      <div class="lastmod"><span id="last-modified"></span></div>
+
+      <div class="site-footer-note">
+        <span>Built with Jekyll and hosted on GitHub. <time datetime="{{ site.time | date_to_xmlschema }}">Updated {{ site.time | date: '%B %Y' }}</time></span>
+      </div>
       <span id="copy-status" class="sr-only" aria-live="polite"></span>
-      </div>
     </div>
   </div>
 </footer>

@@ -1,7 +1,7 @@
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -11,45 +11,18 @@
       {%- if site.title-img -%}
         <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}" alt="{{ site.title }}"></a>
       {%- else -%}
-        <a class="navbar-brand" href="{{ '' | absolute_url }}">Steffen Wöll</a>
+        <a class="navbar-brand navbar-wordmark" href="{{ '' | absolute_url }}" aria-label="Steffen Wöll — Home">Steffen Wöll</a>
       {%- endif -%}
-
-      <button id="darkModeToggle" class="navbar-brand toggle" type="button" title="Switch theme" aria-pressed="false"><i class="fas fa-adjust fa-lg" aria-hidden="true"></i><span class="sr-only">Toggle light / dark mode</span></button>
-      
-      <script>
-        // Dark mode toggle logic
-        const darkModeToggle = document.getElementById('darkModeToggle');
-        const htmlElement = document.documentElement;
-        let isDarkMode = false;
-        try {
-          isDarkMode = localStorage.getItem('darkMode') === 'enabled';
-        } catch (error) {
-          // Continue with the default theme when storage is unavailable.
-        }
-        // Apply dark mode based on user choice from local storage
-        if (isDarkMode) {
-          htmlElement.classList.add('dark-mode');
-        }
-        darkModeToggle.setAttribute('aria-pressed', String(isDarkMode));
-        // Dark mode toggle event listener
-        darkModeToggle.addEventListener('click', () => {
-          // Toggle dark mode class
-          htmlElement.classList.toggle('dark-mode');
-          const darkModeEnabled = htmlElement.classList.contains('dark-mode');
-          darkModeToggle.setAttribute('aria-pressed', String(darkModeEnabled));
-          // Update local storage
-          try {
-            localStorage.setItem('darkMode', darkModeEnabled ? 'enabled' : 'disabled');
-          } catch (error) {
-            // The selected theme still applies for the current page.
-          }
-        });
-      </script>
 
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right">
+      {%- assign journal_section_active = false -%}
+      {%- if page.url contains '/journal/' or page.title == 'Tags' -%}
+        {%- assign journal_section_active = true -%}
+      {%- endif -%}
+      <ul class="nav navbar-nav navbar-center">
+        <li class="nav-item-home{% if page.url == '/' %} active{% endif %}"><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}><i class="fas fa-home nav-link-icon" aria-hidden="true"></i>Home</a></li>
         {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
         <li class="navlinks-container">
@@ -63,13 +36,130 @@
           </div>
         </li>
         {% else %}
-        <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+        {%- assign nav_icon = '' -%}
+        {%- case link[0] -%}
+          {%- when 'Publications' -%}{%- assign nav_icon = 'fa-book-open' -%}
+          {%- when 'Activities' -%}{%- assign nav_icon = 'fa-calendar-alt' -%}
+          {%- when 'Journal' -%}{%- assign nav_icon = 'fa-pen' -%}
+          {%- when 'Contact' -%}{%- assign nav_icon = 'fa-envelope' -%}
+        {%- endcase -%}
+        {%- assign nav_item_active = false -%}
+        {%- if page.title == link[0] -%}
+          {%- assign nav_item_active = true -%}
+        {%- elsif link[0] == 'Journal' and journal_section_active -%}
+          {%- assign nav_item_active = true -%}
+        {%- endif -%}
+        <li class="nav-item-{{ link[0] | slugify }}{% if nav_item_active %} active{% endif %}"><a href="{{ link[1] | relative_url }}"{% if page.title == link[0] %} aria-current="page"{% elsif link[0] == 'Journal' and journal_section_active %} aria-current="location"{% endif %}>{% if nav_icon != '' %}<i class="fas {{ nav_icon }} nav-link-icon" aria-hidden="true"></i>{% endif %}{{ link[0] }}</a></li>
         {%- endif -%}
         {%- endfor -%}
       </ul>
+      <ul class="nav navbar-nav navbar-right navbar-utilities">
+        <li class="navbar-theme-item">
+          <button id="darkModeToggle" class="navbar-icon-button navbar-theme-button toggle" type="button" title="Switch to dark theme" aria-pressed="false">
+            <span class="navbar-icon-surface theme-icon" aria-hidden="true">
+              <i class="far fa-sun theme-icon-light"></i>
+              <i class="fas fa-moon theme-icon-dark"></i>
+            </span>
+            <span id="darkModeToggleText" class="navbar-theme-text" aria-hidden="true">Dark mode</span>
+            <span id="darkModeToggleLabel" class="sr-only">Switch to dark theme</span>
+          </button>
+        </li>
+      </ul>
+      <script>
+        // Dark mode toggle logic
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const htmlElement = document.documentElement;
+        const systemTheme = window.matchMedia
+          ? window.matchMedia('(prefers-color-scheme: dark)')
+          : null;
+        let isDarkMode = htmlElement.classList.contains('dark-mode');
+        darkModeToggle.setAttribute('aria-pressed', String(isDarkMode));
+        const darkModeToggleLabel = document.getElementById('darkModeToggleLabel');
+        const darkModeToggleText = document.getElementById('darkModeToggleText');
+        const updateThemeToggleLabel = (darkModeEnabled) => {
+          const label = darkModeEnabled ? 'Switch to light theme' : 'Switch to dark theme';
+          darkModeToggle.title = label;
+          darkModeToggleLabel.textContent = label;
+          darkModeToggleText.textContent = darkModeEnabled ? 'Light mode' : 'Dark mode';
+        };
+        updateThemeToggleLabel(isDarkMode);
+        // Dark mode toggle event listener
+        darkModeToggle.addEventListener('click', () => {
+          // Toggle dark mode class
+          htmlElement.classList.toggle('dark-mode');
+          const darkModeEnabled = htmlElement.classList.contains('dark-mode');
+          darkModeToggle.setAttribute('aria-pressed', String(darkModeEnabled));
+          updateThemeToggleLabel(darkModeEnabled);
+          htmlElement.dataset.themePreference = 'user';
+          // Update local storage
+          try {
+            localStorage.setItem('darkMode', darkModeEnabled ? 'enabled' : 'disabled');
+          } catch (error) {
+            // The selected theme still applies for the current page.
+          }
+        });
+
+        if (systemTheme) {
+          const updateFromSystemTheme = (event) => {
+            if (htmlElement.dataset.themePreference !== 'system') {
+              return;
+            }
+
+            const darkModeEnabled = event.matches;
+            htmlElement.classList.toggle('dark-mode', darkModeEnabled);
+            darkModeToggle.setAttribute('aria-pressed', String(darkModeEnabled));
+            updateThemeToggleLabel(darkModeEnabled);
+          };
+
+          if (systemTheme.addEventListener) {
+            systemTheme.addEventListener('change', updateFromSystemTheme);
+          } else if (systemTheme.addListener) {
+            systemTheme.addListener(updateFromSystemTheme);
+          }
+        }
+
+        // Make the collapsed navigation behave like a touch-friendly menu.
+        const navbar = document.querySelector('.navbar-custom');
+        const mainNavbar = document.getElementById('main-navbar');
+        const navbarToggle = navbar.querySelector('.navbar-toggle');
+        const closeMobileNavigation = () => {
+          if (!window.jQuery) {
+            return;
+          }
+
+          const collapsibleNavbar = window.jQuery(mainNavbar);
+          if (mainNavbar.classList.contains('collapsing') && navbarToggle.getAttribute('aria-expanded') === 'true') {
+            collapsibleNavbar.one('shown.bs.collapse', () => collapsibleNavbar.collapse('hide'));
+          } else if (mainNavbar.classList.contains('in')) {
+            collapsibleNavbar.collapse('hide');
+          }
+        };
+
+        document.addEventListener('click', (event) => {
+          if (!navbar.contains(event.target)) {
+            closeMobileNavigation();
+          }
+        });
+
+        document.addEventListener('keydown', (event) => {
+          if (event.key === 'Escape' && navbarToggle.getAttribute('aria-expanded') === 'true') {
+            closeMobileNavigation();
+            navbarToggle.focus();
+          }
+        });
+
+        mainNavbar.querySelectorAll('a').forEach((link) => {
+          link.addEventListener('click', () => {
+            if (window.innerWidth < 1200) {
+              closeMobileNavigation();
+            }
+          });
+        });
+
+      </script>
     </div>
 
-    {% if page.image and (layout.show-avatar or page.show-avatar) %}
+    {% if page.layout != 'post' and page.image and (layout.show-avatar or page.show-avatar) and page.hide_avatar != true %}
     <div class="avatar-container">
       <div class="avatar-img-border">
         <a href="{{ '' | absolute_url }}" aria-label="Home">
@@ -77,7 +167,7 @@
         </a>
       </div>
     </div>
-    {% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
+    {% elsif page.layout != 'post' and site.avatar and (layout.show-avatar or page.show-avatar) and page.hide_avatar != true %}
     <div class="avatar-container">
       <div class="avatar-img-border">
         <a href="{{ '' | absolute_url }}" aria-label="Home">
@@ -89,3 +179,4 @@
 
   </div>
 </nav>
+<div class="navbar-backdrop" aria-hidden="true"></div>

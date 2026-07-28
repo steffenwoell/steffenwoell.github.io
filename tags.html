@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Tags
-subtitle: Journal Archives
+description: Browse journal entries by location, subject, and recurring theme.
 image: /img/cat/tag.webp
+header_class: journal-header
+integrated_header: true
+hide_avatar: true
 ---
 
 {%- capture site_tags -%}
@@ -12,26 +15,77 @@ image: /img/cat/tag.webp
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
-<div class="tag-cloud">
-{%- for tag in tags_list -%}
-    <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>{{- tag -}}<!--&nbsp;({{site.tags[tag].size}})--></a>
-{%- endfor -%}
+<div class="tags-page">
+<div class="tags-statement">
+  <h1 class="tags-section-label"><i class="fas fa-pen" aria-hidden="true"></i> Journal Tags</h1>
+  <p>Browse the journal by place & theme.</p>
+  <a class="journal-back-link" href="{{ '/journal/' | relative_url }}"><span aria-hidden="true">&larr;</span> Back to the journal</a>
+  <!--<img class="tags-header-image" src="{{ page.image | relative_url }}" alt="">-->
 </div>
+
+<nav class="tag-cloud" aria-label="Browse journal tags">
+{%- for tag in tags_list -%}
+    {%- assign tag_id = tag | slugify -%}
+    {%- assign tag_size = site.tags[tag].size -%}
+    {%- if tag_size >= 10 -%}
+      {%- assign tag_weight = 4 -%}
+    {%- elsif tag_size >= 5 -%}
+      {%- assign tag_weight = 3 -%}
+    {%- elsif tag_size >= 2 -%}
+      {%- assign tag_weight = 2 -%}
+    {%- else -%}
+      {%- assign tag_weight = 1 -%}
+    {%- endif -%}
+    <a href="#{{- tag_id -}}" class="tag-btn tag-weight-{{- tag_weight -}}"><span>{{- tag -}}</span><span class="tag-count">{{- tag_size -}}</span></a>
+{%- endfor -%}
+</nav>
 
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
-    <h2 id="{{- tag -}}" class="linked-section">
-        <i class="fas fa-tag tag-heading" aria-hidden="true"></i>{{- tag -}}&nbsp;({{site.tags[tag].size}})
-    </h2>
-    <div class="post-list">
+  {%- assign tag_id = tag | slugify -%}
+  <details id="{{- tag_id -}}" class="tag-archive-section" open>
+    <summary class="tag-archive-heading">
+        <span>{{- tag -}}</span><span class="tag-heading-count">{{- site.tags[tag].size -}}</span>
+        <i class="fas fa-chevron-down tag-archive-toggle" aria-hidden="true"></i>
+    </summary>
+    <ul class="tag-post-list">
         {%- for post in site.tags[tag] -%}
-            <div class="tag-entry">
+            <li class="tag-entry">
                 <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
                 <div class="entry-date">
                     <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: site.date_format -}}</time>
                 </div>
-            </div>
+            </li>
         {%- endfor -%}
-    </div>
+    </ul>
+  </details>
 {%- endfor -%}
 </div>
+</div>
+
+<script>
+  (() => {
+    const mobileTags = window.matchMedia('(max-width: 500px)');
+    const tagSections = document.querySelectorAll('.tag-archive-section');
+
+    const openHashTarget = () => {
+      if (!window.location.hash) {
+        return;
+      }
+
+      const target = document.getElementById(window.location.hash.slice(1));
+      if (target && target.matches('.tag-archive-section')) {
+        target.open = true;
+      }
+    };
+
+    if (mobileTags.matches) {
+      tagSections.forEach((section) => {
+        section.open = false;
+      });
+      openHashTarget();
+    }
+
+    window.addEventListener('hashchange', openHashTarget);
+  })();
+</script>

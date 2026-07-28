@@ -22,24 +22,60 @@
   {% endfor %}
 {% endif %}
 <script>
-  window.onload = function() {
-    setTimeout(function() {
-      // preload image
-      new Image().src = "{{ '/img/cat/pro.webp' | relative_url }}";
-      new Image().src = "{{ '/img/cat/pub.webp' | relative_url }}";
-      new Image().src = "{{ '/img/cat/act.webp' | relative_url }}";
-      new Image().src = "{{ '/img/cat/jou.webp' | relative_url }}";
-      new Image().src = "{{ '/img/cat/con.webp' | relative_url }}";
-      new Image().src = "{{ '/img/cat/tag.webp' | relative_url }}";
-      new Image().src = "{{ '/img/cat/404.webp' | relative_url }}";
-    }, 1000);
-  };
-</script>
-<script>
   document.addEventListener('DOMContentLoaded', function () {
-    const lastModified = document.getElementById('last-modified');
-    if (lastModified) {
-      lastModified.textContent = `Last modified: ${document.lastModified}`;
+    const openTargetDetails = function () {
+      if (!window.location.hash) return;
+      let targetId;
+      try {
+        targetId = decodeURIComponent(window.location.hash.slice(1));
+      } catch (error) {
+        return;
+      }
+      const target = document.getElementById(targetId);
+      if (target && target.tagName === 'DETAILS') {
+        target.open = true;
+      }
+    };
+
+    openTargetDetails();
+    window.addEventListener('hashchange', openTargetDetails);
+
+    document.querySelectorAll('.media-load-button').forEach(function (button) {
+      button.addEventListener('click', function () {
+        const container = button.closest('.media-embed');
+        const embedUrl = container && container.dataset.embedUrl;
+        if (!container || !embedUrl) return;
+
+        const iframe = document.createElement('iframe');
+        iframe.src = embedUrl;
+        iframe.title = 'SoundCloud audio player';
+        iframe.loading = 'lazy';
+        iframe.allow = 'autoplay';
+        iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+
+        container.replaceChildren(iframe);
+      });
+    });
+
+    const backToTop = document.getElementById('back-to-top');
+    const footer = document.querySelector('.site-footer');
+    if (backToTop && footer) {
+      const setFooterVisibility = function (isVisible) {
+        backToTop.dataset.footerVisible = String(isVisible);
+      };
+
+      if ('IntersectionObserver' in window) {
+        const footerObserver = new IntersectionObserver(function (entries) {
+          setFooterVisibility(entries[0].isIntersecting);
+        });
+        footerObserver.observe(footer);
+      } else {
+        const updateFooterVisibility = function () {
+          setFooterVisibility(footer.getBoundingClientRect().top < window.innerHeight);
+        };
+        window.addEventListener('scroll', updateFooterVisibility, { passive: true });
+        updateFooterVisibility();
+      }
     }
   });
 </script>
@@ -47,6 +83,32 @@
   document.addEventListener('DOMContentLoaded', function () {
     const buttons = document.querySelectorAll('.copy-btn');
     const copyStatus = document.getElementById('copy-status');
+    const copyText = function (text) {
+      if (navigator.clipboard && window.isSecureContext) {
+        return navigator.clipboard.writeText(text);
+      }
+
+      return new Promise(function (resolve, reject) {
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        textArea.setAttribute('readonly', '');
+        textArea.style.position = 'fixed';
+        textArea.style.opacity = '0';
+        document.body.appendChild(textArea);
+        textArea.select();
+
+        try {
+          if (!document.execCommand('copy')) {
+            throw new Error('Copy command was unsuccessful');
+          }
+          resolve();
+        } catch (error) {
+          reject(error);
+        } finally {
+          textArea.remove();
+        }
+      });
+    };
 
     buttons.forEach(button => {
       button.addEventListener('click', function () {
@@ -58,7 +120,7 @@
         const textToCopy = this.getAttribute('data-code');
         if (!textToCopy) return;
 
-        navigator.clipboard.writeText(textToCopy).then(() => {
+        copyText(textToCopy).then(() => {
           this.classList.add('copied');
           this.setAttribute('aria-label', 'Copied to clipboard');
           if (copyStatus) {

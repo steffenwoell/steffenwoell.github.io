@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: de
 title: Dunkelland
 subtitle: Amsterdam, The Netherlands
 image: /img/dun.webp

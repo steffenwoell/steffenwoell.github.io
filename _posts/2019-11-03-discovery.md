@@ -5,16 +5,18 @@ subtitle: It's Nice to Be in Orbit
 excerpt: Discovery became the third operational orbiter to enter service, preceded by Columbia and Challenger ...
 image: /img/dis.webp
 permalink: /journal/:title/
-tags: [Music, Experimental, Electronic, Discovery, Space Shuttle]
+tags: [Music, Experimental, Electronic, Discovery, Space]
 ---
 
-<div class="box-cookies"><b>Third-party cookies:</b> By interacting with embedded media you consent to the use of third-party cookies. For more information see SoundCloud's <a href="https://soundcloud.com/pages/privacy">privacy policy<i class="fas fa-external-link-alt" role="presentation"></i></a>
+*Discovery* became the third operational orbiter to enter service, preceded by *Columbia* and *Challenger*. It embarked on its last mission, STS-133, on February 24, 2011 and touched down for the final time at Kennedy Space Center on March 9, having spent a cumulative total of almost a full year in space. *Discovery* performed both research and International Space Station (ISS) assembly missions, and also carried the Hubble Space Telescope into orbit. [Source<i class="fas fa-external-link-alt" role="presentation"></i>](https://en.wikipedia.org/wiki/Space_Shuttle_Discovery)
+
+> “I am so glad we got to land here at Kennedy, the home of Discovery. As the minutes pass, I'm actually getting sadder and sadder about this being the last flight and I know all the folks involved with the shuttle program feel the same way.”
+>
+> <footer><cite>Steve Lindsey, STS-133 Commander · <a href="https://www.nasa.gov/mission/sts-133/">NASA mission page<i class="fas fa-external-link-alt" role="presentation"></i></a></cite></footer>
+
+This musical piece was inspired by the last flight of *Discovery*. It is dedicated to the achievements and memory of all those who have dared to leave Earth, expanding the horizons of humanity for us all.
+
+<div class="media-embed" data-embed-url="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/707176921&amp;color=%23d47b3d&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true">
+  <div class="box-cookies">Player only loads on activation. SoundCloud may set cookies. See SoundCloud's <a href="https://soundcloud.com/pages/privacy">Privacy policy<i class="fas fa-external-link-alt" role="presentation"></i></a></div>
+  <button class="media-load-button" type="button">Load SoundCloud player</button>
 </div>
-
-<div class="padded">
-<iframe width="75%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/707176921&color=%23d47b3d&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>
-
-*Discovery* became the third operational orbiter to enter service, preceded by *Columbia* and *Challenger*. It embarked on its last mission, STS-133, on February 24, 2011 and touched down for the final time at Kennedy Space Center on March 9, having spent a cumulative total of almost a full year in space. *Discovery* performed both research and International Space Station (ISS) assembly missions, and also carried the Hubble Space Telescope into orbit. ([Source<i class="fas fa-external-link-alt" role="presentation"></i>](https://en.wikipedia.org/wiki/Space_Shuttle_Discovery))
-
->"I am so glad we got to land here at Kennedy, the home of Discovery," STS-133 Commander Steve Lindsey said. "As the minutes pass, I'm actually getting sadder and sadder about this being the last flight and I know all the folks involved with the shuttle program feel the same way." ([Source<i class="fas fa-external-link-alt" role="presentation"></i>](https://www.nasa.gov/mission/sts-133/))

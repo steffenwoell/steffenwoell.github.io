@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: de
 title: Flügelschlag
 subtitle: RE98ICE1218
 image: /img/flu.webp

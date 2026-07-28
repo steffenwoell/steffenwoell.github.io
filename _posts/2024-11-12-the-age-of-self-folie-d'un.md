@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: de
 title: "The Age of Self: Folie d'un"
 subtitle: Frankfurt, Germany
 image: /img/fdu.webp

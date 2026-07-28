@@ -2,23 +2,110 @@
 layout: page
 title: Dr. Steffen Wöll
 subtitle: Postdoctoral Researcher
+description: Research profile of Dr. Steffen Wöll, a postdoctoral researcher in American Studies, cultural geography, and digital humanities.
 use-site-title: true
+integrated_header: true
+hide_avatar: true
 ---
 
-<p class="bio">Steffen Wöll is a postdoctoral researcher in American Studies at Leipzig University. His research explores how literary and cultural texts imagine, map, and transform space, with a particular focus on cartography, mobility, border formations, and imperial imaginaries. His publications span American literature, digital humanities, visual culture, film, and horror studies. His current project examines how transoceanic and archipelagic imaginaries shaped U.S. imperial expansion and literary culture at the turn of the twentieth century.</p>
+<div class="landing-page">
+<header class="home-identity">
+  <h1 class="sr-only">Dr. Steffen Wöll</h1>
+</header>
 
-<!--<div class="box-note">
-  <span class="fas fa-address-card icon-inline" aria-hidden="true"></span>Download my resume in <a href="/doc/CV_Steffen_Woell_en_05_24.pdf">English<span class="fas fa-file-pdf" aria-hidden="true"></span></a> or <a href="/doc/CV_Steffen_Woell_de_05_24.pdf">German<span class="fas fa-file-pdf" aria-hidden="true"></span></a>
-</div>-->
+<div class="home-statement">
+  <div class="home-section-label"><span class="fas fa-compass" aria-hidden="true"></span> Research Statement</div>
+  <p class="home-lead">Examining how literature and culture <span>imagine, map, and transform space.</span></p>
+</div>
 
-<div class="box-res">
-<div class="box-res-head"><span class="fas fa-flask icon-inline" aria-hidden="true"></span>Research Areas</div>
-<ul class="fa-ul">
-    <li><span class="fa-li"><span class="fas fa-compass" aria-hidden="true"></span></span>Spatial and geographic imaginaries</li>
-    <li><span class="fa-li"><span class="fas fa-water" aria-hidden="true"></span></span>Archipelagic and island studies</li>
-    <li><span class="fa-li"><span class="fas fa-globe-americas" aria-hidden="true"></span></span>American empire and globalization</li>
-    <li><span class="fa-li"><span class="fas fa-map" aria-hidden="true"></span></span>Critical cartography</li>
-    <li><span class="fa-li"><span class="fas fa-code" aria-hidden="true"></span></span>Digital humanities</li>
-    <li><span class="fa-li"><span class="fas fa-dice-d20" aria-hidden="true"></span></span>Game studies</li>
-  </ul>
+<section class="home-bio" aria-labelledby="home-about-title">
+  <!--<h2 id="home-about-title" class="home-section-label"><span class="fas fa-address-card" aria-hidden="true"></span> About</h2>-->
+  <div class="home-bio-content">
+    <div class="home-bio-portrait" aria-hidden="true">
+      <img class="home-bio-image" src="{{ site.avatar | relative_url }}" alt="" draggable="false">
+    </div>
+    <p><strong>I am a postdoctoral researcher in American Studies</strong>. My work at Leipzig University explores cartography, mobility, borders, and imperial imaginaries across American literature and culture. My research interests also extend to digital humanities, visual culture, film, horror, and game studies.</p>
+  </div>
+</section>
+
+<section class="home-section" aria-labelledby="research-areas">
+  <h2 id="research-areas">Research Areas</h2>
+  <div class="home-grid home-research-grid">
+    <article class="home-card">
+      <span class="fas fa-map-marked-alt home-card-icon" aria-hidden="true"></span>
+      <h3>Spatial Imaginaries</h3>
+      <p>Historical discourses of space, critical cartography, and the cultural production of place.</p>
+    </article>
+    <article class="home-card">
+      <span class="fas fa-water home-card-icon" aria-hidden="true"></span>
+      <h3>Oceans and Empire</h3>
+      <p>Archipelagic and island studies, mobility, borders, U.S. empire, and globalization.</p>
+    </article>
+    <article class="home-card">
+      <span class="fas fa-theater-masks home-card-icon" aria-hidden="true"></span>
+      <h3>Popular and Digital Culture</h3>
+      <p>Intersections of popular and digital culture, with particular interests in horror and game studies.</p>
+    </article>
+  </div>
+</section>
+
+<section class="home-section home-current" aria-labelledby="current-project">
+  <div class="home-section-label"><span class="fas fa-flask" aria-hidden="true"></span> Current Project</div>
+  <h2 id="current-project"><cite>A Place Between Oceans: Imagining American Empire, 1880–1940</cite></h2>
+  <p>The project examines how transoceanic and archipelagic imaginaries shaped U.S. imperial expansion and literary culture at the turn of the twentieth century.</p>
+</section>
+
+<section class="home-section" aria-labelledby="selected-work">
+  <div class="home-section-heading">
+    <h2 id="selected-work">Selected Work</h2>
+    <a class="home-section-link" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">&rarr;</span></a>
+  </div>
+  <div class="home-grid home-work-grid">
+    <article class="home-card home-work-card">
+      <div class="home-card-meta">Book · 2020</div>
+      <h3><cite>The West and the Word</cite></h3>
+      <p>Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.</p>
+      <a href="https://doi.org/10.1515/9783110690132">Open access <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
+    </article>
+    <article class="home-card home-work-card">
+      <div class="home-card-meta">Journal Article · 2023</div>
+      <h3>Unmasking Maps, Unmaking Empire</h3>
+      <p>Towards an Archipelagic Cartography.</p>
+      <a href="https://doi.org/10.5070/T814160835">Open access <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
+    </article>
+    <article class="home-card home-work-card">
+      <div class="home-card-meta">Digital Humanities · 2024</div>
+      <h3>Imperial Spatializations and Archipelagic Counter-Geographies</h3>
+      <p>A selected corpus of works, 1880–1940.</p>
+      <a href="https://doi.org/10.48736/GD1JYNUEZ">Explore the corpus <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
+    </article>
+  </div>
+</section>
+
+{% assign today = site.time | date: "%Y-%m-%d" %}
+{% assign conferences_by_date = site.data.conferences | sort: "start" %}
+{% assign upcoming_conference = false %}
+{% for conference in conferences_by_date %}
+  {% if conference.end >= today %}
+    {% assign upcoming_conference = conference %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if upcoming_conference %}
+<section class="home-section home-activity" aria-labelledby="upcoming">
+  <div>
+    <div class="home-section-label"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Upcoming</div>
+    <h2 id="upcoming">{{ upcoming_conference.title }}</h2>
+    <p><em>{{ upcoming_conference.event }}</em> · {{ upcoming_conference.location }} · {{ upcoming_conference.date_text }}</p>
+  </div>
+  <a class="home-action" href="{{ '/activities/' | relative_url }}">View activities <span aria-hidden="true">&rarr;</span></a>
+</section>
+{% endif %}
+
+<!--<nav class="home-links" aria-label="Explore this website">
+  <a href="{{ '/publications/' | relative_url }}"><span class="fas fa-book-open" aria-hidden="true"></span> Publications</a>
+  <a href="{{ '/activities/' | relative_url }}"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Activities</a>
+  <a href="{{ '/contact/' | relative_url }}"><span class="fas fa-envelope" aria-hidden="true"></span> Contact</a>
+</nav>-->
 </div>

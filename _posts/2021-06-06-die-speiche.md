@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: de
 title: Die Speiche
 subtitle: Leipzig, Germany
 image: /img/spe.webp

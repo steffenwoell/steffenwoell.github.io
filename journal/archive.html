@@ -1,0 +1,42 @@
+---
+layout: page
+title: Journal Archive
+description: A chronological archive of journal entries by Steffen Wöll.
+integrated_header: true
+hide_avatar: true
+permalink: /journal/archive/
+---
+
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+<div class="journal-page journal-archive-page">
+  <header class="journal-header">
+    <div class="journal-statement journal-archive-statement">
+      <h1 class="journal-section-label"><i class="fas fa-archive" aria-hidden="true"></i> Journal Archive</h1>
+      <p>Every journal entry, arranged chronologically.</p>
+      <a class="journal-back-link" href="{{ '/journal/' | relative_url }}"><span aria-hidden="true">&larr;</span> Back to the journal</a>
+    </div>
+  </header>
+
+  <div class="journal-archive">
+    {% for year in posts_by_year %}
+    <section class="journal-archive-year" aria-labelledby="journal-year-{{ year.name }}">
+      <div class="journal-archive-year-heading">
+        <h2 id="journal-year-{{ year.name }}">{{ year.name }}</h2>
+        <span>{{ year.items.size }} {% if year.items.size == 1 %}entry{% else %}entries{% endif %}</span>
+      </div>
+      <ol>
+        {% for post in year.items %}
+        <li>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d" }}</time>
+          <a href="{{ post.url | relative_url }}">
+            <span>{{ post.title }}</span>
+            {% if post.subtitle %}<small>{{ post.subtitle }}</small>{% endif %}
+          </a>
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endfor %}
+  </div>
+</div>
