@@ -103,7 +103,7 @@ module PublicationCitations
       case entry.fetch("schema_type")
       when "Book"
         "#{mla_names(entry.fetch('authors'))}. #{entry.fetch('title')}. " \
-          "#{entry.dig('publisher', 'name')}, #{year_text(entry)}.#{locator(entry)}"
+          "#{mla_publisher(entry.dig('publisher', 'name'))}, #{year_text(entry)}.#{locator(entry)}"
       when "ScholarlyArticle"
         citation = "#{mla_names(entry.fetch('authors'))}. “#{quote_title(entry.fetch('title'))}.” " \
                    "#{entry.dig('container', 'title')}"
@@ -117,7 +117,7 @@ module PublicationCitations
                    "#{entry.dig('book', 'title')}"
         editors = entry.dig("book", "editors")
         citation += ", edited by #{mla_editor_names(editors)}" if editors&.any?
-        citation += ", #{entry.dig('publisher', 'name')}, #{year_text(entry)}"
+        citation += ", #{mla_publisher(entry.dig('publisher', 'name'))}, #{year_text(entry)}"
         citation += ", pp. #{pages(entry)}" if pages(entry)
         citation + "." + locator(entry)
       when "PublicationIssue"
@@ -135,7 +135,7 @@ module PublicationCitations
         citation = "#{mla_names(entry.fetch('authors'))}. #{entry.fetch('title')}."
         citation += " #{entry.dig('series', 'title')}"
         citation += ", no. #{entry.dig('series', 'issue')}" if entry.dig("series", "issue")
-        citation += ", #{entry.dig('publisher', 'name')}, #{year_text(entry)}."
+        citation += ", #{mla_publisher(entry.dig('publisher', 'name'))}, #{year_text(entry)}."
         citation + locator(entry)
       when "Review"
         review_citation(entry, :mla)
@@ -330,6 +330,13 @@ module PublicationCitations
       return "#{first} and #{people.last.fetch('given')} #{people.last.fetch('family')}" if people.length == 2
 
       "#{first} et al."
+    end
+
+    def mla_publisher(name)
+      publisher = name.to_s
+      publisher = publisher.sub(/\AUniversity of (.+) Press\z/, 'U of \1 P')
+      publisher = publisher.sub(/ University Press\z/, " UP")
+      publisher.gsub(/\s+(?:&|\+)\s+/, " and ")
     end
 
     def join_names(values)

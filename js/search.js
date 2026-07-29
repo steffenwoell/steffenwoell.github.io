@@ -2,16 +2,18 @@ document.addEventListener('DOMContentLoaded', function () {
   const academicSources = [
     {
       rootSelector: '.publications-page',
-      headingSelector: '.publication-header ~ h2',
-      listClass: 'blue',
+      categorySelector: '.publication-category',
+      headingSelector: '.publication-category-header h2',
+      listSelector: '.publication-category-body',
       prefix: 'publication',
       type: 'Publication',
       urlKey: 'publicationsUrl'
     },
     {
       rootSelector: '.activity-header',
-      headingSelector: '.activity-header ~ h2',
-      listClass: 'gold',
+      categorySelector: '.activity-category',
+      headingSelector: '.activity-category-header h2',
+      listSelector: '.activity-category-body',
       prefix: 'activity',
       type: 'Activity',
       urlKey: 'activitiesUrl'
@@ -37,9 +39,10 @@ document.addEventListener('DOMContentLoaded', function () {
     const entries = [];
     const usedIds = Object.create(null);
 
-    root.querySelectorAll(source.headingSelector).forEach(function (heading) {
-      const list = heading.nextElementSibling;
-      if (!list || !list.classList.contains(source.listClass)) {
+    root.querySelectorAll(source.categorySelector).forEach(function (categorySection) {
+      const heading = categorySection.querySelector(source.headingSelector);
+      const list = categorySection.querySelector(source.listSelector);
+      if (!heading || !list) {
         return;
       }
 
@@ -108,15 +111,18 @@ document.addEventListener('DOMContentLoaded', function () {
   const dialog = document.getElementById('siteSearchDialog');
   const openButton = document.getElementById('siteSearchOpen');
   const input = document.getElementById('siteSearchInput');
+  const inputLabel = document.getElementById('siteSearchLabel');
+  const journalToggle = document.getElementById('siteSearchJournalToggle');
   const results = document.getElementById('siteSearchResults');
   const status = document.getElementById('siteSearchStatus');
 
-  if (!dialog || !openButton || !input || !results || !status) {
+  if (!dialog || !openButton || !input || !inputLabel || !journalToggle || !results || !status) {
     return;
   }
 
   let searchIndex = null;
   let indexRequest = null;
+  let journalMode = false;
   let resultLinks = [];
   let activeResult = -1;
   let previouslyFocused = null;
@@ -298,11 +304,19 @@ document.addEventListener('DOMContentLoaded', function () {
     input.removeAttribute('aria-activedescendant');
 
     if (!phrase || !terms.length) {
-      status.textContent = 'Start typing to search.';
+      status.textContent = journalMode
+        ? 'Start typing to search the journal.'
+        : 'Start typing to search publications and activities.';
       return;
     }
 
-    const matches = searchIndex
+    const scopedIndex = searchIndex.filter(function (item) {
+      return journalMode
+        ? item.type === 'Journal Entry'
+        : item.type !== 'Journal Entry';
+    });
+
+    const matches = scopedIndex
       .map(function (item) {
         return { item: item, score: scoreItem(item, terms, phrase) };
       })
@@ -313,8 +327,8 @@ document.addEventListener('DOMContentLoaded', function () {
       .slice(0, 10);
 
     status.textContent = matches.length
-      ? matches.length + (matches.length === 1 ? ' result' : ' results')
-      : 'No results found.';
+      ? matches.length + (matches.length === 1 ? ' result' : ' results') + (journalMode ? ' in the journal' : '')
+      : (journalMode ? 'No journal entries found.' : 'No results found.');
 
     matches.forEach(function (match, index) {
       const item = match.item;
@@ -382,7 +396,7 @@ document.addEventListener('DOMContentLoaded', function () {
       input.focus();
     });
 
-    status.textContent = 'Loading search…';
+    status.textContent = journalMode ? 'Loading journal search…' : 'Loading search…';
     loadIndex()
       .then(function () {
         renderResults(input.value);
@@ -413,6 +427,22 @@ document.addEventListener('DOMContentLoaded', function () {
     if (searchIndex) {
       renderResults(input.value);
     }
+  });
+
+  journalToggle.addEventListener('click', function () {
+    journalMode = !journalMode;
+    journalToggle.setAttribute('aria-pressed', String(journalMode));
+    input.placeholder = journalMode ? 'Search journal entries' : 'Search publications and activities';
+    inputLabel.textContent = input.placeholder;
+    results.setAttribute('aria-label', journalMode ? 'Journal search results' : 'Search results');
+    if (searchIndex) {
+      renderResults(input.value);
+    } else {
+      status.textContent = journalMode
+        ? 'Start typing to search the journal.'
+        : 'Start typing to search publications and activities.';
+    }
+    input.focus();
   });
 
   input.addEventListener('keydown', function (event) {

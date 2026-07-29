@@ -76,6 +76,30 @@ def validate_data(data)
   duplicate_entries = entry_ids.tally.select { |_id, count| count > 1 }.keys
   errors << "duplicate entry IDs: #{duplicate_entries.join(', ')}" unless duplicate_entries.empty?
 
+  featured = data["featured"]
+  if featured && !featured.is_a?(Hash)
+    errors << "featured must be a mapping"
+  elsif featured
+    featured_entry_ids = []
+    featured.each do |key, config|
+      prefix = "featured.#{key}"
+      if !config.is_a?(Hash)
+        errors << "#{prefix} must be a mapping"
+        next
+      end
+
+      unknown_fields = config.keys - %w[label entry_id]
+      errors << "#{prefix} has unknown fields: #{unknown_fields.join(', ')}" unless unknown_fields.empty?
+      errors << "#{prefix}.label is required" if config["label"].to_s.strip.empty?
+      entry_id = config["entry_id"].to_s
+      errors << "#{prefix}.entry_id is required" if entry_id.strip.empty?
+      errors << "#{prefix}.entry_id is unknown: #{entry_id.inspect}" unless entry_ids.include?(entry_id)
+      featured_entry_ids << entry_id unless entry_id.empty?
+    end
+    duplicate_featured = featured_entry_ids.tally.select { |_id, count| count > 1 }.keys
+    errors << "duplicate featured entry IDs: #{duplicate_featured.join(', ')}" unless duplicate_featured.empty?
+  end
+
   entries.each_with_index do |entry, index|
     prefix = "entries[#{index}]"
     unknown_fields = entry.keys.reject { |field| ALLOWED_ENTRY_FIELDS.include?(field) }

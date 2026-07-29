@@ -1,13 +1,18 @@
 {%- for link in include.links -%}
   {%- assign external_link = false -%}
   {%- if link.url contains '://' -%}{%- assign external_link = true -%}{%- endif -%}
-  <a href="{{ link.url | relative_url }}"{% if external_link %} rel="noopener noreferrer"{% endif %}>
-    {{- link.label -}}
-    {%- case link.access -%}
-      {%- when 'open' -%}<i class="fas fa-lock-open" role="presentation"></i>
-      {%- when 'file' -%}<i class="fas fa-file-pdf" role="presentation"></i>
-    {%- endcase -%}
-    {%- if link.format == 'pdf' -%}<i class="fas fa-file-pdf" role="presentation"></i>
-    {%- elsif external_link -%}<i class="fas fa-external-link-alt" role="presentation"></i>{%- endif -%}
-  </a>{% unless forloop.last %} <span aria-hidden="true">&amp;</span> {% endunless %}
+  <a class="publication-entry-link publication-entry-link--{{ link.access }}" href="{{ link.url | relative_url }}"{% if external_link %} rel="noopener noreferrer"{% endif %}>
+    {%- if link.format == 'pdf' -%}<i class="fas fa-file-pdf" aria-hidden="true"></i>
+    {%- else -%}
+      {%- case link.access -%}
+        {%- when 'open' -%}<i class="fas fa-lock-open" aria-hidden="true"></i>
+        {%- when 'publisher' -%}<i class="fas fa-building" aria-hidden="true"></i>
+        {%- when 'print' -%}<i class="fas fa-book" aria-hidden="true"></i>
+        {%- when 'file' -%}<i class="fas fa-file-pdf" aria-hidden="true"></i>
+        {%- when 'web' -%}<i class="fas fa-globe" aria-hidden="true"></i>
+      {%- endcase -%}
+    {%- endif -%}
+    <span>{{ link.label }}</span>
+    {%- if external_link -%}<i class="fas fa-external-link-alt publication-entry-link-external" aria-hidden="true"></i>{%- endif -%}
+  </a>
 {%- endfor -%}

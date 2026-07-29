@@ -1,23 +1,28 @@
 # Canonical data source for the Publications page and its structured metadata.
 schema_version: 1
 
+featured:
+  habilitation:
+    label: Habilitation Project
+    entry_id: publication-a-place-between-oceans-imagining-american-empire-1880-1940
+
 categories:
   - id: books
-    label: Books & Book Projects
+    label: Books
     short_label: Books
     default_schema_type: Book
-  - id: editing
-    label: Edited Volumes (Peer-Reviewed)
-    short_label: Edited Volumes
-    default_schema_type: PublicationIssue
   - id: journals
-    label: Journal Articles (Peer-Reviewed)
+    label: Journal Articles
     short_label: Articles
     default_schema_type: ScholarlyArticle
   - id: chapters
-    label: Book Chapters (Peer-Reviewed)
+    label: Chapters
     short_label: Chapters
     default_schema_type: Chapter
+  - id: editing
+    label: Edited Volumes
+    short_label: Edited Volumes
+    default_schema_type: PublicationIssue
   - id: working-papers
     label: Working Papers
     short_label: Working Papers
@@ -39,11 +44,11 @@ categories:
     short_label: Posters
     default_schema_type: CreativeWork
   - id: web-projects
-    label: Web Projects / Outreach
-    short_label: Web & Outreach
+    label: Web Projects
+    short_label: Web Projects
     default_schema_type: CreativeWork
   - id: early-work
-    label: Early Work (Unrefereed)
+    label: Early Work
     short_label: Early Work
     default_schema_type: CreativeWork
 
@@ -55,8 +60,6 @@ entries:
     authors:
       - name: Steffen Wöll
     status: in_progress
-    display:
-      status: Habilitation project
     links: []
 
   - id: publication-the-west-and-the-word-imagining-formatting-and-ordering-the-american-west-in-nineteenth-ce

@@ -25,6 +25,23 @@ file.
 The `id` is permanent. It is used for page anchors, search results, and JSON-LD
 identifiers and must not be changed when a title is edited.
 
+## Featured presentation
+
+An existing entry can be presented separately above the regular categories
+without creating a new publication type:
+
+```yaml
+featured:
+  habilitation:
+    label: Habilitation Project
+    entry_id: publication-a-place-between-oceans-imagining-american-empire-1880-1940
+```
+
+The referenced entry remains in its canonical category for the data inventory,
+JSON-LD, search, and future citation exports. The Publications page renders it
+only in the featured section and excludes it from the repeated category list.
+The validator checks that every featured reference points to an existing entry.
+
 ## Fields
 
 Required for every entry:

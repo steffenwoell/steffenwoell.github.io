@@ -7,7 +7,7 @@ header_class: publications-header
 integrated_header: true
 hide_avatar: true
 js:
-  - "/js/citations.js"
+  - "/js/citations.js?v=20260729"
 ---
 
 <div class="publications-page">
@@ -15,7 +15,7 @@ js:
 <div class="publication-header">
 <div class="publication-statement">
 <h1 class="home-section-label"><i class="fas fa-book-open" aria-hidden="true"></i> Publications</h1>
-<p>Research on literature, culture, space, and empire across print, maps, images, and digital media.</p>
+<p>Research across print, maps, and digital media</p>
 <img class="publication-header-image" src="{{ page.image | relative_url }}" alt="">
 </div>
 
@@ -29,8 +29,22 @@ js:
 {% include publications/contents.html %}
 </div>
 
+{% assign habilitation_config = site.data.publications.featured.habilitation %}
+{% assign habilitation_entries = site.data.publications.entries | where: "id", habilitation_config.entry_id %}
+{% assign habilitation_entry = habilitation_entries | first %}
+{% if habilitation_entry %}
+<section class="publication-category publication-category--featured" aria-labelledby="habilitation-project-title">
+  <header class="publication-category-header">
+    <h2 id="habilitation-project-title">{{ habilitation_config.label }}</h2>
+  </header>
+  <div class="publication-category-body blue">
+    {% include publications/entry.html entry=habilitation_entry title_only=true %}
+  </div>
+</section>
+{% endif %}
+
 {% for category in site.data.publications.categories %}
-  {% include publications/category.html category=category entries=site.data.publications.entries last=forloop.last %}
+  {% include publications/category.html category=category entries=site.data.publications.entries featured_entry_id=habilitation_config.entry_id last=forloop.last %}
 {% endfor %}
 
 </div>

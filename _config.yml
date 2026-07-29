@@ -137,6 +137,7 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
+  - docs
   - projects.md
   - _posts/markdown-examples.md
 

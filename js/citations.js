@@ -2,6 +2,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const dialog = document.getElementById('publicationCitationDialog');
   const dataElement = document.getElementById('publicationCitationData');
   const openButtons = Array.from(document.querySelectorAll('[data-citation-open]'));
+  const downloadAllButtons = Array.from(document.querySelectorAll('[data-citation-download-all]'));
+  const downloadAllStatus = document.querySelector('[data-citation-download-all-status]');
   if (!dialog || !dataElement || !openButtons.length) return;
 
   let citations;
@@ -11,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
     return;
   }
   openButtons.forEach(function (button) { button.hidden = false; });
+  downloadAllButtons.forEach(function (button) { button.hidden = false; });
 
   const title = document.getElementById('citationDialogTitle');
   const output = document.getElementById('citationDialogOutput');
@@ -44,6 +47,18 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   };
 
+  const downloadFile = function (content, mimeType, filename) {
+    const blob = new Blob([content], { type: mimeType });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = filename;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    window.setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+  };
+
   const styleLabel = function (style) {
     return style === 'mla' ? 'MLA' : (style === 'bibtex' ? 'BibTeX' : 'Chicago bibliography');
   };
@@ -53,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function () {
     return currentRecord[currentStyle].plain;
   };
 
-  const render = function () {
+  const render = function (direction) {
     tabs.forEach(function (tab) {
       const active = tab.dataset.citationStyle === currentStyle;
       tab.setAttribute('aria-selected', String(active));
@@ -71,8 +86,19 @@ document.addEventListener('DOMContentLoaded', function () {
     } else {
       output.innerHTML = currentRecord[currentStyle].html;
     }
+    output.classList.remove('is-slide-forward', 'is-slide-backward');
+    if (direction && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      void output.offsetWidth;
+      output.classList.add(direction > 0 ? 'is-slide-forward' : 'is-slide-backward');
+    }
     status.textContent = styleLabel(currentStyle) + ' citation selected.';
     copyButton.querySelector('span').textContent = 'Copy citation';
+  };
+
+  const selectStyle = function (nextStyle, direction) {
+    if (nextStyle === currentStyle) return;
+    currentStyle = nextStyle;
+    render(direction);
   };
 
   const open = function (button) {
@@ -107,15 +133,18 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   tabs.forEach(function (tab, index) {
     tab.addEventListener('click', function () {
-      currentStyle = tab.dataset.citationStyle;
-      render();
+      const currentIndex = tabs.findIndex(function (item) {
+        return item.dataset.citationStyle === currentStyle;
+      });
+      selectStyle(tab.dataset.citationStyle, index > currentIndex ? 1 : -1);
     });
     tab.addEventListener('keydown', function (event) {
       if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
       event.preventDefault();
       const direction = event.key === 'ArrowRight' ? 1 : -1;
-      tabs[(index + direction + tabs.length) % tabs.length].click();
-      tabs[(index + direction + tabs.length) % tabs.length].focus();
+      const nextTab = tabs[(index + direction + tabs.length) % tabs.length];
+      selectStyle(nextTab.dataset.citationStyle, direction);
+      nextTab.focus();
     });
   });
   copyButton.addEventListener('click', function () {
@@ -134,16 +163,40 @@ document.addEventListener('DOMContentLoaded', function () {
         status.textContent = 'Export file is unavailable.';
         return;
       }
-      const blob = new Blob([download.content], { type: download.mime_type });
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement('a');
-      link.href = url;
-      link.download = download.filename;
-      document.body.appendChild(link);
-      link.click();
-      link.remove();
-      URL.revokeObjectURL(url);
+      downloadFile(download.content, download.mime_type, download.filename);
       status.textContent = button.textContent.trim() + ' file downloaded.';
+    });
+  });
+  downloadAllButtons.forEach(function (button) {
+    button.addEventListener('click', function () {
+      const format = button.dataset.citationDownloadAll;
+      const records = Object.keys(citations).map(function (key) { return citations[key]; });
+      let content;
+      let mimeType;
+      let filename;
+
+      if (format === 'bibtex') {
+        content = records.map(function (record) { return record.bibtex; }).join('\n\n') + '\n';
+        mimeType = 'application/x-bibtex;charset=utf-8';
+        filename = 'steffen-woell-publications.bib';
+      } else if (format === 'ris') {
+        content = records.map(function (record) { return record.downloads.ris.content; }).join('');
+        mimeType = 'application/x-research-info-systems;charset=utf-8';
+        filename = 'steffen-woell-publications.ris';
+      } else if (format === 'csl-json') {
+        content = JSON.stringify(records.map(function (record) {
+          return JSON.parse(record.downloads['csl-json'].content);
+        }), null, 2) + '\n';
+        mimeType = 'application/vnd.citationstyles.csl+json;charset=utf-8';
+        filename = 'steffen-woell-publications.json';
+      } else {
+        return;
+      }
+
+      downloadFile(content, mimeType, filename);
+      if (downloadAllStatus) {
+        downloadAllStatus.textContent = records.length + ' publications downloaded as ' + button.textContent.trim() + '.';
+      }
     });
   });
   document.addEventListener('keydown', function (event) {

@@ -1,6 +1,7 @@
 {%- assign publication = include.entry -%}
 <p id="{{ publication.id }}" class="academic-search-target" data-publication-id="{{ publication.id }}">
   <strong class="hl hl-pub">{{ publication.title }}{% if publication.title_suffix %}{{ publication.title_suffix }}{% elsif publication.volume or publication.preserve_title_punctuation %}{% else %}.{% endif %}</strong>
+  {%- unless include.title_only -%}
   {%- if publication.authors.size > 1 and publication.contributors_position != 'after_citation' %} With {% for author in publication.authors offset: 1 %}{% if forloop.index > 1 %}{% if forloop.last %}{% if forloop.length > 2 %}, and {% else %} and {% endif %}{% else %}, {% endif %}{% endif %}{{ author.name }}{% endfor %}.{% endif %}
   {%- if publication.display %}
     {% include publications/project-citation.html entry=publication %}
@@ -39,10 +40,14 @@
   {%- endcase -%}
   {%- endunless -%}
   {%- if publication.note %} {{ publication.note }}{% unless publication.note contains '.' %}.{% endunless %}{% endif -%}
-  {%- if publication.links.size > 0 %} {% include publications/links.html links=publication.links %}{% endif %}
-  {%- if site.data.publication-citations-generated[publication.id] %}
-    <span class="publication-cite-row">
+  {%- endunless -%}
+  {%- assign citation_record = site.data.publication-citations-generated[publication.id] -%}
+  {%- if publication.links.size > 0 or citation_record %}
+    <span class="publication-entry-actions">
+      {%- if publication.links.size > 0 %}{% include publications/links.html links=publication.links %}{% endif -%}
+      {%- if citation_record %}
       <button class="publication-cite-button" type="button" data-citation-open="{{ publication.id }}" aria-haspopup="dialog" aria-controls="publicationCitationDialog" hidden><i class="fas fa-quote-right" aria-hidden="true"></i> Cite</button>
+      {%- endif %}
     </span>
   {%- endif %}
 </p>

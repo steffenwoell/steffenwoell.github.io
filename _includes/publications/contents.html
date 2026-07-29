@@ -1,11 +1,27 @@
-<nav class="publication-contents" aria-labelledby="publication-contents-title">
+<section class="publication-contents" aria-labelledby="publication-contents-title">
   <div id="publication-contents-title" class="home-section-label"><i class="fas fa-list-ul" aria-hidden="true"></i> Browse by Type</div>
-  <ul>
-    {%- for category in site.data.publications.categories -%}
-      {%- assign category_entries = site.data.publications.entries | where: 'category', category.id -%}
-      {%- if category_entries.size > 0 %}
-      <li><a href="#{{ category.id }}"><span class="category-label-full">{{ category.label }}</span><span class="category-label-short" aria-hidden="true">{{ category.short_label }}</span></a></li>
-      {%- endif -%}
-    {%- endfor %}
-  </ul>
-</nav>
+  <nav aria-label="Publication types">
+    <ul>
+      {%- for category in site.data.publications.categories -%}
+        {%- assign category_entries = site.data.publications.entries | where: 'category', category.id -%}
+        {%- if category_entries.size > 0 %}
+        <li><a href="#{{ category.id }}"><span class="category-label-full">{{ category.label }}</span><span class="category-label-short" aria-hidden="true">{{ category.short_label }}</span></a></li>
+        {%- endif -%}
+      {%- endfor %}
+    </ul>
+  </nav>
+
+  <div class="publication-downloads">
+    <div class="publication-downloads-label">
+      <i class="fas fa-book" aria-hidden="true"></i>
+      <span>Export Publications</span>
+    </div>
+    <div class="publication-downloads-formats" role="group" aria-label="Export complete publication list">
+      <button type="button" data-citation-download-all="bibtex" hidden>BibTeX</button>
+      <button type="button" data-citation-download-all="ris" hidden>RIS</button>
+      <button type="button" data-citation-download-all="csl-json" hidden>CSL-JSON</button>
+    </div>
+    <small class="publication-downloads-count">{{ site.data.publication-citations-generated.size }} publications</small>
+    <span class="sr-only" data-citation-download-all-status aria-live="polite"></span>
+  </div>
+</section>

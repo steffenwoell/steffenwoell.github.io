@@ -5,7 +5,11 @@ permalink: /search.json
 [
 {%- assign search_first = true -%}
 {%- for item in site.html_pages -%}
-  {%- if item.title and item.url != '/404.html' and item.url != '/search.json' and item.search_exclude != true -%}
+  {%- assign is_journal_pagination = false -%}
+  {%- if item.url contains '/journal/page' -%}
+    {%- assign is_journal_pagination = true -%}
+  {%- endif -%}
+  {%- if item.title and item.url != '/404.html' and item.url != '/search.json' and item.search_exclude != true and is_journal_pagination != true -%}
     {%- unless search_first -%},{%- endunless -%}
     {%- assign search_first = false -%}
     {%- assign search_type = 'Page' -%}

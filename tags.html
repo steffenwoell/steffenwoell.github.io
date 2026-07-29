@@ -6,6 +6,7 @@ image: /img/cat/tag.webp
 header_class: journal-header
 integrated_header: true
 hide_avatar: true
+search_exclude: true
 ---
 
 {%- capture site_tags -%}
@@ -18,9 +19,8 @@ hide_avatar: true
 <div class="tags-page">
 <div class="tags-statement">
   <h1 class="tags-section-label"><i class="fas fa-pen" aria-hidden="true"></i> Journal Tags</h1>
-  <p>Browse the journal by place & theme.</p>
+  <p>Explore the journal by place & theme</p>
   <a class="journal-back-link" href="{{ '/journal/' | relative_url }}"><span aria-hidden="true">&larr;</span> Back to the journal</a>
-  <!--<img class="tags-header-image" src="{{ page.image | relative_url }}" alt="">-->
 </div>
 
 <nav class="tag-cloud" aria-label="Browse journal tags">

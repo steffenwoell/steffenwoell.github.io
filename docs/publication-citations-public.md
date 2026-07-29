@@ -44,6 +44,10 @@ Supported publication entries receive a `Cite` button. The dialog provides:
 - a compact mobile bottom sheet;
 - reduced-motion support.
 
+The Publications header additionally offers complete-list downloads in
+BibTeX, RIS, and CSL-JSON. The browser assembles them from the same generated
+records as the individual dialog, so no second publication list is maintained.
+
 Unsupported publication categories do not receive an inactive control.
 JavaScript failure leaves the original publication list and links intact.
 

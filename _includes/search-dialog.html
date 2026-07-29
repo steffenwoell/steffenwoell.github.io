@@ -11,11 +11,17 @@
       </button>
     </div>
 
-    <label class="sr-only" for="siteSearchInput">Search publications, activities, and journal entries</label>
-    <div class="site-search-field">
-      <i class="fas fa-search" aria-hidden="true"></i>
-      <input id="siteSearchInput" type="search" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Search publications, activities, and journal entries">
-      <kbd class="site-search-shortcut" aria-hidden="true">Esc</kbd>
+    <label id="siteSearchLabel" class="sr-only" for="siteSearchInput">Search publications and activities</label>
+    <div class="site-search-controls">
+      <div class="site-search-field">
+        <i class="fas fa-search" aria-hidden="true"></i>
+        <input id="siteSearchInput" type="search" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Search publications and activities">
+        <kbd class="site-search-shortcut" aria-hidden="true">Esc</kbd>
+      </div>
+      <button id="siteSearchJournalToggle" class="site-search-mode-toggle" type="button" aria-pressed="false" aria-label="Search journal entries">
+        <i class="fas fa-pen" aria-hidden="true"></i>
+        <span>Journal</span>
+      </button>
     </div>
 
     <div id="siteSearchStatus" class="site-search-status" role="status" aria-live="polite">Start typing to search.</div>

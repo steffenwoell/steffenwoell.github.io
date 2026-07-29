@@ -25,6 +25,9 @@ multiple authors, editors, page ranges, DOI preference, and access URLs:
   `Day abbreviated-Month Year`.
 - MLA conference presentations and unpublished manuscripts use quotation marks
   around the work title and identify the event or institution as the container.
+- MLA abbreviates academic publisher names containing `University Press`
+  (`Coimbra UP`, `U of Chicago P`) and changes an ampersand or plus sign in a
+  publisher name to `and`. Chicago retains the publisher's full name.
 - Whole websites retain their documented publication date range. MLA
   italicizes the site title; Chicago treats the site name as the author when
   both are identical and does not repeat it as an italicized title.

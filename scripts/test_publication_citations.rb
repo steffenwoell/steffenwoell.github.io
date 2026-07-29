@@ -359,6 +359,33 @@ quality_cases = {
       output = generator.generate(entry, style)
       output.include?("forthcoming") && !output.include?("2027")
     end
+  },
+  "basic De Gruyter book legitimately matches in Chicago and MLA" => lambda {
+    entry = entries_by_id.fetch("publication-the-west-and-the-word-imagining-formatting-and-ordering-the-american-west-in-nineteenth-ce")
+    generator.generate(entry, "chicago-notes-bibliography") ==
+      generator.generate(entry, "mla-9")
+  },
+  "MLA abbreviates university press names while Chicago retains them" => lambda {
+    entry = {
+      "id" => "publication-test-university-press-book",
+      "schema_type" => "Book",
+      "title" => "Test Book",
+      "authors" => [{ "name" => "Steffen Wöll" }],
+      "publisher" => { "name" => "University of Chicago Press" },
+      "year" => 2026,
+      "status" => "published",
+      "links" => []
+    }
+    chicago = generator.generate(entry, "chicago-notes-bibliography")
+    mla = generator.generate(entry, "mla-9")
+    chicago.include?("University of Chicago Press, 2026.") &&
+      mla.include?("U of Chicago P, 2026.")
+  },
+  "MLA normalizes press suffixes and publisher ampersands" => lambda {
+    university_press = entries_by_id.fetch("publication-spatial-imaginations-and-counter-geographies-of-oregon-and-the-far-west")
+    ampersand = entries_by_id.fetch("publication-global-imaginations-of-u-s-imperialism-1898-1945")
+    generator.generate(university_press, "mla-9").include?("Coimbra UP") &&
+      generator.generate(ampersand, "mla-9").include?("Vandenhoeck and Ruprecht")
   }
 }
 quality_cases.each do |label, assertion|

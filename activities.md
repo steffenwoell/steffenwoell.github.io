@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activities
-description: Conferences, teaching, fieldwork, collaboration, service, and other academic activities by Steffen Wöll.
+description: Talks, conferences, teaching, research travel, collaboration, service, and other academic activities by Steffen Wöll.
 image: /img/cat/act.webp
 header_class: activities-header
 integrated_header: true
@@ -20,40 +20,45 @@ hide_avatar: true
 <div class="activity-header">
 <div class="activity-statement">
 <h1 class="activity-section-label"><i class="fas fa-calendar-alt" aria-hidden="true"></i> Activities</h1>
-<p>Academic work beyond publication: conferences, teaching, fieldwork, collaboration, and service.</p>
+<p>Academic work beyond publication</p>
 <img class="activity-header-image" src="{{ page.image | relative_url }}" alt="">
 </div>
 
-<nav class="activity-contents" aria-labelledby="activity-contents-title">
+<section class="activity-contents" aria-labelledby="activity-contents-title">
 <div id="activity-contents-title" class="activity-section-label"><i class="fas fa-list-ul" aria-hidden="true"></i> Browse by Type</div>
+<nav aria-label="Activity types">
 <ul>
 {% if has_upcoming_conferences %}<li><a href="#upcoming"><span class="category-label-full">Upcoming</span><span class="category-label-short" aria-hidden="true">Upcoming</span></a></li>{% endif %}
-<li><a href="#conferences"><span class="category-label-full">Conferences</span><span class="category-label-short" aria-hidden="true">Conferences</span></a></li>
+<li><a href="#conferences"><span class="category-label-full">Talks &amp; Conferences</span><span class="category-label-short" aria-hidden="true">Talks</span></a></li>
 <li><a href="#panels-workshops" aria-label="Panels and Workshops"><span class="category-label-full">Panels & Workshops</span><span class="category-label-short" aria-hidden="true">Panels</span></a></li>
 <li><a href="#teaching"><span class="category-label-full">Teaching</span><span class="category-label-short" aria-hidden="true">Teaching</span></a></li>
-<li><a href="#thesis-supervision"><span class="category-label-full">Thesis Supervision</span><span class="category-label-short" aria-hidden="true">Supervision</span></a></li>
-<li><a href="#fieldwork-archives" aria-label="Fieldwork and Archival Research"><span class="category-label-full">Fieldwork & Archival Research</span><span class="category-label-short" aria-hidden="true">Fieldwork</span></a></li>
-<li><a href="#memberships"><span class="category-label-full">Memberships</span><span class="category-label-short" aria-hidden="true">Memberships</span></a></li>
+<li><a href="#thesis-supervision"><span class="category-label-full">Supervision</span><span class="category-label-short" aria-hidden="true">Supervision</span></a></li>
+<li><a href="#fieldwork-archives"><span class="category-label-full">Research Travel</span><span class="category-label-short" aria-hidden="true">Travel</span></a></li>
+<li><a href="#memberships"><span class="category-label-full">Academic Memberships</span><span class="category-label-short" aria-hidden="true">Memberships</span></a></li>
 <li><a href="#academic-service"><span class="category-label-full">Academic Service</span><span class="category-label-short" aria-hidden="true">Service</span></a></li>
 <li><a href="#grants-awards" aria-label="Grants and Awards"><span class="category-label-full">Grants & Awards</span><span class="category-label-short" aria-hidden="true">Grants</span></a></li>
-<li><a href="#volunteering"><span class="category-label-full">Volunteering</span><span class="category-label-short" aria-hidden="true">Volunteering</span></a></li>
+<li><a href="#volunteering"><span class="category-label-full">Community Engagement</span><span class="category-label-short" aria-hidden="true">Engagement</span></a></li>
 </ul>
 </nav>
+</section>
 </div>
 
 {% if has_upcoming_conferences %}
-## Upcoming
-<div class="gold">
+<section class="activity-category activity-category--upcoming" aria-labelledby="upcoming">
+<header class="activity-category-header"><h2 id="upcoming">Upcoming</h2></header>
+<div class="activity-category-body gold">
 {% for conference in conferences_by_date %}
 {% if conference.end >= today %}
 <p><strong class="hl hl-act">{{ conference.title }}</strong> {{ conference.event }}. {{ conference.location }}. {{ conference.date_text }}. <a href="{{ conference.url }}">{{ conference.role }}<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 {% endif %}
 {% endfor %}
 </div>
+</section>
 {% endif %}
 
-## Conferences
-<div class="gold">
+<section class="activity-category" aria-labelledby="conferences">
+<header class="activity-category-header"><h2 id="conferences">Talks &amp; Conferences</h2></header>
+<div class="activity-category-body gold">
 {% assign past_conferences = conferences_by_date | reverse %}
 {% for conference in past_conferences %}
 {% if conference.end < today %}
@@ -102,7 +107,7 @@ hide_avatar: true
 <p><strong class="hl hl-act">Der Raum zwischen Ozeanen / The Space Between Oceans: Mobilizing America&#8217;s Transoceanic Empire.</strong> Forschungskonferenz der Philologischen Fakultät Leipzig. Online. 26 January 2021. Presentation</p>
 <p><strong class="hl hl-act">The Space Between Oceans: Mobilizing America&#8217;s Transoceanic Empire.</strong> Fifth Annual Conference of the SFB 1199: Mobilities under the Global Condition from the 19th Century to the Present. Leipzig / online. 8 October 2020. <a href="https://research.uni-leipzig.de/~sfb1199/annual-conference/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">The Naturalists&#8217; Frontier: Ethnic Mobilities in Jack London&#8217;s Literary Geographies.</strong> American Literature Association Annual Conference. San Diego. 21–24 May 2020. <a href="https://americanliteratureassociation.org/wp-content/uploads/2020/07/ALA2020_Cancellation.pdf">Presentation<i class="fas fa-file-pdf" role="presentation"></i></a></p>
-<p><strong class="hl hl-act">Mapping Discourse in Richard Henry Dana&#8217;s Two Years Before the Mast.</strong> Mapping Space - Mapping Time - Mapping Texts: A Virtual One-Day Conference. Online. 29 September 2020. <a href="https://www.flickr.com/photos/189983859@N08/50294560072/">Poster<i class="fas fa-file-image" role="presentation"></i></a>&nbsp;<a href="https://www.lancaster.ac.uk/chronotopic-cartographies/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">Mapping Discourse in Richard Henry Dana&#8217;s Two Years Before the Mast.</strong> Mapping Space - Mapping Time - Mapping Texts: A Virtual One-Day Conference. Online. 29 September 2020. <span class="activity-entry-actions"><a href="https://www.flickr.com/photos/189983859@N08/50294560072/">Poster<i class="fas fa-file-image" role="presentation"></i></a><a href="https://www.lancaster.ac.uk/chronotopic-cartographies/">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></span></p>
 <p><strong class="hl hl-act">Mapping Discourse in Richard Henry Dana&#8217;s Two Years Before the Mast.</strong> DoktorandInnen Posterkonferenz der Philologischen Fakultät. Leipzig. 28 January 2020. <a href="https://www.philol.uni-leipzig.de">Poster Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">The Rocky Roads of Empire: The Rocky Mountains as Hemispheric Nexus and Barrier to Manifest Destiny in Nineteenth-Century American Literature.</strong> Mediating Mountains. 46th Austrian Association for American Studies Conference. Innsbruck. 23 November 2019. <a href="https://www.uibk.ac.at/amerikastudien/aktuelles/veranstaltungen/aaas-konferenz-2019.html">Presentation<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">&#8220;True Places Never Are&#8221;: Navigating Spatial Imaginations in Moby-Dick.</strong> Over_Seas: Melville, Whitman and all the Intrepid Sailors. Lisbon. 3 July 2019. Presentation</p>
@@ -127,11 +132,13 @@ hide_avatar: true
 <p><strong class="hl hl-act">Globe, Region, and Periphery: The Spatialization of the American West in Antebellum US Literature.</strong> Collaborative Research Centre 1199. Leipzig. 4 January 2017. Presentation</p>
 <p><strong class="hl hl-act">Space and Place in American Studies.</strong> Urban America: Mediating City Space as Place. American Studies Leipzig Graduate Conference. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016">Keynote Address<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
+</section>
 
 <div class="anchor" id="panels-workshops" aria-hidden="true"></div>
 
-## Panels & Workshops
-<div class="gold">
+<section class="activity-category" aria-labelledby="panels-workshops-title">
+<header class="activity-category-header"><h2 id="panels-workshops-title">Panels &amp; Workshops</h2></header>
+<div class="activity-category-body gold">
 <p><strong class="hl hl-act">Global Coalitions Endgame.</strong> American Studies Association Annual Meeting. New Orleans. 4 November 2022. <a href="https://asa.press.jhu.edu/program22/program.pdf">Panel Chair<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">Archipelagic Imperial Spaces and Mobilities.</strong> Leipzig / online. 30 March-1 April 2022. Second International Workshop. With Gabriele Pisarz-Ramirez, Alexandra Ganser, and Barbara Gföllner. <a href="https://research.uni-leipzig.de/~sfb1199/events/13_sfb_event_workshop_archipelagic-spaces-ii-08-03-2022/">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">The Seeds and Seeding of Empire.</strong> American Studies Association Annual Conference. San Juan / online. 14 October 2021. <a href="https://asa.press.jhu.edu/program21/program.pdf">Panel Chair<i class="fas fa-file-pdf" role="presentation"></i></a></p>
@@ -140,9 +147,11 @@ hide_avatar: true
 <p><strong class="hl hl-act">Regional Colloquium for American Studies.</strong> Leipzig. 13 January 2017. Co-Organizer.</p>
 <p><strong class="hl hl-act">Urban America: Mediating City Space as Place.</strong> American Studies Leipzig Graduate Conference. Leipzig. 2 April 2016. <a href="https://americanstudies.uni-leipzig.de/asl-gradconference-2016">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
+</section>
 
-## Teaching
-<div class="gold">
+<section class="activity-category" aria-labelledby="teaching">
+<header class="activity-category-header"><h2 id="teaching">Teaching</h2></header>
+<div class="activity-category-body gold">
 <p><strong class="hl hl-act">Killer Content: Crime as Spectacle in American Media.</strong> Media, Society, and Culture. Leipzig University. Summer Term 2026. <a href="/doc/MSC-Seminar-Syllabus-SoSe-2026.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">Utopian Futures in American Literature.</strong> Literature and Culture II. Leipzig University. Summer Term 2026. <a href="/doc/LC-II-Seminar-Syllabus-SoSe-2026.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">Oceans as Boundaries & Connections.</strong> Ethnicity and Diversity in US Culture. Leipzig University. Winter Term 2025/26. <a href="/doc/ED-Seminar-Syllabus-WS-25-26.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
@@ -156,16 +165,18 @@ hide_avatar: true
 <p><strong class="hl hl-act">The Spectacle of Monsters: Crime, Deviance, and the Media in American Culture.</strong> Literature and Culture II. Leipzig University. Summer Term 2022. <a href="/doc/LC-II-Seminar-Syllabus-SoSe-2022.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">&#8220;A technical white elephant&#8221;: Whiteness and (Post-)Racial Representations in US Visual and Material Culture.</strong> Ethnicity and Diversity in US Culture. Leipzig University. Winter Term 2021/22. <a href="/doc/ED-Seminar-Syllabus-WS-21-22.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">Reading the Transpacific: Asian American Cultures and Identities.</strong> Ethnicity and Diversity in US Culture. Leipzig University. Winter Term 2020/21. <a href="/doc/ED-Seminar-Syllabus-WS-20-21.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
-<p><strong class="hl hl-act"><a href="/doc/Research-Bash-Summer-2019.pdf">ASL Research Bash<i class="fas fa-file-pdf" role="presentation"></i></a></strong> American Studies Leipzig. 25 June 2019.</p>
+<p><strong class="hl hl-act">ASL Research Bash</strong> American Studies Leipzig. 25 June 2019. <a href="/doc/Research-Bash-Summer-2019.pdf">Material<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8220;The Shadow over Innsmouth.&#8221;</strong> Mixed Race America in U.S. Literature. Leipzig University. 13 June 2018. <a href="https://americanstudies.uni-leipzig.de/content/courses-summer-2018-0?tab_id=5457#lasipp-tab-1">Guest Lecture<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">Mapping Diversity: Imaginations of Race and Space in Historical and Contemporary US Literature.</strong> Ethnicity and Diversity in US Culture. Leipzig University. Winter Term 2017/18. <a href="/doc/ED-Seminar-Syllabus-WS-17-18.pdf">Seminar<i class="fas fa-file-pdf" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">Racial Mixture as a Monstrous Threat in H.P. Lovecraft&#8217;s &#8216;The Shadow over Innsmouth.&#8217;</strong> Mixed Race America in U.S. Literature. Leipzig University. 8 June 2016. <a href="https://americanstudies.uni-leipzig.de/node/4943?tab_id=4939#lasipp-tab-1">Guest Lecture<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
+</section>
 
 <div class="anchor" id="thesis-supervision" aria-hidden="true"></div>
 
-## Thesis Supervision (Selection)
-<div class="gold">
+<section class="activity-category" aria-labelledby="thesis-supervision-title">
+<header class="activity-category-header"><h2 id="thesis-supervision-title">Supervision <span class="activity-category-qualifier">(Selection)</span></h2></header>
+<div class="activity-category-body gold">
 <p><strong class="hl hl-act">Beautiful Violence: The Aestheticization and Commodification of
 Violence in American Media.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
 <p><strong class="hl hl-act">Race, Environment, and (Eco-)Cosmic Horror in Lovecraft and
@@ -173,11 +184,13 @@ Annihilation.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
 <p><strong class="hl hl-act">Environmental Racism and its Health Effects in Chicago’s African-American Community
 in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
 </div>
+</section>
 
 <div class="anchor" id="fieldwork-archives" aria-hidden="true"></div>
 
-## Fieldwork & Archival Research
-<div class="gold">
+<section class="activity-category" aria-labelledby="fieldwork-archives-title">
+<header class="activity-category-header"><h2 id="fieldwork-archives-title">Research Travel</h2></header>
+<div class="activity-category-body gold">
 <p><strong class="hl hl-act">Tulane University Libraries.</strong> Tulane University, New Orleans. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
 <p><strong class="hl hl-act">Nettie Lee Benson Latin American Studies Collection.</strong> University of Texas at Austin. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
 <p><strong class="hl hl-act">Otto G. Richter Library.</strong> University of Miami. 2022. Funded by Deutsche Forschungsgemeinschaft.</p>
@@ -187,42 +200,51 @@ in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 202
 <p><strong class="hl hl-act">Bancroft Library Western Americana Collection.</strong> University of California, Berkeley. 2017. Funded by Deutsche Forschungsgemeinschaft.</p>
 <p><strong class="hl hl-act">Religion in American Society.</strong> 2015. Atlanta, Birmingham, Nashville, Chicago. American Studies Leipzig and Institute of American Studies and Polish Diaspora, Jagiellonian University Krakow. Funded by VolkswagenStiftung. With Hartmut Keil. <a href="https://studytour2015.wordpress.com">Co-Organizer<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
+</section>
 
-## Memberships
-<div class="gold">
-<p><a href="https://www.acla.org">ACLA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">American Comparative Literature Association</strong></p>
-<p><a href="https://historians.org">AHA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">American Historical Association</strong></p>
-<p><a href="https://theasa.net">ASA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">American Studies Association</strong></p>
-<p><a href="https://dgfa.de">DGfA / GAAS<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">Deutsche Gesellschaft für Amerikastudien / German Association for American Studies</strong></p>
-<p><a href="https://enmma.carrd.co/">ENMMA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">European Network for the Study of Minor Mobilities in the Americas</strong></p>
-<p><a href="https://lasaweb.org/en/">LASA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">Latin American Studies Association</strong></p>
-<p><a href="https://mapaca.net">MAPACA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">Mid-Atlantic Popular & American Culture Association</strong></p>
-<p><a href="https://nepca.blog/">NEPCA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">Northeast Popular & American Culture Association</strong></p>
-<p><a href="https://www.societyofearlyamericanists.org">SEA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">Society of Early Americanists</strong></p>
+<section class="activity-category" aria-labelledby="memberships">
+<header class="activity-category-header"><h2 id="memberships">Academic Memberships</h2></header>
+<div class="activity-category-body gold">
+<p><strong class="hl hl-act">American Comparative Literature Association</strong> <a href="https://www.acla.org">ACLA<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">American Historical Association</strong> <a href="https://historians.org">AHA<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">American Studies Association</strong> <a href="https://theasa.net">ASA<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">Deutsche Gesellschaft für Amerikastudien / German Association for American Studies</strong> <a href="https://dgfa.de">DGfA / GAAS<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">European Network for the Study of Minor Mobilities in the Americas</strong> <a href="https://enmma.carrd.co/">ENMMA<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">Latin American Studies Association</strong> <a href="https://lasaweb.org/en/">LASA<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">Mid-Atlantic Popular & American Culture Association</strong> <a href="https://mapaca.net">MAPACA<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">Northeast Popular & American Culture Association</strong> <a href="https://nepca.blog/">NEPCA<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">Society of Early Americanists</strong> <a href="https://www.societyofearlyamericanists.org">SEA<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
+</section>
 
 <div class="anchor" id="academic-service" aria-hidden="true"></div>
 
-<h2>Academic Service</h2>
-<div class="gold">
+<section class="activity-category" aria-labelledby="academic-service-title">
+<header class="activity-category-header"><h2 id="academic-service-title">Academic Service</h2></header>
+<div class="activity-category-body gold">
 <p id="activity-peer-reviewer-anglistik"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://angl.winter-verlag.de">Anglistik: International Journal of English Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p id="activity-peer-reviewer-anq"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://www.tandfonline.com/journals/vanq20">ANQ: A Quarterly Journal of Short Articles, Notes, and Reviews<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p id="activity-peer-reviewer-clio"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://www.pfw.edu/clio/">Clio: A Journal of Literature, History, and the Philosophy of History<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p id="activity-peer-reviewer-ejas"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://journals.openedition.org/ejas/">European Journal of American Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p id="activity-peer-reviewer-island-studies-journal"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://islandstudiesjournal.org/">Island Studies Journal<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
+</section>
 
 <div class="anchor" id="grants-awards" aria-hidden="true"></div>
 
-## Grants & Awards
-<div class="gold">
+<section class="activity-category" aria-labelledby="grants-awards-title">
+<header class="activity-category-header"><h2 id="grants-awards-title">Grants &amp; Awards</h2></header>
+<div class="activity-category-body gold">
 <p><strong class="hl hl-act">Scottish Association for the Study of America. Annual Conference Essay Prize.</strong> 2018.</p>
 <p><strong class="hl hl-act">DAAD Travel Stipend.</strong> 2017.</p>
 </div>
+</section>
 
-## Volunteering
-<div class="gold mbot">
+<section class="activity-category mbot" aria-labelledby="volunteering">
+<header class="activity-category-header"><h2 id="volunteering">Community Engagement</h2></header>
+<div class="activity-category-body gold">
 <p><strong class="hl hl-act">Mentoring</strong> for Leipzig University&#8217;s <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award">Pre-Doc Award<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 <p><strong class="hl hl-act">Kurzfilmwanderung Leipzig.</strong> <a href="https://kurzfilmwanderung.de/">Supported by the Cultural Foundation of the Free State of Saxony<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-act">KulturLounge e.V. Leipzig.</strong> <a href="https://kulturlounge.jimdofree.com/">Supported by the Federal Government Commissioner for Culture and the Media of Germany<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">KulturLounge e.V. Leipzig.</strong> <a href="https://kulturlounge.jimdofree.com/">Supported by the Federal Government Commissioner for Culture and the Media<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
+</section>

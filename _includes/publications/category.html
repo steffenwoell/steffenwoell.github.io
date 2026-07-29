@@ -1,10 +1,19 @@
 {%- assign category_entries = include.entries | where: 'category', include.category.id -%}
-{%- if category_entries.size > 0 -%}
+{%- assign featured_entries = category_entries | where: 'id', include.featured_entry_id -%}
+{%- assign category_entry_count = category_entries.size | minus: featured_entries.size -%}
+{%- if category_entry_count > 0 -%}
 <div class="anchor" id="{{ include.category.id }}" aria-hidden="true"></div>
-<h2>{{ include.category.label }}</h2>
-<div class="blue{% if include.last %} mbot{% endif %}">
-  {%- for entry in category_entries -%}
-    {% include publications/entry.html entry=entry %}
-  {%- endfor -%}
-</div>
+<section class="publication-category{% if include.last %} mbot{% endif %}" aria-labelledby="{{ include.category.id }}-title">
+  <header class="publication-category-header">
+    <h2 id="{{ include.category.id }}-title">{{ include.category.label }}</h2>
+    <span>{{ category_entry_count }} publication{% unless category_entry_count == 1 %}s{% endunless %}</span>
+  </header>
+  <div class="publication-category-body blue">
+    {%- for entry in category_entries -%}
+      {%- unless entry.id == include.featured_entry_id -%}
+      {% include publications/entry.html entry=entry %}
+      {%- endunless -%}
+    {%- endfor -%}
+  </div>
+</section>
 {%- endif -%}
