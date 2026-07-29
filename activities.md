@@ -28,7 +28,6 @@ hide_avatar: true
 <div id="activity-contents-title" class="activity-section-label"><i class="fas fa-list-ul" aria-hidden="true"></i> Browse by Type</div>
 <nav aria-label="Activity types">
 <ul>
-{% if has_upcoming_conferences %}<li><a href="#upcoming"><span class="category-label-full">Upcoming</span><span class="category-label-short" aria-hidden="true">Upcoming</span></a></li>{% endif %}
 <li><a href="#conferences"><span class="category-label-full">Talks &amp; Conferences</span><span class="category-label-short" aria-hidden="true">Talks</span></a></li>
 <li><a href="#panels-workshops" aria-label="Panels and Workshops"><span class="category-label-full">Panels & Workshops</span><span class="category-label-short" aria-hidden="true">Panels</span></a></li>
 <li><a href="#teaching"><span class="category-label-full">Teaching</span><span class="category-label-short" aria-hidden="true">Teaching</span></a></li>
