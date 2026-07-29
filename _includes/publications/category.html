@@ -1,0 +1,10 @@
+{%- assign category_entries = include.entries | where: 'category', include.category.id -%}
+{%- if category_entries.size > 0 -%}
+<div class="anchor" id="{{ include.category.id }}" aria-hidden="true"></div>
+<h2>{{ include.category.label }}</h2>
+<div class="blue{% if include.last %} mbot{% endif %}">
+  {%- for entry in category_entries -%}
+    {% include publications/entry.html entry=entry %}
+  {%- endfor -%}
+</div>
+{%- endif -%}

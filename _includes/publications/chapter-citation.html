@@ -1,0 +1,21 @@
+{%- assign publication = include.entry -%}
+{%- if publication.book.parent_title -%}
+  {{ publication.book.parent_title }}.
+  {%- if publication.book.volume %} Vol. {{ publication.book.volume }}:{% endif %} {{ publication.book.title }}.
+{%- else -%}
+  {{ publication.book.title }}.
+  {%- if publication.book.volume %} Vol. {{ publication.book.volume }}.{% endif %}
+{%- endif -%}
+{%- if publication.series.position == 'before_editors' and publication.series.title %}
+  {{ publication.series.title }}{% if publication.series.volume %}. Vol. {{ publication.series.volume }}{% endif %}.
+{%- endif -%}
+{%- if publication.book.editors.size > 0 %}
+  Ed{% if publication.book.editors.size > 1 or publication.book.editors_et_al %}s{% endif %}.
+  {%- for editor in publication.book.editors %}{% if forloop.index > 1 %}{% if forloop.last %}{% if forloop.length > 2 %}, and {% else %} and {% endif %}{% else %}, {% endif %}{% else %} {% endif %}{{ editor.name }}{% endfor %}{% if publication.book.editors_et_al %} et al{% endif %}.
+{%- endif -%}
+{%- if publication.series.title and publication.series.position != 'before_editors' %}
+  {{ publication.series.title }}{% if publication.series.volume %}, Vol. {{ publication.series.volume }}{% endif %}.
+{%- endif -%}
+{%- if publication.publisher.name %}
+  {{ publication.publisher.name }}{% if publication.status == 'published' and publication.year %}{% if publication.publisher_year_separator == 'comma' %},{% else %}.{% endif %} {{ publication.year }}{% endif %}{% if publication.status == 'published' and publication.pages.start %}: {{ publication.pages.start }}{% if publication.pages.end %}–{{ publication.pages.end }}{% endif %}{% endif %}.
+{%- endif -%}

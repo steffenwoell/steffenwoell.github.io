@@ -1,0 +1,10 @@
+{%- assign publication = include.entry -%}
+{%- if publication.media.year_first and publication.year %} {{ publication.year }}.{% endif -%}
+{%- if publication.media.credit %} {{ publication.media.credit }}.{% endif -%}
+{%- if publication.media.outlet %} {{ publication.media.outlet }}.{% endif -%}
+{%- if publication.media.section %} {{ publication.media.section }}.{% endif -%}
+{%- if publication.media.medium %} {{ publication.media.medium }}.{% endif -%}
+{%- unless publication.media.year_first -%}
+  {%- if publication.date_text %} {{ publication.date_text }}.
+  {%- elsif publication.year %} {{ publication.year }}.{% endif -%}
+{%- endunless -%}

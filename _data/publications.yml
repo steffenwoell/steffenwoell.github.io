@@ -1,6 +1,4 @@
-# Canonical publication data introduced for the staged data migration.
-# The public page still uses publications.md until the individual categories
-# have been migrated and verified.
+# Canonical data source for the Publications page and its structured metadata.
 schema_version: 1
 
 categories:
@@ -11,7 +9,7 @@ categories:
   - id: editing
     label: Edited Volumes (Peer-Reviewed)
     short_label: Edited Volumes
-    default_schema_type: Book
+    default_schema_type: PublicationIssue
   - id: journals
     label: Journal Articles (Peer-Reviewed)
     short_label: Articles
@@ -20,6 +18,10 @@ categories:
     label: Book Chapters (Peer-Reviewed)
     short_label: Chapters
     default_schema_type: Chapter
+  - id: working-papers
+    label: Working Papers
+    short_label: Working Papers
+    default_schema_type: Report
   - id: reviews
     label: Reviews
     short_label: Reviews
@@ -45,5 +47,1145 @@ categories:
     short_label: Early Work
     default_schema_type: CreativeWork
 
-# Entries will be added category by category in later migration phases.
-entries: []
+entries:
+  - id: publication-a-place-between-oceans-imagining-american-empire-1880-1940
+    category: books
+    schema_type: CreativeWork
+    title: "A Place Between Oceans: Imagining American Empire, 1880–1940"
+    authors:
+      - name: Steffen Wöll
+    status: in_progress
+    display:
+      status: Habilitation project
+    links: []
+
+  - id: publication-the-west-and-the-word-imagining-formatting-and-ordering-the-american-west-in-nineteenth-ce
+    category: books
+    schema_type: Book
+    title: "The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse"
+    authors:
+      - name: Steffen Wöll
+    year: 2020
+    status: published
+    publisher:
+      name: De Gruyter
+    doi: 10.1515/9783110690132
+    links:
+      - label: Open Access
+        url: https://doi.org/10.1515/9783110690132
+        access: open
+
+  - id: publication-periphere-raume-in-der-amerikanistik
+    category: books
+    schema_type: Book
+    title: Periphere Räume in der Amerikanistik
+    authors:
+      - name: Steffen Wöll
+      - name: Gabriele Pisarz-Ramirez
+    year: 2019
+    status: published
+    publisher:
+      name: De Gruyter
+    series:
+      title: Dialektik des Globalen. Kernbegriffe
+    doi: 10.1515/9783110655476
+    links:
+      - label: Open Access
+        url: https://www.degruyter.com/document/doi/10.1515/9783110655476/html
+        access: open
+
+  - id: publication-archipelagic-spaces-and-im-mobilities
+    category: editing
+    schema_type: PublicationIssue
+    title: Archipelagic Spaces and Im/Mobilities
+    editors:
+      - name: Steffen Wöll
+    contribution_role: co_editor
+    year: 2023
+    status: published
+    peer_reviewed: true
+    container:
+      title: Journal of Transnational American Studies
+      volume: "14"
+      issue: "1"
+    links:
+      - label: Open Access
+        url: https://escholarship.org/uc/acgcc_jtas/14/1
+        access: open
+
+  - id: publication-aspeers-emerging-voices-in-american-studies
+    category: editing
+    schema_type: PublicationIssue
+    title: "aspeers: emerging voices in american studies"
+    editors:
+      - name: Steffen Wöll
+    contribution_role: co_editor
+    volume: "8"
+    year: 2015
+    status: published
+    peer_reviewed: true
+    doi: 10.54465/aspeers.08
+    links:
+      - label: Open Access
+        url: https://doi.org/10.54465/aspeers.08
+        access: open
+
+  - id: publication-from-starved-rock-to-cancer-alley-simulated-violence-and-representational-collapse-in-the-
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "From Starved Rock to Cancer Alley: Simulated Violence and Representational Collapse in the American West"
+    authors:
+      - name: Steffen Wöll
+    year: 2023
+    status: published
+    peer_reviewed: true
+    container:
+      title: "Intersectional Perspectives: Identity, Culture, and Society"
+      volume: "2"
+    pages:
+      start: 29
+      end: 57
+    doi: 10.18573/ipics.97
+    links:
+      - label: Open Access
+        url: https://doi.org/10.18573/ipics.97
+        access: open
+
+  - id: publication-unmasking-maps-unmaking-empire-towards-an-archipelagic-cartography
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography"
+    authors:
+      - name: Steffen Wöll
+    year: 2023
+    status: published
+    peer_reviewed: true
+    container:
+      title: Journal of Transnational American Studies
+      volume: "14"
+      issue: "1"
+    pages:
+      start: 137
+      end: 167
+    doi: 10.5070/T814160835
+    links:
+      - label: Open Access
+        url: https://doi.org/10.5070/T814160835
+        access: open
+
+  - id: publication-introduction-conceptualizing-archipelagic-mobilities
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "Introduction: Conceptualizing Archipelagic Mobilities"
+    authors:
+      - name: Steffen Wöll
+      - name: Barbara Gfoellner
+      - name: Gabriele Pisarz-Ramirez
+      - name: Alexandra Ganser
+    contributors_position: after_citation
+    year: 2023
+    status: published
+    peer_reviewed: true
+    container:
+      title: Journal of Transnational American Studies
+      volume: "14"
+      issue: "1"
+    pages:
+      start: 75
+      end: 92
+    doi: 10.5070/T814160878
+    links:
+      - label: Open Access
+        url: https://doi.org/10.5070/T814160878
+        access: open
+
+  - id: publication-beyond-the-artifact-unfolding-medieval-algorithmic-and-unruly-lives-of-maps
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "Beyond the Artifact: Unfolding Medieval, Algorithmic, and Unruly Lives of Maps"
+    authors:
+      - name: Steffen Wöll
+    year: 2022
+    status: published
+    peer_reviewed: true
+    container:
+      title: Material Culture Review / Revue de la Culture Matérielle
+      volume: "92"
+    pages:
+      start: 54
+      end: 71
+    links:
+      - label: Open Access
+        url: https://journals.lib.unb.ca/index.php/MCR/article/view/32833
+        access: open
+
+  - id: publication-then-i-started-for-the-mountains-retracing-louisiana-s-human-geographies-across-five-remar
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "“Then I Started for the Mountains”: Retracing Louisiana’s Human Geographies across Five Remarkable Biographies"
+    authors:
+      - name: Steffen Wöll
+    year: 2021
+    status: published
+    peer_reviewed: true
+    container:
+      title: "Clio: A Journal of Literature, History, and the Philosophy of History"
+      volume: "49"
+      issue: "1"
+    pages:
+      start: 42
+      end: 64
+    links:
+      - label: Print
+        url: https://www.pfw.edu/clio/index-contents/
+        access: print
+
+  - id: publication-voyages-through-literary-space-mapping-globe-and-nation-in-richard-henry-dana-s-two-years-
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana’s Two Years Before the Mast"
+    authors:
+      - name: Steffen Wöll
+    year: 2020
+    status: published
+    peer_reviewed: true
+    container:
+      title: Polish Journal for American Studies
+      volume: "14"
+    pages:
+      start: 197
+      end: 209
+    links:
+      - label: Open Access
+        url: https://www.proquest.com/openview/b9dad6334c4e2c96d3eed37e32ee2db7
+        access: open
+
+  - id: publication-the-horrors-of-the-oriental-space-and-language-in-h-p-lovecraft-s-the-shadow-over-innsmout
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "The Horrors of the Oriental Space and Language in H.P. Lovecraft’s “The Shadow over Innsmouth.”"
+    preserve_title_punctuation: true
+    authors:
+      - name: Steffen Wöll
+    year: 2020
+    status: published
+    peer_reviewed: true
+    container:
+      title: Zeitschrift für Anglistik und Amerikanistik
+      volume: "68"
+      issue: "3"
+    pages:
+      start: 233
+      end: 249
+    doi: 10.1515/zaa-2020-2002
+    links:
+      - label: Print
+        url: https://www.degruyter.com/document/doi/10.1515/zaa-2020-2002/html
+        access: print
+
+  - id: publication-shuffling-narratives-apocalypticism-postmodernism-and-zombies
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies"
+    authors:
+      - name: Steffen Wöll
+    year: 2020
+    status: published
+    peer_reviewed: true
+    container:
+      title: "ANGLICA: An International Journal of English Studies"
+      volume: "29"
+      issue: "1"
+    pages:
+      start: 87
+      end: 107
+    links:
+      - label: Open Access
+        url: https://anglica-journal.com/resources/html/article/details?id=207706
+        access: open
+
+  - id: publication-to-be-murdered-simulations-of-objectivity-subjectivity-and-violence-in-truman-capote-s-in-
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "“To Be Murdered”: Simulations of Objectivity, Subjectivity, and Violence in Truman Capote’s In Cold Blood"
+    authors:
+      - name: Steffen Wöll
+    year: 2019
+    year_format: plain
+    status: published
+    peer_reviewed: true
+    container:
+      title: Irish Journal of American Studies
+    links:
+      - label: Open Access
+        url: https://ijas.iaas.ie/issue-8-steffen-woll/
+        access: open
+
+  - id: publication-bleeding-borders-space-blackness-and-hybridity-in-jack-london-s-representations-of-the-ame
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "Bleeding Borders: Space, Blackness, and Hybridity in Jack London’s Representations of the American Southwest"
+    authors:
+      - name: Steffen Wöll
+    year: 2018
+    status: published
+    peer_reviewed: true
+    container:
+      title: Amerikastudien / American Studies
+      volume: "63"
+      issue: "1"
+    pages:
+      start: 5
+      end: 28
+    links:
+      - label: Open Access
+        url: https://amst.winter-verlag.de/article/AMST/2018/1/3
+        access: open
+
+  - id: publication-exceptional-spaces-pop-cultural-debris-and-the-spatial-re-construction-of-american-excepti
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón’s Gravity"
+    authors:
+      - name: Steffen Wöll
+    year: 2017
+    status: published
+    peer_reviewed: true
+    container:
+      title: Polish Journal for American Studies
+      volume: "11"
+    pages:
+      start: 203
+      end: 222
+    links:
+      - label: Open Access
+        url: https://paas.org.pl/wp-content/uploads/2013/10/PJAS_11_spring_2017.pdf
+        access: open
+        format: pdf
+
+  - id: publication-feeling-new-york-classless-urban-geographies-and-affective-capitalist-reconciliation-in-ho
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger’s Ragged Dick"
+    authors:
+      - name: Steffen Wöll
+    year: 2017
+    status: published
+    peer_reviewed: true
+    container:
+      title: Emotion, Space and Society
+      volume: "24"
+    pages:
+      start: 1
+      end: 8
+    links:
+      - label: Print
+        url: https://www.sciencedirect.com/science/article/pii/S1755458616301359
+        access: print
+
+  - id: publication-inertia-and-movement-the-spatialization-of-the-native-northland-in-jack-london-s-short-sto
+    category: journals
+    schema_type: ScholarlyArticle
+    title: "Inertia and Movement: The Spatialization of the Native Northland in Jack London’s Short Stories"
+    authors:
+      - name: Steffen Wöll
+    year: 2017
+    status: published
+    peer_reviewed: true
+    container:
+      title: GeoHumanities
+      volume: "3"
+      issue: "1"
+    pages:
+      start: 65
+      end: 87
+    doi: 10.1080/2373566X.2017.1289821
+    links:
+      - label: Print
+        url: https://tandfonline.com/doi/full/10.1080/2373566X.2017.1289821
+        access: print
+
+  - id: publication-american-health
+    category: journals
+    schema_type: ScholarlyArticle
+    title: American Health
+    authors:
+      - name: Steffen Wöll
+    year: 2015
+    status: published
+    peer_reviewed: true
+    container:
+      title: "aspeers: emerging voices in american studies"
+      volume: "8"
+    pages:
+      start: v
+      end: viii
+      separator: "-"
+    note: Introduction
+    links:
+      - label: Open Access
+        url: https://www.aspeers.com/2015/introduction
+        access: open
+
+  - id: publication-ghosts-guides-and-go-betweens-mediating-indigenous-presence-in-alaska-s-imperial-archive
+    category: chapters
+    schema_type: Chapter
+    title: "Ghosts, Guides, and Go-Betweens: Mediating Indigenous Presence in Alaska’s Imperial Archive"
+    authors:
+      - name: Steffen Wöll
+    status: forthcoming
+    expected_year: 2027
+    book:
+      title: Indigenous Explorers from Encounter to the Age of Empire
+      editors:
+        - name: Doug Catterall
+        - name: Lydia Towns
+    publisher:
+      name: Routledge
+    links: []
+
+  - id: publication-from-fascist-frontiers-to-red-resistance-race-masculinity-and-nation-in-german-westerns-19
+    category: chapters
+    schema_type: Chapter
+    title: "From Fascist Frontiers to Red Resistance: Race, Masculinity, and Nation in German Westerns, 1933–1970s"
+    authors:
+      - name: Steffen Wöll
+    status: forthcoming
+    expected_year: 2027
+    book:
+      title: The Routledge Companion to Transnational Westerns
+      editors:
+        - name: Marek Paryż
+        - name: Christopher Conway
+        - name: David Rio
+    publisher:
+      name: Routledge
+    links:
+      - label: Publisher
+        url: https://www.routledge.com/The-Routledge-Companion-to-Transnational-Westerns/Paryz-Conway-Rio/p/book/9781041108733
+        access: publisher
+
+  - id: publication-global-imaginations-of-u-s-imperialism-1898-1945
+    category: chapters
+    schema_type: Chapter
+    title: "Global Imaginations of U.S. Imperialism, 1898–1945"
+    authors:
+      - name: Steffen Wöll
+    status: forthcoming
+    expected_year: 2026
+    book:
+      title: Handbook U.S. and Globalizations
+      editors:
+        - name: Gabriele Pisarz-Ramirez
+        - name: Frank Schumacher
+        - name: Megan Maruschke
+        - name: Olaf Stieglitz
+        - name: Julius Wilms
+    publisher:
+      name: Vandenhoeck & Ruprecht
+    links: []
+
+  - id: publication-mug-shots-and-passport-photography
+    category: chapters
+    schema_type: Chapter
+    title: Mug Shots and Passport Photography
+    authors:
+      - name: Steffen Wöll
+    status: in_press
+    expected_year: 2026
+    book:
+      title: Encyclopedia of Visual Culture
+      editors: []
+    publisher:
+      name: Bloomsbury
+    links: []
+
+  - id: publication-visualizing-exploration
+    category: chapters
+    schema_type: Chapter
+    title: Visualizing Exploration
+    authors:
+      - name: Steffen Wöll
+    year: 2025
+    status: published
+    book:
+      parent_title: A Cultural History of Exploration
+      volume: "5"
+      title: A Cultural History of Exploration in the Industrial Age
+      editors:
+        - name: Jane Samson
+    publisher:
+      name: Bloomsbury
+    pages:
+      start: 147
+      end: 172
+    doi: 10.5040/9781350100947.ch-6
+    links:
+      - label: Print
+        url: https://doi.org/10.5040/9781350100947.ch-6
+        access: print
+
+  - id: publication-playing-the-race-card-lovecraftian-play-spaces-and-tentacular-sympoiesis-in-the-arkham-hor
+    category: chapters
+    schema_type: Chapter
+    title: "Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis in the Arkham Horror Board Game"
+    authors:
+      - name: Steffen Wöll
+      - name: Amelie Rieß
+    year: 2023
+    status: published
+    book:
+      title: "The Medial Afterlives of H.P. Lovecraft: Comic, Film, Podcast, TV, Games"
+      editors:
+        - name: Tim Lanzendörfer
+        - name: Max José Dreysse Passos de Carvalho
+    series:
+      title: Palgrave Studies in Adaptation and Visual Culture
+    publisher:
+      name: Palgrave Macmillan
+    pages:
+      start: 339
+      end: 357
+    doi: 10.1007/978-3-031-13765-5_19
+    links:
+      - label: Print
+        url: https://link.springer.com/chapter/10.1007/978-3-031-13765-5_19
+        access: print
+
+  - id: publication-the-sealsfield-enigma-and-the-narrative-politics-of-the-transatlantic-western
+    category: chapters
+    schema_type: Chapter
+    title: The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western
+    authors:
+      - name: Steffen Wöll
+    year: 2022
+    status: published
+    book:
+      title: The Western in the Global Literary Imagination
+      editors:
+        - name: Christopher Conway
+        - name: Marek Paryż
+        - name: David Rio
+    series:
+      title: European Perspectives on the United States
+      volume: "5"
+    publisher:
+      name: Brill
+    pages:
+      start: 131
+      end: 148
+    links:
+      - label: Print
+        url: https://brill.com/display/title/61576
+        access: print
+
+  - id: publication-true-places-never-are-navigating-trans-oceanic-imaginations-in-moby-dick
+    category: chapters
+    schema_type: Chapter
+    title: "“True Places Never Are”: Navigating (Trans)Oceanic Imaginations in Moby-Dick"
+    authors:
+      - name: Steffen Wöll
+    year: 2022
+    status: published
+    book:
+      parent_title: American Studies Over_Seas
+      volume: "1"
+      title: Narrating Multiple America(s)
+      editors:
+        - name: Edgardo da Silva
+        - name: Margarida Vale de Gato
+        - name: Mário Avelar
+        - name: Irene Maria F. Blayer
+        - name: Dulce Maria Scott
+        - name: Tony McGowan
+    publisher:
+      name: Peter Lang
+    pages:
+      start: 51
+      end: 63
+    links:
+      - label: Print
+        url: https://www.peterlang.com/document/1252903
+        access: print
+
+  - id: publication-spatial-imaginations-and-counter-geographies-of-oregon-and-the-far-west
+    category: chapters
+    schema_type: Chapter
+    title: Spatial Imaginations and Counter-Geographies of Oregon and the Far West
+    authors:
+      - name: Steffen Wöll
+    year: 2021
+    status: published
+    book:
+      title: "Reinventar o social: movimentos e narrativas de resistência nas Américas / Reinventing the Social: Movements and Narratives of Resistance in the Americas"
+      editors:
+        - name: Isabel Caldeira
+        - name: Maria José Canelo
+        - name: Gonçalo Cholant
+    publisher:
+      name: Coimbra University Press
+    pages:
+      start: 237
+      end: 263
+    doi: 10.14195/978-989-26-2126-5
+    links:
+      - label: Open Access
+        url: https://doi.org/10.14195/978-989-26-2126-5
+        access: open
+
+  - id: publication-fear-thy-neighbor-paranoia-and-suburban-victim-hood-in-mark-pellington-s-arlington-road
+    category: chapters
+    schema_type: Chapter
+    title: "“Fear Thy Neighbor”: Paranoia and Suburban Victim-Hood in Mark Pellington’s Arlington Road"
+    authors:
+      - name: Steffen Wöll
+    year: 2019
+    status: published
+    book:
+      title: Traditions and Transitions
+      volume: "1"
+      editors:
+        - name: Emilia Slavova
+      editors_et_al: true
+    publisher:
+      name: St. Kliment Ohridski University Press
+    pages:
+      start: 290
+      end: 302
+    links:
+      - label: Open Access
+        url: https://eas.uni-sofia.bg/traditions-and-transitions/
+        access: open
+
+  - id: publication-spatiality-and-psyche-surviving-the-yukon-in-jack-london-s-love-of-life-and-to-build-a-fir
+    category: chapters
+    schema_type: Chapter
+    title: "Spatiality and Psyche: Surviving the Yukon in Jack London’s “Love of Life” and “To Build a Fire.”"
+    preserve_title_punctuation: true
+    authors:
+      - name: Steffen Wöll
+    year: 2019
+    status: published
+    book:
+      title: "Processes of Spatialization in the Americas: Configurations and Narratives"
+      editors:
+        - name: Gabriele Pisarz-Ramirez
+        - name: Hannes Warnecke-Berger
+    series:
+      title: Interamericana
+      volume: "13"
+      position: before_editors
+    publisher:
+      name: Peter Lang
+    publisher_year_separator: comma
+    pages:
+      start: 75
+      end: 98
+    links:
+      - label: Print
+        url: https://www.peterlang.com/document/1063125
+        access: print
+
+  - id: publication-spatial-fictions-imagining-trans-national-space-in-the-southern-and-western-peripheries-of
+    category: working-papers
+    schema_type: Report
+    title: "Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States"
+    authors:
+      - name: Steffen Wöll
+      - name: Gabriele Pisarz-Ramirez
+      - name: Deniz Bozkurt
+    date: 2018-02-01
+    year: 2018
+    status: published
+    series:
+      title: SFB 1199 Working Paper
+      issue: "10"
+    publisher:
+      name: Leipziger Universitätsverlag
+    links:
+      - label: Open Access
+        url: https://research.uni-leipzig.de/~sfb1199/publications/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/
+        access: open
+
+  - id: publication-review-of-colonial-ports-global-trade-and-the-roots-of-the-american-revolution-by-jeremy-l
+    category: reviews
+    schema_type: Review
+    title: Review of Colonial Ports, Global Trade, and the Roots of the American Revolution by Jeremy Land
+    authors:
+      - name: Steffen Wöll
+    status: forthcoming
+    item_reviewed:
+      title: Colonial Ports, Global Trade, and the Roots of the American Revolution
+      authors:
+        - name: Jeremy Land
+    container:
+      title: "Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung"
+    links: []
+
+  - id: publication-review-of-the-creole-archipelago-race-and-borders-in-the-colonial-caribbean-by-tessa-murph
+    category: reviews
+    schema_type: Review
+    title: "Review of The Creole Archipelago: Race and Borders in the Colonial Caribbean by Tessa Murphy"
+    authors:
+      - name: Steffen Wöll
+    date: 2023-09-01
+    date_text: 1 September 2023
+    year: 2023
+    status: published
+    item_reviewed:
+      title: "The Creole Archipelago: Race and Borders in the Colonial Caribbean"
+      authors:
+        - name: Tessa Murphy
+    container:
+      title: Connections. A Journal for Historians and Area Specialists
+    links:
+      - label: Open Access
+        url: https://www.connections.clio-online.net/publicationreview/id/reb-128689
+        access: open
+
+  - id: publication-review-of-writing-history-in-america-s-shadow-japan-the-philippines-and-the-question-of-pa
+    category: reviews
+    schema_type: Review
+    title: "Review of Writing History in America’s Shadow: Japan, the Philippines, and the Question of Pan-Asianism by Takamichi Serizawa"
+    authors:
+      - name: Steffen Wöll
+    date: 2022-05-27
+    date_text: 27 May 2022
+    year: 2022
+    status: published
+    item_reviewed:
+      title: "Writing History in America’s Shadow: Japan, the Philippines, and the Question of Pan-Asianism"
+      authors:
+        - name: Takamichi Serizawa
+    container:
+      title: Connections. A Journal for Historians and Area Specialists
+    links:
+      - label: Open Access
+        url: https://www.connections.clio-online.net/publicationreview/id/reb-96786
+        access: open
+
+  - id: publication-review-of-transoceanic-america-risk-writing-and-revolution-in-the-global-pacific-by-michel
+    category: reviews
+    schema_type: Review
+    title: "Review of Transoceanic America: Risk, Writing, and Revolution in the Global Pacific by Michelle Burnham"
+    authors:
+      - name: Steffen Wöll
+    date: 2021-01-08
+    date_text: 8 January 2021
+    year: 2021
+    status: published
+    item_reviewed:
+      title: "Transoceanic America: Risk, Writing, and Revolution in the Global Pacific"
+      authors:
+        - name: Michelle Burnham
+    container:
+      title: Connections. A Journal for Historians and Area Specialists
+    links:
+      - label: Open Access
+        url: https://www.connections.clio-online.net/publicationreview/id/reb-95016
+        access: open
+
+  - id: publication-review-of-imperial-infrastructure-and-spatial-resistance-in-colonial-literature-1880-1930-
+    category: reviews
+    schema_type: Review
+    title: Review of Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880–1930 by Dominic Davies
+    authors:
+      - name: Steffen Wöll
+    year: 2019
+    status: published
+    item_reviewed:
+      title: Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880–1930
+      authors:
+        - name: Dominic Davies
+    container:
+      title: "Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung"
+      volume: "29"
+      issue: "5"
+    pages:
+      start: 102
+      end: 103
+    links:
+      - label: Print
+        url: https://www.comparativ.net/v2/issue/view/158
+        access: print
+
+  - id: publication-review-of-pacific-america-histories-of-transoceanic-crossings-by-lon-kurashige
+    category: reviews
+    schema_type: Review
+    title: "Review of Pacific America: Histories of Transoceanic Crossings by Lon Kurashige"
+    authors:
+      - name: Steffen Wöll
+    year: 2019
+    status: published
+    item_reviewed:
+      title: "Pacific America: Histories of Transoceanic Crossings"
+      authors:
+        - name: Lon Kurashige
+    container:
+      title: "Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung"
+      volume: "29"
+      issue: "1"
+    pages:
+      start: 105
+      end: 107
+    links:
+      - label: Print
+        url: https://www.comparativ.net/v2/issue/view/154
+        access: print
+
+  - id: publication-imperial-spatializations-and-archipelagic-counter-geographies-a-selected-corpus-of-works-1
+    category: dh
+    schema_type: Dataset
+    title: Imperial Spatializations and Archipelagic Counter-Geographies, a Selected Corpus of Works, 1880–1940
+    authors:
+      - name: Steffen Wöll
+    year: 2024
+    status: published
+    provider:
+      name: GlobeData
+    display:
+      date: "2024"
+      detail: GlobeData
+    doi: 10.48736/GD1JYNUEZ
+    links:
+      - label: Corpus (machine-readable XML)
+        url: https://doi.org/10.48736/GD1JYNUEZ
+        access: web
+
+  - id: publication-conspicuous-spatializations-visualizing-anti-imperial-spatial-imaginations-of-transhemisph
+    category: dh
+    schema_type: DigitalDocument
+    title: "Conspicuous Spatializations: Visualizing (Anti-)Imperial Spatial Imaginations of Transhemispheric America through Corpus-based Data"
+    authors:
+      - name: Steffen Wöll
+    year: 2022
+    status: published
+    display:
+      date: "2022"
+    links:
+      - label: Interactive Visualizations
+        url: /doc/Conspicuous-Spatializations_Visual-Samples-Steffen-Wöll.pdf
+        access: file
+
+  - id: publication-discursive-map-an-attempt-at-visualizing-the-transnational-trajectories-of-spatial-imagina
+    category: dh
+    schema_type: Map
+    title: "Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana’s Two Years Before the Mast (1840)"
+    authors:
+      - name: Steffen Wöll
+    date_created: 2018
+    date_modified: 2022
+    status: published
+    display:
+      date: 2018/2022
+    doi: 10.48736/GD1RJN6HK
+    links:
+      - label: Map
+        url: https://doi.org/10.48736/GD1RJN6HK
+        access: web
+
+  - id: publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast-2
+    category: posters
+    schema_type: CreativeWork
+    title: "Mapping Discourse in R.H. Dana’s “Two Years Before the Mast.”"
+    preserve_title_punctuation: true
+    authors:
+      - name: Steffen Wöll
+    date: 2020-01-28
+    year: 2020
+    status: published
+    work_type: Conference Poster
+    display:
+      date: 28 January 2020
+      organization: Geisteswissenschaftliches Zentrum der Universität Leipzig
+    links:
+      - label: Conference Poster
+        url: /doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf
+        access: file
+
+  - id: publication-urban-america-mediating-city-space-as-place
+    category: posters
+    schema_type: CreativeWork
+    title: "Urban America: Mediating City Space as Place"
+    authors:
+      - name: Steffen Wöll
+    date: 2016-04-02
+    year: 2016
+    status: published
+    work_type: Conference Poster
+    display:
+      date: 2 April 2016
+      organization: Deutsches Literaturinstitut Leipzig
+    links:
+      - label: Conference Poster
+        url: /doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf
+        access: file
+
+  - id: publication-enmma-european-network-for-minor-mobilities-in-the-americas
+    category: web-projects
+    schema_type: WebSite
+    title: "ENMMA: European Network for Minor Mobilities in the Americas"
+    authors:
+      - name: Steffen Wöll
+    start_year: 2018
+    status: ongoing
+    display:
+      date: 2018–present
+    links:
+      - label: Programming / Design
+        url: https://enmma.carrd.co/
+        access: web
+
+  - id: publication-steffenwoell-github-io
+    category: web-projects
+    schema_type: WebSite
+    title: steffenwoell.github.io
+    preserve_title_punctuation: true
+    authors:
+      - name: Steffen Wöll
+    start_year: 2019
+    status: ongoing
+    display:
+      date: 2019–present
+      detail: Programming / Design
+    links:
+      - label: Website
+        url: https://steffenwoell.github.io/
+        access: web
+
+  - id: publication-violence-representation-and-ecocide-in-the-american-west
+    category: media-blogs
+    schema_type: Article
+    title: Violence, Representation, and Ecocide in the American West
+    authors:
+      - name: Steffen Wöll
+    year: 2021
+    status: published
+    media:
+      year_first: true
+      credit: For Academia Letters
+    links:
+      - label: Open Access
+        url: /doc/violence-representation-ecocide-steffen-woell.pdf
+        access: open
+        format: pdf
+
+  - id: publication-the-west-and-the-word-imagining-formatting-and-ordering-the-american-west-in-nineteenth-ce-2
+    category: media-blogs
+    schema_type: BlogPosting
+    title: "The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse"
+    authors:
+      - name: Steffen Wöll
+    date: 2021-01-28
+    date_text: 28 January 2021
+    year: 2021
+    status: published
+    media:
+      outlet: TRAFO - Blog for Transregional Research
+      section: New Books
+    links:
+      - label: Web
+        url: https://trafo.hypotheses.org/26361
+        access: web
+
+  - id: publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast
+    category: media-blogs
+    schema_type: BlogPosting
+    title: "Mapping Discourse in R.H. Dana’s “Two Years Before the Mast.”"
+    preserve_title_punctuation: true
+    authors:
+      - name: Steffen Wöll
+    date: 2019-10-31
+    date_text: 31 October 2019
+    year: 2019
+    status: published
+    media:
+      outlet: TRAFO - Blog for Transregional Research
+    links:
+      - label: Web
+        url: https://trafo.hypotheses.org/19891
+        access: web
+
+  - id: publication-globe-region-and-periphery-the-spatialization-of-the-american-west-in-nineteenth-century-u
+    category: media-blogs
+    schema_type: BlogPosting
+    title: "Globe, Region, and Periphery: The Spatialization of the American West in Nineteenth-Century US Literature"
+    authors:
+      - name: Steffen Wöll
+    date: 2018-04-10
+    date_text: 10 April 2018
+    year: 2018
+    status: published
+    media:
+      outlet: TRAFO - Blog for Transregional Research
+    links:
+      - label: Web
+        url: https://trafo.hypotheses.org/9636
+        access: web
+
+  - id: publication-berkeley-free-speech-rally-riots-united-forces-15-april-2017
+    category: media-blogs
+    schema_type: VideoObject
+    title: Berkeley Free Speech Rally Riots | United Forces (15 April 2017)
+    authors:
+      - name: Steffen Wöll
+    date: 2017-04-18
+    date_text: 18 April 2017
+    year: 2017
+    status: published
+    media:
+      medium: Short Documentary / Video Essay
+    links:
+      - label: Web
+        url: https://youtu.be/3cSBrE1ETDg
+        access: web
+
+  - id: publication-the-second-cold-war
+    category: media-blogs
+    schema_type: Article
+    title: The Second Cold War
+    authors:
+      - name: Steffen Wöll
+    date: 2015-12-09
+    date_text: 9 December 2015
+    year: 2015
+    status: published
+    media:
+      outlet: The Unz Review
+    links:
+      - label: Web
+        url: https://www.unz.com/article/the-second-cold-war/
+        access: web
+
+  - id: publication-the-second-cold-war-the-us-might-come-out-on-the-losing-side
+    category: media-blogs
+    schema_type: Article
+    title: The Second Cold War. The US Might Come Out on the Losing Side
+    title_suffix: "..."
+    authors:
+      - name: Steffen Wöll
+    date: 2015-12-08
+    date_text: 8 December 2015
+    year: 2015
+    status: published
+    media:
+      outlet: Centre for Research on Globalization - Centre De Recherche Sur La Mondialisation
+    links:
+      - label: Web
+        url: https://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412
+        access: web
+
+  - id: publication-allah-s-own-country-black-nationalism-the-nation-of-islam-and-american-muslim-identities
+    category: early-work
+    schema_type: CreativeWork
+    title: "Allah’s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities"
+    authors:
+      - name: Steffen Wöll
+    year: 2015
+    status: published
+    peer_reviewed: false
+    work_type: Seminar Paper
+    academic_context:
+      course: Religion in American Society
+      instructor:
+        name: Hartmut Keil
+    links:
+      - label: Open Access
+        url: https://osf.io/preprints/socarxiv/smq6n/
+        access: open
+
+  - id: publication-states-of-contingency-geopolitical-dynamics-of-sovereignty-and-intervention-in-american-st
+    category: early-work
+    schema_type: CreativeWork
+    title: "States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention in American Studies and International Relations"
+    authors:
+      - name: Steffen Wöll
+    year: 2015
+    status: published
+    peer_reviewed: false
+    work_type: Seminar Paper
+    academic_context:
+      course: Graduate Colloquium
+      instructor:
+        name: Crister S. Garrett
+        marker: "✝"
+    links:
+      - label: Open Access
+        url: https://osf.io/preprints/socarxiv/qrjuk/
+        access: open
+
+  - id: publication-still-very-excite-a-retrospective-of-ethnic-humor-political-correctness-and-hate-speech-in
+    category: early-work
+    schema_type: CreativeWork
+    title: "Still Very Excite: A Retrospective of Ethnic Humor, Political Correctness, and Hate Speech in Sacha Baron Cohen’s Borat"
+    authors:
+      - name: Steffen Wöll
+    year: 2014
+    status: published
+    peer_reviewed: false
+    work_type: Seminar Paper
+    academic_context:
+      course: ASL Project Module
+      instructor:
+        name: Gabriele Pisarz-Ramirez
+    links:
+      - label: Open Access
+        url: https://osf.io/preprints/socarxiv/5du7c/
+        access: open
+
+  - id: publication-kennedicide-in-the-heartland-of-the-real-conspiracy-coincidence-and-narrative-instability-
+    category: early-work
+    schema_type: CreativeWork
+    title: "Kennedicide in the “Heartland of the Real”: Conspiracy, Coincidence, and Narrative Instability in Don DeLillo’s Libra"
+    authors:
+      - name: Steffen Wöll
+    year: 2013
+    status: published
+    peer_reviewed: false
+    work_type: Seminar Paper
+    academic_context:
+      course: "Casting a Bullet: Political Assassination Narratives in American Culture"
+      instructor:
+        name: Sebastian M. Herrmann
+    links:
+      - label: Open Access
+        url: https://www.researchgate.net/publication/331284714_Kennedicide_in_the_'Heartland_of_the_Real'_Conspiracy_Coincidence_and_Narrative_Instability_in_Don_DeLillo's_Libra
+        access: open
+
+  - id: publication-empfindung-bewusstsein-wirklichkeit-die-machsche-velozit-and-auml-t-des-unrettbaren-ichs
+    category: early-work
+    schema_type: CreativeWork
+    title: "Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozität des unrettbaren Ichs"
+    authors:
+      - name: Steffen Wöll
+    year: 2013
+    status: published
+    peer_reviewed: false
+    work_type: Seminar Paper
+    academic_context:
+      course: "Geschichte der Philosophie: Zu einer kleinen Geschichte des Positivismus im 19. und 20. Jahrhundert"
+      instructor:
+        name: Thomas Wendt
+    links:
+      - label: Open Access
+        url: https://osf.io/preprints/socarxiv/96ysz
+        access: open
+
+  - id: publication-i-thought-of-carthage-disentangling-moral-and-military-aspects-of-the-hiroshima-and-nagasa
+    category: early-work
+    schema_type: CreativeWork
+    title: "“I Thought of Carthage”: Disentangling Moral and Military Aspects of the Hiroshima and Nagasaki Bombings"
+    authors:
+      - name: Steffen Wöll
+    year: 2013
+    status: published
+    peer_reviewed: false
+    work_type: Seminar Paper
+    academic_context:
+      course: Society, History, and Politics II
+      instructor:
+        name: Tobias Schlobach
+    links:
+      - label: Open Access
+        url: https://osf.io/preprints/socarxiv/m3pj4
+        access: open

@@ -56,7 +56,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const titleWithPunctuation = cleanText(titleNode.textContent);
         const title = titleWithPunctuation.replace(/[.:;]+$/, '');
-        const baseId = source.prefix + '-' + (academicSlug(title) || 'entry');
+        const storedId = cleanText(paragraph.getAttribute('data-publication-id') || paragraph.id);
+        const baseId = storedId || source.prefix + '-' + (academicSlug(title) || 'entry');
         usedIds[baseId] = (usedIds[baseId] || 0) + 1;
         const id = usedIds[baseId] > 1 ? baseId + '-' + usedIds[baseId] : baseId;
         const fullText = cleanText(paragraph.textContent);

@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -eu
+
+repository_root=$(git rev-parse --show-toplevel)
+cd "$repository_root"
+
+echo "Refreshing generated publication citations..."
+bundle exec ruby scripts/generate_publication_citations.rb
+git add -- _data/publication-citations-generated.yml
+
+echo "Publication citations are current and staged."

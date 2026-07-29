@@ -1,0 +1,11 @@
+<nav class="publication-contents" aria-labelledby="publication-contents-title">
+  <div id="publication-contents-title" class="home-section-label"><i class="fas fa-list-ul" aria-hidden="true"></i> Browse by Type</div>
+  <ul>
+    {%- for category in site.data.publications.categories -%}
+      {%- assign category_entries = site.data.publications.entries | where: 'category', category.id -%}
+      {%- if category_entries.size > 0 %}
+      <li><a href="#{{ category.id }}"><span class="category-label-full">{{ category.label }}</span><span class="category-label-short" aria-hidden="true">{{ category.short_label }}</span></a></li>
+      {%- endif -%}
+    {%- endfor %}
+  </ul>
+</nav>

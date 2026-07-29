@@ -1,9 +1,9 @@
 # Publication data model
 
-`_data/publications.yml` is the future canonical source for the Publications
-page and its JSON-LD. During the staged migration, `publications.md` remains the
-source of the visible page. Do not maintain the same entry in both sources once
-the renderer is enabled for its category.
+`_data/publications.yml` is the canonical source for the Publications page and
+its JSON-LD. `publications.md` contains the page header and renders the
+navigation, sections, citations, links, and structured metadata from that data
+file.
 
 ## Minimal entry
 
@@ -33,8 +33,8 @@ Required for every entry:
 - `category`: an ID declared in the top-level `categories` list
 - `schema_type`: supported Schema.org type
 - `title`: publication title without trailing display punctuation
-- `authors`: list of people with at least a `name`
-- `status`: `published`, `in_press`, `forthcoming`, or `in_progress`
+- `authors` or `editors`: at least one person with a `name`
+- `status`: `published`, `in_press`, `forthcoming`, `in_progress`, or `ongoing`
 - `links`: list; use `[]` when no link exists
 
 Common optional fields:
@@ -45,6 +45,8 @@ year: 2023
 peer_reviewed: true
 editors:
   - name: Jane Example
+contribution_role: co_editor
+volume: "8"
 container:
   title: Journal or collected-volume title
   volume: "14"
@@ -60,6 +62,55 @@ series:
 doi: 10.5070/T814160835
 note: Free text only for information without a dedicated field
 ```
+
+Book chapters use a nested book record. Expected years are kept separate from
+actual publication years:
+
+```yaml
+status: forthcoming
+expected_year: 2027
+book:
+  title: Collected volume title
+  editors:
+    - name: Jane Example
+```
+
+`expected_year` is displayed with the status but is never emitted as
+`datePublished`.
+
+Reviews retain their visible citation title and describe the reviewed book
+separately:
+
+```yaml
+schema_type: Review
+item_reviewed:
+  title: Reviewed book title
+  authors:
+    - name: Book Author
+```
+
+Heterogeneous projects may use a restricted text-only display mapping:
+
+```yaml
+display:
+  date: 2018/2022
+  detail: GlobeData
+  organization: Example institution
+  status: Habilitation project
+```
+
+Only these four fields are allowed. Structured lifecycle fields such as
+`date_created`, `date_modified`, and `start_year` remain the source for JSON-LD;
+the display mapping never creates `datePublished`.
+
+Display exceptions should remain rare. `contributors_position: after_citation`,
+`year_format: plain`, `preserve_title_punctuation: true`, and a custom
+`pages.separator` preserve established citation forms without embedding HTML in
+the data.
+
+Media and outreach entries may use a `media` mapping for outlet, section,
+medium, or credit information. Early work may use `academic_context` for the
+course and instructor. Keep these mappings factual and omit unknown fields.
 
 Each link has a label, URL, and access type:
 
@@ -82,13 +133,30 @@ Run both checks before and after each migration step:
 
 ```sh
 bundle exec ruby scripts/validate_publications.rb
+bundle exec ruby scripts/audit_publication_citations.rb
+bundle exec ruby scripts/test_publication_citations.rb
+bundle exec ruby scripts/generate_publication_citations.rb --check
 bundle exec jekyll build
 ```
 
-The validator checks the data contract and compares the legacy markup with
-`_data/publications-baseline.yml`. Refreshing that baseline is an intentional
-operation and should only happen after reviewing changes to the legacy list:
+The generated citation payload also contains BibTeX, RIS, and CSL-JSON export
+files. These exports are derived automatically; do not maintain them by hand.
+All completed or publicly accessible records are currently exportable. The
+in-progress habilitation project remains intentionally outside the citation
+scope until it has a stable publication form.
 
-```sh
-bundle exec ruby scripts/validate_publications.rb --refresh-baseline
-```
+The validator checks the data contract and compares all structured publication
+IDs with the frozen migration inventory in
+`_data/publications-baseline.yml`. Academic service such as peer reviewing is
+maintained on the Activities page and is deliberately absent from this
+publication inventory. The baseline should not be regenerated for ordinary
+publication updates. Add new entries directly to `_data/publications.yml`.
+
+The citation audit covers the deliberately limited first implementation scope.
+Its contract, fallbacks, and reference cases are documented in
+`docs/publication-citations-phase-1.md`. The local generator and its regression
+suite are documented in `docs/publication-citations-phase-2.md`.
+The public dialog and generated-data workflow are documented in
+`docs/publication-citations-public.md`.
+Formatting decisions and bibliographic quality checks are documented in
+`docs/publication-citations-quality.md`.

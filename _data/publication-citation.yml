@@ -1,0 +1,178 @@
+schema_version: 1
+people_source: publication-people.yml
+site_url: https://steffenwoell.github.io
+
+initial_scope:
+  categories:
+    - books
+    - editing
+    - journals
+    - chapters
+    - working-papers
+    - reviews
+    - dh
+    - media-blogs
+    - posters
+    - web-projects
+    - early-work
+  schema_types:
+    - Book
+    - PublicationIssue
+    - ScholarlyArticle
+    - Chapter
+    - Report
+    - Review
+    - Dataset
+    - DigitalDocument
+    - Map
+    - CreativeWork
+    - WebSite
+    - Article
+    - BlogPosting
+    - VideoObject
+  statuses:
+    - published
+    - in_press
+    - forthcoming
+    - ongoing
+
+planned_styles:
+  - id: chicago-notes-bibliography
+    label: Chicago Bibliography
+  - id: mla-9
+    label: MLA
+  - id: bibtex
+    label: BibTeX
+
+export_formats:
+  - id: bibtex
+    label: BibTeX
+    extension: bib
+    mime_type: application/x-bibtex;charset=utf-8
+  - id: ris
+    label: RIS
+    extension: ris
+    mime_type: application/x-research-info-systems;charset=utf-8
+  - id: csl-json
+    label: CSL-JSON
+    extension: json
+    mime_type: application/vnd.citationstyles.csl+json;charset=utf-8
+
+requirements:
+  Book:
+    required:
+      - authors
+      - year
+      - publisher.name
+    recommended:
+      - doi
+  ScholarlyArticle:
+    required:
+      - authors
+      - year
+      - container.title
+    recommended:
+      - container.volume
+      - pages
+      - doi
+  Chapter:
+    required:
+      - authors
+      - book.title
+      - publisher.name
+    required_any:
+      - year
+      - expected_year
+    recommended:
+      - book.editors
+      - pages
+      - doi
+  PublicationIssue:
+    required:
+      - editors
+      - title
+      - year
+    recommended:
+      - doi
+  Report:
+    required:
+      - authors
+      - title
+      - year
+      - series.title
+      - publisher.name
+    recommended:
+      - series.issue
+      - doi
+  Review:
+    required:
+      - authors
+      - item_reviewed.title
+      - item_reviewed.authors
+      - container.title
+    required_any:
+      - year
+      - expected_year
+      - status
+    recommended:
+      - pages
+      - doi
+  Dataset:
+    required:
+      - authors
+      - title
+      - year
+    recommended:
+      - provider.name
+      - doi
+  DigitalDocument:
+    required:
+      - authors
+      - title
+      - year
+  Map:
+    required:
+      - authors
+      - title
+      - date_created
+    recommended:
+      - doi
+  CreativeWork:
+    required:
+      - authors
+      - title
+      - work_type
+      - year
+  WebSite:
+    required:
+      - authors
+      - title
+      - start_year
+    recommended:
+      - links
+  Article:
+    required:
+      - authors
+      - title
+      - year
+  BlogPosting:
+    required:
+      - authors
+      - title
+      - year
+      - media.outlet
+    recommended:
+      - date_text
+  VideoObject:
+    required:
+      - authors
+      - title
+      - year
+    recommended:
+      - links
+
+fallbacks:
+  missing_doi: use_best_external_link
+  missing_pages: omit_page_range
+  missing_editors: omit_editor_clause
+  forthcoming_year: use_expected_year_with_status

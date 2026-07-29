@@ -1,0 +1,36 @@
+<div id="publicationCitationDialog" class="citation-dialog" role="dialog" aria-modal="true" aria-labelledby="citationDialogTitle" hidden>
+  <button class="citation-dialog-backdrop" type="button" data-citation-close tabindex="-1" aria-hidden="true"></button>
+  <section class="citation-dialog-panel" aria-describedby="citationDialogStatus">
+    <header class="citation-dialog-header">
+      <div>
+        <span class="citation-dialog-eyebrow"><i class="fas fa-quote-right" aria-hidden="true"></i> Cite this publication</span>
+        <h2 id="citationDialogTitle"></h2>
+      </div>
+      <button class="citation-dialog-close" type="button" data-citation-close aria-label="Close citation dialog">
+        <i class="fas fa-times" aria-hidden="true"></i>
+      </button>
+    </header>
+
+    <div class="citation-dialog-tabs" role="tablist" aria-label="Citation format">
+      <button id="citationTabChicago" type="button" role="tab" aria-selected="true" aria-controls="citationDialogOutput" data-citation-style="chicago">Chicago Bibliography</button>
+      <button id="citationTabMla" type="button" role="tab" aria-selected="false" aria-controls="citationDialogOutput" data-citation-style="mla" tabindex="-1">MLA</button>
+      <button id="citationTabBibtex" type="button" role="tab" aria-selected="false" aria-controls="citationDialogOutput" data-citation-style="bibtex" tabindex="-1">BibTeX</button>
+    </div>
+
+    <div id="citationDialogOutput" class="citation-dialog-output" role="tabpanel" aria-labelledby="citationTabChicago"></div>
+    <p id="citationDialogStatus" class="citation-dialog-status" aria-live="polite">Chicago bibliography selected.</p>
+
+    <footer class="citation-dialog-actions">
+      <button id="citationCopyButton" class="citation-action-primary" type="button">
+        <i class="fas fa-copy" aria-hidden="true"></i><span>Copy citation</span>
+      </button>
+      <div class="citation-export-actions" role="group" aria-label="Export citation">
+        <span class="citation-export-label">Export</span>
+        <button type="button" data-citation-download="bibtex">BibTeX</button>
+        <button type="button" data-citation-download="ris">RIS</button>
+        <button type="button" data-citation-download="csl-json">CSL-JSON</button>
+      </div>
+    </footer>
+  </section>
+</div>
+<script id="publicationCitationData" type="application/json">{{ site.data.publication-citations-generated | jsonify }}</script>

@@ -1,0 +1,9 @@
+{%- assign publication = include.entry -%}
+{%- if publication.container.title %}
+  {{ publication.container.title }}
+  {%- if publication.container.volume %} {{ publication.container.volume }}{% endif -%}
+  {%- if publication.year and publication.container.volume %} ({{ publication.year }}){% endif -%}
+  {%- if publication.container.issue %} {{ publication.container.issue }}{% endif -%}
+  {%- if publication.pages.start %}: {{ publication.pages.start }}{% if publication.pages.end %}–{{ publication.pages.end }}{% endif %}{% endif %}.
+{%- endif -%}
+{%- if publication.date_text %} {{ publication.date_text }}.{% endif -%}

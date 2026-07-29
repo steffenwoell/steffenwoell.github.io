@@ -1,0 +1,189 @@
+# Manually reviewed target strings for the citation generator.
+# These fixtures are internal and are not rendered on the public site.
+- id: book-single-author
+  publication_id: publication-the-west-and-the-word-imagining-formatting-and-ordering-the-american-west-in-nineteenth-ce
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen. The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse. De Gruyter, 2020. https://doi.org/10.1515/9783110690132.
+    mla-9: >-
+      Wöll, Steffen. The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse. De Gruyter, 2020. https://doi.org/10.1515/9783110690132.
+    bibtex: |-
+      @book{woell2020west,
+        author = {Wöll, Steffen},
+        title = {{The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse}},
+        publisher = {De Gruyter},
+        year = {2020},
+        doi = {10.1515/9783110690132}
+      }
+
+- id: journal-article-with-doi
+  publication_id: publication-unmasking-maps-unmaking-empire-towards-an-archipelagic-cartography
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen. “Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography.” Journal of Transnational American Studies 14, no. 1 (2023): 137–167. https://doi.org/10.5070/T814160835.
+    mla-9: >-
+      Wöll, Steffen. “Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography.” Journal of Transnational American Studies, vol. 14, no. 1, 2023, pp. 137–167. https://doi.org/10.5070/T814160835.
+    bibtex: |-
+      @article{woell2023unmasking,
+        author = {Wöll, Steffen},
+        title = {{Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography}},
+        journal = {Journal of Transnational American Studies},
+        volume = {14},
+        number = {1},
+        pages = {137--167},
+        year = {2023},
+        doi = {10.5070/T814160835}
+      }
+
+- id: chapter-with-editors
+  publication_id: publication-visualizing-exploration
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen. “Visualizing Exploration.” In A Cultural History of Exploration in the Industrial Age, edited by Jane Samson, 147–172. Bloomsbury, 2025. https://doi.org/10.5040/9781350100947.ch-6.
+    mla-9: >-
+      Wöll, Steffen. “Visualizing Exploration.” A Cultural History of Exploration in the Industrial Age, edited by Jane Samson, Bloomsbury, 2025, pp. 147–172. https://doi.org/10.5040/9781350100947.ch-6.
+    bibtex: |-
+      @incollection{woell2025visualizing,
+        author = {Wöll, Steffen},
+        title = {{Visualizing Exploration}},
+        booktitle = {{A Cultural History of Exploration in the Industrial Age}},
+        editor = {Samson, Jane},
+        publisher = {Bloomsbury},
+        pages = {147--172},
+        year = {2025},
+        doi = {10.5040/9781350100947.ch-6}
+      }
+
+- id: edited-journal-issue
+  publication_id: publication-archipelagic-spaces-and-im-mobilities
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen, ed. “Archipelagic Spaces and Im/Mobilities.” Special issue, Journal of Transnational American Studies 14, no. 1 (2023). https://escholarship.org/uc/acgcc_jtas/14/1.
+    mla-9: >-
+      Wöll, Steffen, editor. Archipelagic Spaces and Im/Mobilities. Special issue of Journal of Transnational American Studies, vol. 14, no. 1, 2023. https://escholarship.org/uc/acgcc_jtas/14/1.
+    bibtex: |-
+      @misc{woell2023archipelagic,
+        editor = {Wöll, Steffen},
+        title = {{Archipelagic Spaces and Im/Mobilities}},
+        howpublished = {Journal of Transnational American Studies 14, no. 1},
+        year = {2023},
+        url = {https://escholarship.org/uc/acgcc\_jtas/14/1}
+      }
+
+- id: working-paper
+  publication_id: publication-spatial-fictions-imagining-trans-national-space-in-the-southern-and-western-peripheries-of
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen, Gabriele Pisarz-Ramirez, and Deniz Bozkurt. Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States. SFB 1199 Working Paper no. 10. Leipziger Universitätsverlag, 2018. https://research.uni-leipzig.de/~sfb1199/publications/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/.
+    mla-9: >-
+      Wöll, Steffen, et al. Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States. SFB 1199 Working Paper, no. 10, Leipziger Universitätsverlag, 2018. https://research.uni-leipzig.de/~sfb1199/publications/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/.
+    bibtex: |-
+      @techreport{woell2018spatial,
+        author = {Wöll, Steffen and Pisarz-Ramirez, Gabriele and Bozkurt, Deniz},
+        title = {{Spatial Fictions: Imagining (Trans)national Space in the Southern and Western Peripheries of the Nineteenth Century United States}},
+        institution = {Leipziger Universitätsverlag},
+        type = {SFB 1199 Working Paper},
+        number = {10},
+        year = {2018},
+        url = {https://research.uni-leipzig.de/~sfb1199/publications/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/}
+      }
+
+- id: published-review
+  publication_id: publication-review-of-imperial-infrastructure-and-spatial-resistance-in-colonial-literature-1880-1930-
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen. Review of Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880–1930, by Dominic Davies. Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung 29, no. 5 (2019): 102–103. https://www.comparativ.net/v2/issue/view/158.
+    mla-9: >-
+      Wöll, Steffen. Review of Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880–1930, by Dominic Davies. Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung, vol. 29, no. 5, 2019, pp. 102–103. https://www.comparativ.net/v2/issue/view/158.
+    bibtex: |-
+      @article{woell2019review,
+        author = {Wöll, Steffen},
+        title = {{Review of Imperial Infrastructure and Spatial Resistance in Colonial Literature, 1880–1930 by Dominic Davies}},
+        journal = {Comparativ: Zeitschrift für Globalgeschichte und vergleichende Gesellschaftsforschung},
+        volume = {29},
+        number = {5},
+        pages = {102--103},
+        year = {2019},
+        url = {https://www.comparativ.net/v2/issue/view/158}
+      }
+
+- id: digital-dataset
+  publication_id: publication-imperial-spatializations-and-archipelagic-counter-geographies-a-selected-corpus-of-works-1
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen. Imperial Spatializations and Archipelagic Counter-Geographies, a Selected Corpus of Works, 1880–1940. Dataset, GlobeData, 2024. https://doi.org/10.48736/GD1JYNUEZ.
+    mla-9: >-
+      Wöll, Steffen. Imperial Spatializations and Archipelagic Counter-Geographies, a Selected Corpus of Works, 1880–1940. GlobeData, 2024, Dataset. https://doi.org/10.48736/GD1JYNUEZ.
+    bibtex: |-
+      @misc{woell2024imperial,
+        author = {Wöll, Steffen},
+        title = {{Imperial Spatializations and Archipelagic Counter-Geographies, a Selected Corpus of Works, 1880–1940}},
+        year = {2024},
+        doi = {10.48736/GD1JYNUEZ},
+        howpublished = {Dataset, GlobeData}
+      }
+
+- id: blog-post
+  publication_id: publication-the-west-and-the-word-imagining-formatting-and-ordering-the-american-west-in-nineteenth-ce-2
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen. “The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.” TRAFO - Blog for Transregional Research, New Books, January 28, 2021. https://trafo.hypotheses.org/26361.
+    mla-9: >-
+      Wöll, Steffen. “The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.” TRAFO - Blog for Transregional Research, New Books, 28 Jan. 2021. https://trafo.hypotheses.org/26361.
+    bibtex: |-
+      @misc{woell2021west,
+        author = {Wöll, Steffen},
+        title = {{The West and the Word: Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse}},
+        year = {2021},
+        url = {https://trafo.hypotheses.org/26361},
+        howpublished = {TRAFO - Blog for Transregional Research, New Books}
+      }
+
+- id: conference-poster
+  publication_id: publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast-2
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen. “Mapping Discourse in R.H. Dana’s ‘Two Years Before the Mast’.” Conference Poster, Geisteswissenschaftliches Zentrum der Universität Leipzig, January 28, 2020. https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf.
+    mla-9: >-
+      Wöll, Steffen. “Mapping Discourse in R.H. Dana’s ‘Two Years Before the Mast’.” Conference Poster, Geisteswissenschaftliches Zentrum der Universität Leipzig, 28 Jan. 2020. https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf.
+    bibtex: |-
+      @misc{woell2020mapping,
+        author = {Wöll, Steffen},
+        title = {{Mapping Discourse in R.H. Dana’s “Two Years Before the Mast.”}},
+        year = {2020},
+        url = {https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf},
+        note = {Conference Poster, Geisteswissenschaftliches Zentrum der Universität Leipzig}
+      }
+
+- id: ongoing-website
+  publication_id: publication-enmma-european-network-for-minor-mobilities-in-the-americas
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen. ENMMA: European Network for Minor Mobilities in the Americas. Website, 2018–present. https://enmma.carrd.co/.
+    mla-9: >-
+      Wöll, Steffen. ENMMA: European Network for Minor Mobilities in the Americas. 2018–present. https://enmma.carrd.co/.
+    bibtex: |-
+      @misc{woell2018enmma,
+        author = {Wöll, Steffen},
+        title = {{ENMMA: European Network for Minor Mobilities in the Americas}},
+        year = {2018},
+        url = {https://enmma.carrd.co/},
+        howpublished = {Website},
+        note = {Ongoing}
+      }
+
+- id: unpublished-seminar-paper
+  publication_id: publication-allah-s-own-country-black-nationalism-the-nation-of-islam-and-american-muslim-identities
+  expected:
+    chicago-notes-bibliography: >-
+      Wöll, Steffen. “Allah’s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.” Seminar Paper, Religion in American Society, 2015. https://osf.io/preprints/socarxiv/smq6n/.
+    mla-9: >-
+      Wöll, Steffen. “Allah’s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities.” Seminar Paper, Religion in American Society, 2015. https://osf.io/preprints/socarxiv/smq6n/.
+    bibtex: |-
+      @unpublished{woell2015allah,
+        author = {Wöll, Steffen},
+        title = {{Allah’s Own Country: Black Nationalism, the Nation of Islam, and American Muslim Identities}},
+        year = {2015},
+        url = {https://osf.io/preprints/socarxiv/smq6n/},
+        note = {Seminar Paper, Religion in American Society}
+      }

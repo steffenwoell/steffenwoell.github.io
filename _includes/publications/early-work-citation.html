@@ -1,0 +1,6 @@
+{%- assign publication = include.entry -%}
+{%- if publication.year %} {{ publication.year }}.{% endif -%}
+{%- if publication.work_type %} {{ publication.work_type }}.{% endif -%}
+{%- if publication.academic_context.course %}
+  {{ publication.academic_context.course }}{% if publication.academic_context.instructor.name %} ({{ publication.academic_context.instructor.name }}{% if publication.academic_context.instructor.marker %} {{ publication.academic_context.instructor.marker }}{% endif %}){% endif %}.
+{%- endif -%}

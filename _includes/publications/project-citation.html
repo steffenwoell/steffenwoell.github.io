@@ -1,0 +1,5 @@
+{%- assign display = include.entry.display -%}
+{%- if display.date %} {{ display.date }}.{% endif -%}
+{%- if display.detail %} {{ display.detail }}.{% endif -%}
+{%- if display.organization %} {{ display.organization }}.{% endif -%}
+{%- if display.status %} {{ display.status }}.{% endif -%}

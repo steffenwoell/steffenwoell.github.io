@@ -34,6 +34,7 @@ hide_avatar: true
 <li><a href="#thesis-supervision"><span class="category-label-full">Thesis Supervision</span><span class="category-label-short" aria-hidden="true">Supervision</span></a></li>
 <li><a href="#fieldwork-archives" aria-label="Fieldwork and Archival Research"><span class="category-label-full">Fieldwork & Archival Research</span><span class="category-label-short" aria-hidden="true">Fieldwork</span></a></li>
 <li><a href="#memberships"><span class="category-label-full">Memberships</span><span class="category-label-short" aria-hidden="true">Memberships</span></a></li>
+<li><a href="#academic-service"><span class="category-label-full">Academic Service</span><span class="category-label-short" aria-hidden="true">Service</span></a></li>
 <li><a href="#grants-awards" aria-label="Grants and Awards"><span class="category-label-full">Grants & Awards</span><span class="category-label-short" aria-hidden="true">Grants</span></a></li>
 <li><a href="#volunteering"><span class="category-label-full">Volunteering</span><span class="category-label-short" aria-hidden="true">Volunteering</span></a></li>
 </ul>
@@ -198,6 +199,17 @@ in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 202
 <p><a href="https://mapaca.net">MAPACA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">Mid-Atlantic Popular & American Culture Association</strong></p>
 <p><a href="https://nepca.blog/">NEPCA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">Northeast Popular & American Culture Association</strong></p>
 <p><a href="https://www.societyofearlyamericanists.org">SEA<i class="fas fa-external-link-alt" role="presentation"></i></a> <strong class="hl hl-act">Society of Early Americanists</strong></p>
+</div>
+
+<div class="anchor" id="academic-service" aria-hidden="true"></div>
+
+<h2>Academic Service</h2>
+<div class="gold">
+<p id="activity-peer-reviewer-anglistik"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://angl.winter-verlag.de">Anglistik: International Journal of English Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p id="activity-peer-reviewer-anq"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://www.tandfonline.com/journals/vanq20">ANQ: A Quarterly Journal of Short Articles, Notes, and Reviews<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p id="activity-peer-reviewer-clio"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://www.pfw.edu/clio/">Clio: A Journal of Literature, History, and the Philosophy of History<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p id="activity-peer-reviewer-ejas"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://journals.openedition.org/ejas/">European Journal of American Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p id="activity-peer-reviewer-island-studies-journal"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://islandstudiesjournal.org/">Island Studies Journal<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 
 <div class="anchor" id="grants-awards" aria-hidden="true"></div>

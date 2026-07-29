@@ -1,13 +1,13 @@
 ---
 schema_version: 1
 source: publications.md
-total_entries: 62
+total_entries: 57
 category_counts:
   books: 3
   editing: 2
   journals: 14
   chapters: 12
-  reviews: 11
+  reviews: 6
   dh: 3
   media-blogs: 7
   posters: 2
@@ -147,21 +147,6 @@ entries:
 - id: publication-review-of-pacific-america-histories-of-transoceanic-crossings-by-lon-kurashige
   category: reviews
   title: 'Review of Pacific America: Histories of Transoceanic Crossings by Lon Kurashige'
-- id: publication-peer-reviewer
-  category: reviews
-  title: Peer reviewer
-- id: publication-peer-reviewer-2
-  category: reviews
-  title: Peer reviewer
-- id: publication-peer-reviewer-3
-  category: reviews
-  title: Peer reviewer
-- id: publication-peer-reviewer-4
-  category: reviews
-  title: Peer reviewer
-- id: publication-peer-reviewer-5
-  category: reviews
-  title: Peer reviewer
 - id: publication-imperial-spatializations-and-archipelagic-counter-geographies-a-selected-corpus-of-works-1
   category: dh
   title: Imperial Spatializations and Archipelagic Counter-Geographies, a Selected
@@ -227,7 +212,7 @@ entries:
     Narrative Instability in Don DeLillo’s Libra'
 - id: publication-empfindung-bewusstsein-wirklichkeit-die-machsche-velozit-and-auml-t-des-unrettbaren-ichs
   category: early-work
-  title: 'Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren
+  title: 'Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozität des unrettbaren
     Ichs'
 - id: publication-i-thought-of-carthage-disentangling-moral-and-military-aspects-of-the-hiroshima-and-nagasa
   category: early-work

@@ -1,0 +1,13 @@
+{%- for link in include.links -%}
+  {%- assign external_link = false -%}
+  {%- if link.url contains '://' -%}{%- assign external_link = true -%}{%- endif -%}
+  <a href="{{ link.url | relative_url }}"{% if external_link %} rel="noopener noreferrer"{% endif %}>
+    {{- link.label -}}
+    {%- case link.access -%}
+      {%- when 'open' -%}<i class="fas fa-lock-open" role="presentation"></i>
+      {%- when 'file' -%}<i class="fas fa-file-pdf" role="presentation"></i>
+    {%- endcase -%}
+    {%- if link.format == 'pdf' -%}<i class="fas fa-file-pdf" role="presentation"></i>
+    {%- elsif external_link -%}<i class="fas fa-external-link-alt" role="presentation"></i>{%- endif -%}
+  </a>{% unless forloop.last %} <span aria-hidden="true">&amp;</span> {% endunless %}
+{%- endfor -%}
