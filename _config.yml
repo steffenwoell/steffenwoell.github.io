@@ -6,6 +6,31 @@ lang: en
 url: "https://steffenwoell.github.io"
 baseurl: ""
 
+# --- Structured metadata --- #
+
+seo:
+  site_name: "Steffen Wöll"
+  site_description: "Research website of Steffen Wöll, covering American Studies, cultural geography, digital humanities, publications, academic activities, and creative work."
+  person:
+    name: "Steffen Wöll"
+    given_name: "Steffen"
+    family_name: "Wöll"
+    honorific_prefix: "Dr."
+    job_title: "Postdoctoral Researcher"
+    affiliation: "Leipzig University"
+    image: "/img/cat/pro.webp"
+    description: "Postdoctoral researcher in American Studies, cultural geography, and digital humanities."
+    same_as:
+      - "https://orcid.org/0000-0003-1582-6078"
+      - "https://www.researchgate.net/profile/Steffen-Woell"
+    knows_about:
+      - "American Studies"
+      - "Cultural Geography"
+      - "Digital Humanities"
+      - "Critical Cartography"
+      - "Archipelagic Studies"
+      - "Visual Culture"
+
 # --- Local development options ---
 # If hosted locally set url and baseurl (Danger!)
 

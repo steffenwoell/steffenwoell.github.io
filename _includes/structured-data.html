@@ -1,0 +1,140 @@
+{%- unless page.url == '/404.html' -%}
+  {%- assign schema_type = 'WebPage' -%}
+  {%- if page.layout == 'post' -%}
+    {%- assign schema_type = 'BlogPosting' -%}
+  {%- elsif page.url == '/' -%}
+    {%- assign schema_type = 'ProfilePage' -%}
+  {%- elsif page.url == '/publications/' or page.url == '/activities/' or page.url == '/journal/archive/' or page.url == '/tags/' -%}
+    {%- assign schema_type = 'CollectionPage' -%}
+  {%- elsif page.url == '/journal/' -%}
+    {%- assign schema_type = 'Blog' -%}
+  {%- elsif page.url == '/contact/' -%}
+    {%- assign schema_type = 'ContactPage' -%}
+  {%- endif -%}
+
+  {%- assign schema_name = page.title | default: site.title -%}
+  {%- assign schema_description = page.description | default: page.excerpt | default: page.subtitle | default: site.description | strip_html | strip_newlines -%}
+  {%- assign schema_image = page.image | default: site.seo.person.image -%}
+  {%- assign schema_language = page.lang | default: site.lang | default: 'en' -%}
+  {%- capture person_id -%}{{ '/' | absolute_url }}#person{%- endcapture -%}
+  {%- capture website_id -%}{{ '/' | absolute_url }}#website{%- endcapture -%}
+  {%- capture webpage_id -%}{{ page.url | absolute_url }}#webpage{%- endcapture -%}
+  {%- capture blog_id -%}{{ '/journal/' | absolute_url }}#blog{%- endcapture -%}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": {{ person_id | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }},
+      "name": {{ site.seo.person.name | jsonify }},
+      "givenName": {{ site.seo.person.given_name | jsonify }},
+      "familyName": {{ site.seo.person.family_name | jsonify }},
+      "honorificPrefix": {{ site.seo.person.honorific_prefix | jsonify }},
+      "jobTitle": {{ site.seo.person.job_title | jsonify }},
+      "description": {{ site.seo.person.description | jsonify }},
+      "image": {{ site.seo.person.image | absolute_url | jsonify }},
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": {{ site.seo.person.affiliation | jsonify }}
+      },
+      "sameAs": [
+        {%- for profile in site.seo.person.same_as -%}
+          {{ profile | jsonify }}{% unless forloop.last %},{% endunless %}
+        {%- endfor -%}
+      ],
+      "knowsAbout": [
+        {%- for subject in site.seo.person.knows_about -%}
+          {{ subject | jsonify }}{% unless forloop.last %},{% endunless %}
+        {%- endfor -%}
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ website_id | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }},
+      "name": {{ site.seo.site_name | jsonify }},
+      "description": {{ site.seo.site_description | default: site.description | jsonify }},
+      "inLanguage": {{ schema_language | jsonify }},
+      "creator": {
+        "@id": {{ person_id | jsonify }}
+      }
+    },
+    {
+      "@type": {{ schema_type | jsonify }},
+      "@id": {% if schema_type == 'Blog' %}{{ blog_id | jsonify }}{% elsif schema_type == 'BlogPosting' %}{{ page.url | absolute_url | append: '#article' | jsonify }}{% else %}{{ webpage_id | jsonify }}{% endif %},
+      "url": {{ page.url | absolute_url | jsonify }},
+      {% if schema_type == 'BlogPosting' %}
+      "headline": {{ schema_name | strip_html | jsonify }},
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ webpage_id | jsonify }}
+      },
+      "isPartOf": {
+        "@id": {{ blog_id | jsonify }}
+      },
+      {% if page.tags and page.tags.size > 0 %}"keywords": {{ page.tags | jsonify }},{% endif %}
+      "author": {
+        "@id": {{ person_id | jsonify }}
+      },
+      {% else %}
+      "name": {{ schema_name | strip_html | jsonify }},
+      "isPartOf": {
+        "@id": {{ website_id | jsonify }}
+      },
+      {% if schema_type == 'ProfilePage' %}
+      "mainEntity": {
+        "@id": {{ person_id | jsonify }}
+      },
+      {% else %}
+      "about": {
+        "@id": {{ person_id | jsonify }}
+      },
+      {% endif %}
+      {% if schema_type == 'Blog' %}
+      "author": {
+        "@id": {{ person_id | jsonify }}
+      },
+      {% endif %}
+      {% endif %}
+      "description": {{ schema_description | jsonify }},
+      "inLanguage": {{ schema_language | jsonify }}{% if schema_image %},
+      "image": {
+        "@type": "ImageObject",
+        "url": {{ schema_image | absolute_url | jsonify }}
+      }{% endif %}{% if page.layout == 'post' or page.url == '/journal/archive/' or page.url == '/tags/' %},
+      "breadcrumb": {
+        "@id": {{ page.url | absolute_url | append: '#breadcrumb' | jsonify }}
+      }{% endif %}
+    }{% if page.layout == 'post' or page.url == '/journal/archive/' or page.url == '/tags/' %},
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ page.url | absolute_url | append: '#breadcrumb' | jsonify }},
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": {{ '/' | absolute_url | jsonify }}
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Journal",
+          "item": {{ '/journal/' | absolute_url | jsonify }}
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": {{ schema_name | strip_html | jsonify }},
+          "item": {{ page.url | absolute_url | jsonify }}
+        }
+      ]
+    }{% endif %}
+  ]
+}
+</script>
+{%- endunless -%}

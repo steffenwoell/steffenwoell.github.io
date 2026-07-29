@@ -134,10 +134,10 @@ Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard
 <div class="contact-detail-content">
 <ul class="contact-license-list">
   <li>Unless otherwise stated, all content on this personal, non-commercial website is licensed under the Creative Commons <a rel="license" href="/doc/legal/CC-LICENSE.txt">BY-NC-ND 4.0 license<i class="fas fa-file" aria-hidden="true"></i></a>.</li>
-  <li>The self-hosted <span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> fonts are distributed under the <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache License 2.0<i class="fas fa-file" aria-hidden="true"></i></a>.</li>
+  <li>Self-hosted fonts <span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> are distributed under the <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache License 2.0<i class="fas fa-file" aria-hidden="true"></i></a>.</li>
   <li><span class="pre-inline">Bootstrap CSS</span> is used under the <a rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="fas fa-file" aria-hidden="true"></i></a>.</li>
-  <li>The self-hosted icons are provided by <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="fas fa-file" aria-hidden="true"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fas fa-external-link-alt" aria-hidden="true"></i></a> under their respective licenses.</li>
-  <li>The profile picture and favicon are courtesy of <a href="https://savee.it/vulcano/">Stefano Assom | Vulcano<i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.</li>
+  <li>Self-hosted icons are provided by <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="fas fa-file" aria-hidden="true"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fas fa-external-link-alt" aria-hidden="true"></i></a> under their respective licenses.</li>
+  <li>Profile picture courtesy of <a href="https://savee.it/vulcano/">Stefano Assom / Vulcano<i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.</li>
   <li>Unless otherwise indicated, all other images are courtesy of <a rel="license" href="https://unsplash.com/license">Unsplash<i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.</li>
 </ul>
 </div>
@@ -146,7 +146,7 @@ Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard
 <details>
 <summary><span><i class="fas fa-external-link-alt" aria-hidden="true"></i> External Links</span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
 <div class="contact-detail-content">
-<p>Links to external websites are provided for convenience. Their inclusion does not imply endorsement of, or responsibility for, their content. To request the removal of a link, please contact me by email.</p>
+<p>Links to external websites are provided for convenience. Their inclusion does not imply endorsement of, or responsibility for, their content. Removal of a link may be requested via email.</p>
 </div>
 </details>
 </section>

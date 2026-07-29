@@ -1,0 +1,235 @@
+---
+schema_version: 1
+source: publications.md
+total_entries: 62
+category_counts:
+  books: 3
+  editing: 2
+  journals: 14
+  chapters: 12
+  reviews: 11
+  dh: 3
+  media-blogs: 7
+  posters: 2
+  web-projects: 2
+  early-work: 6
+entries:
+- id: publication-a-place-between-oceans-imagining-american-empire-1880-1940
+  category: books
+  title: 'A Place Between Oceans: Imagining American Empire, 1880–1940'
+- id: publication-the-west-and-the-word-imagining-formatting-and-ordering-the-american-west-in-nineteenth-ce
+  category: books
+  title: 'The West and the Word: Imagining, Formatting, and Ordering the American
+    West in Nineteenth-Century Cultural Discourse'
+- id: publication-periphere-raume-in-der-amerikanistik
+  category: books
+  title: Periphere Räume in der Amerikanistik
+- id: publication-archipelagic-spaces-and-im-mobilities
+  category: editing
+  title: Archipelagic Spaces and Im/Mobilities
+- id: publication-aspeers-emerging-voices-in-american-studies
+  category: editing
+  title: 'aspeers: emerging voices in american studies'
+- id: publication-from-starved-rock-to-cancer-alley-simulated-violence-and-representational-collapse-in-the-
+  category: journals
+  title: 'From Starved Rock to Cancer Alley: Simulated Violence and Representational
+    Collapse in the American West'
+- id: publication-unmasking-maps-unmaking-empire-towards-an-archipelagic-cartography
+  category: journals
+  title: 'Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography'
+- id: publication-introduction-conceptualizing-archipelagic-mobilities
+  category: journals
+  title: 'Introduction: Conceptualizing Archipelagic Mobilities'
+- id: publication-beyond-the-artifact-unfolding-medieval-algorithmic-and-unruly-lives-of-maps
+  category: journals
+  title: 'Beyond the Artifact: Unfolding Medieval, Algorithmic, and Unruly Lives of
+    Maps'
+- id: publication-then-i-started-for-the-mountains-retracing-louisiana-s-human-geographies-across-five-remar
+  category: journals
+  title: "“Then I Started for the Mountains”: Retracing Louisiana’s Human Geographies
+    across Five Remarkable Biographies"
+- id: publication-voyages-through-literary-space-mapping-globe-and-nation-in-richard-henry-dana-s-two-years-
+  category: journals
+  title: 'Voyages through Literary Space: Mapping Globe and Nation in Richard Henry
+    Dana’s Two Years Before the Mast'
+- id: publication-the-horrors-of-the-oriental-space-and-language-in-h-p-lovecraft-s-the-shadow-over-innsmout
+  category: journals
+  title: The Horrors of the Oriental Space and Language in H.P. Lovecraft’s “The Shadow
+    over Innsmouth.”
+- id: publication-shuffling-narratives-apocalypticism-postmodernism-and-zombies
+  category: journals
+  title: 'Shuffling Narratives: Apocalypticism, Postmodernism, and Zombies'
+- id: publication-to-be-murdered-simulations-of-objectivity-subjectivity-and-violence-in-truman-capote-s-in-
+  category: journals
+  title: "“To Be Murdered”: Simulations of Objectivity, Subjectivity, and Violence
+    in Truman Capote’s In Cold Blood"
+- id: publication-bleeding-borders-space-blackness-and-hybridity-in-jack-london-s-representations-of-the-ame
+  category: journals
+  title: 'Bleeding Borders: Space, Blackness, and Hybridity in Jack London’s Representations
+    of the American Southwest'
+- id: publication-exceptional-spaces-pop-cultural-debris-and-the-spatial-re-construction-of-american-excepti
+  category: journals
+  title: 'Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction
+    of American Exceptionalism in Alfonso Cuarón’s Gravity'
+- id: publication-feeling-new-york-classless-urban-geographies-and-affective-capitalist-reconciliation-in-ho
+  category: journals
+  title: 'Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation
+    in Horatio Alger’s Ragged Dick'
+- id: publication-inertia-and-movement-the-spatialization-of-the-native-northland-in-jack-london-s-short-sto
+  category: journals
+  title: 'Inertia and Movement: The Spatialization of the Native Northland in Jack
+    London’s Short Stories'
+- id: publication-american-health
+  category: journals
+  title: American Health
+- id: publication-ghosts-guides-and-go-betweens-mediating-indigenous-presence-in-alaska-s-imperial-archive
+  category: chapters
+  title: 'Ghosts, Guides, and Go-Betweens: Mediating Indigenous Presence in Alaska’s
+    Imperial Archive'
+- id: publication-from-fascist-frontiers-to-red-resistance-race-masculinity-and-nation-in-german-westerns-19
+  category: chapters
+  title: 'From Fascist Frontiers to Red Resistance: Race, Masculinity, and Nation
+    in German Westerns, 1933–1970s'
+- id: publication-global-imaginations-of-u-s-imperialism-1898-1945
+  category: chapters
+  title: Global Imaginations of U.S. Imperialism, 1898–1945
+- id: publication-mug-shots-and-passport-photography
+  category: chapters
+  title: Mug Shots and Passport Photography
+- id: publication-visualizing-exploration
+  category: chapters
+  title: Visualizing Exploration
+- id: publication-playing-the-race-card-lovecraftian-play-spaces-and-tentacular-sympoiesis-in-the-arkham-hor
+  category: chapters
+  title: 'Playing the Race Card: Lovecraftian Play Spaces and Tentacular Sympoiesis
+    in the Arkham Horror Board Game'
+- id: publication-the-sealsfield-enigma-and-the-narrative-politics-of-the-transatlantic-western
+  category: chapters
+  title: The Sealsfield Enigma and the Narrative Politics of the Transatlantic Western
+- id: publication-true-places-never-are-navigating-trans-oceanic-imaginations-in-moby-dick
+  category: chapters
+  title: "“True Places Never Are”: Navigating (Trans)Oceanic Imaginations in Moby-Dick"
+- id: publication-spatial-imaginations-and-counter-geographies-of-oregon-and-the-far-west
+  category: chapters
+  title: Spatial Imaginations and Counter-Geographies of Oregon and the Far West
+- id: publication-fear-thy-neighbor-paranoia-and-suburban-victim-hood-in-mark-pellington-s-arlington-road
+  category: chapters
+  title: "“Fear Thy Neighbor”: Paranoia and Suburban Victim-Hood in Mark Pellington’s
+    Arlington Road"
+- id: publication-spatiality-and-psyche-surviving-the-yukon-in-jack-london-s-love-of-life-and-to-build-a-fir
+  category: chapters
+  title: 'Spatiality and Psyche: Surviving the Yukon in Jack London’s “Love of Life”
+    and “To Build a Fire.”'
+- id: publication-spatial-fictions-imagining-trans-national-space-in-the-southern-and-western-peripheries-of
+  category: chapters
+  title: 'Spatial Fictions: Imagining (Trans)national Space in the Southern and Western
+    Peripheries of the Nineteenth Century United States'
+- id: publication-review-of-colonial-ports-global-trade-and-the-roots-of-the-american-revolution-by-jeremy-l
+  category: reviews
+  title: Review of Colonial Ports, Global Trade, and the Roots of the American Revolution
+    by Jeremy Land
+- id: publication-review-of-the-creole-archipelago-race-and-borders-in-the-colonial-caribbean-by-tessa-murph
+  category: reviews
+  title: 'Review of The Creole Archipelago: Race and Borders in the Colonial Caribbean
+    by Tessa Murphy'
+- id: publication-review-of-writing-history-in-america-s-shadow-japan-the-philippines-and-the-question-of-pa
+  category: reviews
+  title: 'Review of Writing History in America’s Shadow: Japan, the Philippines, and
+    the Question of Pan-Asianism by Takamichi Serizawa'
+- id: publication-review-of-transoceanic-america-risk-writing-and-revolution-in-the-global-pacific-by-michel
+  category: reviews
+  title: 'Review of Transoceanic America: Risk, Writing, and Revolution in the Global
+    Pacific by Michelle Burnham'
+- id: publication-review-of-imperial-infrastructure-and-spatial-resistance-in-colonial-literature-1880-1930-
+  category: reviews
+  title: Review of Imperial Infrastructure and Spatial Resistance in Colonial Literature,
+    1880–1930 by Dominic Davies
+- id: publication-review-of-pacific-america-histories-of-transoceanic-crossings-by-lon-kurashige
+  category: reviews
+  title: 'Review of Pacific America: Histories of Transoceanic Crossings by Lon Kurashige'
+- id: publication-peer-reviewer
+  category: reviews
+  title: Peer reviewer
+- id: publication-peer-reviewer-2
+  category: reviews
+  title: Peer reviewer
+- id: publication-peer-reviewer-3
+  category: reviews
+  title: Peer reviewer
+- id: publication-peer-reviewer-4
+  category: reviews
+  title: Peer reviewer
+- id: publication-peer-reviewer-5
+  category: reviews
+  title: Peer reviewer
+- id: publication-imperial-spatializations-and-archipelagic-counter-geographies-a-selected-corpus-of-works-1
+  category: dh
+  title: Imperial Spatializations and Archipelagic Counter-Geographies, a Selected
+    Corpus of Works, 1880–1940
+- id: publication-conspicuous-spatializations-visualizing-anti-imperial-spatial-imaginations-of-transhemisph
+  category: dh
+  title: 'Conspicuous Spatializations: Visualizing (Anti-)Imperial Spatial Imaginations
+    of Transhemispheric America through Corpus-based Data'
+- id: publication-discursive-map-an-attempt-at-visualizing-the-transnational-trajectories-of-spatial-imagina
+  category: dh
+  title: 'Discursive Map: An Attempt at Visualizing the Transnational Trajectories
+    of Spatial Imaginations in R.H. Dana’s Two Years Before the Mast (1840)'
+- id: publication-violence-representation-and-ecocide-in-the-american-west
+  category: media-blogs
+  title: Violence, Representation, and Ecocide in the American West
+- id: publication-the-west-and-the-word-imagining-formatting-and-ordering-the-american-west-in-nineteenth-ce-2
+  category: media-blogs
+  title: 'The West and the Word: Imagining, Formatting, and Ordering the American
+    West in Nineteenth-Century Cultural Discourse'
+- id: publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast
+  category: media-blogs
+  title: Mapping Discourse in R.H. Dana’s “Two Years Before the Mast.”
+- id: publication-globe-region-and-periphery-the-spatialization-of-the-american-west-in-nineteenth-century-u
+  category: media-blogs
+  title: 'Globe, Region, and Periphery: The Spatialization of the American West in
+    Nineteenth-Century US Literature'
+- id: publication-berkeley-free-speech-rally-riots-united-forces-15-april-2017
+  category: media-blogs
+  title: Berkeley Free Speech Rally Riots | United Forces (15 April 2017)
+- id: publication-the-second-cold-war
+  category: media-blogs
+  title: The Second Cold War
+- id: publication-the-second-cold-war-the-us-might-come-out-on-the-losing-side
+  category: media-blogs
+  title: The Second Cold War. The US Might Come Out on the Losing Side
+- id: publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast-2
+  category: posters
+  title: Mapping Discourse in R.H. Dana’s “Two Years Before the Mast.”
+- id: publication-urban-america-mediating-city-space-as-place
+  category: posters
+  title: 'Urban America: Mediating City Space as Place'
+- id: publication-enmma-european-network-for-minor-mobilities-in-the-americas
+  category: web-projects
+  title: 'ENMMA: European Network for Minor Mobilities in the Americas'
+- id: publication-steffenwoell-github-io
+  category: web-projects
+  title: steffenwoell.github.io
+- id: publication-allah-s-own-country-black-nationalism-the-nation-of-islam-and-american-muslim-identities
+  category: early-work
+  title: 'Allah’s Own Country: Black Nationalism, the Nation of Islam, and American
+    Muslim Identities'
+- id: publication-states-of-contingency-geopolitical-dynamics-of-sovereignty-and-intervention-in-american-st
+  category: early-work
+  title: 'States of Contingency: Geopolitical Dynamics of Sovereignty and Intervention
+    in American Studies and International Relations'
+- id: publication-still-very-excite-a-retrospective-of-ethnic-humor-political-correctness-and-hate-speech-in
+  category: early-work
+  title: 'Still Very Excite: A Retrospective of Ethnic Humor, Political Correctness,
+    and Hate Speech in Sacha Baron Cohen’s Borat'
+- id: publication-kennedicide-in-the-heartland-of-the-real-conspiracy-coincidence-and-narrative-instability-
+  category: early-work
+  title: 'Kennedicide in the “Heartland of the Real”: Conspiracy, Coincidence, and
+    Narrative Instability in Don DeLillo’s Libra'
+- id: publication-empfindung-bewusstsein-wirklichkeit-die-machsche-velozit-and-auml-t-des-unrettbaren-ichs
+  category: early-work
+  title: 'Empfindung, Bewusstsein, Wirklichkeit: Die Machsche Velozit&auml;t des unrettbaren
+    Ichs'
+- id: publication-i-thought-of-carthage-disentangling-moral-and-military-aspects-of-the-hiroshima-and-nagasa
+  category: early-work
+  title: "“I Thought of Carthage”: Disentangling Moral and Military Aspects of the
+    Hiroshima and Nagasaki Bombings"

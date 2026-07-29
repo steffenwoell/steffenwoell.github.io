@@ -1,0 +1,49 @@
+# Canonical publication data introduced for the staged data migration.
+# The public page still uses publications.md until the individual categories
+# have been migrated and verified.
+schema_version: 1
+
+categories:
+  - id: books
+    label: Books & Book Projects
+    short_label: Books
+    default_schema_type: Book
+  - id: editing
+    label: Edited Volumes (Peer-Reviewed)
+    short_label: Edited Volumes
+    default_schema_type: Book
+  - id: journals
+    label: Journal Articles (Peer-Reviewed)
+    short_label: Articles
+    default_schema_type: ScholarlyArticle
+  - id: chapters
+    label: Book Chapters (Peer-Reviewed)
+    short_label: Chapters
+    default_schema_type: Chapter
+  - id: reviews
+    label: Reviews
+    short_label: Reviews
+    default_schema_type: Review
+  - id: dh
+    label: Digital Humanities
+    short_label: Digital
+    default_schema_type: CreativeWork
+  - id: media-blogs
+    label: Media & Blogs
+    short_label: Media
+    default_schema_type: CreativeWork
+  - id: posters
+    label: Posters
+    short_label: Posters
+    default_schema_type: CreativeWork
+  - id: web-projects
+    label: Web Projects / Outreach
+    short_label: Web & Outreach
+    default_schema_type: CreativeWork
+  - id: early-work
+    label: Early Work (Unrefereed)
+    short_label: Early Work
+    default_schema_type: CreativeWork
+
+# Entries will be added category by category in later migration phases.
+entries: []

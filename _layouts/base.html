@@ -9,6 +9,7 @@ common-js:
   - "/js/jquery.min.js"
   - "/js/bootstrap.min.js"
   - "/js/main.js"
+  - "/js/search.js"
 ---
 
 <!DOCTYPE html>
@@ -18,6 +19,7 @@ common-js:
   <body>
 
     {% include nav.html %}
+    {% include search-dialog.html %}
 
     {{ content }}
 

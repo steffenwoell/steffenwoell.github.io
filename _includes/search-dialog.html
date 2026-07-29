@@ -1,0 +1,24 @@
+<div id="siteSearchDialog" class="site-search" role="dialog" aria-modal="true" aria-labelledby="siteSearchTitle" data-search-index="{{ '/search.json' | relative_url }}" data-publications-url="{{ '/publications/' | relative_url }}" data-activities-url="{{ '/activities/' | relative_url }}" hidden>
+  <button class="site-search-backdrop" type="button" data-search-close tabindex="-1" aria-label="Close search"></button>
+  <div class="site-search-panel">
+    <div class="site-search-header">
+      <div>
+        <!--<span class="site-search-eyebrow"><i class="fas fa-search" aria-hidden="true"></i> Site Search</span>-->
+        <h2 id="siteSearchTitle">Search for anything</h2>
+      </div>
+      <button class="site-search-close" type="button" data-search-close aria-label="Close search">
+        <i class="fas fa-times" aria-hidden="true"></i>
+      </button>
+    </div>
+
+    <label class="sr-only" for="siteSearchInput">Search publications, activities, and journal entries</label>
+    <div class="site-search-field">
+      <i class="fas fa-search" aria-hidden="true"></i>
+      <input id="siteSearchInput" type="search" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Search publications, activities, and journal entries">
+      <kbd class="site-search-shortcut" aria-hidden="true">Esc</kbd>
+    </div>
+
+    <div id="siteSearchStatus" class="site-search-status" role="status" aria-live="polite">Start typing to search.</div>
+    <div id="siteSearchResults" class="site-search-results" role="listbox" aria-label="Search results"></div>
+  </div>
+</div>

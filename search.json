@@ -1,0 +1,43 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+{%- assign search_first = true -%}
+{%- for item in site.html_pages -%}
+  {%- if item.title and item.url != '/404.html' and item.url != '/search.json' and item.search_exclude != true -%}
+    {%- unless search_first -%},{%- endunless -%}
+    {%- assign search_first = false -%}
+    {%- assign search_type = 'Page' -%}
+    {%- if item.url == '/publications/' -%}
+      {%- assign search_type = 'Publications' -%}
+    {%- elsif item.url == '/activities/' -%}
+      {%- assign search_type = 'Activities' -%}
+    {%- elsif item.url contains '/journal/' or item.url == '/tags/' -%}
+      {%- assign search_type = 'Journal' -%}
+    {%- endif -%}
+    {
+      "title": {{ item.title | jsonify }},
+      "url": {{ item.url | relative_url | jsonify }},
+      "type": {{ search_type | jsonify }},
+      "description": {{ item.description | default: item.excerpt | replace: '<', ' <' | strip_html | jsonify }},
+      "content": {{ item.content | replace: '<', ' <' | strip_html | jsonify }},
+      "tags": [],
+      "date": ""
+    }
+  {%- endif -%}
+{%- endfor -%}
+{%- for item in site.posts -%}
+  {%- unless search_first -%},{%- endunless -%}
+  {%- assign search_first = false -%}
+  {
+    "title": {{ item.title | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "type": "Journal Entry",
+    "description": {{ item.excerpt | default: item.content | replace: '<', ' <' | strip_html | truncatewords: 36 | jsonify }},
+    "content": {{ item.content | replace: '<', ' <' | strip_html | jsonify }},
+    "tags": {{ item.tags | jsonify }},
+    "date": {{ item.date | date: "%B %-d, %Y" | jsonify }}
+  }
+{%- endfor -%}
+]

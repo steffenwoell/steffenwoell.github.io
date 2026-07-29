@@ -54,6 +54,15 @@
         {%- endfor -%}
       </ul>
       <ul class="nav navbar-nav navbar-right navbar-utilities">
+        <li class="navbar-search-item">
+          <button id="siteSearchOpen" class="navbar-icon-button navbar-search-button" type="button" title="Search" aria-haspopup="dialog" aria-controls="siteSearchDialog">
+            <span class="navbar-icon-surface" aria-hidden="true">
+              <i class="fas fa-search"></i>
+            </span>
+            <span class="navbar-utility-text" aria-hidden="true">Search</span>
+            <span class="sr-only">Search this website</span>
+          </button>
+        </li>
         <li class="navbar-theme-item">
           <button id="darkModeToggle" class="navbar-icon-button navbar-theme-button toggle" type="button" title="Switch to dark theme" aria-pressed="false">
             <span class="navbar-icon-surface theme-icon" aria-hidden="true">

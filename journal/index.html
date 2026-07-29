@@ -12,13 +12,14 @@ hide_avatar: true
   <header class="journal-header">
     <div class="journal-statement">
       <h1 class="journal-section-label"><i class="fas fa-pen" aria-hidden="true"></i> Journal</h1>
-      <p>Poetry, fragments, music, and other creative endeavors.</p>
+      <p>Poetry, essays, music, and more.</p>
       <div class="journal-motto">{{ page.subtitle }}</div>
     </div>
     <nav class="journal-tools" aria-label="Journal tools">
-      <a href="{{ '/journal/archive/' | relative_url }}"><i class="fas fa-archive" aria-hidden="true"></i><span class="journal-tool-label-full">Browse Archive</span><span class="journal-tool-label-short">Archive</span></a>
-      <button id="randomJournalEntry" type="button"><i class="fas fa-random" aria-hidden="true"></i><span class="journal-tool-label-full">Random Entry</span><span class="journal-tool-label-short">Random</span></button>
-      <a href="{{ '/feed.xml' | relative_url }}"><i class="fas fa-rss" aria-hidden="true"></i><span class="journal-tool-label-full">RSS Feed</span><span class="journal-tool-label-short">RSS</span></a>
+      <a href="{{ '/journal/archive/' | relative_url }}"><i class="fas fa-archive" aria-hidden="true"></i><span>Archive</span></a>
+      <a href="{{ '/tags/' | relative_url }}"><i class="fas fa-tag" aria-hidden="true"></i><span>Tags</span></a>
+      <button id="randomJournalEntry" type="button"><i class="fas fa-random" aria-hidden="true"></i><span>Random</span></button>
+      <a href="{{ '/feed.xml' | relative_url }}"><i class="fas fa-rss" aria-hidden="true"></i><span>RSS</span></a>
     </nav>
   </header>
 
