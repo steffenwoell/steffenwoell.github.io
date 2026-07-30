@@ -51,7 +51,7 @@ search_exclude: true
     <ul class="tag-post-list">
         {%- for post in site.tags[tag] -%}
             <li class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
+                <a href="{{ post.url | relative_url }}" lang="{{ post.lang | default: site.lang | default: 'en' }}">{{- post.title -}}</a>
                 <div class="entry-date">
                     <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: site.date_format -}}</time>
                 </div>

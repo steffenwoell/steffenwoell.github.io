@@ -28,15 +28,15 @@ hide_avatar: true
 <div id="activity-contents-title" class="activity-section-label"><i class="fas fa-list-ul" aria-hidden="true"></i> Browse by Type</div>
 <nav aria-label="Activity types">
 <ul>
-<li><a href="#conferences"><span class="category-label-full">Talks &amp; Conferences</span><span class="category-label-short" aria-hidden="true">Talks</span></a></li>
+<li><a href="#conferences" aria-label="Talks and Conferences"><span class="category-label-full">Talks &amp; Conferences</span><span class="category-label-short" aria-hidden="true">Talks</span></a></li>
 <li><a href="#panels-workshops" aria-label="Panels and Workshops"><span class="category-label-full">Panels & Workshops</span><span class="category-label-short" aria-hidden="true">Panels</span></a></li>
-<li><a href="#teaching"><span class="category-label-full">Teaching</span><span class="category-label-short" aria-hidden="true">Teaching</span></a></li>
-<li><a href="#thesis-supervision"><span class="category-label-full">Supervision</span><span class="category-label-short" aria-hidden="true">Supervision</span></a></li>
-<li><a href="#fieldwork-archives"><span class="category-label-full">Research Travel</span><span class="category-label-short" aria-hidden="true">Travel</span></a></li>
-<li><a href="#memberships"><span class="category-label-full">Academic Memberships</span><span class="category-label-short" aria-hidden="true">Memberships</span></a></li>
-<li><a href="#academic-service"><span class="category-label-full">Academic Service</span><span class="category-label-short" aria-hidden="true">Service</span></a></li>
+<li><a href="#teaching" aria-label="Teaching"><span class="category-label-full">Teaching</span><span class="category-label-short" aria-hidden="true">Teaching</span></a></li>
+<li><a href="#thesis-supervision" aria-label="Supervision"><span class="category-label-full">Supervision</span><span class="category-label-short" aria-hidden="true">Supervision</span></a></li>
+<li><a href="#fieldwork-archives" aria-label="Research Travel"><span class="category-label-full">Research Travel</span><span class="category-label-short" aria-hidden="true">Travel</span></a></li>
+<li><a href="#memberships" aria-label="Academic Memberships"><span class="category-label-full">Academic Memberships</span><span class="category-label-short" aria-hidden="true">Memberships</span></a></li>
+<li><a href="#academic-service" aria-label="Academic Service"><span class="category-label-full">Academic Service</span><span class="category-label-short" aria-hidden="true">Service</span></a></li>
 <li><a href="#grants-awards" aria-label="Grants and Awards"><span class="category-label-full">Grants & Awards</span><span class="category-label-short" aria-hidden="true">Grants</span></a></li>
-<li><a href="#volunteering"><span class="category-label-full">Community Engagement</span><span class="category-label-short" aria-hidden="true">Engagement</span></a></li>
+<li><a href="#volunteering" aria-label="Community Engagement"><span class="category-label-full">Community Engagement</span><span class="category-label-short" aria-hidden="true">Engagement</span></a></li>
 </ul>
 </nav>
 </section>
@@ -174,7 +174,7 @@ hide_avatar: true
 <div class="anchor" id="thesis-supervision" aria-hidden="true"></div>
 
 <section class="activity-category" aria-labelledby="thesis-supervision-title">
-<header class="activity-category-header"><h2 id="thesis-supervision-title">Supervision <span class="activity-category-qualifier">(Selection)</span></h2></header>
+<header class="activity-category-header"><h2 id="thesis-supervision-title">Thesis Supervision <span class="activity-category-qualifier">(Selection)</span></h2></header>
 <div class="activity-category-body gold">
 <p><strong class="hl hl-act">Beautiful Violence: The Aestheticization and Commodification of
 Violence in American Media.</strong> BA Thesis. American Studies Leipzig. 2026.</p>
@@ -221,11 +221,11 @@ in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 202
 <section class="activity-category" aria-labelledby="academic-service-title">
 <header class="activity-category-header"><h2 id="academic-service-title">Academic Service</h2></header>
 <div class="activity-category-body gold">
-<p id="activity-peer-reviewer-anglistik"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://angl.winter-verlag.de">Anglistik: International Journal of English Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p id="activity-peer-reviewer-anq"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://www.tandfonline.com/journals/vanq20">ANQ: A Quarterly Journal of Short Articles, Notes, and Reviews<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p id="activity-peer-reviewer-clio"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://www.pfw.edu/clio/">Clio: A Journal of Literature, History, and the Philosophy of History<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p id="activity-peer-reviewer-ejas"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://journals.openedition.org/ejas/">European Journal of American Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p id="activity-peer-reviewer-island-studies-journal"><strong class="hl hl-act">Peer reviewer</strong> for <a href="https://islandstudiesjournal.org/">Island Studies Journal<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p id="activity-peer-reviewer-anglistik"><strong class="hl hl-act">Peer reviewer</strong><a href="https://angl.winter-verlag.de">Anglistik: International Journal of English Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p id="activity-peer-reviewer-anq"><strong class="hl hl-act">Peer reviewer</strong><a href="https://www.tandfonline.com/journals/vanq20">ANQ: A Quarterly Journal of Short Articles, Notes, and Reviews<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p id="activity-peer-reviewer-clio"><strong class="hl hl-act">Peer reviewer</strong><a href="https://www.pfw.edu/clio/">Clio: A Journal of Literature, History, and the Philosophy of History<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p id="activity-peer-reviewer-ejas"><strong class="hl hl-act">Peer reviewer</strong><a href="https://journals.openedition.org/ejas/">European Journal of American Studies<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p id="activity-peer-reviewer-island-studies-journal"><strong class="hl hl-act">Peer reviewer</strong><a href="https://islandstudiesjournal.org/">Island Studies Journal<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 </section>
 
@@ -234,16 +234,16 @@ in the Late Twentieth Century.</strong> BA Thesis. American Studies Leipzig. 202
 <section class="activity-category" aria-labelledby="grants-awards-title">
 <header class="activity-category-header"><h2 id="grants-awards-title">Grants &amp; Awards</h2></header>
 <div class="activity-category-body gold">
-<p><strong class="hl hl-act">Scottish Association for the Study of America. Annual Conference Essay Prize.</strong> 2018.</p>
-<p><strong class="hl hl-act">DAAD Travel Stipend.</strong> 2017.</p>
+<p><strong class="hl hl-act">Scottish Association for the Study of America. Annual Conference Essay Prize 2018</strong></p>
+<p><strong class="hl hl-act">DAAD Travel Stipend 2017</strong></p>
 </div>
 </section>
 
 <section class="activity-category mbot" aria-labelledby="volunteering">
 <header class="activity-category-header"><h2 id="volunteering">Community Engagement</h2></header>
 <div class="activity-category-body gold">
-<p><strong class="hl hl-act">Mentoring</strong> for Leipzig University&#8217;s <a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award">Pre-Doc Award<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-act">Kurzfilmwanderung Leipzig.</strong> <a href="https://kurzfilmwanderung.de/">Supported by the Cultural Foundation of the Free State of Saxony<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
-<p><strong class="hl hl-act">KulturLounge e.V. Leipzig.</strong> <a href="https://kulturlounge.jimdofree.com/">Supported by the Federal Government Commissioner for Culture and the Media<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">Mentoring</strong><a href="https://www.uni-leipzig.de/forschung/wissenschaftliche-laufbahn/promotion/pre-doc-award">Leipzig University Pre-Doc Award<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">Kurzfilmwanderung Leipzig</strong> <a href="https://kurzfilmwanderung.de/">Supported by the Cultural Foundation of the Free State of Saxony<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">KulturLounge e.V. Leipzig</strong> <a href="https://kulturlounge.jimdofree.com/">Supported by the Federal Government Commissioner for Culture and the Media<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
 </div>
 </section>

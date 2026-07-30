@@ -26,7 +26,7 @@ search_exclude: true
 
   <div class="journal-list" aria-label="Journal entries">
     {% for post in paginator.posts %}
-    <article class="journal-preview">
+    <article class="journal-preview" lang="{{ post.lang | default: site.lang | default: 'en' }}">
       <div class="journal-preview-date">
         <span>{{ post.date | date: "%d" }}</span>
         <span>{{ post.date | date: "%b" }}</span>
@@ -57,11 +57,15 @@ search_exclude: true
           <a class="journal-read-entry" href="{{ post.url | relative_url }}">Read entry <span aria-hidden="true">&rarr;</span></a>
         </div>
 
-        {% if post.image %}
         <a class="journal-preview-image" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
+          {% if post.image and post.image != empty %}
           <img src="{{ post.image | relative_url }}" alt="" draggable="false">
+          {% else %}
+          <span class="journal-image-placeholder">
+            <i class="fas fa-pen" aria-hidden="true"></i>
+          </span>
+          {% endif %}
         </a>
-        {% endif %}
       </div>
     </article>
     {% endfor %}

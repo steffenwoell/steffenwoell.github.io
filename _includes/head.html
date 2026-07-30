@@ -7,6 +7,8 @@
   <script>
     (function () {
       const htmlElement = document.documentElement;
+      htmlElement.classList.remove('no-js');
+      htmlElement.classList.add('js');
       const systemTheme = window.matchMedia
         ? window.matchMedia('(prefers-color-scheme: dark)')
         : null;
@@ -40,7 +42,7 @@
   <meta property="og:description" content="{{ meta_description | strip_html | escape }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="{{ site.seo.site_name | default: site.title | escape }}">
-  <meta property="og:locale" content="en_US">
+  <meta property="og:locale" content="{% if page.lang == 'de' %}de_DE{% else %}en_US{% endif %}">
   {% if meta_image %}<meta property="og:image" content="{{ meta_image | absolute_url }}">{% endif %}
   {% if meta_image %}<meta property="og:image:alt" content="{{ page.image_alt | default: meta_title | strip_html | escape }}">{% endif %}
   <meta name="twitter:card" content="summary">

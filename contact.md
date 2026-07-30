@@ -119,6 +119,7 @@ Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard
 <details id="accessibility">
 <summary><span><i class="fas fa-universal-access" aria-hidden="true"></i> Accessibility</span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
 <div class="contact-detail-content">
+<p>This website supports keyboard navigation, a skip link, responsive reflow, reduced motion, system color preferences, and screen-reader labels for interactive controls. If you encounter an accessibility barrier, please <a href="mailto:steffen.woell@uni-leipzig.de">report it by email</a>.</p>
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fab fa-html5" aria-hidden="true"></i></span><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsteffenwoell.github.io%2F">Validate the website’s HTML<i class="fas fa-external-link-alt" aria-hidden="true"></i></a></li>
   <li><span class="fa-li"><i class="fab fa-css3-alt" aria-hidden="true"></i></span><a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsteffenwoell.github.io">Validate the website’s CSS<i class="fas fa-external-link-alt" aria-hidden="true"></i></a></li>

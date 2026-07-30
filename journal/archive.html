@@ -30,7 +30,7 @@ permalink: /journal/archive/
         {% for post in year.items %}
         <li>
           <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d" }}</time>
-          <a href="{{ post.url | relative_url }}">
+          <a href="{{ post.url | relative_url }}" lang="{{ post.lang | default: site.lang | default: 'en' }}">
             <span>{{ post.title }}</span>
             {% if post.subtitle %}<small>{{ post.subtitle }}</small>{% endif %}
           </a>

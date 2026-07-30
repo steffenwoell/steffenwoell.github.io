@@ -89,11 +89,28 @@ bundle exec jekyll build
 
 The site includes:
 
-- keyboard-accessible navigation and theme controls
+- keyboard-accessible navigation, dialogs, search, and theme controls
+- a skip link to bypass repeated navigation
 - light and dark color schemes
 - reduced-motion support through `prefers-reduced-motion`
+- reduced-transparency and forced-colors fallbacks
 - semantic labels for controls and decorative icons
 - responsive layouts for smaller screens
+- language metadata for German and English journal entries
+
+Before publishing substantial layout or interaction changes, check:
+
+- keyboard navigation forwards and backwards with `Tab` and `Shift` + `Tab`
+- Safari with VoiceOver using landmarks, headings, links, and form controls
+- search and citation dialogs, including focus return after closing
+- browser zoom at 200% and 400%
+- reflow at a viewport width of 320 CSS pixels
+- light mode, dark mode, reduced motion, and increased contrast
+- the principal content with JavaScript disabled
+
+Journal posts inherit English from the site configuration. Add `lang: de` to
+the front matter of German-language posts so browsers and screen readers use
+the appropriate pronunciation.
 
 ## Licenses and attribution
 
@@ -103,4 +120,3 @@ Unless otherwise stated, the website content is licensed under
 Third-party components and assets retain their respective licenses. Details are
 listed on the [contact and legal information page](contact.md) and in
 `doc/legal/`.
-

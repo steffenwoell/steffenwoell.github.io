@@ -59,6 +59,32 @@
 
     const backToTop = document.getElementById('back-to-top');
     const footer = document.querySelector('.site-footer');
+    if (backToTop) {
+      backToTop.setAttribute('role', 'button');
+      backToTop.setAttribute('aria-label', 'Scroll to top');
+
+      const updateBackToTopKeyboardState = function () {
+        const hiddenByScroll = backToTop.classList.contains('hidden');
+        const hiddenByFooter = backToTop.dataset.footerVisible === 'true';
+        backToTop.tabIndex = hiddenByScroll || hiddenByFooter ? -1 : 0;
+        backToTop.setAttribute('aria-hidden', String(hiddenByScroll || hiddenByFooter));
+      };
+
+      backToTop.addEventListener('keydown', function (event) {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault();
+          backToTop.click();
+        }
+      });
+
+      const backToTopObserver = new MutationObserver(updateBackToTopKeyboardState);
+      backToTopObserver.observe(backToTop, {
+        attributes: true,
+        attributeFilter: ['class', 'data-footer-visible']
+      });
+      updateBackToTopKeyboardState();
+    }
+
     if (backToTop && footer) {
       const setFooterVisibility = function (isVisible) {
         backToTop.dataset.footerVisible = String(isVisible);
@@ -77,12 +103,54 @@
         updateFooterVisibility();
       }
     }
+
+    const jumpNavigationLinks = document.querySelectorAll(
+      '.publication-contents nav a[href^="#"], .activity-contents nav a[href^="#"], .tag-cloud a[href^="#"]'
+    );
+
+    jumpNavigationLinks.forEach(function (link) {
+      link.addEventListener('click', function () {
+        let targetId;
+        try {
+          targetId = decodeURIComponent(link.hash.slice(1));
+        } catch (error) {
+          return;
+        }
+
+        const target = document.getElementById(targetId);
+        if (!target) return;
+
+        let focusTarget = target;
+        if (target.matches('.anchor')) {
+          const targetSection = target.nextElementSibling;
+          focusTarget = targetSection && targetSection.querySelector('h2, h3, summary');
+        } else if (target.tagName === 'DETAILS') {
+          target.open = true;
+          focusTarget = target.querySelector('summary');
+        } else if (!target.matches('a, button, input, select, textarea, summary, [tabindex]')) {
+          focusTarget = target.querySelector('h1, h2, h3, summary') || target;
+        }
+
+        if (!focusTarget) return;
+        focusTarget.setAttribute('tabindex', '-1');
+        window.requestAnimationFrame(function () {
+          focusTarget.focus({ preventScroll: true });
+        });
+      });
+    });
   });
 </script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     const buttons = document.querySelectorAll('.copy-btn');
     const copyStatus = document.getElementById('copy-status');
+    const announceCopyStatus = function (message) {
+      if (!copyStatus) return;
+      copyStatus.textContent = '';
+      window.requestAnimationFrame(function () {
+        copyStatus.textContent = message;
+      });
+    };
     const copyText = function (text) {
       if (navigator.clipboard && window.isSecureContext) {
         return navigator.clipboard.writeText(text);
@@ -123,9 +191,7 @@
         copyText(textToCopy).then(() => {
           this.classList.add('copied');
           this.setAttribute('aria-label', 'Copied to clipboard');
-          if (copyStatus) {
-            copyStatus.textContent = 'Copied to clipboard';
-          }
+          announceCopyStatus('Copied to clipboard');
 
           if (icon) {
             icon.classList.remove(originalClass);
@@ -143,9 +209,7 @@
             }
           }, 1200);
         }).catch(err => {
-          if (copyStatus) {
-            copyStatus.textContent = 'Copy failed';
-          }
+          announceCopyStatus('Copy failed');
           console.error('Copy failed', err);
         });
       });

@@ -1,4 +1,18 @@
-# Canonical data source for the Publications page and its structured metadata.
+# ADDING A PUBLICATION
+# 1. Add the entry under `entries:` alongside its category.
+# 2. Keep entries within each category ordered newest to oldest.
+# 3. Use a unique lowercase `id` beginning with `publication-`.
+# 4. Use an existing category ID from the `categories:` list above.
+# 5. Quote titles or values containing colons or other YAML punctuation.
+# 6. Omit unknown fields instead of guessing or leaving empty values.
+# 7. Use HTTPS links and a valid access type:
+#    open, print, publisher, file, or web.
+# 8. Do not edit publication-citations-generated.yml manually;
+#    citation data is regenerated automatically before commits.
+# 9. Validate changes with:
+#    bundle exec ruby scripts/validate_publications.rb
+#    bundle exec jekyll build
+
 schema_version: 1
 
 featured:
@@ -52,6 +66,8 @@ categories:
     short_label: Early Work
     default_schema_type: CreativeWork
 
+## --- BOOKS ---
+
 entries:
   - id: publication-a-place-between-oceans-imagining-american-empire-1880-1940
     category: books
@@ -97,6 +113,8 @@ entries:
         url: https://www.degruyter.com/document/doi/10.1515/9783110655476/html
         access: open
 
+## --- EDITOR ---
+
   - id: publication-archipelagic-spaces-and-im-mobilities
     category: editing
     schema_type: PublicationIssue
@@ -132,6 +150,8 @@ entries:
       - label: Open Access
         url: https://doi.org/10.54465/aspeers.08
         access: open
+
+## --- JOURNALS ---
 
   - id: publication-from-starved-rock-to-cancer-alley-simulated-violence-and-representational-collapse-in-the-
     category: journals
@@ -430,6 +450,8 @@ entries:
         url: https://www.aspeers.com/2015/introduction
         access: open
 
+## --- BOOK CHAPTERS ---
+
   - id: publication-ghosts-guides-and-go-betweens-mediating-indigenous-presence-in-alaska-s-imperial-archive
     category: chapters
     schema_type: Chapter
@@ -689,6 +711,8 @@ entries:
         url: https://www.peterlang.com/document/1063125
         access: print
 
+## --- WORKING PAPERS ---
+
   - id: publication-spatial-fictions-imagining-trans-national-space-in-the-southern-and-western-peripheries-of
     category: working-papers
     schema_type: Report
@@ -709,6 +733,8 @@ entries:
       - label: Open Access
         url: https://research.uni-leipzig.de/~sfb1199/publications/spatial-fictions-imagining-transnational-space-in-the-southern-and-western-peripheries-of-the-nineteenth-century-united-states/
         access: open
+
+## --- REVIEWS ---
 
   - id: publication-review-of-colonial-ports-global-trade-and-the-roots-of-the-american-revolution-by-jeremy-l
     category: reviews
@@ -836,6 +862,8 @@ entries:
         url: https://www.comparativ.net/v2/issue/view/154
         access: print
 
+## --- DIGITAL HUMANITIES ---
+
   - id: publication-imperial-spatializations-and-archipelagic-counter-geographies-a-selected-corpus-of-works-1
     category: dh
     schema_type: Dataset
@@ -887,6 +915,8 @@ entries:
         url: https://doi.org/10.48736/GD1RJN6HK
         access: web
 
+## --- POSTERS ---
+
   - id: publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast-2
     category: posters
     schema_type: CreativeWork
@@ -924,6 +954,8 @@ entries:
         url: /doc/ASL-Conference-Poster-2016-Steffen-Wöll.pdf
         access: file
 
+## --- WEB PROJECTS ---
+
   - id: publication-enmma-european-network-for-minor-mobilities-in-the-americas
     category: web-projects
     schema_type: WebSite
@@ -955,6 +987,9 @@ entries:
       - label: Website
         url: https://steffenwoell.github.io/
         access: web
+
+## --- MEDIA / BLOGS ---
+
 
   - id: publication-violence-representation-and-ecocide-in-the-american-west
     category: media-blogs
@@ -1077,6 +1112,8 @@ entries:
       - label: Web
         url: https://www.globalresearch.ca/the-second-cold-war-the-us-might-come-out-on-the-losing-side/5494412
         access: web
+
+## --- EARLY WORK ---
 
   - id: publication-allah-s-own-country-black-nationalism-the-nation-of-islam-and-american-muslim-identities
     category: early-work

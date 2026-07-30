@@ -24,6 +24,17 @@ document.addEventListener('DOMContentLoaded', function () {
   let currentRecord = null;
   let currentStyle = 'chicago';
   let previouslyFocused = null;
+  const dialogIsolation = window.createDialogIsolation
+    ? window.createDialogIsolation(dialog)
+    : null;
+
+  const announce = function (element, message) {
+    if (!element) return;
+    element.textContent = '';
+    window.requestAnimationFrame(function () {
+      element.textContent = message;
+    });
+  };
 
   const copyText = function (text) {
     if (navigator.clipboard && window.isSecureContext) {
@@ -113,12 +124,14 @@ document.addEventListener('DOMContentLoaded', function () {
     window.requestAnimationFrame(function () {
       dialog.classList.add('is-open');
       tabs[0].focus();
+      if (dialogIsolation) dialogIsolation.enable();
     });
   };
 
   const close = function () {
     dialog.classList.remove('is-open');
     document.body.classList.remove('citation-dialog-open');
+    if (dialogIsolation) dialogIsolation.disable();
     window.setTimeout(function () {
       dialog.hidden = true;
       if (previouslyFocused) previouslyFocused.focus();
@@ -139,10 +152,12 @@ document.addEventListener('DOMContentLoaded', function () {
       selectStyle(tab.dataset.citationStyle, index > currentIndex ? 1 : -1);
     });
     tab.addEventListener('keydown', function (event) {
-      if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
+      if (!['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(event.key)) return;
       event.preventDefault();
-      const direction = event.key === 'ArrowRight' ? 1 : -1;
-      const nextTab = tabs[(index + direction + tabs.length) % tabs.length];
+      const direction = event.key === 'ArrowRight' || event.key === 'End' ? 1 : -1;
+      const nextTab = event.key === 'Home'
+        ? tabs[0]
+        : (event.key === 'End' ? tabs[tabs.length - 1] : tabs[(index + direction + tabs.length) % tabs.length]);
       selectStyle(nextTab.dataset.citationStyle, direction);
       nextTab.focus();
     });
@@ -150,9 +165,9 @@ document.addEventListener('DOMContentLoaded', function () {
   copyButton.addEventListener('click', function () {
     copyText(plainCitation()).then(function () {
       copyButton.querySelector('span').textContent = 'Copied';
-      status.textContent = styleLabel(currentStyle) + ' citation copied.';
+      announce(status, styleLabel(currentStyle) + ' citation copied.');
     }).catch(function () {
-      status.textContent = 'Citation could not be copied.';
+      announce(status, 'Citation could not be copied.');
     });
   });
   downloadButtons.forEach(function (button) {
@@ -160,11 +175,11 @@ document.addEventListener('DOMContentLoaded', function () {
       const format = button.dataset.citationDownload;
       const download = currentRecord.downloads && currentRecord.downloads[format];
       if (!download) {
-        status.textContent = 'Export file is unavailable.';
+        announce(status, 'Export file is unavailable.');
         return;
       }
       downloadFile(download.content, download.mime_type, download.filename);
-      status.textContent = button.textContent.trim() + ' file downloaded.';
+      announce(status, button.textContent.trim() + ' file downloaded.');
     });
   });
   downloadAllButtons.forEach(function (button) {
@@ -194,9 +209,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       downloadFile(content, mimeType, filename);
-      if (downloadAllStatus) {
-        downloadAllStatus.textContent = records.length + ' publications downloaded as ' + button.textContent.trim() + '.';
-      }
+      announce(downloadAllStatus, records.length + ' publications downloaded as ' + button.textContent.trim() + '.');
     });
   });
   document.addEventListener('keydown', function (event) {

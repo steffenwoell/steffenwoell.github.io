@@ -126,6 +126,9 @@ document.addEventListener('DOMContentLoaded', function () {
   let resultLinks = [];
   let activeResult = -1;
   let previouslyFocused = null;
+  const dialogIsolation = window.createDialogIsolation
+    ? window.createDialogIsolation(dialog)
+    : null;
 
   const normalize = function (value) {
     return String(value || '')
@@ -306,7 +309,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (!phrase || !terms.length) {
       status.textContent = journalMode
         ? 'Start typing to search the journal.'
-        : 'Start typing to search publications and activities.';
+        : 'Start typing to search the website.';
       return;
     }
 
@@ -394,6 +397,7 @@ document.addEventListener('DOMContentLoaded', function () {
     window.requestAnimationFrame(function () {
       dialog.classList.add('is-open');
       input.focus();
+      if (dialogIsolation) dialogIsolation.enable();
     });
 
     status.textContent = journalMode ? 'Loading journal search…' : 'Loading search…';
@@ -409,6 +413,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const closeSearch = function () {
     dialog.classList.remove('is-open');
     document.body.classList.remove('site-search-open');
+    if (dialogIsolation) dialogIsolation.disable();
     input.removeAttribute('aria-activedescendant');
     window.setTimeout(function () {
       dialog.hidden = true;
@@ -432,7 +437,8 @@ document.addEventListener('DOMContentLoaded', function () {
   journalToggle.addEventListener('click', function () {
     journalMode = !journalMode;
     journalToggle.setAttribute('aria-pressed', String(journalMode));
-    input.placeholder = journalMode ? 'Search journal entries' : 'Search publications and activities';
+    journalToggle.setAttribute('aria-label', journalMode ? 'Search the website' : 'Search journal entries');
+    input.placeholder = journalMode ? 'Search journal entries' : 'Search the website';
     inputLabel.textContent = input.placeholder;
     results.setAttribute('aria-label', journalMode ? 'Journal search results' : 'Search results');
     if (searchIndex) {
@@ -440,7 +446,7 @@ document.addEventListener('DOMContentLoaded', function () {
     } else {
       status.textContent = journalMode
         ? 'Start typing to search the journal.'
-        : 'Start typing to search publications and activities.';
+        : 'Start typing to search the website.';
     }
     input.focus();
   });

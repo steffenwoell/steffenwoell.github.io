@@ -11,13 +11,13 @@
       </button>
     </header>
 
-    <div class="citation-dialog-tabs" role="tablist" aria-label="Citation format">
+    <div class="citation-dialog-tabs" role="tablist" aria-label="Citation format" aria-orientation="horizontal">
       <button id="citationTabChicago" type="button" role="tab" aria-selected="true" aria-controls="citationDialogOutput" data-citation-style="chicago">Chicago Bibliography</button>
       <button id="citationTabMla" type="button" role="tab" aria-selected="false" aria-controls="citationDialogOutput" data-citation-style="mla" tabindex="-1">MLA</button>
       <button id="citationTabBibtex" type="button" role="tab" aria-selected="false" aria-controls="citationDialogOutput" data-citation-style="bibtex" tabindex="-1">BibTeX</button>
     </div>
 
-    <div id="citationDialogOutput" class="citation-dialog-output" role="tabpanel" aria-labelledby="citationTabChicago"></div>
+    <div id="citationDialogOutput" class="citation-dialog-output" role="tabpanel" aria-labelledby="citationTabChicago" tabindex="0"></div>
     <p id="citationDialogStatus" class="citation-dialog-status" aria-live="polite">Chicago bibliography selected.</p>
 
     <footer class="citation-dialog-actions">

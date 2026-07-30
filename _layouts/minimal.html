@@ -14,9 +14,11 @@ common-js:
 
   <body>
 
-    <div role="main" class="container main-content">
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+
+    <main id="main-content" class="container main-content" tabindex="-1">
       {{ content }}
-    </div>
+    </main>
 
     {% include footer-minimal.html %}
 

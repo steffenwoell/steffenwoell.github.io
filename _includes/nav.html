@@ -1,7 +1,7 @@
-<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom" aria-label="Main navigation">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Open navigation menu">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -131,6 +131,41 @@
         const navbar = document.querySelector('.navbar-custom');
         const mainNavbar = document.getElementById('main-navbar');
         const navbarToggle = navbar.querySelector('.navbar-toggle');
+        let mobileNavigationOpenedByKeyboard = false;
+        const getMobileNavigationItems = () => {
+          const navigationItems = Array.from(
+            mainNavbar.querySelectorAll('a[href], button:not([disabled])')
+          ).filter((item) => item.offsetParent !== null);
+
+          if (navbarToggle.offsetParent !== null) {
+            navigationItems.push(navbarToggle);
+          }
+          return navigationItems;
+        };
+
+        navbarToggle.addEventListener('keydown', (event) => {
+          if (event.key === 'Enter' || event.key === ' ') {
+            mobileNavigationOpenedByKeyboard = true;
+          }
+        });
+
+        if (window.jQuery) {
+          window.jQuery(mainNavbar).on('shown.bs.collapse', () => {
+            navbarToggle.setAttribute('aria-label', 'Close navigation menu');
+            if (!mobileNavigationOpenedByKeyboard) {
+              return;
+            }
+
+            const navigationItems = getMobileNavigationItems();
+            if (navigationItems.length > 0) {
+              navigationItems[0].focus();
+            }
+            mobileNavigationOpenedByKeyboard = false;
+          }).on('hidden.bs.collapse', () => {
+            navbarToggle.setAttribute('aria-label', 'Open navigation menu');
+          });
+        }
+
         const closeMobileNavigation = () => {
           if (!window.jQuery) {
             return;
@@ -151,9 +186,29 @@
         });
 
         document.addEventListener('keydown', (event) => {
-          if (event.key === 'Escape' && navbarToggle.getAttribute('aria-expanded') === 'true') {
+          const mobileNavigationOpen = window.innerWidth < 1200 && navbarToggle.getAttribute('aria-expanded') === 'true';
+
+          if (event.key === 'Escape' && mobileNavigationOpen) {
             closeMobileNavigation();
             navbarToggle.focus();
+            return;
+          }
+
+          if (event.key === 'Tab' && mobileNavigationOpen) {
+            const navigationItems = getMobileNavigationItems();
+            if (navigationItems.length === 0) {
+              return;
+            }
+
+            const firstItem = navigationItems[0];
+            const lastItem = navigationItems[navigationItems.length - 1];
+            if (event.shiftKey && document.activeElement === firstItem) {
+              event.preventDefault();
+              lastItem.focus();
+            } else if (!event.shiftKey && document.activeElement === lastItem) {
+              event.preventDefault();
+              firstItem.focus();
+            }
           }
         });
 
