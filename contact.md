@@ -23,8 +23,9 @@ hide_avatar: true
   <span class="contact-icon" aria-hidden="true"><i class="fas fa-university"></i></span>
   <div><h3>Work Email</h3><p>Official correspondence</p></div>
 </div>
-<div class="contact-value-row">
-  <span>steffen.woell@uni-leipzig.de</span>
+<div class="contact-email-address">steffen.woell@uni-leipzig.de</div>
+<div class="contact-option-actions contact-email-actions">
+  <a href="mailto:steffen.woell@uni-leipzig.de"><i class="fas fa-paper-plane" aria-hidden="true"></i> Send email</a>
   <button class="copy-btn contact-copy-button" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard" aria-label="Copy professional email address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 </article>
@@ -34,8 +35,9 @@ hide_avatar: true
   <span class="contact-icon" aria-hidden="true"><i class="fas fa-envelope"></i></span>
   <div><h3>Personal Email</h3><p>Informal messages</p></div>
 </div>
-<div class="contact-value-row">
-  <span>c7xlxa1b5@mozmail.com</span>
+<div class="contact-email-address">c7xlxa1b5@mozmail.com</div>
+<div class="contact-option-actions contact-email-actions">
+  <a href="mailto:c7xlxa1b5@mozmail.com"><i class="fas fa-paper-plane" aria-hidden="true"></i> Send email</a>
   <button class="copy-btn contact-copy-button" data-code="c7xlxa1b5@mozmail.com" title="Copy to clipboard" aria-label="Copy personal email address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 </article>

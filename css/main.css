@@ -2679,6 +2679,21 @@ html.dark-mode .contact-header-image {
   line-height: 1.45;
 }
 
+.contact-email-address {
+  min-width: 0;
+  padding: 3px 0 13px;
+  overflow-wrap: anywhere;
+  color: var(--h1);
+  font-size: 14px;
+  font-weight: 550;
+  line-height: 1.45;
+}
+
+.contact-email-actions {
+  padding-top: 12px;
+  border-top: 1px solid var(--home-card-border);
+}
+
 .contact-value-row .copy-btn,
 .contact-address-row .copy-btn,
 .contact-option-actions .copy-btn {
@@ -2768,6 +2783,11 @@ html.dark-mode .contact-header-image {
   opacity: .72;
 }
 
+.contact-option-actions > .copy-btn {
+  padding-right: 11px;
+  padding-left: 11px;
+}
+
 .contact-utility-card {
   position: relative;
 }
@@ -2813,6 +2833,20 @@ html.dark-mode .contact-header-image {
   .contact-option-actions .copy-btn {
     min-width: 44px;
     min-height: 44px;
+  }
+
+  .contact-option-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: 100%;
+  }
+
+  .contact-option-actions > a,
+  .contact-option-actions > button {
+    width: 100%;
+    min-width: 0;
+    min-height: 44px;
+    justify-content: center;
   }
 }
 
