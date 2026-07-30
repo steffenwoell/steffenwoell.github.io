@@ -25,7 +25,7 @@ hide_avatar: true
 </div>
 <div class="contact-value-row">
   <span>steffen.woell@uni-leipzig.de</span>
-  <button class="copy-btn" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard" aria-label="Copy professional email address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i></button>
+  <button class="copy-btn contact-copy-button" data-code="steffen.woell@uni-leipzig.de" title="Copy to clipboard" aria-label="Copy professional email address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 </article>
 
@@ -36,7 +36,7 @@ hide_avatar: true
 </div>
 <div class="contact-value-row">
   <span>c7xlxa1b5@mozmail.com</span>
-  <button class="copy-btn" data-code="c7xlxa1b5@mozmail.com" title="Copy to clipboard" aria-label="Copy personal email address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i></button>
+  <button class="copy-btn contact-copy-button" data-code="c7xlxa1b5@mozmail.com" title="Copy to clipboard" aria-label="Copy personal email address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 </article>
 
@@ -47,7 +47,7 @@ hide_avatar: true
 </div>
 <div class="contact-option-actions">
   <a href="https://signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF">Open Signal <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-  <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard" aria-label="Copy Signal address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
+  <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard" aria-label="Copy Signal address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 </article>
 
@@ -58,7 +58,7 @@ hide_avatar: true
 </div>
 <div class="contact-option-actions">
   <a href="https://t.me/steffenwoell">Open Telegram <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-  <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard" aria-label="Copy Telegram address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
+  <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard" aria-label="Copy Telegram address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 </article>
 </div>
@@ -74,7 +74,7 @@ hide_avatar: true
 </div>
 <div class="contact-value-row contact-fingerprint">
   <span>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</span>
-  <button class="copy-btn" data-code="8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B" title="Copy to clipboard" aria-label="Copy PGP fingerprint to clipboard"><i class="fas fa-copy" aria-hidden="true"></i></button>
+  <button class="copy-btn contact-copy-button" data-code="8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B" title="Copy to clipboard" aria-label="Copy PGP fingerprint to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 <a class="contact-action" href="/doc/keys/steffenwoell_pgp_public_key.asc">Download public key <i class="fas fa-download" aria-hidden="true"></i></a>
 </article>
@@ -89,11 +89,11 @@ hide_avatar: true
 Geisteswissenschaftliches Zentrum<br>
 Beethovenstraße 15<br>
 04107 Leipzig, Germany</address>
-  <button class="copy-btn" data-code="Dr. Steffen Wöll
+  <button class="copy-btn contact-copy-button" data-code="Dr. Steffen Wöll
 Geisteswissenschaftliches Zentrum
 Beethovenstraße 15
 04107 Leipzig
-Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i></button>
+Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 </article>
 </div>
@@ -120,6 +120,24 @@ Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard
 <summary><span><i class="fas fa-universal-access" aria-hidden="true"></i> Accessibility</span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
 <div class="contact-detail-content">
 <p>This website supports keyboard navigation, a skip link, responsive reflow, reduced motion, system color preferences, and screen-reader labels for interactive controls. If you encounter an accessibility barrier, please <a href="mailto:steffen.woell@uni-leipzig.de">report it by email</a>.</p>
+<div class="keyboard-shortcuts">
+  <h3>Keyboard Shortcuts</h3>
+  <table>
+    <caption class="sr-only">Keyboard shortcuts available on this website</caption>
+    <thead>
+      <tr><th scope="col">Keys</th><th scope="col">Action</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><kbd>Tab</kbd></td><td>Move to the next interactive element</td></tr>
+      <tr><td><kbd>Shift</kbd> + <kbd>Tab</kbd></td><td>Move to the previous interactive element</td></tr>
+      <tr><td><kbd>Enter</kbd></td><td>Activate the focused link or button</td></tr>
+      <tr><td><kbd>Space</kbd></td><td>Activate the focused button</td></tr>
+      <tr><td><kbd>/</kbd> or <kbd>⌘</kbd>/<kbd>Ctrl</kbd> + <kbd>K</kbd></td><td>Open site search</td></tr>
+      <tr><td><kbd>↑</kbd> / <kbd>↓</kbd></td><td>Move through search results</td></tr>
+      <tr><td><kbd>Esc</kbd></td><td>Close an open menu or dialog</td></tr>
+    </tbody>
+  </table>
+</div>
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fab fa-html5" aria-hidden="true"></i></span><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsteffenwoell.github.io%2F">Validate the website’s HTML<i class="fas fa-external-link-alt" aria-hidden="true"></i></a></li>
   <li><span class="fa-li"><i class="fab fa-css3-alt" aria-hidden="true"></i></span><a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsteffenwoell.github.io">Validate the website’s CSS<i class="fas fa-external-link-alt" aria-hidden="true"></i></a></li>

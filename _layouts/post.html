@@ -16,6 +16,11 @@ layout: base
       {% if page.subtitle %}<p class="journal-post-subtitle">{{ page.subtitle }}</p>{% endif %}
       <div class="journal-post-meta">
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
+        {% assign journal_word_count = content | strip_html | number_of_words %}
+        {% if journal_word_count >= 400 %}
+          {% assign journal_reading_time = journal_word_count | plus: 199 | divided_by: 200 %}
+          <span aria-label="Estimated reading time"><i class="far fa-clock" aria-hidden="true"></i> {{ journal_reading_time }} min read</span>
+        {% endif %}
       </div>
     </div>
     {% if page.image %}
@@ -34,6 +39,37 @@ layout: base
       <a href="{{ '/tags' | relative_url }}#{{- tag_id -}}">{{- tag -}}</a>
     {% endfor %}
   </nav>
+  {% endif %}
+
+  {% if page.tags.size > 0 %}
+    {% assign related_count = 0 %}
+    {% capture related_entries %}
+      {% for related_post in site.posts %}
+        {% if related_post.url != page.url and related_count < 3 %}
+          {% assign has_shared_tag = false %}
+          {% for tag in page.tags %}
+            {% if related_post.tags contains tag %}
+              {% assign has_shared_tag = true %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          {% if has_shared_tag %}
+            <a href="{{ related_post.url | relative_url }}">
+              <span class="journal-related-date">{{ related_post.date | date: "%b %Y" }}</span>
+              <span class="journal-related-title">{{ related_post.title }}</span>
+              {% if related_post.subtitle %}<span class="journal-related-subtitle">{{ related_post.subtitle }}</span>{% endif %}
+            </a>
+            {% assign related_count = related_count | plus: 1 %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endcapture %}
+    {% if related_count > 0 %}
+    <section class="journal-related" aria-labelledby="related-journal-entries">
+      <h2 id="related-journal-entries">Related entries</h2>
+      <div class="journal-related-grid">{{ related_entries }}</div>
+    </section>
+    {% endif %}
   {% endif %}
 
   {% if page.previous.url or page.next.url %}

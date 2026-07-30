@@ -142,6 +142,96 @@
 </script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
+    const calendarButtons = document.querySelectorAll('.calendar-download');
+    if (!calendarButtons.length) return;
+
+    const escapeCalendarText = function (value) {
+      return String(value || '')
+        .replace(/\\/g, '\\\\')
+        .replace(/\r?\n/g, '\\n')
+        .replace(/,/g, '\\,')
+        .replace(/;/g, '\\;');
+    };
+
+    const formatCalendarDate = function (date) {
+      return [
+        date.getUTCFullYear(),
+        String(date.getUTCMonth() + 1).padStart(2, '0'),
+        String(date.getUTCDate()).padStart(2, '0')
+      ].join('');
+    };
+
+    const parseAllDayDate = function (value) {
+      const parts = String(value).split('-').map(Number);
+      return new Date(Date.UTC(parts[0], parts[1] - 1, parts[2]));
+    };
+
+    calendarButtons.forEach(function (button) {
+      button.addEventListener('click', function () {
+        const startDate = parseAllDayDate(button.dataset.calendarStart);
+        const endDate = parseAllDayDate(button.dataset.calendarEnd || button.dataset.calendarStart);
+        endDate.setUTCDate(endDate.getUTCDate() + 1);
+
+        const title = button.dataset.calendarTitle || 'Academic event';
+        const event = button.dataset.calendarEvent || '';
+        const location = button.dataset.calendarLocation || '';
+        const url = button.dataset.calendarUrl || '';
+        const uidBase = `${button.dataset.calendarStart}-${title}`
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/^-|-$/g, '');
+        const description = [event, url].filter(Boolean).join('\n\n');
+        const calendar = [
+          'BEGIN:VCALENDAR',
+          'VERSION:2.0',
+          'PRODID:-//Steffen Woell//Academic Activities//EN',
+          'CALSCALE:GREGORIAN',
+          'METHOD:PUBLISH',
+          'BEGIN:VEVENT',
+          `UID:${uidBase}@steffenwoell.github.io`,
+          `DTSTAMP:${new Date().toISOString().replace(/[-:]/g, '').replace(/\.\d{3}/, '')}`,
+          `DTSTART;VALUE=DATE:${formatCalendarDate(startDate)}`,
+          `DTEND;VALUE=DATE:${formatCalendarDate(endDate)}`,
+          `SUMMARY:${escapeCalendarText(title)}`,
+          `DESCRIPTION:${escapeCalendarText(description)}`,
+          `LOCATION:${escapeCalendarText(location)}`,
+          url ? `URL:${url}` : '',
+          'END:VEVENT',
+          'END:VCALENDAR'
+        ].filter(Boolean).join('\r\n');
+
+        const blob = new Blob([calendar], { type: 'text/calendar;charset=utf-8' });
+        const downloadUrl = URL.createObjectURL(blob);
+        const downloadLink = document.createElement('a');
+        const buttonLabel = button.querySelector('[data-calendar-label]');
+        const buttonIcon = button.querySelector('i, .fas');
+        const originalLabel = buttonLabel ? buttonLabel.textContent : '';
+        downloadLink.href = downloadUrl;
+        downloadLink.download = `${uidBase || 'academic-event'}.ics`;
+        document.body.appendChild(downloadLink);
+        downloadLink.click();
+        downloadLink.remove();
+
+        if (buttonLabel) buttonLabel.textContent = 'Calendar saved';
+        if (buttonIcon) {
+          buttonIcon.classList.remove('fa-calendar-plus');
+          buttonIcon.classList.add('fa-check');
+        }
+
+        window.setTimeout(function () {
+          URL.revokeObjectURL(downloadUrl);
+          if (buttonLabel) buttonLabel.textContent = originalLabel;
+          if (buttonIcon) {
+            buttonIcon.classList.remove('fa-check');
+            buttonIcon.classList.add('fa-calendar-plus');
+          }
+        }, 1200);
+      });
+    });
+  });
+</script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
     const buttons = document.querySelectorAll('.copy-btn');
     const copyStatus = document.getElementById('copy-status');
     const announceCopyStatus = function (message) {
@@ -184,6 +274,8 @@
         const originalClass = 'fa-copy';
         const successClass = 'fa-check';
         const originalLabel = this.getAttribute('aria-label');
+        const visibleLabel = this.querySelector('[data-copy-label]');
+        const originalVisibleLabel = visibleLabel ? visibleLabel.textContent : '';
 
         const textToCopy = this.getAttribute('data-code');
         if (!textToCopy) return;
@@ -197,6 +289,9 @@
             icon.classList.remove(originalClass);
             icon.classList.add(successClass);
           }
+          if (visibleLabel) {
+            visibleLabel.textContent = 'Copied';
+          }
 
           setTimeout(() => {
             this.classList.remove('copied');
@@ -206,6 +301,9 @@
             if (icon) {
               icon.classList.remove(successClass);
               icon.classList.add(originalClass);
+            }
+            if (visibleLabel) {
+              visibleLabel.textContent = originalVisibleLabel;
             }
           }, 1200);
         }).catch(err => {

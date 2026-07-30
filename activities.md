@@ -48,7 +48,17 @@ hide_avatar: true
 <div class="activity-category-body gold">
 {% for conference in conferences_by_date %}
 {% if conference.end >= today %}
-<p><strong class="hl hl-act">{{ conference.title }}</strong> {{ conference.event }}. {{ conference.location }}. {{ conference.date_text }}. <a href="{{ conference.url }}">{{ conference.role }}<i class="fas fa-external-link-alt" role="presentation"></i></a></p>
+<p><strong class="hl hl-act">{{ conference.title }}</strong> {{ conference.event }}. {{ conference.location }}. {{ conference.date_text }}. <a href="{{ conference.url }}">{{ conference.role }}<i class="fas fa-external-link-alt" role="presentation"></i></a>
+<button
+  class="activity-calendar-button calendar-download"
+  type="button"
+  data-calendar-title="{{ conference.title | strip_html | escape }}"
+  data-calendar-event="{{ conference.event | strip_html | escape }}"
+  data-calendar-location="{{ conference.location | strip_html | escape }}"
+  data-calendar-start="{{ conference.start }}"
+  data-calendar-end="{{ conference.end }}"
+  data-calendar-url="{{ conference.url | escape }}"
+><i class="fas fa-calendar-plus" aria-hidden="true"></i> <span data-calendar-label>Add to calendar</span></button></p>
 {% endif %}
 {% endfor %}
 </div>

@@ -1,5 +1,5 @@
 # Add new conference entries here. Dates must use the ISO format YYYY-MM-DD
-# so Jekyll can automatically separate upcoming and past events.
+# Entries are shown in Conference list and Upcoming sections on Landing Page and Activities page
 
 - title: "The Graveyard Shift: Labor and the Horrors of Colonial Extraction."
   event: "Playing the Field VI: Video Games and Labour"
@@ -26,4 +26,13 @@
   end: "2026-11-06"
   date_text: "4–6 November 2026"
   url: "https://www.netherlands-america.nl/2026-annual-conference-4-6-november-2026-nijmegen/"
+  role: "Presentation"
+
+- title: "Tidal Empire: Oceanic Expansion and Archipelagic Dissent in U.S. Culture."
+  event: "12th International Biennial Conference on American Studies"
+  location: "Akaki Tsereteli State University, Kutaisi, Georgia"
+  start: "2026-10-23"
+  end: "2026-10-24"
+  date_text: "23-24 October 2026"
+  url: "https://call-for-papers.sas.upenn.edu/cfp/2026/01/25/12th-international-biennial-conference-on-american-studies"
   role: "Presentation"

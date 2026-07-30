@@ -19,13 +19,19 @@ hide_avatar: true
 </div>
 
 <section class="home-bio" aria-labelledby="home-about-title">
-  <!--<h2 id="home-about-title" class="home-section-label"><span class="fas fa-address-card" aria-hidden="true"></span> About</h2>-->
+  <h2 id="home-about-title" class="sr-only">About</h2>
   <div class="home-bio-content">
     <div class="home-bio-portrait" aria-hidden="true">
       <img class="home-bio-image" src="{{ site.avatar | relative_url }}" alt="" draggable="false">
     </div>
-    <p><strong>I am a postdoctoral researcher in American Studies</strong>. My work explores cartography, mobility, borders, and imperial imaginaries across American literature and culture. My research interests also extend to digital humanities, visual culture, film, horror, and game studies.</p>
+    <p><strong>I am a postdoctoral researcher in American Studies at Leipzig University</strong>. My work explores cartography, mobility, borders, and imperial imaginaries across American literature and culture. My research interests also extend to digital humanities, visual culture, film, horror, and game studies.</p>
   </div>
+</section>
+
+<section class="home-section home-current" aria-labelledby="current-project">
+  <div class="home-section-label"><span class="fas fa-flask" aria-hidden="true"></span> Current Project</div>
+  <h2 id="current-project"><cite>A Place Between Oceans: Imagining American Empire, 1880–1940</cite></h2>
+  <p>The project examines how transoceanic and archipelagic imaginaries shaped U.S. imperial expansion and literary culture at the turn of the twentieth century.</p>
 </section>
 
 <section class="home-section" aria-labelledby="research-areas">
@@ -49,38 +55,142 @@ hide_avatar: true
   </div>
 </section>
 
-<section class="home-section home-current" aria-labelledby="current-project">
-  <div class="home-section-label"><span class="fas fa-flask" aria-hidden="true"></span> Current Project</div>
-  <h2 id="current-project"><cite>A Place Between Oceans: Imagining American Empire, 1880–1940</cite></h2>
-  <p>The project examines how transoceanic and archipelagic imaginaries shaped U.S. imperial expansion and literary culture at the turn of the twentieth century.</p>
-</section>
-
 <section class="home-section" aria-labelledby="selected-work">
   <div class="home-section-heading">
     <h2 id="selected-work">Selected Work</h2>
     <a class="home-section-link" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">&rarr;</span></a>
   </div>
   <div class="home-grid home-work-grid">
-    <article class="home-card home-work-card">
-      <div class="home-card-meta">Book · 2020</div>
-      <h3><cite>The West and the Word</cite></h3>
-      <p>Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse.</p>
+    <article class="home-card home-work-card home-work-card--featured">
+      <img class="home-work-cover" src="{{ '/img/pub/waw.webp' | relative_url }}" alt="" aria-hidden="true" draggable="false">
+      <div class="home-card-meta">Monograph · 2020</div>
+      <h3 class="home-work-book-title">
+        <cite>
+          <span class="home-work-title-main">The West and the Word</span>
+          <span class="home-work-title-sub">Imagining, Formatting, and Ordering the American West in Nineteenth-Century Cultural Discourse</span>
+        </cite>
+      </h3>
+      <p class="home-work-publisher">De Gruyter</p>
       <a href="https://doi.org/10.1515/9783110690132">Open access <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
     </article>
-    <article class="home-card home-work-card">
+    <article class="home-card home-work-card home-work-card--compact">
       <div class="home-card-meta">Journal Article · 2023</div>
-      <h3>Unmasking Maps, Unmaking Empire</h3>
-      <p>Towards an Archipelagic Cartography.</p>
+      <h3>Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography</h3>
+      <p>Journal of Transnational American Studies.</p>
       <a href="https://doi.org/10.5070/T814160835">Open access <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
     </article>
-    <article class="home-card home-work-card">
-      <div class="home-card-meta">Digital Humanities · 2024</div>
-      <h3>Imperial Spatializations and Archipelagic Counter-Geographies</h3>
-      <p>A selected corpus of works, 1880–1940.</p>
-      <a href="https://doi.org/10.48736/GD1JYNUEZ">Explore the corpus <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
+    <article class="home-card home-work-card home-work-card--compact home-work-card--random" data-random-work-card data-publication-id="publication-imperial-spatializations-and-archipelagic-counter-geographies-a-selected-corpus-of-works-1">
+      <div class="home-work-card-random-content" data-random-work-content>
+        <div class="home-card-meta" data-random-work-meta>Digital Humanities · 2024</div>
+        <h3 data-random-work-title>Imperial Spatializations and Archipelagic Counter-Geographies</h3>
+        <p data-random-work-summary>A selected corpus of works, 1880–1940.</p>
+        <a data-random-work-link href="https://doi.org/10.48736/GD1JYNUEZ"><span data-random-work-link-label>Explore the corpus</span> <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
+      </div>
+      <button class="home-work-shuffle" type="button" data-random-work-button aria-label="Show another publication" title="Show another publication" hidden>
+        <span class="fas fa-random" aria-hidden="true"></span>
+      </button>
     </article>
   </div>
+  <span class="sr-only" data-random-work-status aria-live="polite"></span>
 </section>
+
+<script>
+  (() => {
+    const card = document.querySelector('[data-random-work-card]');
+    const button = document.querySelector('[data-random-work-button]');
+    const content = document.querySelector('[data-random-work-content]');
+    const status = document.querySelector('[data-random-work-status]');
+    if (!card || !button || !content) return;
+
+    const categoryLabels = {
+      books: 'Book',
+      journals: 'Journal Article',
+      chapters: 'Chapter',
+      editing: 'Edited Volume',
+      'working-papers': 'Working Paper',
+      dh: 'Digital Humanities'
+    };
+    const publications = [
+      {% for publication in site.data.publications.entries %}
+        {% assign publication_link = publication.links | first %}
+        {% if publication.status == "published" and publication_link and publication.id != "publication-the-west-and-the-word-imagining-formatting-and-ordering-the-american-west-in-nineteenth-ce" and publication.id != "publication-unmasking-maps-unmaking-empire-towards-an-archipelagic-cartography" %}
+          {% if publication.category == "books" or publication.category == "journals" or publication.category == "chapters" or publication.category == "editing" or publication.category == "working-papers" or publication.category == "dh" %}
+          {
+            id: {{ publication.id | jsonify }},
+            category: {{ publication.category | jsonify }},
+            year: {{ publication.year | jsonify }},
+            title: {{ publication.title | strip_html | jsonify }},
+            summary: {% if publication.container.title %}{{ publication.container.title | strip_html | jsonify }}{% elsif publication.book.title %}{{ publication.book.title | strip_html | jsonify }}{% elsif publication.publisher.name %}{{ publication.publisher.name | strip_html | jsonify }}{% elsif publication.series.title %}{{ publication.series.title | strip_html | jsonify }}{% elsif publication.note %}{{ publication.note | strip_html | jsonify }}{% else %}{{ publication.schema_type | jsonify }}{% endif %},
+            url: {{ publication_link.url | jsonify }},
+            linkLabel: {{ publication_link.label | jsonify }}
+          },
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    ];
+    if (!publications.length) return;
+
+    const meta = card.querySelector('[data-random-work-meta]');
+    const title = card.querySelector('[data-random-work-title]');
+    const summary = card.querySelector('[data-random-work-summary]');
+    const link = card.querySelector('[data-random-work-link]');
+    const linkLabel = card.querySelector('[data-random-work-link-label]');
+
+    const choosePublication = () => {
+      const alternatives = publications.filter((publication) => publication.id !== card.dataset.publicationId);
+      const pool = alternatives.length ? alternatives : publications;
+      return pool[Math.floor(Math.random() * pool.length)];
+    };
+
+    const showPublication = (publication, announce = false) => {
+      card.dataset.publicationId = publication.id;
+      meta.textContent = `${categoryLabels[publication.category] || 'Publication'}${publication.year ? ` · ${publication.year}` : ''}`;
+      title.textContent = publication.title;
+      summary.textContent = publication.summary;
+      link.href = publication.url;
+      linkLabel.textContent = publication.linkLabel || 'View publication';
+      if (announce && status) status.textContent = `Now showing ${publication.title}`;
+    };
+
+    button.hidden = false;
+    showPublication(choosePublication());
+    let isAnimating = false;
+
+    button.addEventListener('click', () => {
+      if (isAnimating) return;
+      isAnimating = true;
+      button.disabled = true;
+
+      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        card.classList.add('is-changing');
+        window.setTimeout(() => {
+          showPublication(choosePublication(), true);
+          card.classList.remove('is-changing');
+          button.disabled = false;
+          isAnimating = false;
+        }, 120);
+        return;
+      }
+
+      content.classList.add('is-flipping-out');
+      window.setTimeout(() => {
+        showPublication(choosePublication(), true);
+        content.classList.remove('is-flipping-out');
+        content.classList.add('is-flipping-in');
+
+        window.requestAnimationFrame(() => {
+          window.requestAnimationFrame(() => {
+            content.classList.remove('is-flipping-in');
+            window.setTimeout(() => {
+              button.disabled = false;
+              isAnimating = false;
+            }, 180);
+          });
+        });
+      }, 180);
+    });
+  })();
+</script>
 
 {% assign today = site.time | date: "%Y-%m-%d" %}
 {% assign conferences_by_date = site.data.conferences | sort: "start" %}
@@ -94,12 +204,43 @@ hide_avatar: true
 
 {% if upcoming_conference %}
 <section class="home-section home-activity" aria-labelledby="upcoming">
-  <div>
-    <div class="home-section-label"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Upcoming</div>
+  {% assign upcoming_start_day = upcoming_conference.start | date: "%-d" %}
+  {% assign upcoming_end_day = upcoming_conference.end | date: "%-d" %}
+  {% assign upcoming_start_month = upcoming_conference.start | date: "%b" %}
+  {% assign upcoming_end_month = upcoming_conference.end | date: "%b" %}
+  <time class="home-activity-date" datetime="{{ upcoming_conference.start }}" aria-label="{{ upcoming_conference.date_text }}">
+    <span class="home-activity-date-days">
+      {{- upcoming_start_day -}}
+      {%- if upcoming_conference.start != upcoming_conference.end -%}
+        {%- if upcoming_start_month == upcoming_end_month -%}
+          –{{ upcoming_end_day }}
+        {%- else -%}
+          {{ upcoming_start_month }}–{{ upcoming_end_day }}
+        {%- endif -%}
+      {%- endif -%}
+    </span>
+    <span class="home-activity-date-month">{{ upcoming_end_month }}</span>
+    <span class="home-activity-date-year">{{ upcoming_conference.end | date: "%Y" }}</span>
+  </time>
+  <div class="home-activity-content">
+    <div class="home-section-label"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Upcoming Talk</div>
     <h2 id="upcoming">{{ upcoming_conference.title }}</h2>
-    <p><em>{{ upcoming_conference.event }}</em> · {{ upcoming_conference.location }} · {{ upcoming_conference.date_text }}</p>
+    <p class="home-activity-event">{{ upcoming_conference.event }}</p>
+    <p class="home-activity-location"><span class="fas fa-map-marker-alt" aria-hidden="true"></span> {{ upcoming_conference.location }}</p>
   </div>
-  <a class="home-action" href="{{ '/activities/' | relative_url }}">View activities <span aria-hidden="true">&rarr;</span></a>
+  <div class="home-activity-actions">
+    <button
+      class="home-action calendar-download"
+      type="button"
+      data-calendar-title="{{ upcoming_conference.title | strip_html | escape }}"
+      data-calendar-event="{{ upcoming_conference.event | strip_html | escape }}"
+      data-calendar-location="{{ upcoming_conference.location | strip_html | escape }}"
+      data-calendar-start="{{ upcoming_conference.start }}"
+      data-calendar-end="{{ upcoming_conference.end }}"
+      data-calendar-url="{{ upcoming_conference.url | escape }}"
+    ><span class="fas fa-calendar-plus" aria-hidden="true"></span> <span data-calendar-label>Add to calendar</span></button>
+    <a class="home-action" href="{{ '/activities/' | relative_url }}">View activities&nbsp;<span aria-hidden="true">&rarr;</span></a>
+  </div>
 </section>
 {% endif %}
 
