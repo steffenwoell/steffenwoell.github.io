@@ -5,7 +5,7 @@ subtitle: New York City, New York
 image: /img/ktc.webp
 excerpt: Did you hear that sound, unruly night, it’s catching up ...
 permalink: /journal/:title/
-tags: [New York City, New York]
+tags: [New York City, New York, USA]
 ---
 Did you hear  
 that sound  

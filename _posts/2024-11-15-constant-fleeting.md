@@ -5,7 +5,7 @@ subtitle: Baltimore, Maryland
 image: /img/cfl.webp
 excerpt: Gray ship has landed, Anchor will fall, Anvil struck fierce ...
 permalink: /journal/:title/
-tags: [Baltimore, Maryland]
+tags: [Baltimore, Maryland, USA]
 ---
 Gray ship has landed  
 Anchor will fall  

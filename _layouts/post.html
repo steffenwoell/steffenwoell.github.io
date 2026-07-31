@@ -15,7 +15,7 @@ layout: base
       <h1>{{ page.title }}</h1>
       {% if page.subtitle %}<p class="journal-post-subtitle">{{ page.subtitle }}</p>{% endif %}
       <div class="journal-post-meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
+        <time datetime="{{ page.date | date_to_xmlschema }}"><i class="far fa-calendar-alt" aria-hidden="true"></i>{{ page.date | date: site.date_format }}</time>
         {% assign journal_word_count = content | strip_html | number_of_words %}
         {% if journal_word_count >= 400 %}
           {% assign journal_reading_time = journal_word_count | plus: 199 | divided_by: 200 %}

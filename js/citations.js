@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const status = document.getElementById('citationDialogStatus');
   const copyButton = document.getElementById('citationCopyButton');
   const downloadButtons = Array.from(dialog.querySelectorAll('[data-citation-download]'));
+  const tabList = dialog.querySelector('.citation-dialog-tabs');
   const tabs = Array.from(dialog.querySelectorAll('[data-citation-style]'));
   let currentRecord = null;
   let currentStyle = 'chicago';
@@ -79,13 +80,14 @@ document.addEventListener('DOMContentLoaded', function () {
     return currentRecord[currentStyle].plain;
   };
 
-  const render = function (direction) {
+  const render = function () {
     tabs.forEach(function (tab) {
       const active = tab.dataset.citationStyle === currentStyle;
       tab.setAttribute('aria-selected', String(active));
       tab.tabIndex = active ? 0 : -1;
     });
     const activeTab = tabs.find(function (tab) { return tab.dataset.citationStyle === currentStyle; });
+    tabList.dataset.activeIndex = String(tabs.indexOf(activeTab));
     output.setAttribute('aria-labelledby', activeTab.id);
     output.classList.toggle('is-bibtex', currentStyle === 'bibtex');
     if (currentStyle === 'bibtex') {
@@ -97,19 +99,14 @@ document.addEventListener('DOMContentLoaded', function () {
     } else {
       output.innerHTML = currentRecord[currentStyle].html;
     }
-    output.classList.remove('is-slide-forward', 'is-slide-backward');
-    if (direction && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-      void output.offsetWidth;
-      output.classList.add(direction > 0 ? 'is-slide-forward' : 'is-slide-backward');
-    }
     status.textContent = styleLabel(currentStyle) + ' citation selected.';
     copyButton.querySelector('span').textContent = 'Copy citation';
   };
 
-  const selectStyle = function (nextStyle, direction) {
+  const selectStyle = function (nextStyle) {
     if (nextStyle === currentStyle) return;
     currentStyle = nextStyle;
-    render(direction);
+    render();
   };
 
   const open = function (button) {
@@ -146,10 +143,7 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   tabs.forEach(function (tab, index) {
     tab.addEventListener('click', function () {
-      const currentIndex = tabs.findIndex(function (item) {
-        return item.dataset.citationStyle === currentStyle;
-      });
-      selectStyle(tab.dataset.citationStyle, index > currentIndex ? 1 : -1);
+      selectStyle(tab.dataset.citationStyle);
     });
     tab.addEventListener('keydown', function (event) {
       if (!['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(event.key)) return;
@@ -158,7 +152,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const nextTab = event.key === 'Home'
         ? tabs[0]
         : (event.key === 'End' ? tabs[tabs.length - 1] : tabs[(index + direction + tabs.length) % tabs.length]);
-      selectStyle(nextTab.dataset.citationStyle, direction);
+      selectStyle(nextTab.dataset.citationStyle);
       nextTab.focus();
     });
   });

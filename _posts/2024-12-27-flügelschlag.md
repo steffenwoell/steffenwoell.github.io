@@ -2,11 +2,11 @@
 layout: post
 lang: de
 title: Flügelschlag
-subtitle: RE98ICE1218
+subtitle: RE98/ICE1218
 image: /img/flu.webp
 excerpt: Im Nebel, Permanent, Geschält, Zerbricht das Grau   ...
 permalink: /journal/:title/
-tags: [RE 98, ICE 1218, Germany]
+tags: [Train, Germany]
 ---
 Im  
 Nebel  

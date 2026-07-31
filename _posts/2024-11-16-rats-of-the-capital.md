@@ -5,7 +5,7 @@ subtitle: Washington, D.C.
 image: /img/rat.webp
 excerpt: Never knowing where to stand, I lay my hide between these pillars ...
 permalink: /journal/:title/
-tags: [Washington, District of Columbia]
+tags: [Washington, District of Columbia, USA]
 ---
 Never knowing  
 Where to stand  

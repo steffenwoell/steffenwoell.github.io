@@ -5,7 +5,7 @@ subtitle: Jersey City, New Jersey
 image: /img/bbt.webp
 excerpt: Lost & found, I'm wrong each time you come around ...
 permalink: /journal/:title/
-tags: [Jersey City, New Jersey]
+tags: [Jersey City, New Jersey, USA]
 ---
 Lost & found  
 I'm wrong  

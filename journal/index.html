@@ -12,8 +12,8 @@ search_exclude: true
 <div class="journal-page">
   <header class="journal-header">
     <div class="journal-statement">
-      <h1 class="journal-section-label"><i class="fas fa-pen" aria-hidden="true"></i> Journal</h1>
-      <p>Poetry, field notes & music</p>
+      <div class="journal-section-label"><i class="fas fa-pen" aria-hidden="true"></i> Journal</div>
+      <h1>Poetry, field notes &amp; music</h1>
       <div class="journal-motto">{{ page.subtitle }}</div>
     </div>
     <nav class="journal-tools" aria-label="Journal tools">
@@ -33,9 +33,10 @@ search_exclude: true
         <span>{{ post.date | date: "%Y" }}</span>
       </div>
 
-      <div class="journal-preview-main">
+      {% assign journal_preview_title_id = 'journal-preview-title-' | append: post.slug | slugify %}
+      <a class="journal-preview-main" href="{{ post.url | relative_url }}" aria-labelledby="{{ journal_preview_title_id }}">
         <div class="journal-preview-copy">
-          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <h2 id="{{ journal_preview_title_id }}">{{ post.title }}</h2>
           {% if post.subtitle %}
           <div class="journal-preview-location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ post.subtitle }}</div>
           {% endif %}
@@ -54,19 +55,19 @@ search_exclude: true
           </div>
           {% endif %}
 
-          <a class="journal-read-entry" href="{{ post.url | relative_url }}">Read entry <span aria-hidden="true">&rarr;</span></a>
+          <span class="journal-read-entry" aria-hidden="true">Read entry <span>&rarr;</span></span>
         </div>
 
-        <a class="journal-preview-image" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
+        <div class="journal-preview-image" aria-hidden="true">
           {% if post.image and post.image != empty %}
-          <img src="{{ post.image | relative_url }}" alt="" draggable="false">
+          <img src="{{ post.image | relative_url }}" alt="Featured image for {{ post.title | escape }}" draggable="false">
           {% else %}
           <span class="journal-image-placeholder">
             <i class="fas fa-pen" aria-hidden="true"></i>
           </span>
           {% endif %}
-        </a>
-      </div>
+        </div>
+      </a>
     </article>
     {% endfor %}
   </div>
@@ -85,7 +86,7 @@ search_exclude: true
 
 <div id="journalEntryUrls" hidden>
   {% for post in site.posts %}
-    <a href="{{ post.url | relative_url }}"></a>
+    <span data-url="{{ post.url | relative_url }}"></span>
   {% endfor %}
 </div>
 
@@ -93,8 +94,8 @@ search_exclude: true
   (() => {
     const randomEntryButton = document.getElementById('randomJournalEntry');
     const journalEntries = Array.from(
-      document.querySelectorAll('#journalEntryUrls a'),
-      entry => entry.getAttribute('href')
+      document.querySelectorAll('#journalEntryUrls [data-url]'),
+      entry => entry.dataset.url
     );
 
     if (!randomEntryButton || journalEntries.length === 0) {

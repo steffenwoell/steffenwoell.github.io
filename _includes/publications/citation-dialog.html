@@ -4,14 +4,14 @@
     <header class="citation-dialog-header">
       <div>
         <span class="citation-dialog-eyebrow"><i class="fas fa-quote-right" aria-hidden="true"></i> Cite this publication</span>
-        <h2 id="citationDialogTitle"></h2>
+        <h2 id="citationDialogTitle">Publication citation</h2>
       </div>
       <button class="citation-dialog-close" type="button" data-citation-close aria-label="Close citation dialog">
         <i class="fas fa-times" aria-hidden="true"></i>
       </button>
     </header>
 
-    <div class="citation-dialog-tabs" role="tablist" aria-label="Citation format" aria-orientation="horizontal">
+    <div class="citation-dialog-tabs" role="tablist" aria-label="Citation format" aria-orientation="horizontal" data-active-index="0">
       <button id="citationTabChicago" type="button" role="tab" aria-selected="true" aria-controls="citationDialogOutput" data-citation-style="chicago">Chicago Bibliography</button>
       <button id="citationTabMla" type="button" role="tab" aria-selected="false" aria-controls="citationDialogOutput" data-citation-style="mla" tabindex="-1">MLA</button>
       <button id="citationTabBibtex" type="button" role="tab" aria-selected="false" aria-controls="citationDialogOutput" data-citation-style="bibtex" tabindex="-1">BibTeX</button>

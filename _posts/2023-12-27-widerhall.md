@@ -6,7 +6,7 @@ subtitle: RE2, Germany
 image: /img/wid.webp
 excerpt: Ich folge einer undeutlichen Spur ins Zentrum der Benommenheit  ...
 permalink: /journal/:title/
-tags: [RE2, Germany]
+tags: [Train, Germany]
 ---
 Ich folge einer  
 undeutlichen Spur  

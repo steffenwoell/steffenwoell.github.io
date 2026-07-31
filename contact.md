@@ -10,8 +10,8 @@ hide_avatar: true
 
 <div class="contact-page">
 <div class="contact-statement">
-<h1 class="contact-section-label"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</h1>
-<p>Get in touch anytime</p>
+<div class="contact-section-label"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</div>
+<h1>Get in touch anytime</h1>
 <img class="contact-header-image" src="{{ page.image | relative_url }}" alt="">
 </div>
 

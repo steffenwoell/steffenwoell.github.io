@@ -19,8 +19,8 @@ hide_avatar: true
 
 <div class="activity-header">
 <div class="activity-statement">
-<h1 class="activity-section-label"><i class="fas fa-calendar-alt" aria-hidden="true"></i> Activities</h1>
-<p>Academic work beyond publication</p>
+<div class="activity-section-label"><i class="fas fa-calendar-alt" aria-hidden="true"></i> Activities</div>
+<h1>Academic work beyond publication</h1>
 <img class="activity-header-image" src="{{ page.image | relative_url }}" alt="">
 </div>
 
