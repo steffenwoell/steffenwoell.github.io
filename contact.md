@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Professional and personal contact options for Dr. Steffen Wöll, including email, messaging, and postal address.
+description: Professional and personal contact options for Dr. Steffen Wöll, including email, messaging, and postal mail.
 image: /img/cat/con.webp
 header_class: contact-header
 integrated_header: true
@@ -11,17 +11,18 @@ hide_avatar: true
 <div class="contact-page">
 <div class="contact-statement">
 <div class="contact-section-label"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</div>
-<h1>Get in touch anytime</h1>
+<h1>Get in touch</h1>
+<p>For research inquiries, professional correspondence, or other messages.</p>
 <img class="contact-header-image" src="{{ page.image | relative_url }}" alt="">
 </div>
 
 <section class="contact-section contact-options" aria-labelledby="contact-options-title">
-<h2 id="contact-options-title">Contact Options</h2>
-<div class="contact-options-grid">
-<article class="contact-card">
+<h2 id="contact-options-title">Email</h2>
+<div class="contact-email-layout">
+<article class="contact-card contact-primary-card">
 <div class="contact-card-heading">
   <span class="contact-icon" aria-hidden="true"><i class="fas fa-university"></i></span>
-  <div><h3>Work Email</h3><p>Official correspondence</p></div>
+  <div><h3>Work Email</h3><p>Research inquiries and professional correspondence</p></div>
 </div>
 <div class="contact-email-address">steffen.woell@uni-leipzig.de</div>
 <div class="contact-option-actions contact-email-actions">
@@ -30,7 +31,7 @@ hide_avatar: true
 </div>
 </article>
 
-<article class="contact-card">
+<article class="contact-secondary-email">
 <div class="contact-card-heading">
   <span class="contact-icon" aria-hidden="true"><i class="fas fa-envelope"></i></span>
   <div><h3>Personal Email</h3><p>Informal messages</p></div>
@@ -41,51 +42,45 @@ hide_avatar: true
   <button class="copy-btn contact-copy-button" data-code="c7xlxa1b5@mozmail.com" title="Copy to clipboard" aria-label="Copy personal email address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 </article>
-
-<article class="contact-card">
-<div class="contact-card-heading">
-  <span class="contact-icon" aria-hidden="true"><i class="fas fa-comment-dots"></i></span>
-  <div><h3>Signal</h3><p>Encrypted messaging</p></div>
-</div>
-<div class="contact-option-actions">
-  <a href="https://signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF">Open Signal <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-  <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard" aria-label="Copy Signal address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
-</div>
-</article>
-
-<article class="contact-card">
-<div class="contact-card-heading">
-  <span class="contact-icon" aria-hidden="true"><i class="fab fa-telegram-plane"></i></span>
-  <div><h3>Telegram</h3><p>Informal messaging</p></div>
-</div>
-<div class="contact-option-actions">
-  <a href="https://t.me/steffenwoell">Open Telegram <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-  <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard" aria-label="Copy Telegram address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
-</div>
-</article>
 </div>
 </section>
 
-<section class="contact-section" aria-labelledby="contact-details-title">
-<h2 id="contact-details-title">Details</h2>
-<div class="contact-utility-grid">
-<article class="contact-utility-card">
-<div class="contact-card-heading">
-  <span class="contact-icon" aria-hidden="true"><i class="fas fa-fingerprint"></i></span>
-  <div><h3>GPG / PGP</h3><p>Encrypted email communication</p></div>
+<section class="contact-section contact-messaging" aria-labelledby="contact-messaging-title">
+<h2 id="contact-messaging-title">Messaging</h2>
+<div class="contact-messaging-list">
+<div class="contact-messaging-item">
+  <div class="contact-messaging-name"><span class="contact-icon" aria-hidden="true"><i class="fas fa-comment-dots"></i></span><span><strong>Signal</strong><small>Encrypted messaging</small></span></div>
+  <div class="contact-option-actions">
+    <a href="https://signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF">Open <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+    <button class="copy-btn" data-code="signal.me/#eu/J6925qikJCwVjKCQblj8JTnQyh5LrAchhDIOBDpGwBlRqX1mnpJOkqEIPe6oXkmF" title="Copy to clipboard" aria-label="Copy Signal address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
+  </div>
 </div>
+<div class="contact-messaging-item">
+  <div class="contact-messaging-name"><span class="contact-icon" aria-hidden="true"><i class="fab fa-telegram-plane"></i></span><span><strong>Telegram</strong><small>Informal messaging</small></span></div>
+  <div class="contact-option-actions">
+    <a href="https://t.me/steffenwoell">Open <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+    <button class="copy-btn" data-code="t.me/steffenwoell" title="Copy to clipboard" aria-label="Copy Telegram address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
+  </div>
+</div>
+</div>
+</section>
+
+<section class="contact-section contact-additional" aria-labelledby="contact-details-title">
+<h2 id="contact-details-title">Secure & Postal</h2>
+<details>
+<summary><span><i class="fas fa-fingerprint" aria-hidden="true"></i><span><strong>Encrypted Email</strong><small>GPG / PGP public key and fingerprint</small></span></span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
+<div class="contact-additional-content">
 <div class="contact-value-row contact-fingerprint">
   <span>8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B</span>
   <button class="copy-btn contact-copy-button" data-code="8BED A8F0 0BD5 744F 4235 6797 83AD 2A2C 15D9 472B" title="Copy to clipboard" aria-label="Copy PGP fingerprint to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
 <a class="contact-action" href="/doc/keys/steffenwoell_pgp_public_key.asc">Download public key <i class="fas fa-download" aria-hidden="true"></i></a>
-</article>
-
-<article class="contact-utility-card contact-address">
-<div class="contact-card-heading">
-  <span class="contact-icon" aria-hidden="true"><i class="fas fa-map-marker-alt"></i></span>
-  <div><h3>Mailing Address</h3><p>Leipzig University</p></div>
 </div>
+</details>
+
+<details>
+<summary><span><i class="fas fa-map-marker-alt" aria-hidden="true"></i><span><strong>Mailing Address</strong><small>Leipzig University</small></span></span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
+<div class="contact-additional-content">
 <div class="contact-address-row">
 <address>Dr. Steffen Wöll<br>
 Geisteswissenschaftliches Zentrum<br>
@@ -97,8 +92,8 @@ Beethovenstraße 15
 04107 Leipzig
 Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard"><i class="fas fa-copy" aria-hidden="true"></i><span data-copy-label>Copy</span></button>
 </div>
-</article>
 </div>
+</details>
 </section>
 
 <section class="contact-site-info" aria-labelledby="site-information-title">

@@ -17,11 +17,11 @@ A preliminary structure might work alongside genres and focus on particular them
 
 <b>Figure:</b> Flag of the New California Republic in *Fallout* (1997) ([Source<i class="fas fa-external-link-alt" role="presentation"></i>](https://fallout.fandom.com/wiki/New_California_Republic)).
 
-Central research questions include but are not limited to examining:
-* Which key themes and narrative tropes concerning the American West can be found in a cross-selection of video games?
+Central research questions include:
+* Which key themes and narrative tropes concerning the American West can be found in a cross-section of video games?
 * How do these themes relate to those traditionally identified in literary and cultural discourses?
 * In what ways do interactivity, player input, and gameplay elements modify or expand traditional dimensions of "westernness"?
-* Can existing Digital Humanities toolsets be used productively to visualize the discursive landscapes of video games?
+* Can existing Digital Humanities tools be used productively to visualize the discursive landscapes of video games?
 
 ## ENMMA: European Network for the Study of Minor Mobilities in the Americas
 

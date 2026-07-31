@@ -53,6 +53,7 @@
         iframe.allow = 'autoplay';
         iframe.referrerPolicy = 'strict-origin-when-cross-origin';
 
+        container.classList.add('is-loaded');
         container.replaceChildren(iframe);
       });
     });

@@ -93,20 +93,44 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
+  let searchArrivalTimer = null;
+
+  const revealAcademicTarget = function (hash) {
+    if (!hash) return;
+
+    let targetId;
+    try {
+      targetId = decodeURIComponent(hash.replace(/^#/, ''));
+    } catch (error) {
+      return;
+    }
+
+    const target = document.getElementById(targetId);
+    if (!target || !target.classList.contains('academic-search-target')) return;
+
+    document.querySelectorAll('.academic-search-target.is-search-arrival').forEach(function (entry) {
+      entry.classList.remove('is-search-arrival');
+    });
+    window.clearTimeout(searchArrivalTimer);
+    target.scrollIntoView({ block: 'start' });
+
+    window.requestAnimationFrame(function () {
+      target.classList.add('is-search-arrival');
+      searchArrivalTimer = window.setTimeout(function () {
+        target.classList.remove('is-search-arrival');
+      }, 2800);
+    });
+  };
+
   if (window.location.hash) {
     window.requestAnimationFrame(function () {
-      let targetId;
-      try {
-        targetId = decodeURIComponent(window.location.hash.slice(1));
-      } catch (error) {
-        return;
-      }
-      const target = document.getElementById(targetId);
-      if (target && target.classList.contains('academic-search-target')) {
-        target.scrollIntoView({ block: 'start' });
-      }
+      revealAcademicTarget(window.location.hash);
     });
   }
+
+  window.addEventListener('hashchange', function () {
+    revealAcademicTarget(window.location.hash);
+  });
 
   const dialog = document.getElementById('siteSearchDialog');
   const openButton = document.getElementById('siteSearchOpen');
@@ -246,6 +270,34 @@ document.addEventListener('DOMContentLoaded', function () {
     return (start > 0 ? '…' : '') + snippet + (end < source.length ? '…' : '');
   };
 
+  const appendHighlightedText = function (element, value, terms) {
+    const text = String(value || '');
+    const uniqueTerms = Array.from(new Set(terms))
+      .filter(Boolean)
+      .sort(function (a, b) { return b.length - a.length; });
+
+    if (!text || !uniqueTerms.length) {
+      element.textContent = text;
+      return;
+    }
+
+    const escapedTerms = uniqueTerms.map(function (term) {
+      return term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    });
+    const matcher = new RegExp('(' + escapedTerms.join('|') + ')', 'gi');
+
+    text.split(matcher).forEach(function (part) {
+      if (!part) return;
+      if (uniqueTerms.includes(normalize(part))) {
+        const marker = document.createElement('mark');
+        marker.textContent = part;
+        element.appendChild(marker);
+      } else {
+        element.appendChild(document.createTextNode(part));
+      }
+    });
+  };
+
   const scoreItem = function (item, terms, phrase) {
     let score = 0;
     const searchable = [
@@ -342,13 +394,14 @@ document.addEventListener('DOMContentLoaded', function () {
       const snippet = document.createElement('span');
 
       link.className = 'site-search-result';
+      link.classList.add('site-search-result--' + normalize(item.type).replace(/[^a-z0-9]+/g, '-'));
       link.href = item.url;
       link.id = 'siteSearchResult' + index;
       link.setAttribute('role', 'option');
       link.setAttribute('aria-selected', 'false');
 
       heading.className = 'site-search-result-title';
-      heading.textContent = item.title;
+      appendHighlightedText(heading, item.title, terms);
 
       meta.className = 'site-search-result-meta';
       type.className = 'site-search-result-type';
@@ -366,7 +419,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       snippet.className = 'site-search-result-snippet';
-      snippet.textContent = makeSnippet(item, terms);
+      appendHighlightedText(snippet, makeSnippet(item, terms), terms);
 
       link.append(meta, heading);
       if (snippet.textContent) {
@@ -375,7 +428,21 @@ document.addEventListener('DOMContentLoaded', function () {
       link.addEventListener('mouseenter', function () {
         updateActiveResult(index);
       });
-      link.addEventListener('click', function () {
+      link.addEventListener('click', function (event) {
+        const destination = new URL(link.href, window.location.href);
+        const isCurrentPage = destination.origin === window.location.origin
+          && destination.pathname === window.location.pathname
+          && destination.search === window.location.search;
+
+        if (isCurrentPage && destination.hash) {
+          event.preventDefault();
+          closeSearch();
+          window.history.pushState(null, '', destination.hash);
+          window.setTimeout(function () {
+            revealAcademicTarget(destination.hash);
+          }, 190);
+          return;
+        }
         closeSearch();
       });
       results.appendChild(link);

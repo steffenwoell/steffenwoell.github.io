@@ -27,9 +27,11 @@ search_exclude: true
 {%- for tag in tags_list -%}
     {%- assign tag_id = tag | slugify -%}
     {%- assign tag_size = site.tags[tag].size -%}
-    {%- if tag_size >= 10 -%}
-      {%- assign tag_weight = 4 -%}
+    {%- if tag_size > 10 -%}
+      {%- assign tag_weight = 5 -%}
     {%- elsif tag_size >= 5 -%}
+      {%- assign tag_weight = 4 -%}
+    {%- elsif tag_size >= 4 -%}
       {%- assign tag_weight = 3 -%}
     {%- elsif tag_size >= 2 -%}
       {%- assign tag_weight = 2 -%}

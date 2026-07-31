@@ -3,14 +3,14 @@ layout: post
 title: Insatiable II
 subtitle: Leipzig, Germany
 image: /img/ins.webp
-excerpt: night eyes, piercing path to middlesex, Scarlett letter be thy hex ...
+excerpt: night eyes, piercing path to middlesex, Scarlet letter be thy hex ...
 permalink: /journal/:title/
 tags: [Leipzig, Germany]
 ---
 Night eyes  
 piercing path to  
 middlesex  
-Scarlett letter  
+Scarlet letter  
 be thy hex  
 
 H is hunger  

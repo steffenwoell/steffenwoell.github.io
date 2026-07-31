@@ -11,31 +11,57 @@
     </ul>
   </nav>
 
-  <div class="publication-profiles-row">
-    <div class="publication-profiles-label">
-      <i class="fas fa-id-card" aria-hidden="true"></i>
-      <span>Research Profiles</span>
+  <details class="publication-utilities" open>
+    <summary class="publication-utilities-summary">
+      <span>Profiles &amp; Export</span>
+      <i class="fas fa-chevron-down" aria-hidden="true"></i>
+    </summary>
+    <div class="publication-utilities-content">
+    <div class="publication-profiles-row">
+      <div class="publication-profiles-label">
+        <i class="fas fa-id-card" aria-hidden="true"></i>
+        <span>Profiles:</span>
+      </div>
+      <div class="publication-profiles" role="group" aria-label="External publication profiles">
+        <a href="https://www.researchgate.net/profile/Steffen-Woell" aria-label="ResearchGate profile"><span class="profile-label-full">Research<wbr>Gate</span><span class="profile-label-short" aria-hidden="true">RG</span></a>
+        <a href="https://orcid.org/0000-0003-1582-6078" aria-label="ORCID profile"><span class="profile-label-full">ORCID</span><span class="profile-label-short" aria-hidden="true">ORCID</span></a>
+        <a href="https://scholar.google.com/citations?hl=en&amp;user=b65qcwgAAAAJ" aria-label="Google Scholar profile"><span class="profile-label-full">Google Scholar</span><span class="profile-label-short" aria-hidden="true">Scholar</span></a>
+        <a href="https://catalog.loc.gov/vwebv/search?searchArg=Wo%CC%88ll,%20Steffen&searchCode=NAME%2B&searchType=1&recCount=25" aria-label="Library of Congress authority record"><span class="profile-label-full">Library of Congress</span><span class="profile-label-short" aria-hidden="true">LoC</span></a>
+        <a href="https://d-nb.info/gnd/1225944139" aria-label="German National Library authority record"><span class="profile-label-full">DNB</span><span class="profile-label-short" aria-hidden="true">DNB</span></a>
+      </div>
     </div>
-    <div class="publication-profiles" aria-label="External publication profiles">
-      <a href="https://www.researchgate.net/profile/Steffen-Woell" aria-label="ResearchGate profile"><i class="fab fa-researchgate" aria-hidden="true"></i><span class="profile-label-full">Research<wbr>Gate</span><span class="profile-label-short" aria-hidden="true">RG</span><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-      <a href="https://orcid.org/0000-0003-1582-6078" aria-label="ORCID profile"><i class="fab fa-orcid" aria-hidden="true"></i><span class="profile-label-full">ORCID</span><span class="profile-label-short" aria-hidden="true">ORCID</span><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-      <a href="https://scholar.google.com/citations?hl=en&amp;user=b65qcwgAAAAJ" aria-label="Google Scholar profile"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span class="profile-label-full">Google Scholar</span><span class="profile-label-short" aria-hidden="true">Scholar</span><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-      <a href="https://catalog.loc.gov/vwebv/search?searchArg=Wo%CC%88ll,%20Steffen&searchCode=NAME%2B&searchType=1&recCount=25" aria-label="Library of Congress authority record"><i class="fas fa-landmark" aria-hidden="true"></i><span class="profile-label-full">Library of Congress</span><span class="profile-label-short" aria-hidden="true">LoC</span><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-      <a href="https://d-nb.info/gnd/1225944139" aria-label="German National Library authority record"><i class="fas fa-landmark" aria-hidden="true"></i><span class="profile-label-full">DNB</span><span class="profile-label-short" aria-hidden="true">DNB</span><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
-    </div>
-  </div>
 
-  <div class="publication-downloads">
-    <div class="publication-downloads-label">
-      <i class="fas fa-book" aria-hidden="true"></i>
-      <span>Export Publications</span>
+    <div class="publication-downloads">
+      <div class="publication-downloads-label">
+        <i class="fas fa-book" aria-hidden="true"></i>
+        <span>Export:</span>
+      </div>
+      <div class="publication-downloads-formats" role="group" aria-label="Export complete publication list">
+        <button type="button" data-citation-download-all="bibtex" hidden>BibTeX</button>
+        <button type="button" data-citation-download-all="ris" hidden>RIS</button>
+        <button type="button" data-citation-download-all="csl-json" hidden>CSL-JSON</button>
+      </div>
+      <small class="publication-downloads-count">{{ site.data.publication-citations-generated.size }} publications</small>
+      <span class="sr-only" data-citation-download-all-status aria-live="polite"></span>
     </div>
-    <div class="publication-downloads-formats" role="group" aria-label="Export complete publication list">
-      <button type="button" data-citation-download-all="bibtex" hidden>BibTeX</button>
-      <button type="button" data-citation-download-all="ris" hidden>RIS</button>
-      <button type="button" data-citation-download-all="csl-json" hidden>CSL-JSON</button>
     </div>
-    <small class="publication-downloads-count">{{ site.data.publication-citations-generated.size }} publications</small>
-    <span class="sr-only" data-citation-download-all-status aria-live="polite"></span>
-  </div>
+  </details>
 </section>
+
+<script>
+  (() => {
+    const utilities = document.querySelector('.publication-utilities');
+    const mobileUtilities = window.matchMedia('(max-width: 600px)');
+
+    if (!utilities) {
+      return;
+    }
+
+    const syncUtilities = (query) => {
+      utilities.open = !query.matches;
+    };
+
+    syncUtilities(mobileUtilities);
+    mobileUtilities.addEventListener('change', syncUtilities);
+  })();
+</script>

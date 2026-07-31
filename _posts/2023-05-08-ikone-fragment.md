@@ -11,7 +11,7 @@ tags: [Saxony, Germany]
 
 Verzweigt  
 Rufe des Tiers  
-Irdene Sprirale  
+Irdene Spirale  
 Nagel der Zeit  
 Locke aus Raum  
 Dort gingen wir zusammen  

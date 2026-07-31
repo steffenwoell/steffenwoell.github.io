@@ -34,7 +34,7 @@ a thought that
 never dies but  
 
 Paint this moment  
-in hierogylphic wavelength  
+in hieroglyphic wavelength  
 patterns washed into this  
 human thicket  
 
