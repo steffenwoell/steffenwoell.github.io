@@ -139,7 +139,7 @@ exclude:
   - Gemfile.lock
   - docs
   - projects.md
-  - _posts/markdown-examples.md
+  - GIT_WORKFLOW.md
 
 # Include plugins on production site
 plugins:
