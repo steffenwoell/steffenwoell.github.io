@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # Crawl a website and check every discovered HTTP(S) link.
-# Requires: zsh, curl, Ruby (standard library only).
+# Requires: zsh, curl, rg, Ruby (standard library only).
 
 emulate -L zsh
 setopt errexit nounset pipefail extended_glob
@@ -13,6 +13,12 @@ jobs=8
 timeout=20
 report_file=""
 external_only=0
+apply_changes=0
+replace_old=""
+replace_new=""
+unlink_target=""
+fix_status=""
+readonly repo_root="${0:A:h:h}"
 
 usage() {
   cat <<'EOF'
@@ -24,18 +30,194 @@ Options:
   -t, --timeout SEC   Timeout per request (default: 20)
   -o, --report FILE   Also save a tab-separated report
       --external-only Check only external links after crawling the site
+      --replace OLD NEW
+                       Replace an exact URL in source files (preview by default)
+      --unlink URL     Remove a link but preserve its visible text where possible
+      --fix-status CODE
+                       Review links with an HTTP status such as 404 or 410
+      --fix            Shortcut for --fix-status 404
+      --apply          Write planned source changes after creating a backup
   -h, --help          Show this help
 
 Examples:
   scripts/check-site-links.zsh
   scripts/check-site-links.zsh --url http://localhost:4000/
   scripts/check-site-links.zsh --external-only --report link-report.tsv
+  scripts/check-site-links.zsh --replace OLD_URL NEW_URL --apply
+  scripts/check-site-links.zsh --external-only --fix-status 404 --apply
 EOF
 }
 
 die() {
   print -u2 -- "Error: $*"
   exit 2
+}
+
+find_source_files() {
+  local target="$1"
+  rg --files-with-matches --fixed-strings --hidden \
+    --glob '!.git/**' \
+    --glob '!_site/**' \
+    --glob '!vendor/**' \
+    --glob '!Gemfile.lock' \
+    -- "$target" "$repo_root" 2>/dev/null || true
+}
+
+show_source_matches() {
+  local target="$1"
+  rg --line-number --fixed-strings --color never --hidden \
+    --glob '!.git/**' \
+    --glob '!_site/**' \
+    --glob '!vendor/**' \
+    --glob '!Gemfile.lock' \
+    -- "$target" "$repo_root" 2>/dev/null || true
+}
+
+modify_source_url() {
+  local mode="$1"
+  local old_url="$2"
+  local new_url="${3-}"
+  local write_changes="$4"
+  local -a source_files
+
+  source_files=("${(@f)$(find_source_files "$old_url")}")
+  source_files=("${(@)source_files:#}")
+
+  if (( ${#source_files[@]} == 0 )); then
+    print -- "No source occurrence found for: $old_url"
+    return 1
+  fi
+
+  print -- "\nSource occurrences:"
+  show_source_matches "$old_url" | sed "s#${repo_root}/##"
+
+  if (( ! write_changes )); then
+    print -- "\nPreview only; add --apply to write this change."
+    return 0
+  fi
+
+  local backup_dir
+  backup_dir="$(mktemp -d "${TMPDIR:-/tmp}/site-link-backup.XXXXXX")"
+  local source_file relative_file backup_parent
+  mkdir -p -- "$backup_dir"
+
+  for source_file in "${source_files[@]}"; do
+    relative_file="${source_file#$repo_root/}"
+    backup_parent="$backup_dir/${relative_file:h}"
+    mkdir -p -- "$backup_parent"
+    cp -p -- "$source_file" "$backup_dir/$relative_file"
+  done
+
+  ruby -e '
+    mode, old_url, new_url, *files = ARGV
+    escaped = Regexp.escape(old_url)
+
+    files.each do |file|
+      original = File.binread(file)
+      changed = original.dup
+
+      if mode == "replace"
+        changed = changed.gsub(old_url, new_url)
+      else
+        # Markdown: keep the label and remove only its link destination.
+        changed.gsub!(/\[([^\]\n]+)\]\(\s*#{escaped}(?:\s+(?:"[^"]*"|'"'"'[^'"'"']*'"'"'))?\s*\)/, "\\1")
+        # HTML: unwrap anchors whose href exactly matches the URL.
+        changed.gsub!(/<a\b([^>]*?)\bhref\s*=\s*(["'"'"'])#{escaped}\2([^>]*)>(.*?)<\/a>/mi) { Regexp.last_match(4) }
+        # Structured data: remove a line that consists of a URL-valued field.
+        changed.gsub!(/^\s*[A-Za-z0-9_-]*(?:url|link|href)[A-Za-z0-9_-]*:\s*(["'"'"']?)#{escaped}\1\s*(?:#.*)?(?:\r?\n|\z)/i, "")
+        # Finally remove a remaining bare occurrence without deleting nearby text.
+        changed = changed.gsub(old_url, "")
+      end
+
+      next if changed == original
+
+      stat = File.stat(file)
+      temporary = "#{file}.linkcheck-#{Process.pid}"
+      File.binwrite(temporary, changed)
+      File.chmod(stat.mode, temporary)
+      File.rename(temporary, file)
+      puts file
+    ensure
+      File.delete(temporary) if defined?(temporary) && File.exist?(temporary)
+    end
+  ' "$mode" "$old_url" "$new_url" "${source_files[@]}" | sed "s#${repo_root}/##"
+
+  print -- "Backup saved to: $backup_dir"
+  print -- "Review the changes with: git diff"
+}
+
+review_status_links() {
+  local requested_status="$1"
+  local results_path="$2"
+  local -a candidates
+  local candidate matches choice replacement
+
+  candidates=("${(@f)$(awk -F '\t' -v code="$requested_status" '$1 == "BROKEN" && $2 == code {print $3}' "$results_path" | sort -u)}")
+  candidates=("${(@)candidates:#}")
+
+  if (( ${#candidates[@]} == 0 )); then
+    print -- "\nNo links with HTTP status $requested_status were found."
+    return 0
+  fi
+
+  print -- "\nRepair candidates with HTTP status $requested_status:"
+
+  if (( apply_changes )) && [[ ! -t 0 || ! -t 1 ]]; then
+    die "--fix-status with --apply requires an interactive terminal"
+  fi
+
+  for candidate in "${candidates[@]}"; do
+    print -- "\n[$requested_status] $candidate"
+    matches="$(show_source_matches "$candidate")"
+
+    if [[ -z "$matches" ]]; then
+      print -- "  No exact occurrence found in source files; skipping."
+      continue
+    fi
+
+    print -r -- "$matches" | sed "s#${repo_root}/#  #"
+
+    if (( ! apply_changes )); then
+      continue
+    fi
+
+    while true; do
+      print -n -- "  [r] replace  [u] unlink/keep text  [s] skip  [q] quit: "
+      read -r choice
+      case "${choice:l}" in
+        r)
+          print -n -- "  New URL: "
+          read -r replacement
+          if [[ "$replacement" != http://* && "$replacement" != https://* ]]; then
+            print -- "  The replacement must begin with http:// or https://."
+            continue
+          fi
+          modify_source_url replace "$candidate" "$replacement" 1 || true
+          break
+          ;;
+        u)
+          modify_source_url unlink "$candidate" "" 1 || true
+          break
+          ;;
+        s)
+          break
+          ;;
+        q)
+          print -- "Repair session stopped."
+          return 0
+          ;;
+        *)
+          print -- "  Please enter r, u, s, or q."
+          ;;
+      esac
+    done
+  done
+
+  if (( ! apply_changes )); then
+    print -- "\nPreview only. Re-run with --apply for the interactive repair menu."
+  else
+    print -- "\nRepairs completed. Re-run the link checker and review git diff."
+  fi
 }
 
 while (( $# > 0 )); do
@@ -64,6 +246,30 @@ while (( $# > 0 )); do
       external_only=1
       shift
       ;;
+    --replace)
+      (( $# >= 3 )) || die "$1 requires an old and a new URL"
+      replace_old="$2"
+      replace_new="$3"
+      shift 3
+      ;;
+    --unlink)
+      (( $# >= 2 )) || die "$1 requires a URL"
+      unlink_target="$2"
+      shift 2
+      ;;
+    --fix-status)
+      (( $# >= 2 )) || die "$1 requires an HTTP status"
+      fix_status="$2"
+      shift 2
+      ;;
+    --fix)
+      fix_status="404"
+      shift
+      ;;
+    --apply)
+      apply_changes=1
+      shift
+      ;;
     -h|--help)
       usage
       exit 0
@@ -73,6 +279,27 @@ while (( $# > 0 )); do
       ;;
   esac
 done
+
+[[ -z "$replace_old" || -z "$unlink_target" ]] || die "use either --replace or --unlink, not both"
+if [[ -n "$fix_status" && ( -n "$replace_old" || -n "$unlink_target" ) ]]; then
+  die "use --fix-status separately from --replace or --unlink"
+fi
+if [[ -n "$fix_status" && "$fix_status" != 404 && "$fix_status" != 410 ]]; then
+  die "automatic review is restricted to definitive 404 and 410 responses"
+fi
+
+if [[ -n "$replace_old" ]]; then
+  [[ "$replace_old" == http://* || "$replace_old" == https://* ]] || die "old URL must begin with http:// or https://"
+  [[ "$replace_new" == http://* || "$replace_new" == https://* ]] || die "new URL must begin with http:// or https://"
+  modify_source_url replace "$replace_old" "$replace_new" "$apply_changes"
+  exit $?
+fi
+
+if [[ -n "$unlink_target" ]]; then
+  [[ "$unlink_target" == http://* || "$unlink_target" == https://* ]] || die "URL must begin with http:// or https://"
+  modify_source_url unlink "$unlink_target" "" "$apply_changes"
+  exit $?
+fi
 
 [[ "$jobs" == <-> && "$jobs" -gt 0 ]] || die "jobs must be a positive integer"
 [[ "$timeout" == <-> && "$timeout" -gt 0 ]] || die "timeout must be a positive integer"
@@ -242,6 +469,10 @@ fi
 if (( warn_count > 0 )); then
   print -- "\nLinks requiring a manual check (access denied or rate limited):"
   awk -F '\t' '$1 == "WARN" {printf "  [%s] %s\n        found on: %s\n", $2, $3, $5}' "$results_file"
+fi
+
+if [[ -n "$fix_status" ]]; then
+  review_status_links "$fix_status" "$results_file"
 fi
 
 if (( ${#crawl_failures[@]} > 0 )); then

@@ -69,6 +69,33 @@ Run `scripts/check-site-links.zsh --help` for options such as external-only
 checks and tab-separated reports. The command exits with a non-zero status when
 it finds a broken link or cannot crawl an internal page.
 
+Complete usage and repair instructions are available in the
+[site link checker documentation](scripts/README-check-site-links.md).
+
+The checker can also help repair external links in the source files. All repair
+commands are previews unless `--apply` is added:
+
+```bash
+# Show where an old URL occurs and preview its replacement
+scripts/check-site-links.zsh --replace OLD_URL NEW_URL
+
+# Apply the exact replacement
+scripts/check-site-links.zsh --replace OLD_URL NEW_URL --apply
+
+# Remove a link while preserving its visible Markdown or HTML text
+scripts/check-site-links.zsh --unlink URL --apply
+
+# Crawl external links and review every definite 404 interactively
+scripts/check-site-links.zsh --external-only --fix-status 404 --apply
+```
+
+Interactive repair is intentionally limited to definitive `404` and `410`
+responses. Temporary failures such as `403` and `429` remain warnings and are
+not offered for removal. Before changing a source file, the script creates a
+backup in the system's temporary directory. Generated files in `_site/`, Git
+metadata, vendored dependencies, and `Gemfile.lock` are never edited. Review
+every applied change with `git diff`, then run the link checker again.
+
 ## Project structure
 
 ```text
