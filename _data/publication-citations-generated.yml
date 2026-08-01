@@ -585,19 +585,19 @@ publication-then-i-started-for-the-mountains-retracing-louisiana-s-human-geograp
   chicago:
     plain: 'Wöll, Steffen. “‘Then I Started for the Mountains’: Retracing Louisiana’s
       Human Geographies across Five Remarkable Biographies.” Clio: A Journal of Literature,
-      History, and the Philosophy of History 49, no. 1 (2021): 42–64. https://www.pfw.edu/clio/index-contents/.'
+      History, and the Philosophy of History 49, no. 1 (2021): 42–64. https://www.pfw.edu/clio-journal.'
     html: 'Wöll, Steffen. “‘Then I Started for the Mountains’: Retracing Louisiana’s
       Human Geographies across Five Remarkable Biographies.” <cite>Clio: A Journal
       of Literature, History, and the Philosophy of History</cite> 49, no. 1 (2021):
-      42–64. https://www.pfw.edu/clio/index-contents/.'
+      42–64. https://www.pfw.edu/clio-journal.'
   mla:
     plain: 'Wöll, Steffen. “‘Then I Started for the Mountains’: Retracing Louisiana’s
       Human Geographies across Five Remarkable Biographies.” Clio: A Journal of Literature,
-      History, and the Philosophy of History, vol. 49, no. 1, 2021, pp. 42–64. https://www.pfw.edu/clio/index-contents/.'
+      History, and the Philosophy of History, vol. 49, no. 1, 2021, pp. 42–64. https://www.pfw.edu/clio-journal.'
     html: 'Wöll, Steffen. “‘Then I Started for the Mountains’: Retracing Louisiana’s
       Human Geographies across Five Remarkable Biographies.” <cite>Clio: A Journal
       of Literature, History, and the Philosophy of History</cite>, vol. 49, no. 1,
-      2021, pp. 42–64. https://www.pfw.edu/clio/index-contents/.'
+      2021, pp. 42–64. https://www.pfw.edu/clio-journal.'
   bibtex: |-
     @article{woell2021then,
       author = {Wöll, Steffen},
@@ -607,7 +607,7 @@ publication-then-i-started-for-the-mountains-retracing-louisiana-s-human-geograp
       number = {1},
       pages = {42--64},
       year = {2021},
-      url = {https://www.pfw.edu/clio/index-contents/}
+      url = {https://www.pfw.edu/clio-journal}
     }
   downloads:
     bibtex:
@@ -622,7 +622,7 @@ publication-then-i-started-for-the-mountains-retracing-louisiana-s-human-geograp
           number = {1},
           pages = {42--64},
           year = {2021},
-          url = {https://www.pfw.edu/clio/index-contents/}
+          url = {https://www.pfw.edu/clio-journal}
         }
     ris:
       filename: woell2021then.ris
@@ -631,7 +631,7 @@ publication-then-i-started-for-the-mountains-retracing-louisiana-s-human-geograp
         Mountains”: Retracing Louisiana’s Human Geographies across Five Remarkable
         Biographies\r\nJO  - Clio: A Journal of Literature, History, and the Philosophy
         of History\r\nVL  - 49\r\nIS  - 1\r\nSP  - 42\r\nEP  - 64\r\nPY  - 2021\r\nUR
-        \ - https://www.pfw.edu/clio/index-contents/\r\nER  - \r\n"
+        \ - https://www.pfw.edu/clio-journal\r\nER  - \r\n"
     csl-json:
       filename: woell2021then.json
       mime_type: application/vnd.citationstyles.csl+json;charset=utf-8
@@ -657,7 +657,7 @@ publication-then-i-started-for-the-mountains-retracing-louisiana-s-human-geograp
               ]
             ]
           },
-          "URL": "https://www.pfw.edu/clio/index-contents/"
+          "URL": "https://www.pfw.edu/clio-journal"
         }
 publication-voyages-through-literary-space-mapping-globe-and-nation-in-richard-henry-dana-s-two-years-:
   title: 'Voyages through Literary Space: Mapping Globe and Nation in Richard Henry
