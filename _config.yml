@@ -138,6 +138,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - docs
+  - scripts
   - projects.md
   - GIT_WORKFLOW.md
 

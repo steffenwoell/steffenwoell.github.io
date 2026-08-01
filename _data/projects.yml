@@ -1,0 +1,32 @@
+- title: Mark
+  version: 1.5.1
+  codename: Adso
+  description: A bookmark manager for researchers, students, and anyone who collects large numbers of web resources.
+  icon: fa-bookmark
+  technologies:
+    - SwiftUI
+    - Safari Import
+    - macOS
+  url: https://github.com/steffenwoell/Mark
+
+- title: Tasky
+  version: 2.7.6
+  codename: Robin
+  description: A streamlined menu bar interface for browsing, searching, and creating Apple Reminders.
+  icon: fa-tasks
+  technologies:
+    - EventKit
+    - Natural Language
+    - macOS
+  url: https://github.com/steffenwoell/Tasky
+
+- title: ClipBar
+  version: 1.3.4
+  codename: Frija
+  description: A customizable macOS action bar that provides context-aware tools for selected text.
+  icon: fa-mouse-pointer
+  technologies:
+    - AppKit
+    - JSON Plug-ins
+    - macOS
+  url: https://github.com/steffenwoell/ClipBar

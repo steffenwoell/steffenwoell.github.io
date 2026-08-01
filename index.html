@@ -245,9 +245,26 @@ search_exclude: true
 </section>
 {% endif %}
 
-<!--<nav class="home-links" aria-label="Explore this website">
-  <a href="{{ '/publications/' | relative_url }}"><span class="fas fa-book-open" aria-hidden="true"></span> Publications</a>
-  <a href="{{ '/activities/' | relative_url }}"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Activities</a>
-  <a href="{{ '/contact/' | relative_url }}"><span class="fas fa-envelope" aria-hidden="true"></span> Contact</a>
-</nav>-->
+<section class="home-section home-code" aria-labelledby="digital-projects">
+  <div class="home-section-heading">
+    <h2 id="digital-projects">Open-Source Software</h2>
+    <a class="home-section-link" href="https://github.com/steffenwoell">All projects on GitHub&nbsp;<span aria-hidden="true">&rarr;</span></a>
+  </div>
+  <div class="home-grid home-code-grid">
+    {% for project in site.data.projects %}
+    <article class="home-card home-code-card">
+      <span class="fas {{ project.icon }} home-code-icon" aria-hidden="true"></span>
+      <h3>{{ project.title }}</h3>
+      <div class="home-code-release"><code>v{{ project.version }} · “{{ project.codename }}”</code></div>
+      <p>{{ project.description }}</p>
+      <ul class="home-code-technologies" aria-label="Technologies used for {{ project.title }}">
+        {% for technology in project.technologies %}
+        <li>{{ technology }}</li>
+        {% endfor %}
+      </ul>
+      <a class="home-code-link" href="{{ project.url }}"><span class="fab fa-github" aria-hidden="true"></span> View on GitHub</a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
 </div>
