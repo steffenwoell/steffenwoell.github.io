@@ -50,6 +50,25 @@ bundle exec jekyll build
 The generated site is written to `_site/`, which is excluded from version
 control.
 
+### Link checking
+
+Check all internal and external links on the published website:
+
+```bash
+scripts/check-site-links.zsh
+```
+
+The checker crawls the site's internal pages and tests the discovered links in
+parallel. To check a locally running Jekyll build instead, use:
+
+```bash
+scripts/check-site-links.zsh --url http://localhost:4000/
+```
+
+Run `scripts/check-site-links.zsh --help` for options such as external-only
+checks and tab-separated reports. The command exits with a non-zero status when
+it finds a broken link or cannot crawl an internal page.
+
 ## Project structure
 
 ```text
