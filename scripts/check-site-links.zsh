@@ -121,7 +121,14 @@ modify_source_url() {
       else
         # Markdown: keep the label and remove only its link destination.
         changed.gsub!(/\[([^\]\n]+)\]\(\s*#{escaped}(?:\s+(?:"[^"]*"|'"'"'[^'"'"']*'"'"'))?\s*\)/, "\\1")
-        # HTML: unwrap anchors whose href exactly matches the URL.
+        if File.basename(file) == "activities.md"
+          # Keep the Activities action box, but make it visibly inactive.
+          changed.gsub!(/<a\b([^>]*?)\bhref\s*=\s*(["'"'"'])#{escaped}\2([^>]*)>(.*?)<\/a>/mi) do
+            label = Regexp.last_match(4).gsub(/<i\b[^>]*>.*?<\/i>/mi, "").strip
+            %(<span class="activity-link-inactive" aria-disabled="true">#{label}</span>)
+          end
+        end
+        # HTML elsewhere: unwrap anchors whose href exactly matches the URL.
         changed.gsub!(/<a\b([^>]*?)\bhref\s*=\s*(["'"'"'])#{escaped}\2([^>]*)>(.*?)<\/a>/mi) { Regexp.last_match(4) }
         # Structured data: remove a line that consists of a URL-valued field.
         changed.gsub!(/^\s*[A-Za-z0-9_-]*(?:url|link|href)[A-Za-z0-9_-]*:\s*(["'"'"']?)#{escaped}\1\s*(?:#.*)?(?:\r?\n|\z)/i, "")

@@ -95,8 +95,10 @@ scripts/check-site-links.zsh --unlink 'https://example.org/missing'
 ```
 
 For Markdown and HTML links, `--unlink` preserves the visible link text where
-possible. For example, `[Conference](URL)` becomes `Conference`. A URL-valued
-YAML field is removed as a complete line when it can be identified safely.
+possible. For example, `[Conference](URL)` becomes `Conference`. On
+`activities.md`, an unavailable action remains visible as a disabled action box
+without an external-link icon. A URL-valued YAML field is removed as a complete
+line when it can be identified safely.
 
 ## Applying source changes
 
