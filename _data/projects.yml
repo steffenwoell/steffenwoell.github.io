@@ -10,7 +10,7 @@
   url: https://github.com/steffenwoell/Mark
 
 - title: Tasky
-  version: 2.7.6
+  version: 2.8
   codename: Robin
   description: A streamlined menu bar interface for browsing, searching, and creating Apple Reminders.
   icon: fa-tasks
