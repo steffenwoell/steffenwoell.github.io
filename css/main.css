@@ -4494,6 +4494,12 @@ footer a {
   gap: 0;
 }
 
+.site-footer-updated {
+  color: var(--footer-note-text);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
 .site-footer-legal a {
   color: var(--footer-misc);
   text-decoration: none;
@@ -4516,12 +4522,6 @@ footer a {
   margin: 0 2px;
   color: currentColor;
 }
-
-.site-footer-note-divider {
-  padding: 0 7px;
-  color: var(--home-card-border);
-}
-
 
 /* --- Journal --- */
 
