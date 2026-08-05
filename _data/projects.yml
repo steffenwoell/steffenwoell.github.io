@@ -1,7 +1,7 @@
 - title: Mark
   version: 1.5.1
   codename: Adso
-  description: A bookmark manager for researchers, students, and anyone who collects large numbers of web resources.
+  description: The missing bookmark manager for macOS.
   icon: fa-bookmark
   technologies:
     - SwiftUI
@@ -12,7 +12,7 @@
 - title: Tasky
   version: 2.8
   codename: Robin
-  description: A streamlined menu bar interface for browsing, searching, and creating Apple Reminders.
+  description: Apple Reminders in your menu bar.
   icon: fa-tasks
   technologies:
     - EventKit
@@ -21,7 +21,7 @@
   url: https://github.com/steffenwoell/Tasky
 
 - title: ClipBar
-  version: 1.3.4
+  version: 1.4.1
   codename: Frija
   description: A customizable macOS action bar that provides context-aware tools for selected text.
   icon: fa-mouse-pointer
