@@ -108,6 +108,28 @@ Run `scripts/check-site-links.zsh --help` for options such as external-only
 checks and tab-separated reports. The command exits with a non-zero status when
 it finds a broken link or cannot crawl an internal page.
 
+## Project release versions
+
+Update the software versions shown on the landing page from the latest public
+GitHub releases:
+
+```bash
+scripts/update-project-versions.zsh
+```
+
+The updater reads the repositories configured in `_data/projects.yml`. It
+removes a leading `v` from each release tag and updates a codename only when the
+first release heading contains one in quotation marks. Existing data is left
+unchanged if any request or validation fails. Preview changes without writing
+the YAML file with:
+
+```bash
+scripts/update-project-versions.zsh --dry-run
+```
+
+An optional `GITHUB_TOKEN` environment variable can be used for authenticated
+GitHub API requests.
+
 ## Licenses and attribution
 
 Unless otherwise stated, the website content is licensed under

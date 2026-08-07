@@ -21,7 +21,7 @@
   url: https://github.com/steffenwoell/Tasky
 
 - title: ClipBar
-  version: 1.4.1
+  version: 1.4.2
   codename: Frija
   description: A customizable macOS action bar that provides context-aware tools for selected text.
   icon: fa-mouse-pointer
