@@ -735,7 +735,12 @@ html.dark-mode .home-work-cover {
 
 .home-work-card--featured:focus-within .home-work-cover {
   opacity: .31;
+  filter: saturate(.82) contrast(.96);
   transform: scale(1.025);
+}
+
+html.dark-mode .home-work-card--featured:focus-within .home-work-cover {
+  filter: brightness(.78) saturate(.72) contrast(.93);
 }
 
 .home-work-card h3 {
@@ -1078,6 +1083,11 @@ html.dark-mode .home-work-cover {
     border-color: var(--home-code-accent);
     transform: translateY(-2px);
   }
+}
+
+.home-code-card:focus-within {
+  border-color: var(--home-code-accent);
+  transform: translateY(-2px);
 }
 
 .activity-calendar-button {
@@ -1953,11 +1963,13 @@ body.citation-dialog-open {
   border: 1px solid var(--home-card-border);
   border-radius: 50%;
   cursor: pointer;
+  transition: color .18s ease, background-color .18s ease, border-color .18s ease;
 }
 
 .citation-dialog-close:hover,
 .citation-dialog-close:focus-visible {
   color: var(--publication-accent);
+  background: color-mix(in srgb, var(--publication-accent) 8%, var(--home-link-bg));
   border-color: var(--publication-accent);
 }
 
@@ -2089,6 +2101,7 @@ body.citation-dialog-open {
   border-radius: 5px;
   font-weight: 650;
   cursor: pointer;
+  transition: color .18s ease, background-color .18s ease, border-color .18s ease, transform .18s ease;
 }
 
 .citation-dialog-actions .citation-action-primary {
@@ -2102,6 +2115,13 @@ body.citation-dialog-open {
 .citation-export-actions button:hover,
 .citation-export-actions button:focus-visible {
   border-color: var(--publication-accent);
+  transform: translateY(-1px);
+}
+
+.citation-export-actions button:hover,
+.citation-export-actions button:focus-visible {
+  color: var(--publication-accent);
+  background: color-mix(in srgb, var(--publication-accent) 7%, var(--home-link-bg));
 }
 
 .citation-export-actions {
@@ -3091,7 +3111,7 @@ html.dark-mode .contact-header-image {
   border: 1px solid var(--home-card-border);
   border-radius: 5px;
   box-shadow: 0 0 0 rgba(0,0,0,0);
-  transition: border-color .25s ease, box-shadow .25s ease;
+  transition: border-color .22s ease, box-shadow .22s ease;
 }
 
 .contact-site-info details[open] {
@@ -3138,7 +3158,7 @@ html.dark-mode .contact-header-image {
 
 .contact-site-info summary > i {
   color: var(--contact-accent);
-  transition: transform .25s ease;
+  transition: transform .22s ease;
 }
 
 .contact-site-info details[open] summary > i {
@@ -3151,7 +3171,7 @@ html.dark-mode .contact-header-image {
 }
 
 .contact-site-info details[open] .contact-detail-content {
-  animation: contact-details-in .28s ease-out both;
+  animation: contact-details-in .22s ease-out both;
 }
 
 @keyframes contact-details-in {
@@ -4111,14 +4131,14 @@ body.site-search-open {
   border: 1px solid var(--home-card-border);
   border-radius: 50%;
   cursor: pointer;
-  transition: color .2s ease, border-color .2s ease, transform .2s ease;
+  transition: color .2s ease, background-color .2s ease, border-color .2s ease;
 }
 
 .site-search-close:hover,
 .site-search-close:focus {
   color: var(--body-text);
+  background: color-mix(in srgb, var(--home-muted) 7%, var(--home-card-bg));
   border-color: var(--home-muted);
-  transform: rotate(5deg);
 }
 
 .site-search-controls {
@@ -5277,16 +5297,6 @@ html.dark-mode .journal-post-image {
   margin-bottom: 35px;
 }
 
-.intro-header.big-img .big-img-transition {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  opacity: 0;
-  background: no-repeat center center;
-  background-size: cover;
-  transition: opacity 1s linear;
-}
-
 .intro-header .page-heading {
   text-align: center;
 }
@@ -5375,7 +5385,8 @@ html.dark-mode .journal-post-image {
   transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
-.copy-btn:hover i {
+.copy-btn:hover i,
+.copy-btn:focus-visible i {
   opacity: 1;
   transform: scale(1.1);
 }
@@ -7501,36 +7512,6 @@ html {
 }
 
 .fab {font-weight: 300;}
-
-.fa.fa-font.fa-stack-1x.fa-inverse {transition: .5s;}
-.fa.fa-font.fa-stack-1x.fa-inverse:hover {color: #f1c40e;}
-
-.fas.fa-home.fa-stack-1x.fa-inverse {transition: .5s;}
-.fas.fa-home.fa-stack-1x.fa-inverse:hover {color: var(--btn-home-hover);}
-
-.fas.fa-at.fa-stack-1x.fa-inverse {transition: .5s;}
-.fas.fa-at.fa-stack-1x.fa-inverse:hover {color: var(--btn-email-hover);}
-
-.fas.fa-rss.fa-stack-1x.fa-inverse {transition: .5s;}
-.fas.fa-rss.fa-stack-1x.fa-inverse:hover {color: #f7a000;}
-
-.fab.fa-researchgate.fa-stack-1x.fa-inverse {transition: .5s;}
-.fab.fa-researchgate.fa-stack-1x.fa-inverse:hover {color: #00ccbb;}
-
-.fab.fa-orcid.fa-stack-1x.fa-inverse {transition: .5s;}
-.fab.fa-orcid.fa-stack-1x.fa-inverse:hover {color: #a1c837;}
-
-.fas.fa-comment-dots.fa-stack-1x.fa-inverse {transition: .5s;}
-.fas.fa-comment-dots.fa-stack-1x.fa-inverse:hover {color: #8187f7;}
-
-.fab.fa-telegram-plane.fa-stack-1x.fa-inverse {transition: .5s;}
-.fab.fa-telegram-plane.fa-stack-1x.fa-inverse:hover {color: #7ec4ea;}
-
-.fab.fa-instagram.fa-stack-1x.fa-inverse {transition: .5s;}
-.fab.fa-instagram.fa-stack-1x.fa-inverse:hover {color: #bb00af;}
-
-.fab.fa-soundcloud.fa-stack-1x.fa-inverse {transition: .5s;}
-.fab.fa-soundcloud.fa-stack-1x.fa-inverse:hover {color: #ef7010;}
 
 /* --- Print --- */
 
