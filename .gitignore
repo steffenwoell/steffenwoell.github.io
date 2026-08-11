@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+GIT_WORKFLOW.md
 
 # general
 .DS_Store
