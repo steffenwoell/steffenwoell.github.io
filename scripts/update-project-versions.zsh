@@ -12,8 +12,8 @@ usage() {
   cat <<'EOF'
 Usage: scripts/update-project-versions.zsh [--dry-run]
 
-Update project versions and, when explicitly present in a release heading,
-codenames in _data/projects.yml from each project's latest GitHub release.
+Update project versions, star counts, and, when explicitly present in a release
+heading, codenames in _data/projects.yml from GitHub.
 
 Options:
   --dry-run  Show the resulting changes without modifying the YAML file.
@@ -91,6 +91,8 @@ fetch_failed=0
 while IFS=$'\t' read -r project_index project_title project_owner project_repo; do
   release_file="$TEMP_DIR/release-$project_index.json"
   release_url="https://api.github.com/repos/$project_owner/$project_repo/releases/latest"
+  repository_file="$TEMP_DIR/repository-$project_index.json"
+  repository_url="https://api.github.com/repos/$project_owner/$project_repo"
 
   print "Checking $project_title …"
   if ! curl --fail --silent --show-error --location \
@@ -99,6 +101,15 @@ while IFS=$'\t' read -r project_index project_title project_owner project_repo; 
       --output "$release_file" \
       "$release_url"; then
     print -u2 "Could not retrieve the latest release for $project_title."
+    fetch_failed=1
+  fi
+
+  if ! curl --fail --silent --show-error --location \
+      --connect-timeout 10 --max-time 30 --retry 2 --retry-delay 1 \
+      "${curl_headers[@]}" \
+      --output "$repository_file" \
+      "$repository_url"; then
+    print -u2 "Could not retrieve repository data for $project_title."
     fetch_failed=1
   fi
 done < "$PROJECT_LIST"
@@ -119,6 +130,7 @@ if ! ruby -rjson -ryaml -e '
     index = Integer(index_text, 10)
     project = projects.fetch(index)
     release = JSON.parse(File.read(File.join(release_dir, "release-#{index}.json")))
+    repository = JSON.parse(File.read(File.join(release_dir, "repository-#{index}.json")))
 
     tag = release["tag_name"].to_s.strip
     version = tag.sub(/\Av/i, "")
@@ -130,6 +142,11 @@ if ! ruby -rjson -ryaml -e '
     codename_match = heading.match(/[\"“]([^\"”\r\n]+)[\"”]/)
     codename = codename_match && codename_match[1].strip
     codename = nil unless codename&.match?(/\A[[:alnum:]][[:alnum:] ._+-]*\z/)
+
+    stars = repository["stargazers_count"]
+    unless stars.is_a?(Integer) && stars >= 0
+      abort "Unexpected star count for #{title}: #{stars.inspect}"
+    end
 
     title_pattern = Regexp.escape(project.fetch("title").to_s)
     block_pattern = /(^- title:\s*#{title_pattern}\s*$.*?)(?=^- title:|\z)/m
@@ -143,6 +160,13 @@ if ! ruby -rjson -ryaml -e '
       else
         updated_block = updated_block.sub(/^(\s*version:\s*.*)$/) { "#{$1}\n  codename: #{codename}" }
       end
+    end
+    if updated_block.match?(/^\s*stars:/)
+      updated_block = updated_block.sub(/^(\s*stars:)\s*.*$/, "\\1 #{stars}")
+    elsif updated_block.match?(/^\s*codename:/)
+      updated_block = updated_block.sub(/^(\s*codename:\s*.*)$/) { "#{$1}\n  stars: #{stars}" }
+    else
+      updated_block = updated_block.sub(/^(\s*version:\s*.*)$/) { "#{$1}\n  stars: #{stars}" }
     end
 
     source = source.sub(block_pattern) { updated_block }
@@ -174,6 +198,6 @@ print "Updated _data/projects.yml:"
 diff -u "$TEMP_DIR/projects-before.yml" "$PROJECTS_FILE" 2>/dev/null || true
 ruby -ryaml -e '
   YAML.safe_load(File.read(ARGV.fetch(0)), permitted_classes: [], aliases: false).each do |project|
-    puts "  #{project["title"]}: v#{project["version"]} · #{project["codename"]}"
+    puts "  #{project["title"]}: v#{project["version"]} · #{project["codename"]} · #{project["stars"]} stars"
   end
 ' "$PROJECTS_FILE"

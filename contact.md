@@ -12,7 +12,7 @@ hide_avatar: true
 <div class="contact-statement">
 <div class="contact-section-label"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</div>
 <h1>Get in touch</h1>
-<p>For research inquiries, professional correspondence, or other messages.</p>
+<p>Contact me about research, professional matters, or other inquiries.</p>
 <img class="contact-header-image" src="{{ page.image | relative_url }}" alt="">
 </div>
 
@@ -66,7 +66,7 @@ hide_avatar: true
 </section>
 
 <section class="contact-section contact-additional" aria-labelledby="contact-details-title">
-<h2 id="contact-details-title">Secure & Postal</h2>
+<h2 id="contact-details-title">Encryption & Postal Mail</h2>
 <details>
 <summary><span><i class="fas fa-fingerprint" aria-hidden="true"></i><span><strong>Encrypted Email</strong><small>GPG / PGP public key and fingerprint</small></span></span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
 <div class="contact-additional-content">
@@ -102,12 +102,13 @@ Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard
 <details id="privacy">
 <summary><span><i class="fas fa-user-shield" aria-hidden="true"></i> Data Privacy</span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
 <div class="contact-detail-content">
-<p>Privacy and <a href="https://ssd.eff.org/">self-defense against surveillance<i class="fas fa-external-link-alt" aria-hidden="true"></i></a> are fundamental rights, both online and offline. This website follows the principles of data protection, privacy, and data minimization. It uses no analytics, tracking technologies, browser fingerprinting, or cookies. In practice, this means:</p>
+<p>Privacy and <a href="https://ssd.eff.org/">self-defense against surveillance<i class="fas fa-external-link-alt" aria-hidden="true"></i></a> are fundamental rights, both online and offline. This website follows the principles of data protection and data minimization. It uses no advertising trackers, browser fingerprinting, or cookies. In practice, this means:</p>
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-cookie-bite" aria-hidden="true"></i></span><strong>Zero</strong> cookies</li>
   <li><span class="fa-li"><i class="fas fa-user-slash" aria-hidden="true"></i></span><strong>Zero</strong> social media integrations</li>
   <li><span class="fa-li"><i class="fas fa-file-alt" aria-hidden="true"></i></span><strong>Zero</strong> site-operated log files</li>
-  <li><span class="fa-li"><i class="fab fa-github-alt" aria-hidden="true"></i></span>This website is hosted by GitHub Pages; <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub’s privacy practices may differ<i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.</li>
+  <li><span class="fa-li"><i class="fas fa-chart-bar" aria-hidden="true"></i></span>GoatCounter collects anonymous, aggregated usage statistics to help improve this website. It uses no cookies or persistent tracking identifiers and does not store visitors’ IP addresses. Data is processed on servers in Germany and Finland. See the <a href="https://www.goatcounter.com/help/privacy">GoatCounter privacy policy<i class="fas fa-external-link-alt" aria-hidden="true"></i></a> for details.</li>
+  <li><span class="fa-li"><i class="fab fa-github-alt" aria-hidden="true"></i></span>This website is hosted by GitHub Pages. See <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub’s privacy statement<i class="fas fa-external-link-alt" aria-hidden="true"></i></a> for information about GitHub’s data practices.</li>
   <li><span class="fa-li"><i class="fas fa-shield-alt" aria-hidden="true"></i></span>To report a security issue, refer to <a href="/.well-known/security.txt">security.txt</a>.</li>
 </ul>
 </div>
@@ -116,11 +117,11 @@ Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard
 <details id="accessibility">
 <summary><span><i class="fas fa-universal-access" aria-hidden="true"></i> Accessibility</span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
 <div class="contact-detail-content">
-<p>This website supports keyboard navigation, a skip link, responsive reflow, reduced motion, system color preferences, and screen-reader labels for interactive controls. If you encounter an accessibility barrier, please <a href="mailto:steffen.woell@uni-leipzig.de">report it by email</a>.</p>
+<p>This website supports keyboard navigation, a skip link, responsive reflow, reduced motion, system color-scheme preferences, and screen-reader labels for interactive controls. If you encounter an accessibility barrier, please <a href="mailto:steffen.woell@uni-leipzig.de">report it by email</a>.</p>
 <div class="keyboard-shortcuts">
-  <h3>Keyboard Shortcuts</h3>
+  <h3>Keyboard Controls</h3>
   <table>
-    <caption class="sr-only">Keyboard shortcuts available on this website</caption>
+    <caption class="sr-only">Keyboard controls available on this website</caption>
     <thead>
       <tr><th scope="col">Keys</th><th scope="col">Action</th></tr>
     </thead>
@@ -153,7 +154,7 @@ Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard
   <li>Self-hosted fonts <span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> are distributed under the <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache License 2.0<i class="fas fa-file" aria-hidden="true"></i></a>.</li>
   <li><span class="pre-inline">Bootstrap CSS</span> is used under the <a rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="fas fa-file" aria-hidden="true"></i></a>.</li>
   <li>Self-hosted icons are provided by <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="fas fa-file" aria-hidden="true"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fas fa-external-link-alt" aria-hidden="true"></i></a> under their respective licenses.</li>
-  <li>Profile picture courtesy of <a href="https://savee.it/vulcano/">Stefano Assom / Vulcano<i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.</li>
+  <li>Portrait photograph by <a href="https://savee.it/vulcano/">Stefano Assom / Vulcano<i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.</li>
   <li>Unless otherwise indicated, all other images are courtesy of <a rel="license" href="https://unsplash.com/license">Unsplash<i class="fas fa-external-link-alt" aria-hidden="true"></i></a>.</li>
 </ul>
 </div>
@@ -162,7 +163,7 @@ Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard
 <details>
 <summary><span><i class="fas fa-external-link-alt" aria-hidden="true"></i> External Links</span><i class="fas fa-chevron-down" aria-hidden="true"></i></summary>
 <div class="contact-detail-content">
-<p>Links to external websites are provided for convenience. Their inclusion does not imply endorsement of, or responsibility for, their content. Removal of a link may be requested via email.</p>
+<p>Links to external websites are provided for convenience. Their inclusion does not imply endorsement of, or responsibility for, their content. To request the removal of a link, please contact me by email.</p>
 </div>
 </details>
 </section>

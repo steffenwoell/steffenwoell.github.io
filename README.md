@@ -118,10 +118,10 @@ scripts/update-project-versions.zsh
 ```
 
 The updater reads the repositories configured in `_data/projects.yml`. It
-removes a leading `v` from each release tag and updates a codename only when the
-first release heading contains one in quotation marks. Existing data is left
-unchanged if any request or validation fails. Preview changes without writing
-the YAML file with:
+removes a leading `v` from each release tag, updates the GitHub star count, and
+updates a codename only when the first release heading contains one in
+quotation marks. Existing data is left unchanged if any request or validation
+fails. Preview changes without writing the YAML file with:
 
 ```bash
 scripts/update-project-versions.zsh --dry-run

@@ -59,7 +59,7 @@ search_exclude: true
 <section class="home-section" aria-labelledby="selected-work">
   <div class="home-section-heading">
     <h2 id="selected-work">Selected Work</h2>
-    <a class="home-section-link" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">&rarr;</span></a>
+    <a class="home-section-link" href="{{ '/publications/' | relative_url }}">All publications <span class="home-link-arrow" aria-hidden="true">&rarr;</span></a>
   </div>
   <div class="home-grid home-work-grid">
     <article class="home-card home-work-card home-work-card--featured">
@@ -72,20 +72,32 @@ search_exclude: true
         </cite>
       </h3>
       <p class="home-work-publisher">De Gruyter</p>
-      <a href="https://doi.org/10.1515/9783110690132">Open access <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
+      <a class="home-work-link home-work-link--open" href="https://doi.org/10.1515/9783110690132" rel="noopener noreferrer">
+        <i class="fas fa-lock-open home-work-link-kind" aria-hidden="true"></i>
+        <span>Open access</span>
+        <i class="fas fa-external-link-alt home-work-link-external" aria-hidden="true"></i>
+      </a>
     </article>
     <article class="home-card home-work-card home-work-card--compact">
       <div class="home-card-meta">Journal Article · 2023</div>
       <h3>Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography</h3>
       <p>Journal of Transnational American Studies.</p>
-      <a href="https://doi.org/10.5070/T814160835">Open access <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
+      <a class="home-work-link home-work-link--open" href="https://doi.org/10.5070/T814160835" rel="noopener noreferrer">
+        <i class="fas fa-lock-open home-work-link-kind" aria-hidden="true"></i>
+        <span>Open access</span>
+        <i class="fas fa-external-link-alt home-work-link-external" aria-hidden="true"></i>
+      </a>
     </article>
     <article class="home-card home-work-card home-work-card--compact home-work-card--random" data-random-work-card data-publication-id="publication-imperial-spatializations-and-archipelagic-counter-geographies-a-selected-corpus-of-works-1">
       <div class="home-work-card-random-content" data-random-work-content>
         <div class="home-card-meta" data-random-work-meta>Digital Humanities · 2024</div>
         <h3 data-random-work-title>Imperial Spatializations and Archipelagic Counter-Geographies</h3>
         <p data-random-work-summary>A selected corpus of works, 1880–1940.</p>
-        <a data-random-work-link href="https://doi.org/10.48736/GD1JYNUEZ"><span data-random-work-link-label>Explore the corpus</span> <span class="fas fa-external-link-alt" aria-hidden="true"></span></a>
+        <a class="home-work-link home-work-link--web" data-random-work-link href="https://doi.org/10.48736/GD1JYNUEZ" rel="noopener noreferrer">
+          <i class="fas fa-globe home-work-link-kind" data-random-work-link-icon aria-hidden="true"></i>
+          <span data-random-work-link-label>Explore the corpus</span>
+          <i class="fas fa-external-link-alt home-work-link-external" data-random-work-link-external aria-hidden="true"></i>
+        </a>
       </div>
       <button class="home-work-shuffle" type="button" data-random-work-button aria-label="Show another publication" title="Show another publication" hidden>
         <span class="fas fa-random" aria-hidden="true"></span>
@@ -123,7 +135,8 @@ search_exclude: true
             title: {{ publication.title | strip_html | jsonify }},
             summary: {% if publication.container.title %}{{ publication.container.title | strip_html | jsonify }}{% elsif publication.book.title %}{{ publication.book.title | strip_html | jsonify }}{% elsif publication.publisher.name %}{{ publication.publisher.name | strip_html | jsonify }}{% elsif publication.series.title %}{{ publication.series.title | strip_html | jsonify }}{% elsif publication.note %}{{ publication.note | strip_html | jsonify }}{% else %}{{ publication.schema_type | jsonify }}{% endif %},
             url: {{ publication_link.url | jsonify }},
-            linkLabel: {{ publication_link.label | jsonify }}
+            linkLabel: {{ publication_link.label | jsonify }},
+            linkAccess: {{ publication_link.access | default: "web" | jsonify }}
           },
           {% endif %}
         {% endif %}
@@ -136,6 +149,15 @@ search_exclude: true
     const summary = card.querySelector('[data-random-work-summary]');
     const link = card.querySelector('[data-random-work-link]');
     const linkLabel = card.querySelector('[data-random-work-link-label]');
+    const linkIcon = card.querySelector('[data-random-work-link-icon]');
+    const externalIcon = card.querySelector('[data-random-work-link-external]');
+    const linkIconClasses = {
+      open: 'fa-lock-open',
+      publisher: 'fa-building',
+      print: 'fa-book',
+      file: 'fa-file-pdf',
+      web: 'fa-globe'
+    };
 
     const choosePublication = () => {
       const alternatives = publications.filter((publication) => publication.id !== card.dataset.publicationId);
@@ -150,6 +172,18 @@ search_exclude: true
       summary.textContent = publication.summary;
       link.href = publication.url;
       linkLabel.textContent = publication.linkLabel || 'View publication';
+      const linkAccess = publication.linkAccess || 'web';
+      link.className = `home-work-link home-work-link--${linkAccess}`;
+      if (linkIcon) {
+        linkIcon.className = `fas ${linkIconClasses[linkAccess] || 'fa-globe'} home-work-link-kind`;
+      }
+      const isExternal = /^[a-z][a-z\d+.-]*:\/\//i.test(publication.url);
+      if (externalIcon) externalIcon.hidden = !isExternal;
+      if (isExternal) {
+        link.rel = 'noopener noreferrer';
+      } else {
+        link.removeAttribute('rel');
+      }
       if (announce && status) status.textContent = `Now showing ${publication.title}`;
     };
 
@@ -205,42 +239,27 @@ search_exclude: true
 
 {% if upcoming_conference %}
 <section class="home-section home-activity" aria-labelledby="upcoming">
-  {% assign upcoming_start_day = upcoming_conference.start | date: "%-d" %}
-  {% assign upcoming_end_day = upcoming_conference.end | date: "%-d" %}
-  {% assign upcoming_start_month = upcoming_conference.start | date: "%b" %}
-  {% assign upcoming_end_month = upcoming_conference.end | date: "%b" %}
-  <time class="home-activity-date" datetime="{{ upcoming_conference.start }}" aria-label="{{ upcoming_conference.date_text }}">
-    <span class="home-activity-date-days">
-      {{- upcoming_start_day -}}
-      {%- if upcoming_conference.start != upcoming_conference.end -%}
-        {%- if upcoming_start_month == upcoming_end_month -%}
-          –{{ upcoming_end_day }}
-        {%- else -%}
-          {{ upcoming_start_month }}–{{ upcoming_end_day }}
-        {%- endif -%}
-      {%- endif -%}
-    </span>
-    <span class="home-activity-date-month">{{ upcoming_end_month }}</span>
-    <span class="home-activity-date-year">{{ upcoming_conference.end | date: "%Y" }}</span>
-  </time>
   <div class="home-activity-content">
-    <div class="home-section-label"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Upcoming Talk</div>
+    <div class="home-activity-meta">
+      <div class="home-section-label"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Upcoming Talk</div>
+      <time class="home-activity-date" datetime="{{ upcoming_conference.start }}">{{ upcoming_conference.date_text }}</time>
+    </div>
     <h2 id="upcoming">{{ upcoming_conference.title }}</h2>
     <p class="home-activity-event">{{ upcoming_conference.event }}</p>
     <p class="home-activity-location"><span class="fas fa-map-marker-alt" aria-hidden="true"></span> {{ upcoming_conference.location }}</p>
-  </div>
-  <div class="home-activity-actions">
-    <button
-      class="home-action calendar-download"
-      type="button"
-      data-calendar-title="{{ upcoming_conference.title | strip_html | escape }}"
-      data-calendar-event="{{ upcoming_conference.event | strip_html | escape }}"
-      data-calendar-location="{{ upcoming_conference.location | strip_html | escape }}"
-      data-calendar-start="{{ upcoming_conference.start }}"
-      data-calendar-end="{{ upcoming_conference.end }}"
-      data-calendar-url="{{ upcoming_conference.url | escape }}"
-    ><span class="fas fa-calendar-plus" aria-hidden="true"></span> <span data-calendar-label>Add to calendar</span></button>
-    <a class="home-action" href="{{ '/activities/' | relative_url }}">View activities&nbsp;<span aria-hidden="true">&rarr;</span></a>
+    <div class="home-activity-actions">
+      <button
+        class="home-action home-action--primary calendar-download"
+        type="button"
+        data-calendar-title="{{ upcoming_conference.title | strip_html | escape }}"
+        data-calendar-event="{{ upcoming_conference.event | strip_html | escape }}"
+        data-calendar-location="{{ upcoming_conference.location | strip_html | escape }}"
+        data-calendar-start="{{ upcoming_conference.start }}"
+        data-calendar-end="{{ upcoming_conference.end }}"
+        data-calendar-url="{{ upcoming_conference.url | escape }}"
+      ><span class="fas fa-calendar-plus" aria-hidden="true"></span> <span data-calendar-label>Add to calendar</span></button>
+      <a class="home-section-link home-activity-link" href="{{ '/activities/' | relative_url }}">View activities <span class="home-link-arrow" aria-hidden="true">&rarr;</span></a>
+    </div>
   </div>
 </section>
 {% endif %}
@@ -248,22 +267,25 @@ search_exclude: true
 <section class="home-section home-code" aria-labelledby="digital-projects">
   <div class="home-section-heading">
     <h2 id="digital-projects">Open-Source Software</h2>
-    <a class="home-section-link" href="https://github.com/steffenwoell">All projects on GitHub&nbsp;<span aria-hidden="true">&rarr;</span></a>
+    <a class="home-section-link" href="https://github.com/steffenwoell">All projects on GitHub <span class="home-link-arrow" aria-hidden="true">&rarr;</span></a>
   </div>
   <div class="home-grid home-code-grid">
     {% for project in site.data.projects %}
-    <article class="home-card home-code-card">
+    <a class="home-card home-code-card" href="{{ project.url }}">
       <span class="fas {{ project.icon }} home-code-icon" aria-hidden="true"></span>
       <h3>{{ project.title }}</h3>
-      <div class="home-code-release"><code>v{{ project.version }} · “{{ project.codename }}”</code></div>
+      <div class="home-code-release">
+        <code>v{{ project.version }} · “{{ project.codename }}”</code>
+        {% if project.stars != nil %}<span class="home-code-stars" aria-label="{{ project.stars }} GitHub {% if project.stars == 1 %}star{% else %}stars{% endif %}"><i class="fas fa-star" aria-hidden="true"></i> {{ project.stars }}</span>{% endif %}
+      </div>
       <p>{{ project.description }}</p>
       <ul class="home-code-technologies" aria-label="Technologies used for {{ project.title }}">
         {% for technology in project.technologies %}
         <li>{{ technology }}</li>
         {% endfor %}
       </ul>
-      <a class="home-code-link" href="{{ project.url }}"><span class="fab fa-github" aria-hidden="true"></span> View on GitHub</a>
-    </article>
+      <span class="home-code-link"><span class="fab fa-github" aria-hidden="true"></span> View on GitHub</span>
+    </a>
     {% endfor %}
   </div>
 </section>
