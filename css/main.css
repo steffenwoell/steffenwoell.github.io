@@ -3232,6 +3232,9 @@ html.dark-mode .contact-header-image {
 }
 
 .contact-site-info-title {
+  display: flex;
+  align-items: center;
+  gap: 13px;
   padding: 0;
   margin: 0 0 18px;
   font-family: 'Inter', Arial, sans-serif;
@@ -3283,8 +3286,16 @@ html.dark-mode .contact-header-image {
   display: none;
 }
 
+.contact-site-info summary > span {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 13px;
+}
+
 .contact-site-info summary span > i {
-  width: 24px;
+  width: 22px;
+  flex: 0 0 22px;
   color: var(--contact-accent);
   text-align: center;
 }
@@ -3924,6 +3935,7 @@ img {
 .navbar-custom .navbar-icon-surface {
   display: inline-flex;
   position: relative;
+  flex: 0 0 34px;
   align-items: center;
   justify-content: center;
   width: 34px;
@@ -6654,8 +6666,17 @@ strong.hl-act {
   .navbar-custom .navbar-theme-button:focus,
   .navbar-custom .navbar-search-button:hover,
   .navbar-custom .navbar-search-button:focus {
-    background-color: var(--glass-surface-hover);
+    background-color: var(--glass-surface);
     border-color: var(--theme-toggle);
+  }
+
+  .navbar-custom .navbar-search-button:focus-visible,
+  .navbar-custom .navbar-theme-button:focus-visible {
+    box-shadow: 0 0 0 2px var(--navbar-bg), 0 0 0 4px var(--navbar-focus);
+  }
+
+  .navbar-custom .navbar-icon-button:focus-visible .navbar-icon-surface {
+    box-shadow: none;
   }
 
   /* Match the desktop switch: mirror the icon without fading its glyphs. */
@@ -6673,6 +6694,7 @@ strong.hl-act {
 
   .navbar-custom .navbar-search-button .navbar-icon-surface,
   .navbar-custom .navbar-theme-button .navbar-icon-surface {
+    flex-basis: 30px;
     width: 30px;
     height: 30px;
   }
