@@ -22,9 +22,11 @@ document.addEventListener('DOMContentLoaded', function () {
   const downloadButtons = Array.from(dialog.querySelectorAll('[data-citation-download]'));
   const tabList = dialog.querySelector('.citation-dialog-tabs');
   const tabs = Array.from(dialog.querySelectorAll('[data-citation-style]'));
+  const dialogPanel = dialog.querySelector('.citation-dialog-panel');
   let currentRecord = null;
   let currentStyle = 'chicago';
   let previouslyFocused = null;
+  let closeTimer = null;
   const dialogIsolation = window.createDialogIsolation
     ? window.createDialogIsolation(dialog)
     : null;
@@ -132,6 +134,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (!currentRecord) return;
     currentStyle = 'chicago';
     previouslyFocused = button;
+    window.clearTimeout(closeTimer);
     title.textContent = currentRecord.title;
     render();
     dialog.hidden = false;
@@ -144,13 +147,29 @@ document.addEventListener('DOMContentLoaded', function () {
   };
 
   const close = function () {
+    if (dialog.hidden || !dialog.classList.contains('is-open')) return;
     dialog.classList.remove('is-open');
-    document.body.classList.remove('citation-dialog-open');
-    if (dialogIsolation) dialogIsolation.disable();
-    window.setTimeout(function () {
+
+    let finished = false;
+    const finishClose = function () {
+      if (finished) return;
+      finished = true;
+      window.clearTimeout(closeTimer);
+      if (dialogPanel) dialogPanel.removeEventListener('transitionend', handleTransitionEnd);
       dialog.hidden = true;
+      document.body.classList.remove('citation-dialog-open');
+      if (dialogIsolation) dialogIsolation.disable();
       if (previouslyFocused) previouslyFocused.focus();
-    }, 180);
+    };
+
+    const handleTransitionEnd = function (event) {
+      if (event.target === dialogPanel && event.propertyName === 'transform') finishClose();
+    };
+
+    if (dialogPanel) {
+      dialogPanel.addEventListener('transitionend', handleTransitionEnd);
+    }
+    closeTimer = window.setTimeout(finishClose, 240);
   };
 
   openButtons.forEach(function (button) {

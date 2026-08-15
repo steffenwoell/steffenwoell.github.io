@@ -150,6 +150,7 @@ document.addEventListener('DOMContentLoaded', function () {
   let resultLinks = [];
   let activeResult = -1;
   let previouslyFocused = null;
+  let closeTimer = null;
   const dialogIsolation = window.createDialogIsolation
     ? window.createDialogIsolation(dialog)
     : null;
@@ -450,6 +451,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const openSearch = function () {
     previouslyFocused = document.activeElement;
+    window.clearTimeout(closeTimer);
     dialog.hidden = false;
     document.body.classList.add('site-search-open');
 
@@ -474,16 +476,33 @@ document.addEventListener('DOMContentLoaded', function () {
   };
 
   const closeSearch = function () {
+    if (dialog.hidden || !dialog.classList.contains('is-open')) return;
     dialog.classList.remove('is-open');
-    document.body.classList.remove('site-search-open');
-    if (dialogIsolation) dialogIsolation.disable();
     input.removeAttribute('aria-activedescendant');
-    window.setTimeout(function () {
+
+    let finished = false;
+    const panel = dialog.querySelector('.site-search-panel');
+    const finishClose = function () {
+      if (finished) return;
+      finished = true;
+      window.clearTimeout(closeTimer);
+      if (panel) panel.removeEventListener('transitionend', handleTransitionEnd);
       dialog.hidden = true;
+      document.body.classList.remove('site-search-open');
+      if (dialogIsolation) dialogIsolation.disable();
       if (previouslyFocused && typeof previouslyFocused.focus === 'function') {
         previouslyFocused.focus();
       }
-    }, 180);
+    };
+
+    const handleTransitionEnd = function (event) {
+      if (event.target === panel && event.propertyName === 'transform') finishClose();
+    };
+
+    if (panel) {
+      panel.addEventListener('transitionend', handleTransitionEnd);
+    }
+    closeTimer = window.setTimeout(finishClose, 280);
   };
 
   openButton.addEventListener('click', openSearch);

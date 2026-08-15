@@ -1991,8 +1991,14 @@ body.citation-dialog-open {
   background: var(--citation-backdrop);
   border: 0;
   cursor: default;
+  opacity: 0;
   -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(5px);
+  transition: opacity .18s ease;
+}
+
+.citation-dialog.is-open .citation-dialog-backdrop {
+  opacity: 1;
 }
 
 .citation-dialog-panel {
@@ -2009,11 +2015,13 @@ body.citation-dialog-open {
   border-radius: 8px;
   box-shadow: 0 22px 65px rgba(0, 0, 0, .25);
   text-align: left;
+  opacity: 0;
   transform: translateY(10px) scale(.99);
-  transition: transform .18s ease;
+  transition: opacity .18s ease, transform .18s ease;
 }
 
 .citation-dialog.is-open .citation-dialog-panel {
+  opacity: 1;
   transform: none;
 }
 
@@ -4204,8 +4212,14 @@ body.site-search-open {
   background: rgba(13, 24, 32, .48);
   border: 0;
   cursor: default;
+  opacity: 0;
   -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(5px);
+  transition: opacity .22s ease;
+}
+
+.site-search.is-open .site-search-backdrop {
+  opacity: 1;
 }
 
 .site-search-panel {
@@ -4219,11 +4233,13 @@ body.site-search-open {
   border: 1px solid var(--home-card-border);
   border-radius: 8px;
   box-shadow: 0 24px 70px rgba(0, 0, 0, .24);
+  opacity: 0;
   transform: translateY(-10px) scale(.985);
-  transition: transform .22s cubic-bezier(.22, .61, .36, 1);
+  transition: opacity .18s ease, transform .22s cubic-bezier(.22, .61, .36, 1);
 }
 
 .site-search.is-open .site-search-panel {
+  opacity: 1;
   transform: translateY(0) scale(1);
 }
 
