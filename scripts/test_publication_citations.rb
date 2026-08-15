@@ -167,7 +167,10 @@ quality_cases = {
   },
   "URL fallback without DOI" => lambda {
     entry = entries_by_id.fetch("publication-beyond-the-artifact-unfolding-medieval-algorithmic-and-unruly-lives-of-maps")
-    generator.generate(entry, "mla-9").include?("https://journals.lib.unb.ca/")
+    expected = "Wöll, Steffen. “Beyond the Artifact: Unfolding Medieval, Algorithmic, and Unruly Lives of Maps.” " \
+               "Material Culture Review / Revue de la Culture Matérielle, vol. 92, 2022, pp. 54–71. " \
+               "https://journals.lib.unb.ca/index.php/MCR/article/view/32833."
+    generator.generate(entry, "mla-9") == expected
   },
   "entry without DOI or URL" => lambda {
     !generator.generate(forthcoming, "chicago-notes-bibliography").include?("http")

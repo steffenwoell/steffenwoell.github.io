@@ -80,6 +80,24 @@ document.addEventListener('DOMContentLoaded', function () {
     return currentRecord[currentStyle].plain;
   };
 
+  const renderFormattedCitation = function (element, value) {
+    const tokens = String(value || '').split(/(<\/?cite>)/i);
+    let parent = element;
+
+    element.replaceChildren();
+    tokens.forEach(function (token) {
+      if (/^<cite>$/i.test(token) && parent === element) {
+        const citation = document.createElement('cite');
+        element.appendChild(citation);
+        parent = citation;
+      } else if (/^<\/cite>$/i.test(token) && parent !== element) {
+        parent = element;
+      } else if (token) {
+        parent.appendChild(document.createTextNode(token));
+      }
+    });
+  };
+
   const render = function () {
     tabs.forEach(function (tab) {
       const active = tab.dataset.citationStyle === currentStyle;
@@ -97,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function () {
       pre.appendChild(code);
       output.replaceChildren(pre);
     } else {
-      output.innerHTML = currentRecord[currentStyle].html;
+      renderFormattedCitation(output, currentRecord[currentStyle].html);
     }
     status.textContent = styleLabel(currentStyle) + ' citation selected.';
     copyButton.querySelector('span').textContent = 'Copy citation';

@@ -164,12 +164,9 @@ document.addEventListener('DOMContentLoaded', function () {
   };
 
   const displayText = function (value) {
-    return String(value || '')
-      .replace(/<[^>]*>/g, ' ')
-      .replace(/&nbsp;/g, ' ')
-      .replace(/&amp;/g, '&')
-      .replace(/&quot;/g, '"')
-      .replace(/&#39;/g, "'")
+    const documentFragment = new DOMParser().parseFromString(String(value || ''), 'text/html');
+    return String(documentFragment.body.textContent || '')
+      .replace(/\u00a0/g, ' ')
       .replace(/\s+/g, ' ')
       .trim();
   };
