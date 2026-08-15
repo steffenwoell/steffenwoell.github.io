@@ -254,6 +254,8 @@ body {
 .no-js .navbar-search-item,
 .no-js .navbar-theme-item,
 .no-js .copy-btn,
+.no-js .journal-post-share,
+.no-js .journal-post-footer-share-only,
 .no-js .calendar-download,
 .no-js #randomJournalEntry,
 .no-js .media-load-button {
@@ -662,7 +664,7 @@ html.dark-mode .home-bio-image {
 
 .home-section-link {
   display: inline-flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 6px;
 }
 
@@ -1977,11 +1979,6 @@ body.citation-dialog-open {
   display: grid;
   place-items: center;
   padding: 24px;
-  opacity: 0;
-  transition: opacity .18s ease;
-}
-
-.citation-dialog.is-open {
   opacity: 1;
 }
 
@@ -2022,7 +2019,7 @@ body.citation-dialog-open {
 
 .citation-dialog-header {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
   gap: 20px;
 }
@@ -4195,11 +4192,6 @@ body.site-search-open {
   align-items: flex-start;
   justify-content: center;
   padding: 92px 20px 24px;
-  opacity: 0;
-  transition: opacity .18s ease;
-}
-
-.site-search.is-open {
   opacity: 1;
 }
 
@@ -5291,15 +5283,28 @@ html.dark-mode .journal-post-image {
   border-radius: 5px;
 }
 
-.journal-post-tags {
+.journal-post-footer {
   display: flex;
   width: calc(100% - 134px);
   max-width: 680px;
-  flex-wrap: wrap;
-  gap: 7px;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
   padding-top: 24px;
   margin: 25px auto 0 67px;
   border-top: 1px solid var(--home-card-border);
+}
+
+.journal-post-footer-share-only {
+  justify-content: flex-end;
+}
+
+.journal-post-tags {
+  display: flex;
+  min-width: 0;
+  flex: 1 1 auto;
+  flex-wrap: wrap;
+  gap: 7px;
 }
 
 .journal-post-tags a {
@@ -5312,6 +5317,47 @@ html.dark-mode .journal-post-image {
   color: var(--body-bg);
   background: var(--journal-accent);
   border-color: var(--journal-accent);
+}
+
+.journal-post-share {
+  display: flex;
+  flex: 0 0 auto;
+  transform: translateY(-7px);
+}
+
+.journal-share-button {
+  display: inline-flex;
+  min-height: 38px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 7px 12px;
+  color: var(--journal-chip-text);
+  background: transparent;
+  border: 1px solid var(--home-card-border);
+  border-radius: 5px;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 650;
+  cursor: pointer;
+  transition: color .2s ease, background-color .2s ease, border-color .2s ease;
+}
+
+.journal-share-button i {
+  width: 1em;
+  line-height: 1;
+  text-align: center;
+}
+
+.journal-share-button:hover,
+.journal-share-button:focus-visible {
+  color: var(--journal-accent);
+  background: color-mix(in srgb, var(--journal-accent) 8%, transparent);
+  border-color: var(--journal-accent);
+}
+
+.journal-share-button.is-copied i::before {
+  content: "\f00c";
 }
 
 .journal-related {
@@ -7033,9 +7079,36 @@ html,
     font-size: 17px;
   }
 
-  .journal-post-tags {
+  .journal-post-footer {
     width: calc(100% - 48px);
+    gap: 12px;
     margin-left: 24px;
+  }
+
+  .journal-share-button {
+    width: 44px;
+    height: 44px;
+    min-height: 44px;
+    padding: 0;
+    border-radius: 50%;
+  }
+
+  .journal-post-share {
+    transform: translateY(-10px);
+  }
+
+  .journal-share-button [data-share-label] {
+    display: none;
+  }
+
+  .journal-share-button.has-status {
+    width: auto;
+    padding: 0 12px;
+    border-radius: 5px;
+  }
+
+  .journal-share-button.has-status [data-share-label] {
+    display: inline;
   }
 
   .journal-post-navigation {
@@ -7563,6 +7636,10 @@ html,
 }
 
 @media (hover: none), (pointer: coarse) {
+.journal-share-button {
+    min-height: 44px;
+  }
+
 .journal-preview-image img,
 .journal-image-placeholder,
   .journal-preview:hover .journal-preview-image img,
@@ -7693,6 +7770,7 @@ html {
   .journal-tools,
   .journal-pagination,
   .journal-post-navigation,
+  .journal-post-share,
   .contact-action,
   .copy-btn,
   .error-page-actions,
@@ -8052,12 +8130,18 @@ html {
     color: #171717 !important;
   }
 
-  .journal-post-tags {
+  .journal-post-footer {
     padding-top: 4mm !important;
     margin-top: 7mm !important;
     border-top: .5pt solid #bbb !important;
     break-inside: avoid-page;
     page-break-inside: avoid;
+  }
+
+  .journal-post-tags {
+    padding: 0 !important;
+    margin: 0 !important;
+    border: 0 !important;
   }
 
   .journal-post-tags a {

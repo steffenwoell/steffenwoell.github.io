@@ -31,14 +31,28 @@ layout: base
     {{ content }}
   </article>
 
-  {% if page.tags.size > 0 %}
-  <nav class="journal-post-tags" aria-label="Tags">
-    {% for tag in page.tags %}
-      {% assign tag_id = tag | slugify %}
-      <a href="{{ '/tags' | relative_url }}#{{- tag_id -}}">{{- tag -}}</a>
-    {% endfor %}
-  </nav>
-  {% endif %}
+  <div class="journal-post-footer{% unless page.tags.size > 0 %} journal-post-footer-share-only{% endunless %}">
+    {% if page.tags.size > 0 %}
+    <nav class="journal-post-tags" aria-label="Tags">
+      {% for tag in page.tags %}
+        {% assign tag_id = tag | slugify %}
+        <a href="{{ '/tags' | relative_url }}#{{- tag_id -}}">{{- tag -}}</a>
+      {% endfor %}
+    </nav>
+    {% endif %}
+
+    <div class="journal-post-share">
+      <button class="journal-share-button" type="button"
+              data-share-title="{{ page.title | escape }}"
+              data-share-url="{{ page.url | absolute_url }}"
+              aria-label="Share this journal entry"
+              aria-describedby="journalShareStatus">
+        <i class="fa-solid fa-share-nodes" aria-hidden="true"></i>
+        <span data-share-label>Share</span>
+      </button>
+      <span id="journalShareStatus" class="sr-only" aria-live="polite"></span>
+    </div>
+  </div>
 
   {% if page.tags.size > 0 %}
     {% assign related_count = 0 %}
@@ -88,3 +102,4 @@ layout: base
   </nav>
   {% endif %}
 </main>
+<script src="{{ '/js/share.js' | relative_url }}"></script>
