@@ -41,7 +41,11 @@
         <button type="button" data-citation-download-all="ris" hidden>RIS</button>
         <button type="button" data-citation-download-all="csl-json" hidden>CSL-JSON</button>
       </div>
-      <small class="publication-downloads-count">{{ site.data.publication-citations-generated.size }} publications</small>
+      <small class="publication-downloads-count">
+        <span>{{ site.data.publication-citations-generated.size }} publications</span>
+        <span aria-hidden="true">&middot;</span>
+        <time datetime="{{ site.data.publications.updated | date: '%Y-%m-%d' }}">Updated {{ site.data.publications.updated | date: '%b %Y' }}</time>
+      </small>
       <span class="sr-only" data-citation-download-all-status aria-live="polite"></span>
     </div>
     </div>

@@ -47,7 +47,8 @@ search_exclude: true
   {%- assign tag_id = tag | slugify -%}
   <details id="{{- tag_id -}}" class="tag-archive-section" open>
     <summary class="tag-archive-heading">
-        <span>{{- tag -}}</span><span class="tag-heading-count">{{- site.tags[tag].size -}}</span>
+        <span class="tag-archive-name">{{- tag -}}</span>
+        <span class="tag-heading-count">{{- site.tags[tag].size }} {% if site.tags[tag].size == 1 %}entry{% else %}entries{% endif %}</span>
         <i class="fas fa-chevron-down tag-archive-toggle" aria-hidden="true"></i>
     </summary>
     <ul class="tag-post-list">

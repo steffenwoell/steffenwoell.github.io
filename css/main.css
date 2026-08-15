@@ -1430,6 +1430,10 @@ html.dark-mode .publication-header-image {
 }
 
 .publication-downloads-count {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
   margin-left: 2px;
   color: var(--home-muted);
   font-size: 11px;
@@ -4869,7 +4873,7 @@ footer a {
   color: var(--home-muted);
   font-family: 'Inter', Arial, sans-serif;
   font-size: 11px;
-  font-style: italic;
+  font-style: normal;
   text-align: right;
 }
 
@@ -6133,7 +6137,7 @@ strong.hl-act {
 }
 
 .tag-archive-section + .tag-archive-section {
-  margin-top: 55px;
+  margin-top: 38px;
 }
 
 .tag-archive-section {
@@ -6146,12 +6150,15 @@ strong.hl-act {
 .tag-archive-heading {
   display: flex;
   align-items: center;
-  gap: 12px;
-  padding: 0 0 13px 18px;
-  margin: 0 0 8px;
+  gap: 10px;
+  min-height: 54px;
+  padding: 11px 14px 11px 16px;
+  margin: 0 0 6px;
   color: var(--h1);
-  border-bottom: 1px solid var(--home-card-border);
-  font-size: 25px;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--journal-accent) 10%, transparent), transparent 82%);
+  border-left: 4px solid var(--journal-accent);
+  border-radius: 4px;
+  font-size: 22px;
   font-style: normal;
   line-height: 1.35;
   list-style: none;
@@ -6163,24 +6170,21 @@ strong.hl-act {
   display: none;
 }
 
-.tag-archive-heading::before {
-  content: "";
-  align-self: stretch;
-  width: 5px;
-  margin-left: -18px;
-  background: var(--journal-accent);
-  border-radius: 3px;
-}
-
 .tag-heading-count {
+  min-width: 0;
+  height: auto;
+  padding: 0;
   color: var(--journal-chip-text);
-  background: var(--journal-chip-bg);
+  background: transparent;
+  font-size: 10px;
+  letter-spacing: .04em;
+  text-transform: uppercase;
 }
 
 .tag-archive-toggle {
   margin-left: auto;
   color: var(--journal-accent);
-  font-size: 13px;
+  font-size: 11px;
   transition: transform .22s ease;
 }
 
@@ -6221,7 +6225,7 @@ strong.hl-act {
 
 #full-tags-list .tag-entry .entry-date {
   color: var(--home-muted);
-  font-style: italic;
+  font-style: normal;
   font-size: 14px;
   white-space: nowrap;
 }
@@ -7442,15 +7446,6 @@ html,
     max-width: 100%;
   }
 
-  .tag-archive-heading {
-    padding-left: 15px;
-    font-size: 24px;
-  }
-
-  .tag-archive-heading::before {
-    margin-left: -15px;
-  }
-
   #full-tags-list .tag-entry {
     grid-template-columns: 1fr;
     gap: 4px;
@@ -7476,7 +7471,10 @@ html,
     min-height: 48px;
     padding: 11px 14px;
     margin: 0;
+    background: color-mix(in srgb, var(--journal-accent) 7%, transparent);
+    border-left: 0;
     border-bottom: 0;
+    border-radius: 0;
     font-size: 20px;
     scroll-margin-top: 90px;
   }

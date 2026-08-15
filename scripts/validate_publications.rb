@@ -54,6 +54,7 @@ def validate_data(data)
   entries = data["entries"]
 
   errors << "schema_version must be 1" unless data["schema_version"] == 1
+  errors << "updated must use YYYY-MM-DD" unless data["updated"].is_a?(Date)
   errors << "categories must be a non-empty list" unless categories.is_a?(Array) && !categories.empty?
   errors << "entries must be a list" unless entries.is_a?(Array)
   return errors unless categories.is_a?(Array) && entries.is_a?(Array)
