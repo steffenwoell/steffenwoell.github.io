@@ -22,16 +22,6 @@ document.addEventListener('DOMContentLoaded', function () {
   }, { passive: true });
   updateNavbarState();
 
-  if (mainNavbar && window.jQuery) {
-    const collapsibleNavbar = window.jQuery(mainNavbar);
-    collapsibleNavbar.on('show.bs.collapse', function () {
-      navbar.classList.add('top-nav-expanded');
-    });
-    collapsibleNavbar.on('hidden.bs.collapse', function () {
-      navbar.classList.remove('top-nav-expanded');
-    });
-  }
-
   if (mainNavbar) {
     const parentButtons = mainNavbar.querySelectorAll('.navlinks-parent');
     parentButtons.forEach(function (button) {

@@ -10,11 +10,10 @@ and journal posts.
 
 - Jekyll
 - Markdown, HTML, CSS, JavaScript
-- Bootstrap 3
-- jQuery
 - Font Awesome (self-hosted)
 
-The site does not use analytics, cookies or tracking technologies.
+The site uses cookie-free, privacy-focused GoatCounter analytics and does not
+use advertising trackers or persistent tracking identifiers.
 
 ## Project structure
 
@@ -23,11 +22,11 @@ _data/       Structured data used by templates
 _includes/   Reusable Liquid and HTML components
 _layouts/    Page and post layouts
 _posts/      Journal posts
-css/         Site styles, Bootstrap, fonts, and Font Awesome
+css/         Site styles, fonts, and Font Awesome
 doc/         Publications, keys, and legal documents
 img/         Images and favicons
 journal/     Journal index
-js/          Site scripts and local JavaScript dependencies
+js/          Site scripts
 ```
 
 Site-wide settings, navigation links, pagination, exclusions, and plugins are

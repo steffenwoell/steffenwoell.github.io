@@ -270,13 +270,18 @@ body {
     display: none !important;
   }
 
-  .no-js .navbar-collapse.collapse {
+  .no-js .navbar-custom .navbar-collapse.collapse {
     display: block !important;
     position: static;
     width: 100%;
     max-height: none;
     clear: both;
     overflow: visible;
+    visibility: visible;
+    opacity: 1;
+    pointer-events: auto;
+    transform: none;
+    transition: none;
     border-right: 0;
     border-left: 0;
     border-radius: 0;
@@ -3786,7 +3791,7 @@ img {
   max-width: 100%;
 }
 
-/* Preserve the site's full-width layout on top of Bootstrap 3.4.1. */
+/* Preserve the site's intentionally full-width page layout. */
 .container {
   width: 100%;
   margin-right: 0;
@@ -6545,9 +6550,22 @@ strong.hl-act {
     backdrop-filter: none;
   }
 
-  .navbar-custom .navbar-collapse.collapsing {
-    transition-timing-function: ease-out;
-    transition-duration: .25s;
+  .navbar-custom .navbar-collapse.collapse {
+    display: block !important;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-8px);
+    transition: visibility 0s linear .25s, opacity .25s ease, transform .25s ease;
+  }
+
+  .navbar-custom .navbar-collapse.collapse.is-open {
+    visibility: visible;
+    overflow-y: auto !important;
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+    transition-delay: 0s;
   }
 
   .navbar-custom .navbar-center {
@@ -6683,15 +6701,6 @@ strong.hl-act {
     padding-left: 15px;
     border-top: 1px solid var(--navbar-mobile-divider);
     box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
-  }
-
-  .navbar-custom .navbar-collapse.collapse {
-    display: none !important;
-  }
-
-  .navbar-custom .navbar-collapse.collapse.in {
-    display: block !important;
-    overflow-y: auto !important;
   }
 
   .navbar-custom .navbar-nav,

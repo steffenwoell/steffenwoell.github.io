@@ -456,9 +456,8 @@ document.addEventListener('DOMContentLoaded', function () {
     dialog.hidden = false;
     document.body.classList.add('site-search-open');
 
-    const mainNavbar = document.getElementById('main-navbar');
-    if (mainNavbar && mainNavbar.classList.contains('in') && window.jQuery) {
-      window.jQuery(mainNavbar).collapse('hide');
+    if (window.siteNavigation && window.siteNavigation.isOpen()) {
+      window.siteNavigation.close();
     }
 
     window.requestAnimationFrame(function () {

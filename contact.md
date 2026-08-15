@@ -152,8 +152,7 @@ Germany" title="Copy to clipboard" aria-label="Copy mailing address to clipboard
 <ul class="contact-license-list">
   <li>Unless otherwise stated, all content on this personal, non-commercial website is licensed under the Creative Commons <a rel="license" href="/doc/legal/CC-LICENSE.txt">BY-NC-ND 4.0 license<i class="fa-solid fa-file" aria-hidden="true"></i></a>.</li>
   <li>Self-hosted fonts <span class="pre-inline">Inter</span> and <span class="pre-inline">Playfair Display</span> are distributed under the <a rel="license" href="/doc/legal/APACHE-LICENSE.txt">Apache License 2.0<i class="fa-solid fa-file" aria-hidden="true"></i></a>.</li>
-  <li><span class="pre-inline">Bootstrap CSS</span> is used under the <a rel="license" href="/doc/legal/MIT-LICENSE.txt">MIT License<i class="fa-solid fa-file" aria-hidden="true"></i></a>.</li>
-  <li>Self-hosted icons are provided by <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="fa-solid fa-file" aria-hidden="true"></i></a> and <a rel="license" href="https://glyphicons.com/license/">Glyphicons<i class="fa-solid fa-up-right-from-square" aria-hidden="true"></i></a> under their respective licenses.</li>
+  <li>Self-hosted icons are provided by <a rel="license" href="/doc/legal/FA-LICENSE.txt">Font Awesome<i class="fa-solid fa-file" aria-hidden="true"></i></a> under its open-source license.</li>
   <li>Portrait photograph by <a href="https://savee.it/vulcano/">Stefano Assom / Vulcano<i class="fa-solid fa-up-right-from-square" aria-hidden="true"></i></a>.</li>
   <li>Unless otherwise indicated, all other images are courtesy of <a rel="license" href="https://unsplash.com/license">Unsplash<i class="fa-solid fa-up-right-from-square" aria-hidden="true"></i></a>.</li>
 </ul>
