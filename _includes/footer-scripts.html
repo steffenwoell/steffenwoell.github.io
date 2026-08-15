@@ -207,7 +207,7 @@
         const downloadUrl = URL.createObjectURL(blob);
         const downloadLink = document.createElement('a');
         const buttonLabel = button.querySelector('[data-calendar-label]');
-        const buttonIcon = button.querySelector('i, .fas');
+        const buttonIcon = button.querySelector('i, .fa-solid');
         const originalLabel = buttonLabel ? buttonLabel.textContent : '';
         downloadLink.href = downloadUrl;
         downloadLink.download = `${uidBase || 'academic-event'}.ics`;

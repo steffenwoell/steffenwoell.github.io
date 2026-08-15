@@ -11,14 +11,14 @@ layout: base
 <main id="main-content" class="journal-post" tabindex="-1">
   <header class="journal-post-header">
     <div class="journal-post-heading">
-      <a class="journal-post-label" href="{{ '/journal/' | relative_url }}"><i class="fas fa-pen" aria-hidden="true"></i> Journal</a>
+      <a class="journal-post-label" href="{{ '/journal/' | relative_url }}"><i class="fa-solid fa-pen" aria-hidden="true"></i> Journal</a>
       <h1>{{ page.title }}{% if page.subtitle %}<span class="journal-post-subtitle">{{ page.subtitle }}</span>{% endif %}</h1>
       <div class="journal-post-meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}"><i class="far fa-calendar-alt" aria-hidden="true"></i>{{ page.date | date: site.date_format }}</time>
+        <time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i>{{ page.date | date: site.date_format }}</time>
         {% assign journal_word_count = content | strip_html | number_of_words %}
         {% if journal_word_count >= 400 %}
           {% assign journal_reading_time = journal_word_count | plus: 199 | divided_by: 200 %}
-          <span aria-label="Estimated reading time"><i class="far fa-clock" aria-hidden="true"></i> {{ journal_reading_time }} min read</span>
+          <span aria-label="Estimated reading time"><i class="fa-solid fa-clock" aria-hidden="true"></i> {{ journal_reading_time }} min read</span>
         {% endif %}
       </div>
     </div>

@@ -15,7 +15,7 @@ search_exclude: true
 </header>
 
 <div class="home-statement">
-  <div class="home-section-label"><span class="fas fa-compass" aria-hidden="true"></span> Research Statement</div>
+  <div class="home-section-label"><span class="fa-solid fa-compass" aria-hidden="true"></span> Research Statement</div>
   <p class="home-lead">Researching how literature and culture <span>imagine, map, and transform space.</span></p>
 </div>
 
@@ -30,7 +30,7 @@ search_exclude: true
 </section>
 
 <section class="home-section home-current" aria-labelledby="current-project">
-  <div class="home-section-label"><span class="fas fa-flask" aria-hidden="true"></span> Current Project</div>
+  <div class="home-section-label"><span class="fa-solid fa-flask" aria-hidden="true"></span> Current Project</div>
   <h2 id="current-project"><cite>A Place Between Oceans: Imagining American Empire, 1880–1940</cite></h2>
   <p>The project examines how transoceanic and archipelagic imaginaries shaped U.S. imperial expansion and literary culture at the turn of the twentieth century.</p>
 </section>
@@ -39,17 +39,17 @@ search_exclude: true
   <h2 id="research-areas">Research Areas</h2>
   <div class="home-grid home-research-grid">
     <article class="home-card">
-      <span class="fas fa-map-marked-alt home-card-icon" aria-hidden="true"></span>
+      <span class="fa-solid fa-map-location-dot home-card-icon" aria-hidden="true"></span>
       <h3>Spatial Imaginaries</h3>
       <p>Historical discourses of space, critical cartography, and the cultural production of place.</p>
     </article>
     <article class="home-card">
-      <span class="fas fa-water home-card-icon" aria-hidden="true"></span>
+      <span class="fa-solid fa-water home-card-icon" aria-hidden="true"></span>
       <h3>Oceans and Empire</h3>
       <p>Archipelagic and island studies, mobility, borders, U.S. empire, and globalization.</p>
     </article>
     <article class="home-card">
-      <span class="fas fa-theater-masks home-card-icon" aria-hidden="true"></span>
+      <span class="fa-solid fa-masks-theater home-card-icon" aria-hidden="true"></span>
       <h3>Popular and Digital Culture</h3>
       <p>Intersections of popular and digital culture, with particular interests in horror and game studies.</p>
     </article>
@@ -73,9 +73,9 @@ search_exclude: true
       </h3>
       <p class="home-work-publisher">De Gruyter</p>
       <a class="home-work-link home-work-link--open" href="https://doi.org/10.1515/9783110690132" rel="noopener noreferrer">
-        <i class="fas fa-lock-open home-work-link-kind" aria-hidden="true"></i>
+        <i class="fa-solid fa-lock-open home-work-link-kind" aria-hidden="true"></i>
         <span>Open access</span>
-        <i class="fas fa-external-link-alt home-work-link-external" aria-hidden="true"></i>
+        <i class="fa-solid fa-up-right-from-square home-work-link-external" aria-hidden="true"></i>
       </a>
     </article>
     <article class="home-card home-work-card home-work-card--compact">
@@ -83,9 +83,9 @@ search_exclude: true
       <h3>Unmasking Maps, Unmaking Empire: Towards an Archipelagic Cartography</h3>
       <p>Journal of Transnational American Studies.</p>
       <a class="home-work-link home-work-link--open" href="https://doi.org/10.5070/T814160835" rel="noopener noreferrer">
-        <i class="fas fa-lock-open home-work-link-kind" aria-hidden="true"></i>
+        <i class="fa-solid fa-lock-open home-work-link-kind" aria-hidden="true"></i>
         <span>Open access</span>
-        <i class="fas fa-external-link-alt home-work-link-external" aria-hidden="true"></i>
+        <i class="fa-solid fa-up-right-from-square home-work-link-external" aria-hidden="true"></i>
       </a>
     </article>
     <article class="home-card home-work-card home-work-card--compact home-work-card--random" data-random-work-card data-publication-id="publication-imperial-spatializations-and-archipelagic-counter-geographies-a-selected-corpus-of-works-1">
@@ -94,13 +94,13 @@ search_exclude: true
         <h3 data-random-work-title>Imperial Spatializations and Archipelagic Counter-Geographies</h3>
         <p data-random-work-summary>A selected corpus of works, 1880–1940.</p>
         <a class="home-work-link home-work-link--web" data-random-work-link href="https://doi.org/10.48736/GD1JYNUEZ" rel="noopener noreferrer">
-          <i class="fas fa-globe home-work-link-kind" data-random-work-link-icon aria-hidden="true"></i>
+          <i class="fa-solid fa-globe home-work-link-kind" data-random-work-link-icon aria-hidden="true"></i>
           <span data-random-work-link-label>Explore the corpus</span>
-          <i class="fas fa-external-link-alt home-work-link-external" data-random-work-link-external aria-hidden="true"></i>
+          <i class="fa-solid fa-up-right-from-square home-work-link-external" data-random-work-link-external aria-hidden="true"></i>
         </a>
       </div>
       <button class="home-work-shuffle" type="button" data-random-work-button aria-label="Show another publication" title="Show another publication" hidden>
-        <span class="fas fa-random" aria-hidden="true"></span>
+        <span class="fa-solid fa-shuffle" aria-hidden="true"></span>
       </button>
     </article>
   </div>
@@ -175,7 +175,7 @@ search_exclude: true
       const linkAccess = publication.linkAccess || 'web';
       link.className = `home-work-link home-work-link--${linkAccess}`;
       if (linkIcon) {
-        linkIcon.className = `fas ${linkIconClasses[linkAccess] || 'fa-globe'} home-work-link-kind`;
+        linkIcon.className = `fa-solid ${linkIconClasses[linkAccess] || 'fa-globe'} home-work-link-kind`;
       }
       const isExternal = /^[a-z][a-z\d+.-]*:\/\//i.test(publication.url);
       if (externalIcon) externalIcon.hidden = !isExternal;
@@ -241,12 +241,12 @@ search_exclude: true
 <section class="home-section home-activity" aria-labelledby="upcoming">
   <div class="home-activity-content">
     <div class="home-activity-meta">
-      <div class="home-section-label"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Upcoming Talk</div>
+      <div class="home-section-label"><span class="fa-solid fa-calendar-days" aria-hidden="true"></span> Upcoming Talk</div>
       <time class="home-activity-date" datetime="{{ upcoming_conference.start }}">{{ upcoming_conference.date_text }}</time>
     </div>
     <h2 id="upcoming">{{ upcoming_conference.title }}</h2>
     <p class="home-activity-event">{{ upcoming_conference.event }}</p>
-    <p class="home-activity-location"><span class="fas fa-map-marker-alt" aria-hidden="true"></span> {{ upcoming_conference.location }}</p>
+    <p class="home-activity-location"><span class="fa-solid fa-location-dot" aria-hidden="true"></span> {{ upcoming_conference.location }}</p>
     <div class="home-activity-actions">
       <button
         class="home-action home-action--primary calendar-download"
@@ -257,7 +257,7 @@ search_exclude: true
         data-calendar-start="{{ upcoming_conference.start }}"
         data-calendar-end="{{ upcoming_conference.end }}"
         data-calendar-url="{{ upcoming_conference.url | escape }}"
-      ><span class="fas fa-calendar-plus" aria-hidden="true"></span> <span data-calendar-label>Add to calendar</span></button>
+      ><span class="fa-solid fa-calendar-plus" aria-hidden="true"></span> <span data-calendar-label>Add to calendar</span></button>
       <a class="home-section-link home-activity-link" href="{{ '/activities/' | relative_url }}">View activities <span class="home-link-arrow" aria-hidden="true">&rarr;</span></a>
     </div>
   </div>
@@ -272,11 +272,11 @@ search_exclude: true
   <div class="home-grid home-code-grid">
     {% for project in site.data.projects %}
     <a class="home-card home-code-card" href="{{ project.url }}">
-      <span class="fas {{ project.icon }} home-code-icon" aria-hidden="true"></span>
+      <span class="fa-solid {{ project.icon }} home-code-icon" aria-hidden="true"></span>
       <h3>{{ project.title }}</h3>
       <div class="home-code-release">
         <code>v{{ project.version }} · “{{ project.codename }}”</code>
-        {% if project.stars != nil %}<span class="home-code-stars" aria-label="{{ project.stars }} GitHub {% if project.stars == 1 %}star{% else %}stars{% endif %}"><i class="fas fa-star" aria-hidden="true"></i> {{ project.stars }}</span>{% endif %}
+        {% if project.stars != nil %}<span class="home-code-stars" aria-label="{{ project.stars }} GitHub {% if project.stars == 1 %}star{% else %}stars{% endif %}"><i class="fa-solid fa-star" aria-hidden="true"></i> {{ project.stars }}</span>{% endif %}
       </div>
       <p>{{ project.description }}</p>
       <ul class="home-code-technologies" aria-label="Technologies used for {{ project.title }}">
@@ -284,7 +284,7 @@ search_exclude: true
         <li>{{ technology }}</li>
         {% endfor %}
       </ul>
-      <span class="home-code-link"><span class="fab fa-github" aria-hidden="true"></span> View on GitHub</span>
+      <span class="home-code-link"><span class="fa-brands fa-github" aria-hidden="true"></span> View on GitHub</span>
     </a>
     {% endfor %}
   </div>

@@ -14,7 +14,7 @@ Graphic footage, viewer discretion is advised.
 <em>Berkeley, CA</em> Street fighting broke out after Antifa and Black Bloc protestors disrupted a planned Free Speech Rally in the vicinity of Civic Center Park.
 
 {: .box-note}
-<a href="https://youtu.be/3cSBrE1ETDg">Watch the video on YouTube<i class="fab fa-youtube" role="presentation"></i></a>
+<a href="https://youtu.be/3cSBrE1ETDg">Watch the video on YouTube<i class="fa-brands fa-youtube" role="presentation"></i></a>
 
 > It doesn't matter how you wear your hair<br>
 It's what inside your head<br>

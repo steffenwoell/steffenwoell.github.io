@@ -12,15 +12,15 @@ search_exclude: true
 <div class="journal-page">
   <header class="journal-header">
     <div class="journal-statement">
-      <div class="journal-section-label"><i class="fas fa-pen" aria-hidden="true"></i> Journal</div>
+      <div class="journal-section-label"><i class="fa-solid fa-pen" aria-hidden="true"></i> Journal</div>
       <h1>Poetry, field notes &amp; music</h1>
       <div class="journal-motto">{{ page.subtitle }}</div>
     </div>
     <nav class="journal-tools" aria-label="Journal tools">
-      <a href="{{ '/journal/archive/' | relative_url }}"><i class="fas fa-archive" aria-hidden="true"></i><span>Archive</span></a>
-      <a href="{{ '/tags/' | relative_url }}"><i class="fas fa-tag" aria-hidden="true"></i><span>Tags</span></a>
-      <button id="randomJournalEntry" type="button"><i class="fas fa-random" aria-hidden="true"></i><span>Random</span></button>
-      <a href="{{ '/feed.xml' | relative_url }}"><i class="fas fa-rss" aria-hidden="true"></i><span>RSS</span></a>
+      <a href="{{ '/journal/archive/' | relative_url }}"><i class="fa-solid fa-box-archive" aria-hidden="true"></i><span>Archive</span></a>
+      <a href="{{ '/tags/' | relative_url }}"><i class="fa-solid fa-tag" aria-hidden="true"></i><span>Tags</span></a>
+      <button id="randomJournalEntry" type="button"><i class="fa-solid fa-shuffle" aria-hidden="true"></i><span>Random</span></button>
+      <a href="{{ '/feed.xml' | relative_url }}"><i class="fa-solid fa-rss" aria-hidden="true"></i><span>RSS</span></a>
     </nav>
   </header>
 
@@ -38,7 +38,7 @@ search_exclude: true
         <div class="journal-preview-copy">
           <h2 id="{{ journal_preview_title_id }}">{{ post.title }}</h2>
           {% if post.subtitle %}
-          <div class="journal-preview-location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ post.subtitle }}</div>
+          <div class="journal-preview-location"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> {{ post.subtitle }}</div>
           {% endif %}
 
           {% if post.excerpt %}
@@ -63,7 +63,7 @@ search_exclude: true
           <img src="{{ post.image | relative_url }}" alt="Featured image for {{ post.title | escape }}" draggable="false">
           {% else %}
           <span class="journal-image-placeholder">
-            <i class="fas fa-pen" aria-hidden="true"></i>
+            <i class="fa-solid fa-pen" aria-hidden="true"></i>
           </span>
           {% endif %}
         </div>

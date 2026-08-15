@@ -14,7 +14,7 @@ js:
 
 <div class="publication-header">
 <div class="publication-statement">
-<h1 class="home-section-label"><i class="fas fa-book-open" aria-hidden="true"></i> Publications</h1>
+<h1 class="home-section-label"><i class="fa-solid fa-book-open" aria-hidden="true"></i> Publications</h1>
 <p>Publications across print, maps, and digital media</p>
 <img class="publication-header-image" src="{{ page.image | relative_url }}" alt="">
 </div>

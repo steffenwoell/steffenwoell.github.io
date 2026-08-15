@@ -15,7 +15,7 @@
   codename: Robin
   stars: 1
   description: Apple Reminders in your menu bar.
-  icon: fa-tasks
+  icon: fa-list-check
   technologies:
     - EventKit
     - Natural Language
@@ -27,7 +27,7 @@
   codename: Frija
   stars: 1
   description: A customizable macOS action bar that provides context-aware tools for selected text.
-  icon: fa-magic
+  icon: fa-wand-magic
   technologies:
     - AppKit
     - JSON Plug-ins

@@ -1,49 +1,49 @@
 home:
   name: "Home"
   baseURL: "#"
-  icon: "fas fa-home"
+  icon: "fa-solid fa-house"
 
 email:
   name: "Email"
   baseURL: "mailto:"
-  icon: "fas fa-at"
+  icon: "fa-solid fa-at"
 
 telephone:
   name: "Phone"
   baseURL: "tel:"
-  icon: "fas fa-phone"
+  icon: "fa-solid fa-phone"
 
 rss:
   name: "RSS Feed"
   baseURL: "{{ '/feed.xml' | relative_url }}"
-  icon: "fas fa-rss"
+  icon: "fa-solid fa-rss"
 
 researchgate:
   name: "ResearchGate"
   baseURL: "https://www.researchgate.net/profile/"
-  icon: "fab fa-researchgate"
+  icon: "fa-brands fa-researchgate"
 
 orcid:
   name: "ORCID"
   baseURL: "https://orcid.org/"
-  icon: "fab fa-orcid"
+  icon: "fa-brands fa-orcid"
 
 signal:
   name: "Signal"
   baseURL: "https://signal.me/#eu/"
-  icon: "fas fa-comment-dots"
+  icon: "fa-solid fa-comment-dots"
 
 telegram:
   name: "Telegram"
   baseURL: "https://t.me/"
-  icon: "fab fa-telegram-plane"
+  icon: "fa-brands fa-telegram"
 
 instagram:
   name: "Instagram"
   baseURL: "https://www.instagram.com/"
-  icon: "fab fa-instagram"
+  icon: "fa-brands fa-instagram"
 
 soundcloud:
   name: "SoundCloud"
   baseURL: "https://soundcloud.com/"
-  icon: "fab fa-soundcloud"
+  icon: "fa-brands fa-soundcloud"

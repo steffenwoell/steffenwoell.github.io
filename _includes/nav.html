@@ -22,7 +22,7 @@
         {%- assign journal_section_active = true -%}
       {%- endif -%}
       <ul class="nav navbar-nav navbar-center">
-        <li class="nav-item-home{% if page.url == '/' %} active{% endif %}"><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}><i class="fas fa-home nav-link-icon" aria-hidden="true"></i>Home</a></li>
+        <li class="nav-item-home{% if page.url == '/' %} active{% endif %}"><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}><i class="fa-solid fa-house nav-link-icon" aria-hidden="true"></i>Home</a></li>
         {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
         <li class="navlinks-container">
@@ -39,7 +39,7 @@
         {%- assign nav_icon = '' -%}
         {%- case link[0] -%}
           {%- when 'Publications' -%}{%- assign nav_icon = 'fa-book-open' -%}
-          {%- when 'Activities' -%}{%- assign nav_icon = 'fa-calendar-alt' -%}
+          {%- when 'Activities' -%}{%- assign nav_icon = 'fa-calendar-days' -%}
           {%- when 'Journal' -%}{%- assign nav_icon = 'fa-pen' -%}
           {%- when 'Contact' -%}{%- assign nav_icon = 'fa-envelope' -%}
         {%- endcase -%}
@@ -49,7 +49,7 @@
         {%- elsif link[0] == 'Journal' and journal_section_active -%}
           {%- assign nav_item_active = true -%}
         {%- endif -%}
-        <li class="nav-item-{{ link[0] | slugify }}{% if nav_item_active %} active{% endif %}"><a href="{{ link[1] | relative_url }}"{% if page.title == link[0] %} aria-current="page"{% elsif link[0] == 'Journal' and journal_section_active %} aria-current="location"{% endif %}>{% if nav_icon != '' %}<i class="fas {{ nav_icon }} nav-link-icon" aria-hidden="true"></i>{% endif %}{{ link[0] }}</a></li>
+        <li class="nav-item-{{ link[0] | slugify }}{% if nav_item_active %} active{% endif %}"><a href="{{ link[1] | relative_url }}"{% if page.title == link[0] %} aria-current="page"{% elsif link[0] == 'Journal' and journal_section_active %} aria-current="location"{% endif %}>{% if nav_icon != '' %}<i class="fa-solid {{ nav_icon }} nav-link-icon" aria-hidden="true"></i>{% endif %}{{ link[0] }}</a></li>
         {%- endif -%}
         {%- endfor -%}
       </ul>
@@ -57,7 +57,7 @@
         <li class="navbar-search-item">
           <button id="siteSearchOpen" class="navbar-icon-button navbar-search-button" type="button" title="Search" aria-haspopup="dialog" aria-controls="siteSearchDialog">
             <span class="navbar-icon-surface" aria-hidden="true">
-              <i class="fas fa-search"></i>
+              <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
             </span>
             <span class="navbar-utility-text" aria-hidden="true">Search</span>
             <span class="sr-only">Search this website</span>
@@ -66,8 +66,8 @@
         <li class="navbar-theme-item">
           <button id="darkModeToggle" class="navbar-icon-button navbar-theme-button toggle" type="button" title="Switch to dark theme" aria-pressed="false">
             <span class="navbar-icon-surface theme-icon" aria-hidden="true">
-              <i class="fas fa-adjust theme-icon-light"></i>
-              <i class="fas fa-adjust theme-icon-dark"></i>
+              <i class="fa-solid fa-circle-half-stroke theme-icon-light" aria-hidden="true"></i>
+              <i class="fa-solid fa-circle-half-stroke theme-icon-dark" aria-hidden="true"></i>
             </span>
             <span id="darkModeToggleText" class="navbar-theme-text" aria-hidden="true">Dark mode</span>
             <span id="darkModeToggleLabel" class="sr-only">Switch to dark theme</span>

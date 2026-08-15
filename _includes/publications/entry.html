@@ -46,7 +46,7 @@
     <span class="publication-entry-actions">
       {%- if publication.links.size > 0 %}{% include publications/links.html links=publication.links %}{% endif -%}
       {%- if citation_record %}
-      <button class="publication-cite-button" type="button" data-citation-open="{{ publication.id }}" aria-haspopup="dialog" aria-controls="publicationCitationDialog" hidden><i class="fas fa-quote-right" aria-hidden="true"></i> Cite</button>
+      <button class="publication-cite-button" type="button" data-citation-open="{{ publication.id }}" aria-haspopup="dialog" aria-controls="publicationCitationDialog" hidden><i class="fa-solid fa-quote-right" aria-hidden="true"></i> Cite</button>
       {%- endif %}
     </span>
   {%- endif %}

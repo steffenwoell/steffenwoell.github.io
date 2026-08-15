@@ -980,7 +980,7 @@ html.dark-mode .home-work-card--featured:focus-within .home-work-cover {
   font-size: 13px;
 }
 
-.home-activity-location .fas {
+.home-activity-location .fa-solid {
   width: 14px;
   color: var(--home-upcoming-accent);
   text-align: center;
@@ -1922,11 +1922,14 @@ html.dark-mode .publication-header-image {
 .publication-entry-link > i:first-child,
 .publication-cite-button > i:first-child {
   width: 16px;
+  padding-left: 0;
   text-align: center;
 }
 
-.publication-entry-link-external {
+.publication-entry-link .publication-entry-link-external {
+  width: 1em;
   margin-left: 1px;
+  padding-left: 0;
   color: var(--home-muted);
   font-size: 10px;
 }
@@ -2518,6 +2521,7 @@ html.dark-mode .activity-header-image {
 .activity-category-body p > a i,
 .activity-entry-actions > a i {
   flex: 0 0 auto;
+  padding-left: 0;
   color: var(--home-muted);
   font-size: 11px;
 }
@@ -2954,6 +2958,11 @@ html.dark-mode .contact-header-image {
 .contact-option-actions > a,
 .contact-action {
   display: inline-flex;
+}
+
+.contact-option-actions i,
+.contact-action i {
+  padding-left: 0;
 }
 
 .contact-option-actions > a:hover,
@@ -5192,7 +5201,7 @@ html.dark-mode .journal-preview:focus-within .journal-image-placeholder {
   content: "·";
 }
 
-.journal-post-meta .far {
+.journal-post-meta .fa-solid {
   margin-right: 7px;
 }
 
@@ -5538,7 +5547,7 @@ html.dark-mode .journal-post-image {
 /* Morph on click */
 .copy-btn.copied i::before {
   content: "\f00c"; /* FA Unicode */
-  font-family: "Font Awesome 5 Free";
+  font-family: var(--fa-family-classic, "Font Awesome 7 Free");
   font-weight: 900;
 }
 
@@ -7602,7 +7611,7 @@ html {
 
 /* --- Animations & Font Awesome --- */
 
-.fa-link, .fa-external-link-alt, .fa-file, .fa-file-pdf, .fa-file-image, .fa-lock-open, .fa-youtube {
+.fa-link, .fa-up-right-from-square, .fa-file, .fa-file-pdf, .fa-file-image, .fa-lock-open, .fa-youtube {
   padding-left: 5px;
 }
 
@@ -7613,8 +7622,6 @@ html {
 .tag-heading {
   padding-right: 10px;
 }
-
-.fab {font-weight: 300;}
 
 /* --- Print --- */
 
