@@ -4185,6 +4185,11 @@ img {
 /* --- Site Search --- */
 
 body.site-search-open {
+  position: fixed;
+  top: var(--site-search-scroll-offset, 0);
+  right: 0;
+  left: 0;
+  width: 100%;
   overflow: hidden;
 }
 
@@ -4407,7 +4412,6 @@ html:has(body.site-search-open) {
   overflow-y: auto;
   overscroll-behavior: contain;
   touch-action: pan-y;
-  -webkit-overflow-scrolling: touch;
 }
 
 .site-search-result {

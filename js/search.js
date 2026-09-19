@@ -151,6 +151,7 @@ document.addEventListener('DOMContentLoaded', function () {
   let activeResult = -1;
   let previouslyFocused = null;
   let closeTimer = null;
+  let lockedScrollY = 0;
   const dialogIsolation = window.createDialogIsolation
     ? window.createDialogIsolation(dialog)
     : null;
@@ -434,11 +435,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (isCurrentPage && destination.hash) {
           event.preventDefault();
-          closeSearch();
-          window.history.pushState(null, '', destination.hash);
-          window.setTimeout(function () {
+          closeSearch(function () {
+            window.history.pushState(null, '', destination.hash);
             revealAcademicTarget(destination.hash);
-          }, 190);
+          });
           return;
         }
         closeSearch();
@@ -452,6 +452,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const openSearch = function () {
     previouslyFocused = document.activeElement;
     window.clearTimeout(closeTimer);
+    lockedScrollY = window.scrollY;
+    document.body.style.setProperty('--site-search-scroll-offset', -lockedScrollY + 'px');
     dialog.hidden = false;
     document.body.classList.add('site-search-open');
 
@@ -475,7 +477,7 @@ document.addEventListener('DOMContentLoaded', function () {
       });
   };
 
-  const closeSearch = function () {
+  const closeSearch = function (afterClose) {
     if (dialog.hidden || !dialog.classList.contains('is-open')) return;
     dialog.classList.remove('is-open');
     input.removeAttribute('aria-activedescendant');
@@ -489,9 +491,14 @@ document.addEventListener('DOMContentLoaded', function () {
       if (panel) panel.removeEventListener('transitionend', handleTransitionEnd);
       dialog.hidden = true;
       document.body.classList.remove('site-search-open');
+      document.body.style.removeProperty('--site-search-scroll-offset');
+      window.scrollTo(0, lockedScrollY);
       if (dialogIsolation) dialogIsolation.disable();
       if (previouslyFocused && typeof previouslyFocused.focus === 'function') {
-        previouslyFocused.focus();
+        previouslyFocused.focus({ preventScroll: true });
+      }
+      if (typeof afterClose === 'function') {
+        window.requestAnimationFrame(afterClose);
       }
     };
 
