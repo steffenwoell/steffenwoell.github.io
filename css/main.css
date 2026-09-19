@@ -4188,6 +4188,11 @@ body.site-search-open {
   overflow: hidden;
 }
 
+html:has(body.site-search-open) {
+  overflow: hidden;
+  overscroll-behavior: none;
+}
+
 .site-search[hidden] {
   display: none;
 }
@@ -4201,6 +4206,8 @@ body.site-search-open {
   justify-content: center;
   padding: 92px 20px 24px;
   opacity: 1;
+  overflow: hidden;
+  overscroll-behavior: none;
 }
 
 .site-search-backdrop {
@@ -4224,6 +4231,8 @@ body.site-search-open {
 
 .site-search-panel {
   position: relative;
+  display: flex;
+  flex-direction: column;
   width: min(680px, 100%);
   max-height: min(700px, calc(100vh - 116px));
   padding: 24px;
@@ -4391,11 +4400,14 @@ body.site-search-open {
 }
 
 .site-search-results {
+  min-height: 0;
   max-height: calc(min(700px, 100vh - 116px) - 190px);
   margin: 0 -8px -8px;
   padding: 2px 8px 8px;
   overflow-y: auto;
   overscroll-behavior: contain;
+  touch-action: pan-y;
+  -webkit-overflow-scrolling: touch;
 }
 
 .site-search-result {
@@ -6941,6 +6953,7 @@ html,
   .site-search-panel {
     width: 100%;
     max-height: calc(100vh - 72px);
+    max-height: calc(100dvh - 72px);
     padding: 18px;
     border-radius: 7px;
   }
@@ -6972,6 +6985,7 @@ html,
 
   .site-search-results {
     max-height: calc(100vh - 250px);
+    max-height: calc(100dvh - 250px);
   }
 
 .journal-page {
