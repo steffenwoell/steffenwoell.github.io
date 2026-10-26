@@ -1,6 +1,7 @@
 {%- assign publication = include.entry -%}
+{%- assign publication_display_title = publication.title | replace: '.”', '”' | replace: '.&quot;', '&quot;' -%}
 <p id="{{ publication.id }}" class="academic-search-target" data-publication-id="{{ publication.id }}">
-  <strong class="hl hl-pub">{{ publication.title }}{% if publication.title_suffix %}{{ publication.title_suffix }}{% elsif publication.volume or publication.preserve_title_punctuation %}{% else %}.{% endif %}</strong>
+  <strong class="hl hl-pub">{{ publication_display_title }}{% if publication.title_suffix %}{{ publication.title_suffix }}{% endif %}</strong>
   {%- unless include.title_only -%}
   {%- if publication.authors.size > 1 and publication.contributors_position != 'after_citation' %} With {% for author in publication.authors offset: 1 %}{% if forloop.index > 1 %}{% if forloop.last %}{% if forloop.length > 2 %}, and {% else %} and {% endif %}{% else %}, {% endif %}{% endif %}{{ author.name }}{% endfor %}.{% endif %}
   {%- if publication.display %}

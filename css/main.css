@@ -998,7 +998,7 @@ html.dark-mode .home-work-card--featured:focus-within .home-work-cover {
   flex-wrap: wrap;
   align-items: center;
   justify-content: flex-start;
-  gap: 8px;
+  gap: 12px;
   margin-top: 16px;
 }
 
@@ -1032,6 +1032,7 @@ html.dark-mode .home-work-card--featured:focus-within .home-work-cover {
 
 .home-activity-link {
   min-height: 34px;
+  align-items: center;
   color: var(--home-muted);
 }
 
