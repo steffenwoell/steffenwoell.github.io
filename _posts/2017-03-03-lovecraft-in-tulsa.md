@@ -1,11 +1,12 @@
 ---
 layout: post
+lang: en
 title: Lovecraft in Tulsa
 subtitle: Tulsa, Oklahoma
 image: /img/tu2.webp
-excerpt: My panel presentation at the Society of Early Americanists 10th Biennial Conference ...
+excerpt: My panel presentation at the Society of Early Americanists 10th Biennial Conference went pretty well, although, in classic Woellian fashion, I put a spoke in my wheel by starting off by quoting a longish Whitman poem ...
 permalink: /journal/:title/
-tags: [H.P. Lovecraft, Tulsa, Oklahoma, USA]
+tags: [Tulsa, Oklahoma, USA]
 ---
 My panel presentation at the [Society of Early Americanists<i class="fa-solid fa-up-right-from-square" role="presentation"></i>](https://www.societyofearlyamericanists.org/) 10th Biennial Conference went pretty well, although, in classic Woellian fashion, I put a spoke in my wheel by starting off by quoting a longish Whitman poem. I guess that baffled some people who were already a little surprised to hear about H.P. Lovecraft in an academic field that cuts its strings at 1800. So if you're interested in how everybody's favorite racialist cosmic horror author connects to Orientalized colonial spaces of contagion and death (and let's be real: who wouldn't be?), what follows is the transcript of my talk. And no, I'm not doing sources or bibliographies or anything like that, this is a blog. Sue me...
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Crush Depth
 subtitle: New Orleans, Louisiana
 image: /img/cru.webp

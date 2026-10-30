@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en, de
 title: Blankenship
 subtitle: Middelburg, The Netherlands
 image: /img/blk.webp

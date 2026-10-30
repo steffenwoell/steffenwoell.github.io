@@ -1,11 +1,12 @@
 ---
 layout: post
+lang: en
 title: "The Free Speech Riots: An Audio-Visual Account"
 subtitle: Berkeley, California
 excerpt: Street fighting broke out after Antifa and Black Bloc protestors ...
 image: /img/rio.webp
 permalink: /journal/:title/
-tags: [Music, Video, Berkeley, California, USA]
+tags: [Berkeley, California, USA, Music, Video]
 ---
 
 {: .box-error}

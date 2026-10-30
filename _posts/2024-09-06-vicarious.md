@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Vicarious
 subtitle: Paris, France
 image: /img/vic.webp

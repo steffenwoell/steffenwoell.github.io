@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: The Swan Asunder
 subtitle: Cairo, Egypt
 image: /img/swa.webp

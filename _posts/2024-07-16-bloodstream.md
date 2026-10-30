@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Bloodstream
 subtitle: Dortmund, Germany
 image: /img/blo.webp

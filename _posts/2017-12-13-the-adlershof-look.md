@@ -1,11 +1,12 @@
 ---
 layout: post
+lang: en
 title: The Adlershof Look
 subtitle: Berlin, Germany
 image: /img/ber.webp
 excerpt: I'm on my way to present yet another H.P. Lovecraft paper ...
 permalink: /journal/:title/
-tags: [H.P. Lovecraft, Berlin, Germany]
+tags: [Berlin, Germany]
 ---
 
 I'm on my way to present yet another H.P. Lovecraft paper, this time at a conference in Thessaloniki, Greece. Planning this trip, however, presented a bit of a problem. The only flight from Berlin was too early (7am) to reach from Leipzig without sleeping at the airport. I'm getting too old for that, so I am doing the next best thing, i.e. sleeping near the airport in world-famous Berlin-Adlershof (in Treptow-Köpenick, literally "eagle's court"). I'm guessing the name has to do with its proximity to the airport, using the eagle as a synonym for a plane; at least that's my entirely unfounded theory. Of course, both the intercity coach as well as the (world-infamous) S-Bahn (double frowning face) were bigly delayed. Still, I had some time to kill before my Airbnb host got home from work later tonight.

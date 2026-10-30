@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: The Rabbit Hole
 subtitle: Paris, France
 image: /img/par.webp

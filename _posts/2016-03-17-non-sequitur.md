@@ -1,11 +1,12 @@
 ---
 layout: post
+lang: en
 title: Non Sequitur
 subtitle: Nothing Follows
 excerpt: All is real but nothing follows ...
 image: /img/nsq.webp
 permalink: /journal/:title/
-tags: [Music, Experimental, Electronic]
+tags: [Music]
 ---
 
 All is real but nothing follows.

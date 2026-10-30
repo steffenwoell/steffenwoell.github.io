@@ -1,9 +1,10 @@
 ---
 layout: post
+lang: en
 title: The Midwest Appears to be Underrated
 subtitle: Tulsa, Oklahoma
 image: /img/tu1.webp
-excerpt: What a great day in Tulsa with Maša and Carl ...
+excerpt: What a great day in Tulsa with Maša and Carl and what an epic way to lose my jet lag ...
 permalink: /journal/:title/
 tags: [Tulsa, Oklahoma, USA]
 ---

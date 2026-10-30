@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Bird of Prey
 subtitle: Udine, Italy
 image: /img/bir.webp

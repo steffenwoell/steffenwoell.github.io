@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Rabbit, Run
 subtitle: A Summer of Lies
 image: /img/rab.webp

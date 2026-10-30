@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: How to Escape a Train
 subtitle: Lisbon, Portugal
 image: /img/lis.webp

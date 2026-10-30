@@ -1,11 +1,12 @@
 ---
 layout: post
+lang: en
 title: Mapping Discourse
 subtitle: In R.H. Dana's "Two Years Before the Mast"
-image: /img/dms.webp
-tags: [Mapping, Literature]
 excerpt: When Richard Henry Dana Jr. visited San Francisco in 1859 after an absence of almost a quarter of a century, he was informed that, unbeknownst to him, he had become a man of considerable fame on the West Coast ...
+image: /img/dms.webp
 permalink: /journal/:title/
+tags: [Essay]
 ---
 
 {: .box-warning}

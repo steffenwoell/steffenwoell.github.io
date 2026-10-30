@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: The Joys of Being Useless
 subtitle: One of Many
 image: /img/joy.webp

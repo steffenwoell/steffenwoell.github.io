@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Big Black Truck
 subtitle: Jersey City, New Jersey
 image: /img/bbt.webp

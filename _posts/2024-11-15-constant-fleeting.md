@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Constant, Fleeting
 subtitle: Baltimore, Maryland
 image: /img/cfl.webp

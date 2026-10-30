@@ -1,11 +1,12 @@
 ---
 layout: post
+lang: en
 title: Discovery
 subtitle: It's Nice to Be in Orbit
 excerpt: Discovery became the third operational orbiter to enter service, preceded by Columbia and Challenger ...
 image: /img/dis.webp
 permalink: /journal/:title/
-tags: [Music, Experimental, Electronic, Discovery, Space]
+tags: [Music]
 ---
 
 *Discovery* became the third operational orbiter to enter service, preceded by *Columbia* and *Challenger*. It embarked on its last mission, STS-133, on February 24, 2011 and touched down for the final time at Kennedy Space Center on March 9, having spent a cumulative total of almost a full year in space. *Discovery* performed both research and International Space Station (ISS) assembly missions, and also carried the Hubble Space Telescope into orbit. [Source<i class="fa-solid fa-up-right-from-square" role="presentation"></i>](https://en.wikipedia.org/wiki/Space_Shuttle_Discovery)

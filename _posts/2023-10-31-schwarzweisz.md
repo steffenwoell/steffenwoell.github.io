@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: schwarzweisz
 subtitle: Frankfurt, Germany
 image: /img/isz.webp

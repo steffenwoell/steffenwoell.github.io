@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: de
+lang: de, en
 title: Weißer Porsche
 subtitle: Leipzig, Germany
 image: /img/por.webp

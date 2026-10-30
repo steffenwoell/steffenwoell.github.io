@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Malabor Front
 subtitle: Eurasia
 image: /img/mal.webp

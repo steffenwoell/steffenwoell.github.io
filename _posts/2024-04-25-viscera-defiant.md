@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Viscera Defiant
 subtitle: Leipzig, Germany
 image: /img/vis.webp

@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Synecdoche
 subtitle: Austin, Texas
 image: /img/syn.webp

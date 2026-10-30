@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Rats of the Capital
 subtitle: Washington, D.C.
 image: /img/rat.webp

@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Kick the Can
 subtitle: New York City, New York
 image: /img/ktc.webp

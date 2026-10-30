@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Wearing My Skin
 subtitle: Montpellier, France
 image: /img/wea.webp

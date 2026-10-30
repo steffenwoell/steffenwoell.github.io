@@ -6,7 +6,7 @@ subtitle: Leipzig, Germany
 image: /img/nie.webp
 excerpt: die stimme der bäume, des bodens, des seins, dort knirschen stämme, ein flüstern im wind, auf blühender flur, die gierig trinkt, in wilden auen die an ihren füßen saugen ...
 permalink: /journal/:title/
-tags: [Niemandsland, Leipzig, Germany]
+tags: [Leipzig, Germany]
 ---
 die stimme der bäume  
 des bodens, des seins  

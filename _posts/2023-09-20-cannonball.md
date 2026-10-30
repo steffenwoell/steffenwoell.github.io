@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Cannonball
 subtitle: Rome, Italy
 image: /img/can.webp

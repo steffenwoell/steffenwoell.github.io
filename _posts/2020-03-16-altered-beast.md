@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Altered Beast
 subtitle: Los Angeles, California
 image: /img/bea.webp

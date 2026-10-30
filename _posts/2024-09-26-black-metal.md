@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Black Metal
 subtitle: Leipzig, Germany
 image: /img/bla.webp

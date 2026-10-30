@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Eaten by Worms
 subtitle: A Vagary
 image: /img/wor.webp

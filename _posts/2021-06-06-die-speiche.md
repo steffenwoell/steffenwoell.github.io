@@ -6,7 +6,7 @@ subtitle: Leipzig, Germany
 image: /img/spe.webp
 excerpt: Streck deine Äste, Kleb deine Sticker, Ich habe den Sommer vergessen ...
 permalink: /journal/:title/
-tags: [Speiche, Leipzig, Germany]
+tags: [Leipzig, Germany]
 ---
 Streck deine Äste  
 Kleb deine Sticker  

@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Sound of Moon
 subtitle: Uppsala, Sweden
 image: /img/sou.webp

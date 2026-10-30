@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Under the Covers
 subtitle: FRA/LEJ
 image: /img/cov.webp

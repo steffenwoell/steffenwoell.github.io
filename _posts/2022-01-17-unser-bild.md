@@ -6,7 +6,7 @@ subtitle: Leipzig, Germany
 image: /img/uns.webp
 excerpt: zwischen den schatten, unter den lampen, kommt es heran, weiße schrift auf schwarzem grund, ein grünes meer und roter schaum ...
 permalink: /journal/:title/
-tags: [Bild, Leipzig, Germany]
+tags: [Leipzig, Germany]
 ---
 zwischen den schatten  
 unter den lampen  

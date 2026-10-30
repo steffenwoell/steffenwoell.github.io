@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Mare Crisium
 subtitle: Turin, Italy
 image: /img/cri.webp

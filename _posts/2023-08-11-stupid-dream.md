@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: Stupid Dream
 subtitle: Among the Sleepers
 image: /img/stu.webp

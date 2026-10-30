@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: The Swan Asunder, Pt. II
 subtitle: Leipzig, Germany
 image: /img/swb.webp
