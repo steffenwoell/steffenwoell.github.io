@@ -134,6 +134,7 @@ include:
 
 # Exclude files from production site
 exclude:
+  - vendor
   - CNAME
   - Gemfile
   - Gemfile.lock
