@@ -36,7 +36,7 @@ configured in `_config.yml`.
 
 ### Requirements
 
-- Ruby 3.0 or newer
+- Ruby version specified in `.ruby-version` (currently 3.4.10)
 - Bundler
 
 Install the dependencies:
@@ -62,6 +62,17 @@ bundle exec jekyll build
 
 The generated site is written to `_site/`, which is excluded from version
 control.
+
+### GitHub Pages deployment
+
+The site uses explicit Jekyll dependencies rather than the `github-pages`
+meta-gem. The Pages workflow validates publications, tests citations, builds
+the site using `.ruby-version` and `Gemfile.lock`, and deploys `_site/`.
+
+After pushing the workflow, select **GitHub Actions** under repository
+**Settings → Pages → Build and deployment → Source**. Run the
+**Build and deploy Pages** workflow manually if necessary. Subsequent pushes
+to `master` automatically build and deploy the website.
 
 ## Features & Accessibility
 
