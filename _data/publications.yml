@@ -12,10 +12,10 @@
 # 9. Validate changes with:
 #    bundle exec ruby scripts/validate_publications.rb
 #    bundle exec jekyll build
-# 10. Update `updated` when publication records are added or corrected.
+# 10. Update `updated` when publication records are added or corrected; format YYYY-MM-DD
 
 schema_version: 1
-updated: 2026-08-15
+updated: 2026-11-10
 
 featured:
   habilitation:
