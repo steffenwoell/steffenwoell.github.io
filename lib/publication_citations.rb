@@ -15,6 +15,9 @@ module PublicationCitations
     end
 
     def generate(entry, style, format: :plain, citation_key: nil)
+      # Display titles may contain emphasis; exports must remain plain text.
+      title_emphasis = entry.fetch("title").scan(/<(?:em|i)\b[^>]*>(.*?)<\/(?:em|i)>/im).flatten
+      entry = entry.merge("title" => plain_title(entry.fetch("title")))
       text = case style
              when "chicago-notes-bibliography" then chicago(entry)
              when "mla-9" then mla(entry)
@@ -24,7 +27,14 @@ module PublicationCitations
              else raise Error, "Unsupported citation style: #{style}"
              end
       return text if format == :plain
-      return html(entry, text, style) if format == :html && style != "bibtex"
+      if format == :html && style != "bibtex"
+        output = html(entry, text, style)
+        title_emphasis.each do |value|
+          escaped = CGI.escapeHTML(plain_title(value))
+          output = output.sub(escaped, "<cite>#{escaped}</cite>")
+        end
+        return output
+      end
 
       raise Error, "Unsupported citation output format: #{format}"
     end
@@ -54,6 +64,10 @@ module PublicationCitations
     end
 
     private
+
+    def plain_title(title)
+      CGI.unescapeHTML(title.gsub(/<\/?(?:em|i|strong|b|span|cite)\b[^>]*>/i, ""))
+    end
 
     def chicago(entry)
       case entry.fetch("schema_type")

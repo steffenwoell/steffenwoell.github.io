@@ -143,13 +143,13 @@
   publication_id: publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast-2
   expected:
     chicago-notes-bibliography: >-
-      Wöll, Steffen. “Mapping Discourse in R.H. Dana’s ‘Two Years Before the Mast’.” Conference Poster, Geisteswissenschaftliches Zentrum der Universität Leipzig, January 28, 2020. https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf.
+      Wöll, Steffen. “Mapping Discourse in R.H. Dana’s Two Years Before the Mast.” Conference Poster, Geisteswissenschaftliches Zentrum der Universität Leipzig, January 28, 2020. https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf.
     mla-9: >-
-      Wöll, Steffen. “Mapping Discourse in R.H. Dana’s ‘Two Years Before the Mast’.” Conference Poster, Geisteswissenschaftliches Zentrum der Universität Leipzig, 28 Jan. 2020. https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf.
+      Wöll, Steffen. “Mapping Discourse in R.H. Dana’s Two Years Before the Mast.” Conference Poster, Geisteswissenschaftliches Zentrum der Universität Leipzig, 28 Jan. 2020. https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf.
     bibtex: |-
       @misc{woell2020mapping,
         author = {Wöll, Steffen},
-        title = {{Mapping Discourse in R.H. Dana’s “Two Years Before the Mast.”}},
+        title = {{Mapping Discourse in R.H. Dana’s Two Years Before the Mast}},
         year = {2020},
         url = {https://steffenwoell.github.io/doc/Discursive-Map2-Conference-Poster-2020-Steffen-Wöll.pdf},
         note = {Conference Poster, Geisteswissenschaftliches Zentrum der Universität Leipzig}

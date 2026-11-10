@@ -612,7 +612,7 @@ entries:
   - id: publication-true-places-never-are-navigating-trans-oceanic-imaginations-in-moby-dick
     category: chapters
     schema_type: Chapter
-    title: "“True Places Never Are”: Navigating (Trans)Oceanic Imaginations in Moby-Dick"
+    title: "“True Places Never Are”: Navigating (Trans)Oceanic Imaginations in <em>Moby-Dick</em>"
     authors:
       - name: Steffen Wöll
     year: 2022
@@ -751,7 +751,9 @@ entries:
     item_reviewed:
       title: "Oceanic Japan: The Archipelago in Pacific and Global History"
       authors:
-        - name: Nadin Heé, Ian J. Miller, and William M. Tsutsui (eds.)
+        - name: Nadin Heé
+        - name: Ian J. Miller
+        - name: William M. Tsutsui
     container:
       title: "Connections. A Journal for Historians and Area Specialists"
     links: []

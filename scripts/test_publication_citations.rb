@@ -91,7 +91,7 @@ eligible.each do |entry|
 
   begin
     csl = JSON.parse(generator.generate(entry, "csl-json"))
-    failures << "#{entry.fetch('id')} / CSL-JSON: missing title" unless csl["title"] == entry["title"]
+    failures << "#{entry.fetch('id')} / CSL-JSON: missing title" unless csl["title"] == generator.send(:plain_title, entry["title"])
     failures << "#{entry.fetch('id')} / CSL-JSON: missing type" if csl["type"].to_s.empty?
     failures << "#{entry.fetch('id')} / CSL-JSON: DOI contains resolver URL" if csl["DOI"].to_s.start_with?("http")
   rescue JSON::ParserError => e
@@ -178,7 +178,7 @@ quality_cases = {
   "in-press BibTeX status" => lambda {
     entry = entries_by_id.fetch("publication-mug-shots-and-passport-photography")
     output = generator.generate(entry, "bibtex")
-    output.include?("year = {2026}") && output.include?("note = {In press}")
+    output.include?("year = {#{entry.fetch('expected_year')}}") && output.include?("note = {In press}")
   },
   "roman page range in BibTeX" => lambda {
     entry = entries_by_id.fetch("publication-american-health")
@@ -324,11 +324,12 @@ quality_cases = {
     generator.generate(entry, "chicago-notes-bibliography").include?("December 9, 2015") &&
       generator.generate(entry, "mla-9").include?("9 Dec. 2015")
   },
-  "poster title uses quotation marks without doubled punctuation" => lambda {
+  "poster title preserves emphasis in formatted citations" => lambda {
     entry = entries_by_id.fetch("publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast-2")
     chicago = generator.generate(entry, "chicago-notes-bibliography")
-    chicago.include?("“Mapping Discourse in R.H. Dana’s ‘Two Years Before the Mast’.”") &&
-      !chicago.include?(".’.”")
+    chicago.include?("“Mapping Discourse in R.H. Dana’s Two Years Before the Mast.”") &&
+      generator.generate(entry, "chicago-notes-bibliography", format: :html).include?("<cite>Two Years Before the Mast</cite>") &&
+      !chicago.include?("<em>")
   },
   "unpublished paper title uses quotation marks" => lambda {
     entry = entries_by_id.fetch("publication-allah-s-own-country-black-nationalism-the-nation-of-islam-and-american-muslim-identities")
