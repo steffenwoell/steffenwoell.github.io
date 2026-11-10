@@ -95,7 +95,14 @@ document.addEventListener('DOMContentLoaded', function () {
       } else if (/^<\/cite>$/i.test(token) && parent !== element) {
         parent = element;
       } else if (token) {
-        parent.appendChild(document.createTextNode(token));
+        // Decode the generator's escaped text without parsing arbitrary HTML.
+        const text = token.replace(/&(amp|lt|gt|quot|apos|#39);/g, function (entity) {
+          return {
+            '&amp;': '&', '&lt;': '<', '&gt;': '>',
+            '&quot;': '"', '&apos;': "'", '&#39;': "'"
+          }[entity];
+        });
+        parent.appendChild(document.createTextNode(text));
       }
     });
   };

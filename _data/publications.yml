@@ -268,7 +268,7 @@ entries:
   - id: publication-voyages-through-literary-space-mapping-globe-and-nation-in-richard-henry-dana-s-two-years-
     category: journals
     schema_type: ScholarlyArticle
-    title: "Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana’s Two Years Before the Mast"
+    title: "Voyages through Literary Space: Mapping Globe and Nation in Richard Henry Dana’s <em>Two Years Before the Mast</em>"
     authors:
       - name: Steffen Wöll
     year: 2020
@@ -332,7 +332,7 @@ entries:
   - id: publication-to-be-murdered-simulations-of-objectivity-subjectivity-and-violence-in-truman-capote-s-in-
     category: journals
     schema_type: ScholarlyArticle
-    title: "“To Be Murdered”: Simulations of Objectivity, Subjectivity, and Violence in Truman Capote’s In Cold Blood"
+    title: "“To Be Murdered”: Simulations of Objectivity, Subjectivity, and Violence in Truman Capote’s <em>In Cold Blood</em>"
     authors:
       - name: Steffen Wöll
     year: 2019
@@ -370,7 +370,7 @@ entries:
   - id: publication-exceptional-spaces-pop-cultural-debris-and-the-spatial-re-construction-of-american-excepti
     category: journals
     schema_type: ScholarlyArticle
-    title: "Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón’s Gravity"
+    title: "Exceptional Spaces: Pop-Cultural Debris and the Spatial (Re)Construction of American Exceptionalism in Alfonso Cuarón’s <em>Gravity</em>"
     authors:
       - name: Steffen Wöll
     year: 2017
@@ -391,7 +391,7 @@ entries:
   - id: publication-feeling-new-york-classless-urban-geographies-and-affective-capitalist-reconciliation-in-ho
     category: journals
     schema_type: ScholarlyArticle
-    title: "Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger’s Ragged Dick"
+    title: "Feeling New York: Classless Urban Geographies and Affective Capitalist Reconciliation in Horatio Alger’s <em>Ragged Dick</em>"
     authors:
       - name: Steffen Wöll
     year: 2017
@@ -471,14 +471,52 @@ entries:
       name: Routledge
     links: []
 
+  - id: publication-global-imaginations-of-u-s-imperialism-1898-1945
+    category: chapters
+    schema_type: Chapter
+    title: "Global Imaginations of U.S. Imperialism, 1898–1945"
+    authors:
+      - name: Steffen Wöll
+    status: forthcoming
+    expected_year: 2027
+    book:
+      title: Handbook U.S. and Globalizations
+      editors:
+        - name: Gabriele Pisarz-Ramirez
+        - name: Frank Schumacher
+        - name: Megan Maruschke
+        - name: Olaf Stieglitz
+        - name: Julius Wilms
+    publisher:
+      name: Vandenhoeck & Ruprecht
+    links:
+      - label: Publisher
+        url: https://www.vandenhoeck-ruprecht-verlage.com/reihe-handbooks-of-globalization-projects
+        access: publisher
+
+  - id: publication-mug-shots-and-passport-photography
+    category: chapters
+    schema_type: Chapter
+    title: Mug Shots and Passport Photography
+    authors:
+      - name: Steffen Wöll
+    status: in_press
+    expected_year: 2027
+    book:
+      title: Encyclopedia of Visual Culture
+      editors: []
+    publisher:
+      name: Bloomsbury
+    links: []
+
   - id: publication-from-fascist-frontiers-to-red-resistance-race-masculinity-and-nation-in-german-westerns-19
     category: chapters
     schema_type: Chapter
     title: "From Fascist Frontiers to Red Resistance: Race, Masculinity, and Nation in German Westerns, 1933–1970s"
     authors:
       - name: Steffen Wöll
-    status: forthcoming
-    expected_year: 2027
+    status: published
+    year: 2026
     book:
       title: The Routledge Companion to Transnational Westerns
       editors:
@@ -491,41 +529,6 @@ entries:
       - label: Publisher
         url: https://www.routledge.com/The-Routledge-Companion-to-Transnational-Westerns/Paryz-Conway-Rio/p/book/9781041108733
         access: publisher
-
-  - id: publication-global-imaginations-of-u-s-imperialism-1898-1945
-    category: chapters
-    schema_type: Chapter
-    title: "Global Imaginations of U.S. Imperialism, 1898–1945"
-    authors:
-      - name: Steffen Wöll
-    status: forthcoming
-    expected_year: 2026
-    book:
-      title: Handbook U.S. and Globalizations
-      editors:
-        - name: Gabriele Pisarz-Ramirez
-        - name: Frank Schumacher
-        - name: Megan Maruschke
-        - name: Olaf Stieglitz
-        - name: Julius Wilms
-    publisher:
-      name: Vandenhoeck & Ruprecht
-    links: []
-
-  - id: publication-mug-shots-and-passport-photography
-    category: chapters
-    schema_type: Chapter
-    title: Mug Shots and Passport Photography
-    authors:
-      - name: Steffen Wöll
-    status: in_press
-    expected_year: 2026
-    book:
-      title: Encyclopedia of Visual Culture
-      editors: []
-    publisher:
-      name: Bloomsbury
-    links: []
 
   - id: publication-visualizing-exploration
     category: chapters
@@ -663,7 +666,7 @@ entries:
   - id: publication-fear-thy-neighbor-paranoia-and-suburban-victim-hood-in-mark-pellington-s-arlington-road
     category: chapters
     schema_type: Chapter
-    title: "“Fear Thy Neighbor”: Paranoia and Suburban Victim-Hood in Mark Pellington’s Arlington Road"
+    title: "“Fear Thy Neighbor”: Paranoia and Suburban Victim-Hood in Mark Pellington’s <em>Arlington Road</em>"
     authors:
       - name: Steffen Wöll
     year: 2019
@@ -737,6 +740,21 @@ entries:
         access: open
 
 ## --- REVIEWS ---
+
+  - id: publication-review-of-oceanic-japan-the-archipelago-in-pacific-and-global-history-by-stefan-huebner-et-al
+    category: reviews
+    schema_type: Review
+    title: "Review of Oceanic Japan: The Archipelago in Pacific and Global History by Stefan Huebner, Nadin Heé, Ian J. Miller, and William M. Tsutsui (eds.)"
+    authors:
+      - name: Steffen Wöll
+    status: forthcoming
+    item_reviewed:
+      title: "Oceanic Japan: The Archipelago in Pacific and Global History"
+      authors:
+        - name: Nadin Heé, Ian J. Miller, and William M. Tsutsui (eds.)
+    container:
+      title: "Connections. A Journal for Historians and Area Specialists"
+    links: []
 
   - id: publication-review-of-colonial-ports-global-trade-and-the-roots-of-the-american-revolution-by-jeremy-l
     category: reviews
@@ -903,7 +921,7 @@ entries:
   - id: publication-discursive-map-an-attempt-at-visualizing-the-transnational-trajectories-of-spatial-imagina
     category: dh
     schema_type: Map
-    title: "Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana’s Two Years Before the Mast (1840)"
+    title: "Discursive Map: An Attempt at Visualizing the Transnational Trajectories of Spatial Imaginations in R.H. Dana’s <em>Two Years Before the Mast</em> (1840)"
     authors:
       - name: Steffen Wöll
     date_created: 2018
@@ -922,7 +940,7 @@ entries:
   - id: publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast-2
     category: posters
     schema_type: CreativeWork
-    title: "Mapping Discourse in R.H. Dana’s “Two Years Before the Mast.”"
+    title: "Mapping Discourse in R.H. Dana’s <em>Two Years Before the Mast</em>"
     preserve_title_punctuation: true
     authors:
       - name: Steffen Wöll
@@ -1031,7 +1049,7 @@ entries:
   - id: publication-mapping-discourse-in-r-h-dana-s-two-years-before-the-mast
     category: media-blogs
     schema_type: BlogPosting
-    title: "Mapping Discourse in R.H. Dana’s “Two Years Before the Mast.”"
+    title: "Mapping Discourse in R.H. Dana’s <em>Two Years Before the Mast</em>"
     preserve_title_punctuation: true
     authors:
       - name: Steffen Wöll
@@ -1159,7 +1177,7 @@ entries:
   - id: publication-still-very-excite-a-retrospective-of-ethnic-humor-political-correctness-and-hate-speech-in
     category: early-work
     schema_type: CreativeWork
-    title: "Still Very Excite: A Retrospective of Ethnic Humor, Political Correctness, and Hate Speech in Sacha Baron Cohen’s Borat"
+    title: "Still Very Excite: A Retrospective of Ethnic Humor, Political Correctness, and Hate Speech in Sacha Baron Cohen’s <em>Borat</em>"
     authors:
       - name: Steffen Wöll
     year: 2014
@@ -1178,7 +1196,7 @@ entries:
   - id: publication-kennedicide-in-the-heartland-of-the-real-conspiracy-coincidence-and-narrative-instability-
     category: early-work
     schema_type: CreativeWork
-    title: "Kennedicide in the “Heartland of the Real”: Conspiracy, Coincidence, and Narrative Instability in Don DeLillo’s Libra"
+    title: "Kennedicide in the “Heartland of the Real”: Conspiracy, Coincidence, and Narrative Instability in Don DeLillo’s <em>Libra</em>"
     authors:
       - name: Steffen Wöll
     year: 2013
